@@ -1,5 +1,10 @@
 # Étude comparative du génome et de l’évolution de Prochlorococcus à partir de données RefSeq et Zhang et al. (2021)
 
+>[!WARNING]
+>En cours d'automatisation...   
+>Les scripts utilisés sont en attente de réappropriation intellectuelle avant publication.   
+>Note pour l'auteur, le fichier correspond au `Atelier_compile.md`.
+
 ## Description
 
 Ce projet présente une **analyse phylogénomique et pan-génomique** du collectif *Prochlorococcus*, un groupe de cyanobactéries marines photosynthétiques particulièrement abondantes dans les océans.
