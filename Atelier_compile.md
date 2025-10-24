@@ -229,7 +229,7 @@ ggplot(aes(y=gc_percent, x=genome_size, color=assembly_level)) +
 dev.off()
 ```
 
->[!INFO]
+>[!NOTE]
 > Nous pouvons observer une tendance linéaire à l'aide de la droite de régression linéaire. Nous pouvons observer une variabilité dans la taille du génome pour un même taux de GC.
 > Nous pouvons également remarquer que le taux de GC ne dépasse pas les 50%.
 
@@ -351,7 +351,7 @@ ggplot(aes(y=Contamination, x=Completeness, col="coral")) +
 dev.off()
 ```
 
->[!INFO]
+>[!NOTE]
 > La qualité des génomes semblent majoritairement correcte à l'exception d'un génome complet avec une forte contamination et quelques génomes qui sont peu contaminés mais incomplets.
 
 ## Comparaison des génomes avec Mash
@@ -554,7 +554,7 @@ git clone https://github.com/JCVenterInstitute/GGRaSP.git
 >Error in library(getopt) : there is no package called ‘getopt’
 >Execution halted
 
->[!INFO]
+>[!NOTE]
 > Lors de l'installation d'un package R, il faut sélectionner le CRAN de France-Lyon (33).
 
 Comme la commande précédente ne fonctionne pas, il faut d'abord installer les packages R manquants :
@@ -1617,7 +1617,7 @@ heatmap(t(as.matrix(data)), scale='none', xlab="Strains", labCol=NA)
 dev.off()
 ```
 
->[!INFO]
+>[!NOTE]
 >Il semble y avoir 4 grosses familles parmis les souches étudiées. Ils sont regroupés par groupes partageant le plus de groupe orthologues. Cela va dépendre de la taille du génome.
 >Il s'agit d'un dendrogramme et non un arbre phylogénétique.
 
