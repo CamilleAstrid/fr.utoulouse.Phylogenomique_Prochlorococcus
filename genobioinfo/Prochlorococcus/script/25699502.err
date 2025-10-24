@@ -1,0 +1,31 @@
+[1;32mFunctional annotation of hits...[0m
+Traceback (most recent call last):
+  File "/usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/EGG-INFO/scripts/emapper.py", line 708, in <module>
+    n, elapsed_time = emapper.run(args, args.input, args.annotate_hits_table, args.cache_file)
+  File "/usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/eggnogmapper/emapper.py", line 354, in run
+    n, elapsed_time = self.run_generator(annotated_hits)
+  File "/usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/eggnogmapper/emapper.py", line 290, in run_generator
+    for item in generator:
+  File "/usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/eggnogmapper/annotation/annotator.py", line 301, in unpack_annotations
+    for (hit, annotation), skip in annots:
+  File "/usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/eggnogmapper/annotation/output.py", line 164, in output_annotations
+    for (hit, annotation), exists in annots:
+  File "/usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/eggnogmapper/annotation/annotator.py", line 243, in _annotate_ondisk
+    pool = multiprocessing.Pool(self.cpu)
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/context.py", line 119, in Pool
+    context=self.get_context())
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/pool.py", line 158, in __init__
+    self._setup_queues()
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/pool.py", line 251, in _setup_queues
+    self._inqueue = self._ctx.SimpleQueue()
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/context.py", line 112, in SimpleQueue
+    return SimpleQueue(ctx=self.get_context())
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/queues.py", line 332, in __init__
+    self._rlock = ctx.Lock()
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/context.py", line 67, in Lock
+    return Lock(ctx=self.get_context())
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/synchronize.py", line 162, in __init__
+    SemLock.__init__(self, SEMAPHORE, 1, 1, ctx=ctx)
+  File "/tools/devel/python/Python-3.7.9/lib/python3.7/multiprocessing/synchronize.py", line 59, in __init__
+    unlink_now)
+OSError: [Errno 28] No space left on device

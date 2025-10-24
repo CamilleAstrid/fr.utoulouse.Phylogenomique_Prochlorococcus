@@ -1,0 +1,57 @@
+
+ - FastME 2.1.6.1 - 
+
+
+Papers to be cited:
+
+FastME 2.0 - A comprehensive, accurate and fast distance-based phylogeny inference program.
+	Vincent Lefort, Richard Desper and Olivier Gascuel,
+	Molecular Biology and Evolution 32(10), 2798-800, 2015.
+BIONJ algorithm:
+	Gascuel O. 1997. BIONJ: an improved version of the NJ algorithm based on a simple model of sequence data.
+	Molecular Biology and Evolution, 14(7):685-695
+
+-------------------------------------------------------------------------------
+Settings for this run:
+
+  I                                      Input data type  Matrix          
+  D                                   Number of datasets  1               
+  M                         Initial tree building method  BIONJ           
+  N                                   NNI postprocessing  NNI_BalME       
+  S                                   SPR postprocessing  yes             
+
+-------------------------------------------------------------------------------
+Dataset 1
+	Two tree searches are performed, with NNIs and SPRs respectively.
+	The resulting tree is the best (shortest) of both.
+
+	Before NNI:     tree length is 1.52605026
+	NNI      1: new tree length is 1.52004980
+	NNI      2: new tree length is 1.51702812
+	NNI      3: new tree length is 1.51353269
+	NNI      4: new tree length is 1.50990677
+	NNI      5: new tree length is 1.50389795
+	NNI      6: new tree length is 1.49568782
+	NNI      7: new tree length is 1.49252754
+	NNI      8: new tree length is 1.49134092
+	NNI      9: new tree length is 1.49098104
+	NNI     10: new tree length is 1.49078413
+	NNI     11: new tree length is 1.49057786
+	NNI     12: new tree length is 1.48994748
+	NNI     13: new tree length is 1.48959702
+	NNI     14: new tree length is 1.48935920
+	NNI     15: new tree length is 1.48922786
+	Performed 15 NNI(s).
+
+	Before SPR:     tree length is 1.52605026
+	SPR      1: new tree length is 1.50444154
+	SPR      2: new tree length is 1.49830968
+	SPR      3: new tree length is 1.49531220
+	SPR      4: new tree length is 1.49246869
+	SPR      5: new tree length is 1.49092224
+	SPR      6: new tree length is 1.48981402
+	SPR      7: new tree length is 1.48957833
+	SPR      8: new tree length is 1.48922786
+	Performed 8 SPR(s).
+
+	Explained variance : 0.99383820

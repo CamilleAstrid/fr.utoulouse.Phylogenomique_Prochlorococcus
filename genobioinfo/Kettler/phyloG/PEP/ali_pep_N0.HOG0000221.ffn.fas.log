@@ -1,0 +1,290 @@
+IQ-TREE multicore version 2.2.2.6 COVID-edition for Linux 64-bit built May 27 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    n020 (AVX2, FMA3, 2015 GB RAM)
+Command: iqtree -s /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas -B 1000 -alrt 1000 -nt 1 -mset WAG,LG,JTT -madd LG4M,LG4X -mrate E,I,G,I+G,R
+Seed:    133089 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Oct  9 18:59:58 2025
+Kernel:  AVX+FMA - 1 threads (1 CPU cores detected)
+
+Reading alignment file /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas ... Fasta format detected
+Reading fasta file: done in 0.000119925 secs using 49.2% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000386 secs using 56.74% CPU
+WARNING: 1 sites contain only gaps or ambiguous characters.
+Alignment has 12 sequences with 346 columns, 223 distinct patterns
+156 parsimony-informative, 48 singleton sites, 142 constant sites
+      Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.50204e-05 secs using 93.21% CPU
+   1  Prai    1.73%    passed     99.99%
+   2  Praa    1.73%    passed     98.66%
+   3  Prah    1.16%    passed     55.71%
+   4  Prat    1.16%    passed     96.61%
+   5  Prak    1.16%    passed     99.99%
+   6  Prbb    1.45%    passed     99.98%
+   7  Prab    1.73%    passed     64.42%
+   8  Praf    1.16%    passed     71.49%
+   9  Praj    1.45%    passed    100.00%
+  10  Prae    1.73%    passed     99.94%
+  11  Prau    6.65%    passed     99.99%
+  12  Prag    0.87%    passed     98.48%
+****  TOTAL    1.83%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 3.29018e-05 secs using 100.3% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 0.0284321 secs using 99.26% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3630.357
+Optimal log-likelihood: -3630.324
+Proportion of invariable sites: 0.194
+Gamma shape alpha: 1.008
+Parameters optimization took 1 rounds (0.012 sec)
+Time for fast ML tree search: 0.068 seconds
+
+NOTE: ModelFinder requires 5 MB RAM!
+ModelFinder will test up to 80 protein models (sample size: 346) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  WAG           3752.532     21  7547.064     7549.916     7627.839
+  2  WAG+I         3663.042     22  7370.083     7373.216     7454.705
+  3  WAG+G4        3642.078     22  7328.156     7331.289     7412.778
+  4  WAG+I+G4      3641.194     23  7328.387     7331.816     7416.855
+  5  WAG+R2        3643.045     23  7332.089     7335.518     7420.557
+  6  WAG+R3        3641.287     25  7332.574     7336.636     7428.735
+ 14  WAG+F         3720.041     40  7520.083     7530.837     7673.941
+ 15  WAG+F+I       3628.324     41  7338.649     7349.978     7496.353
+ 16  WAG+F+G4      3605.749     41  7293.497     7304.826     7451.201
+ 17  WAG+F+I+G4    3604.899     42  7293.798     7305.719     7455.349
+ 18  WAG+F+R2      3606.773     42  7297.545     7309.466     7459.096
+ 19  WAG+F+R3      3605.054     44  7298.108     7311.264     7467.351
+ 27  LG            3764.044     21  7570.089     7572.941     7650.864
+ 28  LG+I          3663.479     22  7370.958     7374.091     7455.579
+ 29  LG+G4         3630.557     22  7305.113     7308.247     7389.735
+ 30  LG+I+G4       3630.314     23  7306.628     7310.057     7395.096
+ 31  LG+R2         3632.929     23  7311.858     7315.287     7400.326
+ 32  LG+R3         3630.295     25  7310.591     7314.653     7406.751
+ 40  LG+F          3741.681     40  7563.361     7574.115     7717.219
+ 41  LG+F+I        3636.486     41  7354.972     7366.301     7512.676
+ 42  LG+F+G4       3603.199     41  7288.398     7299.727     7446.102
+ 43  LG+F+I+G4     3602.701     42  7289.402     7301.323     7450.952
+ 44  LG+F+R2       3605.684     42  7295.368     7307.288     7456.918
+ 45  LG+F+R3       3602.890     44  7293.780     7306.937     7463.024
+ 53  JTT           3794.836     21  7631.671     7634.523     7712.446
+ 54  JTT+I         3688.673     22  7421.346     7424.479     7505.968
+ 55  JTT+G4        3659.113     22  7362.226     7365.359     7446.847
+ 56  JTT+I+G4      3658.615     23  7363.229     7366.658     7451.697
+ 57  JTT+R2        3661.278     23  7368.556     7371.984     7457.024
+ 58  JTT+R3        3658.633     25  7367.266     7371.328     7463.427
+ 66  JTT+F         3764.483     40  7608.966     7619.720     7762.823
+ 67  JTT+F+I       3654.479     41  7390.958     7402.287     7548.662
+ 68  JTT+F+G4      3623.226     41  7328.451     7339.780     7486.155
+ 69  JTT+F+I+G4    3622.609     42  7329.217     7341.138     7490.768
+ 70  JTT+F+R2      3625.591     42  7335.182     7347.103     7496.732
+ 71  JTT+F+R3      3622.769     44  7333.539     7346.695     7502.782
+Model LG4M is alias for MIX{LG4M1,LG4M2,LG4M3,LG4M4}*G4
+ 79  LG4M          3630.037     22  7304.075     7307.208     7388.696
+Model LG4X is alias for MIX{LG4X1,LG4X2,LG4X3,LG4X4}*R4
+ 80  LG4X          3613.245     27  7280.490     7285.245     7384.344
+Akaike Information Criterion:           LG4X
+Corrected Akaike Information Criterion: LG4X
+Bayesian Information Criterion:         LG4X
+Best-fit model: LG4X chosen according to BIC
+
+All model information printed to /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.model.gz
+CPU time for ModelFinder: 1.363 seconds (0h:0m:1s)
+Wall-clock time for ModelFinder: 1.393 seconds (0h:0m:1s)
+Generating 1000 samples for ultrafast bootstrap (seed: 133089)...
+Model LG4X is alias for MIX{LG4X1,LG4X2,LG4X3,LG4X4}*R4
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3613.245
+Optimal log-likelihood: -3613.243
+Site proportion and rates:  (0.287,0.223) (0.288,0.348) (0.274,1.466) (0.151,2.878)
+Parameters optimization took 1 rounds (0.033 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00988412 secs using 99.35% CPU
+Computing ML distances took 0.009949 sec (of wall-clock time) 0.009883 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 3.09944e-05 secs using 100% CPU
+Constructing RapidNJ tree: done in 3.60012e-05 secs using 97.22% CPU
+Computing RapidNJ tree took 0.000104 sec (of wall-clock time) 0.000102 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3629.773
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.100 second
+Computing log-likelihood of 93 initial trees ... 0.361 seconds
+Current best score: -3613.243
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 0.0141511 secs using 99.2% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3613.243
+Optimizing NNI: done in 0.0260451 secs using 99.22% CPU
+Optimizing NNI: done in 0.030462 secs using 99.19% CPU
+Optimizing NNI: done in 0.03053 secs using 99.23% CPU
+Optimizing NNI: done in 0.0364079 secs using 99.22% CPU
+Optimizing NNI: done in 0.030633 secs using 99.25% CPU
+Optimizing NNI: done in 0.036401 secs using 99.2% CPU
+Optimizing NNI: done in 0.024112 secs using 99.23% CPU
+Optimizing NNI: done in 0.0412331 secs using 99.25% CPU
+Optimizing NNI: done in 0.041292 secs using 99.15% CPU
+Iteration 10 / LogL: -3613.253 / Time: 0h:0m:0s
+Optimizing NNI: done in 0.02738 secs using 99.15% CPU
+Optimizing NNI: done in 0.03 secs using 99.29% CPU
+Optimizing NNI: done in 0.0375588 secs using 99.18% CPU
+Optimizing NNI: done in 0.042299 secs using 99.26% CPU
+Optimizing NNI: done in 0.0522258 secs using 99.27% CPU
+Optimizing NNI: done in 0.037226 secs using 99.33% CPU
+Optimizing NNI: done in 0.0419979 secs using 99.31% CPU
+Optimizing NNI: done in 0.0398622 secs using 99.31% CPU
+Optimizing NNI: done in 0.0405641 secs using 99.3% CPU
+Optimizing NNI: done in 0.037483 secs using 99.29% CPU
+Iteration 20 / LogL: -3613.261 / Time: 0h:0m:1s
+Finish initializing candidate tree set (1)
+Current best tree score: -3613.243 / CPU time: 1.219
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 0.028991 secs using 99.27% CPU
+Optimizing NNI: done in 0.0390129 secs using 99.26% CPU
+Optimizing NNI: done in 0.038444 secs using 99.23% CPU
+Optimizing NNI: done in 0.0535951 secs using 98.9% CPU
+Optimizing NNI: done in 0.028825 secs using 99.33% CPU
+Optimizing NNI: done in 0.038275 secs using 99.33% CPU
+Optimizing NNI: done in 0.066613 secs using 99.3% CPU
+Optimizing NNI: done in 0.0537879 secs using 97.54% CPU
+Optimizing NNI: done in 0.042275 secs using 99.3% CPU
+Optimizing NNI: done in 0.030618 secs using 99.3% CPU
+Iteration 30 / LogL: -3619.312 / Time: 0h:0m:1s (0h:0m:4s left)
+Optimizing NNI: done in 0.060461 secs using 99.31% CPU
+Optimizing NNI: done in 0.0586801 secs using 99.3% CPU
+Optimizing NNI: done in 0.027307 secs using 99.15% CPU
+Optimizing NNI: done in 0.057657 secs using 99.28% CPU
+Optimizing NNI: done in 0.0538299 secs using 97.44% CPU
+Optimizing NNI: done in 0.0591631 secs using 99.32% CPU
+Optimizing NNI: done in 0.0437191 secs using 99.31% CPU
+Optimizing NNI: done in 0.030416 secs using 99.32% CPU
+Optimizing NNI: done in 0.058188 secs using 99.32% CPU
+Optimizing NNI: done in 0.0558732 secs using 99.31% CPU
+Iteration 40 / LogL: -3619.424 / Time: 0h:0m:2s (0h:0m:3s left)
+Optimizing NNI: done in 0.0266042 secs using 99.32% CPU
+Optimizing NNI: done in 0.041126 secs using 99.27% CPU
+Optimizing NNI: done in 0.042321 secs using 99.26% CPU
+Optimizing NNI: done in 0.0438731 secs using 98.97% CPU
+Optimizing NNI: done in 0.0381131 secs using 99.21% CPU
+Optimizing NNI: done in 0.0394549 secs using 99.28% CPU
+Optimizing NNI: done in 0.0457709 secs using 99.28% CPU
+Optimizing NNI: done in 0.0266161 secs using 99.26% CPU
+Optimizing NNI: done in 0.0514588 secs using 97.33% CPU
+Optimizing NNI: done in 0.0424778 secs using 99.31% CPU
+Iteration 50 / LogL: -3614.437 / Time: 0h:0m:2s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -3632.161
+Optimizing NNI: done in 0.0414729 secs using 96.8% CPU
+Optimizing NNI: done in 0.0551271 secs using 99.25% CPU
+Optimizing NNI: done in 0.0483129 secs using 99.21% CPU
+Optimizing NNI: done in 0.064394 secs using 99.26% CPU
+Optimizing NNI: done in 0.0293741 secs using 99.17% CPU
+Optimizing NNI: done in 0.045553 secs using 99.28% CPU
+Optimizing NNI: done in 0.0505149 secs using 99.27% CPU
+Optimizing NNI: done in 0.029206 secs using 99.28% CPU
+Optimizing NNI: done in 0.0422089 secs using 99.3% CPU
+Optimizing NNI: done in 0.038553 secs using 99.28% CPU
+Iteration 60 / LogL: -3613.254 / Time: 0h:0m:3s (0h:0m:2s left)
+Optimizing NNI: done in 0.0401239 secs using 99.23% CPU
+Optimizing NNI: done in 0.0385559 secs using 99.27% CPU
+Optimizing NNI: done in 0.0640881 secs using 99.29% CPU
+Optimizing NNI: done in 0.0510399 secs using 99.25% CPU
+Optimizing NNI: done in 0.0297771 secs using 98.64% CPU
+Optimizing NNI: done in 0.0581222 secs using 99.25% CPU
+Optimizing NNI: done in 0.044831 secs using 99.23% CPU
+Optimizing NNI: done in 0.048795 secs using 99.23% CPU
+Optimizing NNI: done in 0.0408921 secs using 99.22% CPU
+Optimizing NNI: done in 0.069706 secs using 99.28% CPU
+Iteration 70 / LogL: -3614.520 / Time: 0h:0m:3s (0h:0m:1s left)
+Optimizing NNI: done in 0.037231 secs using 99.26% CPU
+Optimizing NNI: done in 0.055603 secs using 99.24% CPU
+Optimizing NNI: done in 0.0361919 secs using 99.23% CPU
+Optimizing NNI: done in 0.0273008 secs using 91.48% CPU
+Optimizing NNI: done in 0.0380239 secs using 99.16% CPU
+Optimizing NNI: done in 0.0505252 secs using 96.24% CPU
+Optimizing NNI: done in 0.0402 secs using 99.22% CPU
+Optimizing NNI: done in 0.0723989 secs using 99.22% CPU
+Optimizing NNI: done in 0.057888 secs using 99.26% CPU
+Optimizing NNI: done in 0.0611639 secs using 99.24% CPU
+Iteration 80 / LogL: -3613.268 / Time: 0h:0m:4s (0h:0m:1s left)
+Optimizing NNI: done in 0.053823 secs using 99.27% CPU
+Optimizing NNI: done in 0.0447021 secs using 99.22% CPU
+Optimizing NNI: done in 0.050164 secs using 99.21% CPU
+Optimizing NNI: done in 0.0391891 secs using 99.19% CPU
+Optimizing NNI: done in 0.0547979 secs using 98.97% CPU
+Optimizing NNI: done in 0.0720921 secs using 99.23% CPU
+Optimizing NNI: done in 0.0406091 secs using 99.27% CPU
+Optimizing NNI: done in 0.0602889 secs using 99.29% CPU
+Optimizing NNI: done in 0.029686 secs using 99.3% CPU
+Optimizing NNI: done in 0.029711 secs using 99.24% CPU
+Iteration 90 / LogL: -3613.246 / Time: 0h:0m:4s (0h:0m:0s left)
+Optimizing NNI: done in 0.0399139 secs using 99.21% CPU
+Optimizing NNI: done in 0.056973 secs using 99.24% CPU
+Optimizing NNI: done in 0.0387089 secs using 99.12% CPU
+Optimizing NNI: done in 0.0567262 secs using 99.17% CPU
+Optimizing NNI: done in 0.084914 secs using 99.19% CPU
+Optimizing NNI: done in 0.0462139 secs using 99.26% CPU
+Optimizing NNI: done in 0.0447309 secs using 99.25% CPU
+Optimizing NNI: done in 0.0456419 secs using 99.24% CPU
+Optimizing NNI: done in 0.0695219 secs using 99.26% CPU
+Optimizing NNI: done in 0.0562 secs using 99.27% CPU
+Iteration 100 / LogL: -3613.285 / Time: 0h:0m:5s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3632.161
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Optimizing NNI: done in 0.043395 secs using 99.3% CPU
+Optimizing NNI: done in 0.0403762 secs using 98.99% CPU
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:5s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3613.243
+Optimal log-likelihood: -3613.242
+Site proportion and rates:  (0.287,0.223) (0.288,0.347) (0.275,1.467) (0.150,2.882)
+Parameters optimization took 1 rounds (0.019 sec)
+BEST SCORE FOUND : -3613.242
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.079 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.splits.nex
+Total tree length: 2.309
+
+Total number of iterations: 102
+CPU time used for tree search: 5.236 sec (0h:0m:5s)
+Wall-clock time used for tree search: 5.372 sec (0h:0m:5s)
+Total CPU time used: 5.424 sec (0h:0m:5s)
+Total wall-clock time used: 5.582 sec (0h:0m:5s)
+
+Computing bootstrap consensus tree...
+Reading input file /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.splits.nex...
+12 taxa and 59 splits.
+Consensus tree written to /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.contree
+Reading input trees file /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.contree
+Log-likelihood of consensus tree: -3613.243
+
+Analysis results written to: 
+  IQ-TREE report:                /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.iqtree
+  Maximum-likelihood tree:       /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.treefile
+  Likelihood distances:          /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.splits.nex
+  Consensus tree:                /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.contree
+  Screen log file:               /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas.log
+
+Date and Time: Thu Oct  9 19:00:05 2025

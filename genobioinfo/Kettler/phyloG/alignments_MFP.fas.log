@@ -1,0 +1,11 @@
+IQ-TREE multicore version 2.2.2.6 COVID-edition for Linux 64-bit built May 27 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    n017 (AVX2, FMA3, 2015 GB RAM)
+Command: iqtree -s /home/fmt073/work/Kettler/phyloG/alignments_MFP.fas -redo -bb 1000 -alrt 1000 -st CODON -nt AUTO -m MFP
+Seed:    432154 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 21 15:14:58 2025
+Kernel:  AVX+FMA - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /home/fmt073/work/Kettler/phyloG/alignments_MFP.fas ... ERROR: File not found /home/fmt073/work/Kettler/phyloG/alignments_MFP.fas

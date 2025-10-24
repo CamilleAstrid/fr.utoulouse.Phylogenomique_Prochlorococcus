@@ -1,0 +1,3 @@
+#  emapper-2.1.13
+# emapper.py  -i /home/fmt073/work/Zhang/Prokka/Prat/Prat.faa --cpu 4 --output /home/fmt073/work/Zhang/EggNOG/Prat -m diamond
+[1;33m  /usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/lib/python3.7/site-packages/eggnog_mapper-2.1.13-py3.7.egg/eggnogmapper/bin/diamond blastp -d '/work/bank2/eggnog-mapper/eggnog-mapper-2.1.13/data/eggnog_proteins.dmnd' -q '/work/user/fmt073/Zhang/Prokka/Prat/Prat.faa' --threads 4 -o '/home/fmt073/work/Zhang/EggNOG/Prat.emapper.hits' --tmpdir '/work/user/fmt073/Prochlorococcus/script/emappertmp_dmdn_s4zds_tx' --sensitive --iterate -e 0.001 --top 3  --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp scovhsp[0m

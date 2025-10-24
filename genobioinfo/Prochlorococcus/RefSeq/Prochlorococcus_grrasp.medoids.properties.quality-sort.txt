@@ -1,0 +1,19 @@
+Table: Table 2 : Propriétés des médoïdes filtrés en fonction de leur qualité de séquençage
+
+|Medoid        |infraspecific_name     |assembly_level  | scaffold_count|
+|:-------------|:----------------------|:---------------|--------------:|
+|F_047304785.1 |strain=MIT 1327        |Complete Genome |              1|
+|F_000760215.1 |strain=MIT 0603        |Contig          |              7|
+|F_000760175.1 |strain=MIT 0601        |Contig          |              6|
+|F_000011465.1 |strain=MED4            |Complete Genome |              1|
+|F_003208055.1 |strain=XMU1408         |Contig          |              7|
+|F_027359415.1 |strain=MIT 0918        |Complete Genome |              1|
+|F_000015665.1 |strain=MIT 9515        |Complete Genome |              1|
+|F_034092465.1 |strain=MIT 1223        |Complete Genome |              1|
+|F_000007925.1 |strain=CCMP1375; SS120 |Complete Genome |              1|
+|F_902521235.1 |na                     |Contig          |             40|
+|F_000760235.1 |strain=PAC1            |Contig          |             20|
+|F_000018585.1 |strain=MIT 9211        |Chromosome      |              1|
+|F_034092375.1 |strain=MIT 1300        |Complete Genome |              1|
+|F_034092395.1 |strain=MIT 1307        |Complete Genome |              1|
+|F_034092415.1 |strain=MIT 1341        |Complete Genome |              1|

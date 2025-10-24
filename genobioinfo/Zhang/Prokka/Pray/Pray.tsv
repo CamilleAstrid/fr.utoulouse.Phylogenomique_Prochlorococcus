@@ -1,0 +1,3887 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Pray.g_00001	gene	798				
+Pray.g_00001	CDS	798				hypothetical protein
+Pray.g_00002	gene	387				
+Pray.g_00002	CDS	387				hypothetical protein
+Pray.g_00003	gene	108				
+Pray.g_00003	CDS	108				hypothetical protein
+Pray.g_00004	gene	73				
+Pray.g_00004	tRNA	73				tRNA-Lys(ttt)
+Pray.g_00005	gene	117	psbY			
+Pray.g_00005	CDS	117	psbY			Photosystem II protein Y
+Pray.g_00006	gene	1404	trmFO			
+Pray.g_00006	CDS	1404	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+Pray.g_00007	gene	1545	crtI_1			
+Pray.g_00007	CDS	1545	crtI_1	1.3.99.31	COG1233	Phytoene desaturase (lycopene-forming)
+Pray.g_00008	gene	507				
+Pray.g_00008	CDS	507				hypothetical protein
+Pray.g_00009	gene	738	phoB			
+Pray.g_00009	CDS	738	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+Pray.g_00010	gene	270				
+Pray.g_00010	CDS	270				hypothetical protein
+Pray.g_00011	gene	324	grxD			
+Pray.g_00011	CDS	324	grxD		COG0278	Glutaredoxin 4
+Pray.g_00012	gene	294				
+Pray.g_00012	CDS	294				hypothetical protein
+Pray.g_00013	gene	519				
+Pray.g_00013	CDS	519				hypothetical protein
+Pray.g_00014	gene	675				
+Pray.g_00014	CDS	675				hypothetical protein
+Pray.g_00015	gene	717	pdxJ			
+Pray.g_00015	CDS	717	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Pray.g_00016	gene	318				
+Pray.g_00016	CDS	318				Ycf54-like protein
+Pray.g_00017	gene	3180	recC			
+Pray.g_00017	CDS	3180	recC	3.1.11.5		RecBCD enzyme subunit RecC
+Pray.g_00018	gene	474				
+Pray.g_00018	CDS	474				hypothetical protein
+Pray.g_00019	gene	3630	recB			
+Pray.g_00019	CDS	3630	recB	3.1.11.5		RecBCD enzyme subunit RecB
+Pray.g_00020	gene	1704	recD			
+Pray.g_00020	CDS	1704	recD	3.1.11.5		RecBCD enzyme subunit RecD
+Pray.g_00021	gene	1782	deaD			
+Pray.g_00021	CDS	1782	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Pray.g_00022	gene	294				
+Pray.g_00022	CDS	294				hypothetical protein
+Pray.g_00023	gene	1773	msbA			
+Pray.g_00023	CDS	1773	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+Pray.g_00024	gene	558				
+Pray.g_00024	CDS	558				hypothetical protein
+Pray.g_00025	gene	606	recR			
+Pray.g_00025	CDS	606	recR		COG0353	Recombination protein RecR
+Pray.g_00026	gene	900	lipA2			
+Pray.g_00026	CDS	900	lipA2	2.8.1.8	COG0320	Lipoyl synthase 2
+Pray.g_00027	gene	501				
+Pray.g_00027	CDS	501				hypothetical protein
+Pray.g_00028	gene	933				
+Pray.g_00028	CDS	933				hypothetical protein
+Pray.g_00029	gene	1008	bioB			
+Pray.g_00029	CDS	1008	bioB	2.8.1.6	COG0502	Biotin synthase
+Pray.g_00030	gene	804	uppS			
+Pray.g_00030	CDS	804	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+Pray.g_00031	gene	909	dacA			
+Pray.g_00031	CDS	909	dacA	2.7.7.85		Diadenylate cyclase
+Pray.g_00032	gene	1368	lysA			
+Pray.g_00032	CDS	1368	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+Pray.g_00033	gene	441	rimI			
+Pray.g_00033	CDS	441	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+Pray.g_00034	gene	2529	clpC			
+Pray.g_00034	CDS	2529	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+Pray.g_00035	gene	1092	gldA			
+Pray.g_00035	CDS	1092	gldA	1.1.1.6	COG0371	Glycerol dehydrogenase
+Pray.g_00036	gene	900	menH_1			
+Pray.g_00036	CDS	900	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Pray.g_00037	gene	858				
+Pray.g_00037	CDS	858				hypothetical protein
+Pray.g_00038	gene	1392	speA_1			
+Pray.g_00038	CDS	1392	speA_1	4.1.1.19	COG1982	Arginine decarboxylase
+Pray.g_00039	gene	1659	ubiB_1			
+Pray.g_00039	CDS	1659	ubiB_1	2.7.-.-		protein kinase UbiB
+Pray.g_00040	gene	486				
+Pray.g_00040	CDS	486				hypothetical protein
+Pray.g_00041	gene	1521	malQ			
+Pray.g_00041	CDS	1521	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+Pray.g_00042	gene	996	prs			
+Pray.g_00042	CDS	996	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Pray.g_00043	gene	441				
+Pray.g_00043	CDS	441				hypothetical protein
+Pray.g_00044	gene	543				
+Pray.g_00044	CDS	543				hypothetical protein
+Pray.g_00045	gene	1131	sasA_1			
+Pray.g_00045	CDS	1131	sasA_1	2.7.13.3		Adaptive-response sensory-kinase SasA
+Pray.g_00046	gene	75				
+Pray.g_00046	tRNA	75				tRNA-Glu(ttc)
+Pray.g_00047	gene	543				
+Pray.g_00047	CDS	543				hypothetical protein
+Pray.g_00048	gene	1173	petH			
+Pray.g_00048	CDS	1173	petH	1.18.1.2		Ferredoxin--NADP reductase
+Pray.g_00049	gene	1524	zwf			
+Pray.g_00049	CDS	1524	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+Pray.g_00050	gene	1302				
+Pray.g_00050	CDS	1302				hypothetical protein
+Pray.g_00051	gene	1380	cbiA			
+Pray.g_00051	CDS	1380	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+Pray.g_00052	gene	480				
+Pray.g_00052	CDS	480				hypothetical protein
+Pray.g_00053	gene	903				
+Pray.g_00053	CDS	903		2.5.1.10		Farnesyl diphosphate synthase
+Pray.g_00054	gene	897	folD			
+Pray.g_00054	CDS	897	folD			Bifunctional protein FolD protein
+Pray.g_00055	gene	1473				
+Pray.g_00055	CDS	1473				hypothetical protein
+Pray.g_00056	gene	393				
+Pray.g_00056	CDS	393				hypothetical protein
+Pray.g_00057	gene	1641	leuA			
+Pray.g_00057	CDS	1641	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+Pray.g_00058	gene	1584				
+Pray.g_00058	CDS	1584		2.4.1.18	COG1543	1,4-alpha-glucan branching enzyme
+Pray.g_00059	gene	1212	crtL_1			
+Pray.g_00059	CDS	1212	crtL_1	5.5.1.19		Lycopene beta cyclase
+Pray.g_00060	gene	2598	gyrA_1			
+Pray.g_00060	CDS	2598	gyrA_1	5.6.2.2	COG0188	DNA gyrase subunit A
+Pray.g_00061	gene	150				
+Pray.g_00061	CDS	150				hypothetical protein
+Pray.g_00062	gene	1164				
+Pray.g_00062	CDS	1164		1.-.-.-	COG0516	putative oxidoreductase/MSMEI_1564
+Pray.g_00063	gene	324	trxA			
+Pray.g_00063	CDS	324	trxA			Thioredoxin 1
+Pray.g_00064	gene	618	hisH			
+Pray.g_00064	CDS	618	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+Pray.g_00065	gene	600	rsmD			
+Pray.g_00065	CDS	600	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Pray.g_00066	gene	120	petG			
+Pray.g_00066	CDS	120	petG			Cytochrome b6-f complex subunit 5
+Pray.g_00067	gene	387				
+Pray.g_00067	CDS	387				hypothetical protein
+Pray.g_00068	gene	747				
+Pray.g_00068	CDS	747		2.1.1.-	COG0565	putative tRNA/rRNA methyltransferase
+Pray.g_00069	gene	1089	bchI			
+Pray.g_00069	CDS	1089	bchI	6.6.1.1	COG1239	Magnesium-chelatase 38 kDa subunit
+Pray.g_00070	gene	474	ruvC			
+Pray.g_00070	CDS	474	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Pray.g_00071	gene	558				
+Pray.g_00071	CDS	558		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+Pray.g_00072	gene	420	sufE			
+Pray.g_00072	CDS	420	sufE		COG2166	Cysteine desulfuration protein SufE
+Pray.g_00073	gene	1302	hom			
+Pray.g_00073	CDS	1302	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+Pray.g_00074	gene	294				
+Pray.g_00074	CDS	294				hypothetical protein
+Pray.g_00075	gene	1572				
+Pray.g_00075	CDS	1572				hypothetical protein
+Pray.g_00076	gene	1023	dppB			
+Pray.g_00076	CDS	1023	dppB		COG0601	Dipeptide transport system permease protein DppB
+Pray.g_00077	gene	1551				
+Pray.g_00077	CDS	1551				hypothetical protein
+Pray.g_00078	gene	1230				
+Pray.g_00078	CDS	1230				hypothetical protein
+Pray.g_00079	gene	372				
+Pray.g_00079	CDS	372				hypothetical protein
+Pray.g_00080	gene	870	RBKS			
+Pray.g_00080	CDS	870	RBKS	2.7.1.15		Ribokinase
+Pray.g_00081	gene	192				
+Pray.g_00081	CDS	192				hypothetical protein
+Pray.g_00082	gene	354				
+Pray.g_00082	CDS	354				hypothetical protein
+Pray.g_00083	gene	519				
+Pray.g_00083	CDS	519				Pentapeptide repeat protein Rfr32
+Pray.g_00084	gene	522				
+Pray.g_00084	CDS	522				hypothetical protein
+Pray.g_00085	gene	858				
+Pray.g_00085	CDS	858				hypothetical protein
+Pray.g_00086	gene	942				
+Pray.g_00086	CDS	942				hypothetical protein
+Pray.g_00087	gene	1443				
+Pray.g_00087	CDS	1443			COG2308	putative protein
+Pray.g_00088	gene	237				
+Pray.g_00088	CDS	237				hypothetical protein
+Pray.g_00089	gene	222				
+Pray.g_00089	CDS	222				hypothetical protein
+Pray.g_00090	gene	276				
+Pray.g_00090	CDS	276				hypothetical protein
+Pray.g_00091	gene	156				
+Pray.g_00091	CDS	156				hypothetical protein
+Pray.g_00092	gene	1074				
+Pray.g_00092	CDS	1074				hypothetical protein
+Pray.g_00093	gene	1350				
+Pray.g_00093	CDS	1350				hypothetical protein
+Pray.g_00094	gene	1506				
+Pray.g_00094	CDS	1506				hypothetical protein
+Pray.g_00095	gene	771	mntB_1			
+Pray.g_00095	CDS	771	mntB_1		COG1121	Manganese transport system ATP-binding protein MntB
+Pray.g_00096	gene	435				
+Pray.g_00096	CDS	435				hypothetical protein
+Pray.g_00097	gene	786	mntB_2			
+Pray.g_00097	CDS	786	mntB_2			Manganese transport system membrane protein MntB
+Pray.g_00098	gene	147				
+Pray.g_00098	CDS	147				hypothetical protein
+Pray.g_00099	gene	249				
+Pray.g_00099	CDS	249				hypothetical protein
+Pray.g_00100	gene	177				
+Pray.g_00100	CDS	177				hypothetical protein
+Pray.g_00101	gene	384				
+Pray.g_00101	CDS	384				hypothetical protein
+Pray.g_00102	gene	261				
+Pray.g_00102	CDS	261				hypothetical protein
+Pray.g_00103	gene	111				
+Pray.g_00103	CDS	111				hypothetical protein
+Pray.g_00104	gene	408				
+Pray.g_00104	CDS	408				hypothetical protein
+Pray.g_00105	gene	243				
+Pray.g_00105	CDS	243				hypothetical protein
+Pray.g_00106	gene	102				
+Pray.g_00106	CDS	102				hypothetical protein
+Pray.g_00107	gene	207				
+Pray.g_00107	CDS	207				hypothetical protein
+Pray.g_00108	gene	375				
+Pray.g_00108	CDS	375				hypothetical protein
+Pray.g_00109	gene	162				
+Pray.g_00109	CDS	162				hypothetical protein
+Pray.g_00110	gene	315				
+Pray.g_00110	CDS	315				hypothetical protein
+Pray.g_00111	gene	771				
+Pray.g_00111	CDS	771				hypothetical protein
+Pray.g_00112	gene	183				
+Pray.g_00112	CDS	183				hypothetical protein
+Pray.g_00113	gene	108				
+Pray.g_00113	CDS	108				hypothetical protein
+Pray.g_00114	gene	180				
+Pray.g_00114	CDS	180				hypothetical protein
+Pray.g_00115	gene	186				
+Pray.g_00115	CDS	186				hypothetical protein
+Pray.g_00116	gene	303				
+Pray.g_00116	CDS	303				hypothetical protein
+Pray.g_00117	gene	153				
+Pray.g_00117	CDS	153				hypothetical protein
+Pray.g_00118	gene	180				
+Pray.g_00118	CDS	180				hypothetical protein
+Pray.g_00119	gene	180				
+Pray.g_00119	CDS	180				hypothetical protein
+Pray.g_00120	gene	285				
+Pray.g_00120	CDS	285				hypothetical protein
+Pray.g_00121	gene	543				
+Pray.g_00121	CDS	543				hypothetical protein
+Pray.g_00122	gene	294				
+Pray.g_00122	CDS	294				hypothetical protein
+Pray.g_00123	gene	126				
+Pray.g_00123	CDS	126				hypothetical protein
+Pray.g_00124	gene	405				
+Pray.g_00124	CDS	405				hypothetical protein
+Pray.g_00125	gene	870				
+Pray.g_00125	CDS	870				hypothetical protein
+Pray.g_00126	gene	252				
+Pray.g_00126	CDS	252				hypothetical protein
+Pray.g_00127	gene	231				
+Pray.g_00127	CDS	231				hypothetical protein
+Pray.g_00128	gene	420				
+Pray.g_00128	CDS	420		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+Pray.g_00129	gene	231				
+Pray.g_00129	CDS	231				hypothetical protein
+Pray.g_00130	gene	237				
+Pray.g_00130	CDS	237				hypothetical protein
+Pray.g_00131	gene	165				
+Pray.g_00131	CDS	165				hypothetical protein
+Pray.g_00132	gene	258				
+Pray.g_00132	CDS	258				hypothetical protein
+Pray.g_00133	gene	1008	dusB			
+Pray.g_00133	CDS	1008	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+Pray.g_00134	gene	393				
+Pray.g_00134	CDS	393				hypothetical protein
+Pray.g_00135	gene	468				
+Pray.g_00135	CDS	468				hypothetical protein
+Pray.g_00136	gene	1008	fabH			
+Pray.g_00136	CDS	1008	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Pray.g_00137	gene	1419	plsX			
+Pray.g_00137	CDS	1419	plsX	2.3.1.274		Phosphate acyltransferase
+Pray.g_00138	gene	747	walR			
+Pray.g_00138	CDS	747	walR		COG0745	Transcriptional regulatory protein WalR
+Pray.g_00139	gene	1362	radA			
+Pray.g_00139	CDS	1362	radA	3.6.4.-	COG1066	DNA repair protein RadA
+Pray.g_00140	gene	522	ycf3			
+Pray.g_00140	CDS	522	ycf3			Photosystem I assembly protein Ycf3
+Pray.g_00141	gene	2295	copA			
+Pray.g_00141	CDS	2295	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+Pray.g_00142	gene	639	tmk			
+Pray.g_00142	CDS	639	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Pray.g_00143	gene	963				
+Pray.g_00143	CDS	963				hypothetical protein
+Pray.g_00144	gene	783	phoP			
+Pray.g_00144	CDS	783	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Pray.g_00145	gene	360				
+Pray.g_00145	CDS	360				hypothetical protein
+Pray.g_00146	gene	74				
+Pray.g_00146	tRNA	74				tRNA-Asn(gtt)
+Pray.g_00147	gene	675	ecfA1			
+Pray.g_00147	CDS	675	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+Pray.g_00148	gene	267				
+Pray.g_00148	CDS	267				hypothetical protein
+Pray.g_00149	gene	969	cysK1			
+Pray.g_00149	CDS	969	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+Pray.g_00150	gene	678	dnaJ_1			
+Pray.g_00150	CDS	678	dnaJ_1			Chaperone protein DnaJ
+Pray.g_00151	gene	237	ndhO			
+Pray.g_00151	CDS	237	ndhO	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit O
+Pray.g_00152	gene	948				
+Pray.g_00152	CDS	948			COG1090	Epimerase family protein
+Pray.g_00153	gene	270				
+Pray.g_00153	CDS	270				hypothetical protein
+Pray.g_00154	gene	1203				
+Pray.g_00154	CDS	1203				hypothetical protein
+Pray.g_00155	gene	429				
+Pray.g_00155	CDS	429				hypothetical protein
+Pray.g_00156	gene	393	iscA			
+Pray.g_00156	CDS	393	iscA		COG0316	Iron-binding protein IscA
+Pray.g_00157	gene	1455	pds_1			
+Pray.g_00157	CDS	1455	pds_1	1.3.5.5	COG3349	15-cis-phytoene desaturase
+Pray.g_00158	gene	471				
+Pray.g_00158	CDS	471				hypothetical protein
+Pray.g_00159	gene	798				
+Pray.g_00159	CDS	798				hypothetical protein
+Pray.g_00160	gene	393	rbfA			
+Pray.g_00160	CDS	393	rbfA		COG0858	30S ribosome-binding factor
+Pray.g_00161	gene	219				
+Pray.g_00161	CDS	219				hypothetical protein
+Pray.g_00162	gene	726				
+Pray.g_00162	CDS	726				hypothetical protein
+Pray.g_00163	gene	708				
+Pray.g_00163	CDS	708				hypothetical protein
+Pray.g_00164	gene	258				
+Pray.g_00164	CDS	258				hypothetical protein
+Pray.g_00165	gene	558	aroK			
+Pray.g_00165	CDS	558	aroK	2.7.1.71		Shikimate kinase
+Pray.g_00166	gene	927				
+Pray.g_00166	CDS	927				hypothetical protein
+Pray.g_00167	gene	651				
+Pray.g_00167	CDS	651				hypothetical protein
+Pray.g_00168	gene	1155				
+Pray.g_00168	CDS	1155				hypothetical protein
+Pray.g_00169	gene	387				
+Pray.g_00169	CDS	387				hypothetical protein
+Pray.g_00170	gene	93				
+Pray.g_00170	CDS	93				hypothetical protein
+Pray.g_00171	gene	1365	rimO			
+Pray.g_00171	CDS	1365	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+Pray.g_00172	gene	936				
+Pray.g_00172	CDS	936		1.17.4.-	COG4243	Vitamin K epoxide reductase 
+Pray.g_00173	gene	1668	nadB			
+Pray.g_00173	CDS	1668	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Pray.g_00174	gene	774				
+Pray.g_00174	CDS	774				hypothetical protein
+Pray.g_00175	gene	1380				
+Pray.g_00175	CDS	1380				hypothetical protein
+Pray.g_00176	gene	1428				
+Pray.g_00176	CDS	1428				hypothetical protein
+Pray.g_00177	gene	801	suhB_1			
+Pray.g_00177	CDS	801	suhB_1	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+Pray.g_00178	gene	936				
+Pray.g_00178	CDS	936				hypothetical protein
+Pray.g_00179	gene	342				
+Pray.g_00179	CDS	342				hypothetical protein
+Pray.g_00180	gene	147				
+Pray.g_00180	CDS	147				hypothetical protein
+Pray.g_00181	gene	384				
+Pray.g_00181	CDS	384				hypothetical protein
+Pray.g_00182	gene	264				
+Pray.g_00182	CDS	264				hypothetical protein
+Pray.g_00183	gene	1116	hhoB			
+Pray.g_00183	CDS	1116	hhoB			Putative serine protease HhoB
+Pray.g_00184	gene	144				
+Pray.g_00184	CDS	144				hypothetical protein
+Pray.g_00185	gene	1614	yheS			
+Pray.g_00185	CDS	1614	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+Pray.g_00186	gene	177				
+Pray.g_00186	CDS	177				hypothetical protein
+Pray.g_00187	gene	231				
+Pray.g_00187	CDS	231				hypothetical protein
+Pray.g_00188	gene	372				
+Pray.g_00188	CDS	372				hypothetical protein
+Pray.g_00189	gene	303				
+Pray.g_00189	CDS	303				hypothetical protein
+Pray.g_00190	gene	705	ktrA			
+Pray.g_00190	CDS	705	ktrA		COG0569	Ktr system potassium uptake protein A
+Pray.g_00191	gene	1404	ktrB			
+Pray.g_00191	CDS	1404	ktrB		COG0168	Ktr system potassium uptake protein B
+Pray.g_00192	gene	1809				
+Pray.g_00192	CDS	1809				hypothetical protein
+Pray.g_00193	gene	1194	ndbB			
+Pray.g_00193	CDS	1194	ndbB	1.6.5.12		Demethylphylloquinone reductase NdbB
+Pray.g_00194	gene	723	cysH			
+Pray.g_00194	CDS	723	cysH	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase
+Pray.g_00195	gene	696	coaX			
+Pray.g_00195	CDS	696	coaX	2.7.1.33		Type III pantothenate kinase
+Pray.g_00196	gene	468	bcp_1			
+Pray.g_00196	CDS	468	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+Pray.g_00197	gene	594				
+Pray.g_00197	CDS	594				hypothetical protein
+Pray.g_00198	gene	1290	rarA			
+Pray.g_00198	CDS	1290	rarA		COG2256	Replication-associated recombination protein A
+Pray.g_00199	gene	1638	pgm			
+Pray.g_00199	CDS	1638	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+Pray.g_00200	gene	171				
+Pray.g_00200	CDS	171				hypothetical protein
+Pray.g_00201	gene	1086				
+Pray.g_00201	CDS	1086				hypothetical protein
+Pray.g_00202	gene	354				
+Pray.g_00202	CDS	354				hypothetical protein
+Pray.g_00203	gene	1443	sufB			
+Pray.g_00203	CDS	1443	sufB		COG0719	FeS cluster assembly protein SufB
+Pray.g_00204	gene	786	sufC			
+Pray.g_00204	CDS	786	sufC		COG0396	putative ATP-dependent transporter SufC
+Pray.g_00205	gene	1218				
+Pray.g_00205	CDS	1218				hypothetical protein
+Pray.g_00206	gene	1254	csd			
+Pray.g_00206	CDS	1254	csd	2.8.1.7		putative cysteine desulfurase
+Pray.g_00207	gene	1926				
+Pray.g_00207	CDS	1926				hypothetical protein
+Pray.g_00208	gene	606	def			
+Pray.g_00208	CDS	606	def	3.5.1.88	COG0242	Peptide deformylase
+Pray.g_00209	gene	342				
+Pray.g_00209	CDS	342		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Pray.g_00210	gene	279				
+Pray.g_00210	CDS	279				hypothetical protein
+Pray.g_00211	gene	1983				
+Pray.g_00211	CDS	1983				hypothetical protein
+Pray.g_00212	gene	276				
+Pray.g_00212	CDS	276				hypothetical protein
+Pray.g_00213	gene	930				
+Pray.g_00213	CDS	930				hypothetical protein
+Pray.g_00214	gene	186	psbX			
+Pray.g_00214	CDS	186	psbX			Photosystem II reaction center X protein
+Pray.g_00215	gene	315				
+Pray.g_00215	CDS	315				hypothetical protein
+Pray.g_00216	gene	1347	accC			
+Pray.g_00216	CDS	1347	accC	6.3.4.14	COG0439	Biotin carboxylase
+Pray.g_00217	gene	84				
+Pray.g_00217	tRNA	84				tRNA-Leu(aag)
+Pray.g_00218	gene	1287	lpxB_1			
+Pray.g_00218	CDS	1287	lpxB_1	2.4.1.182		Lipid-A-disaccharide synthase
+Pray.g_00219	gene	1044				
+Pray.g_00219	CDS	1044				hypothetical protein
+Pray.g_00220	gene	3591	smc			
+Pray.g_00220	CDS	3591	smc		COG1196	Chromosome partition protein Smc
+Pray.g_00221	gene	363				
+Pray.g_00221	CDS	363				hypothetical protein
+Pray.g_00222	gene	138				
+Pray.g_00222	CDS	138				hypothetical protein
+Pray.g_00223	gene	462				
+Pray.g_00223	CDS	462				hypothetical protein
+Pray.g_00224	gene	450				
+Pray.g_00224	CDS	450				hypothetical protein
+Pray.g_00225	gene	1125	rlmL			
+Pray.g_00225	CDS	1125	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+Pray.g_00226	gene	310	ssrA			
+Pray.g_00226	tmRNA	310	ssrA			transfer-messenger RNA, SsrA
+Pray.g_00227	gene	963				
+Pray.g_00227	CDS	963				hypothetical protein
+Pray.g_00228	gene	672				
+Pray.g_00228	CDS	672				hypothetical protein
+Pray.g_00229	gene	1221				
+Pray.g_00229	CDS	1221				hypothetical protein
+Pray.g_00230	gene	1023				
+Pray.g_00230	CDS	1023				hypothetical protein
+Pray.g_00231	gene	1239	argJ			
+Pray.g_00231	CDS	1239	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+Pray.g_00232	gene	618	coaE			
+Pray.g_00232	CDS	618	coaE	2.7.1.24		Dephospho-CoA kinase
+Pray.g_00233	gene	1473	gatB			
+Pray.g_00233	CDS	1473	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Pray.g_00234	gene	1110	hcnC			
+Pray.g_00234	CDS	1110	hcnC	1.4.99.5	COG0665	Hydrogen cyanide synthase subunit HcnC
+Pray.g_00235	gene	459	ndk			
+Pray.g_00235	CDS	459	ndk	2.7.4.6		Nucleoside diphosphate kinase
+Pray.g_00236	gene	1947	speA_2			
+Pray.g_00236	CDS	1947	speA_2	4.1.1.19		Biosynthetic arginine decarboxylase
+Pray.g_00237	gene	2661	alaS			
+Pray.g_00237	CDS	2661	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Pray.g_00238	gene	1776	dfa1			
+Pray.g_00238	CDS	1776	dfa1	1.-.-.-		Diflavin flavoprotein A 1
+Pray.g_00239	gene	1797	dfa5			
+Pray.g_00239	CDS	1797	dfa5	1.-.-.-	COG0426	Putative diflavin flavoprotein A 5
+Pray.g_00240	gene	525				
+Pray.g_00240	CDS	525				hypothetical protein
+Pray.g_00241	gene	1791	mrdA			
+Pray.g_00241	CDS	1791	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Pray.g_00242	gene	141				
+Pray.g_00242	CDS	141				hypothetical protein
+Pray.g_00243	gene	609				
+Pray.g_00243	CDS	609				hypothetical protein
+Pray.g_00244	gene	714				
+Pray.g_00244	CDS	714				hypothetical protein
+Pray.g_00245	gene	1584	lapB_1			
+Pray.g_00245	CDS	1584	lapB_1			Lipopolysaccharide assembly protein B
+Pray.g_00246	gene	1215				
+Pray.g_00246	CDS	1215				hypothetical protein
+Pray.g_00247	gene	1194				
+Pray.g_00247	CDS	1194				hypothetical protein
+Pray.g_00248	gene	144				
+Pray.g_00248	CDS	144				hypothetical protein
+Pray.g_00249	gene	678				
+Pray.g_00249	CDS	678				hypothetical protein
+Pray.g_00250	gene	513	apt			
+Pray.g_00250	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+Pray.g_00251	gene	74				
+Pray.g_00251	tRNA	74				tRNA-Pro(tgg)
+Pray.g_00252	gene	675				
+Pray.g_00252	CDS	675				hypothetical protein
+Pray.g_00253	gene	468				
+Pray.g_00253	CDS	468				hypothetical protein
+Pray.g_00254	gene	297				
+Pray.g_00254	CDS	297				hypothetical protein
+Pray.g_00255	gene	483				
+Pray.g_00255	CDS	483				hypothetical protein
+Pray.g_00256	gene	99				
+Pray.g_00256	CDS	99				hypothetical protein
+Pray.g_00257	gene	114				
+Pray.g_00257	CDS	114				hypothetical protein
+Pray.g_00258	gene	249				
+Pray.g_00258	CDS	249				hypothetical protein
+Pray.g_00259	gene	426				
+Pray.g_00259	CDS	426				hypothetical protein
+Pray.g_00260	gene	228				
+Pray.g_00260	CDS	228				hypothetical protein
+Pray.g_00261	gene	552	rpoE			
+Pray.g_00261	CDS	552	rpoE			ECF RNA polymerase sigma-E factor
+Pray.g_00262	gene	303				
+Pray.g_00262	CDS	303				hypothetical protein
+Pray.g_00263	gene	219				
+Pray.g_00263	CDS	219				hypothetical protein
+Pray.g_00264	gene	72				
+Pray.g_00264	tRNA	72				tRNA-Pro(tgg)
+Pray.g_00265	gene	264				
+Pray.g_00265	CDS	264				hypothetical protein
+Pray.g_00266	gene	249				
+Pray.g_00266	CDS	249				hypothetical protein
+Pray.g_00267	gene	213				
+Pray.g_00267	CDS	213				hypothetical protein
+Pray.g_00268	gene	135				
+Pray.g_00268	CDS	135				hypothetical protein
+Pray.g_00269	gene	918	ispG			
+Pray.g_00269	CDS	918	ispG	1.17.7.1	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+Pray.g_00270	gene	1335				
+Pray.g_00270	CDS	1335				hypothetical protein
+Pray.g_00271	gene	915	nadA			
+Pray.g_00271	CDS	915	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+Pray.g_00272	gene	774				
+Pray.g_00272	CDS	774				hypothetical protein
+Pray.g_00273	gene	798				
+Pray.g_00273	CDS	798				hypothetical protein
+Pray.g_00274	gene	1191				
+Pray.g_00274	CDS	1191				hypothetical protein
+Pray.g_00275	gene	1092	aroB			
+Pray.g_00275	CDS	1092	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+Pray.g_00276	gene	1191	purK			
+Pray.g_00276	CDS	1191	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+Pray.g_00277	gene	300				
+Pray.g_00277	CDS	300				hypothetical protein
+Pray.g_00278	gene	141				
+Pray.g_00278	CDS	141				hypothetical protein
+Pray.g_00279	gene	168				
+Pray.g_00279	CDS	168				hypothetical protein
+Pray.g_00280	gene	750	ligB			
+Pray.g_00280	CDS	750	ligB	6.5.1.2	COG0272	DNA ligase B
+Pray.g_00281	gene	207				
+Pray.g_00281	CDS	207				hypothetical protein
+Pray.g_00282	gene	258				
+Pray.g_00282	CDS	258				hypothetical protein
+Pray.g_00283	gene	237				
+Pray.g_00283	CDS	237				hypothetical protein
+Pray.g_00284	gene	291				
+Pray.g_00284	CDS	291				hypothetical protein
+Pray.g_00285	gene	234				
+Pray.g_00285	CDS	234				hypothetical protein
+Pray.g_00286	gene	183				
+Pray.g_00286	CDS	183				hypothetical protein
+Pray.g_00287	gene	255				
+Pray.g_00287	CDS	255				hypothetical protein
+Pray.g_00288	gene	174				
+Pray.g_00288	CDS	174				hypothetical protein
+Pray.g_00289	gene	213				
+Pray.g_00289	CDS	213				hypothetical protein
+Pray.g_00290	gene	210				
+Pray.g_00290	CDS	210				hypothetical protein
+Pray.g_00291	gene	192				
+Pray.g_00291	CDS	192				hypothetical protein
+Pray.g_00292	gene	207				
+Pray.g_00292	CDS	207				hypothetical protein
+Pray.g_00293	gene	666				
+Pray.g_00293	CDS	666				hypothetical protein
+Pray.g_00294	gene	255				
+Pray.g_00294	CDS	255				hypothetical protein
+Pray.g_00295	gene	228				
+Pray.g_00295	CDS	228				hypothetical protein
+Pray.g_00296	gene	156				
+Pray.g_00296	CDS	156				hypothetical protein
+Pray.g_00297	gene	252				
+Pray.g_00297	CDS	252				hypothetical protein
+Pray.g_00298	gene	126				
+Pray.g_00298	CDS	126				hypothetical protein
+Pray.g_00299	gene	237				
+Pray.g_00299	CDS	237				hypothetical protein
+Pray.g_00300	gene	243				
+Pray.g_00300	CDS	243				hypothetical protein
+Pray.g_00301	gene	195				
+Pray.g_00301	CDS	195				hypothetical protein
+Pray.g_00302	gene	312				
+Pray.g_00302	CDS	312				hypothetical protein
+Pray.g_00303	gene	384				
+Pray.g_00303	CDS	384				hypothetical protein
+Pray.g_00304	gene	354				
+Pray.g_00304	CDS	354				hypothetical protein
+Pray.g_00305	gene	132				
+Pray.g_00305	CDS	132				hypothetical protein
+Pray.g_00306	gene	1056	kefB			
+Pray.g_00306	CDS	1056	kefB			Glutathione-regulated potassium-efflux system protein KefB
+Pray.g_00307	gene	378	petJ			
+Pray.g_00307	CDS	378	petJ			Cytochrome c6
+Pray.g_00308	gene	369				
+Pray.g_00308	CDS	369				hypothetical protein
+Pray.g_00309	gene	972				
+Pray.g_00309	CDS	972				hypothetical protein
+Pray.g_00310	gene	1257				
+Pray.g_00310	CDS	1257				hypothetical protein
+Pray.g_00311	gene	252	gap3			
+Pray.g_00311	CDS	252	gap3	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 3
+Pray.g_00312	gene	318	sdpR			
+Pray.g_00312	CDS	318	sdpR		COG0640	Transcriptional repressor SdpR
+Pray.g_00313	gene	948	pstC			
+Pray.g_00313	CDS	948	pstC		COG0573	Phosphate transport system permease protein PstC
+Pray.g_00314	gene	894	pstA			
+Pray.g_00314	CDS	894	pstA		COG0581	Phosphate transport system permease protein PstA
+Pray.g_00315	gene	810	pstB3			
+Pray.g_00315	CDS	810	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Pray.g_00316	gene	147				
+Pray.g_00316	CDS	147				hypothetical protein
+Pray.g_00317	gene	303				
+Pray.g_00317	CDS	303				hypothetical protein
+Pray.g_00318	gene	654				
+Pray.g_00318	CDS	654				hypothetical protein
+Pray.g_00319	gene	2499	cshB			
+Pray.g_00319	CDS	2499	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+Pray.g_00320	gene	1641	lig_1			
+Pray.g_00320	CDS	1641	lig_1	6.5.1.1		DNA ligase
+Pray.g_00321	gene	987				
+Pray.g_00321	CDS	987				hypothetical protein
+Pray.g_00322	gene	414				
+Pray.g_00322	CDS	414				hypothetical protein
+Pray.g_00323	gene	282				
+Pray.g_00323	CDS	282				hypothetical protein
+Pray.g_00324	gene	1320				
+Pray.g_00324	CDS	1320				hypothetical protein
+Pray.g_00325	gene	369				
+Pray.g_00325	CDS	369				hypothetical protein
+Pray.g_00326	gene	204				
+Pray.g_00326	CDS	204				hypothetical protein
+Pray.g_00327	gene	174				
+Pray.g_00327	CDS	174				hypothetical protein
+Pray.g_00328	gene	192				
+Pray.g_00328	CDS	192				hypothetical protein
+Pray.g_00329	gene	195				
+Pray.g_00329	CDS	195				hypothetical protein
+Pray.g_00330	gene	183				
+Pray.g_00330	CDS	183				hypothetical protein
+Pray.g_00331	gene	129				
+Pray.g_00331	CDS	129				hypothetical protein
+Pray.g_00332	gene	351				
+Pray.g_00332	CDS	351				hypothetical protein
+Pray.g_00333	gene	177				
+Pray.g_00333	CDS	177				hypothetical protein
+Pray.g_00334	gene	438				
+Pray.g_00334	CDS	438				hypothetical protein
+Pray.g_00335	gene	270				
+Pray.g_00335	CDS	270				hypothetical protein
+Pray.g_00336	gene	207				
+Pray.g_00336	CDS	207				hypothetical protein
+Pray.g_00337	gene	279				
+Pray.g_00337	CDS	279				hypothetical protein
+Pray.g_00338	gene	102	petN			
+Pray.g_00338	CDS	102	petN			Cytochrome b6-f complex subunit 8
+Pray.g_00339	gene	603	thf1			
+Pray.g_00339	CDS	603	thf1			Protein Thf1
+Pray.g_00340	gene	588	clpP_1			
+Pray.g_00340	CDS	588	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Pray.g_00341	gene	1914	ftsH2_1			
+Pray.g_00341	CDS	1914	ftsH2_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 2
+Pray.g_00342	gene	210				
+Pray.g_00342	CDS	210				hypothetical protein
+Pray.g_00343	gene	1218				
+Pray.g_00343	CDS	1218				hypothetical protein
+Pray.g_00344	gene	1263				
+Pray.g_00344	CDS	1263		3.4.24.-	COG0612	putative zinc protease
+Pray.g_00345	gene	723	pcyA			
+Pray.g_00345	CDS	723	pcyA	1.3.7.5		Phycocyanobilin:ferredoxin oxidoreductase
+Pray.g_00346	gene	954				
+Pray.g_00346	CDS	954				hypothetical protein
+Pray.g_00347	gene	1173				
+Pray.g_00347	CDS	1173				hypothetical protein
+Pray.g_00348	gene	708				
+Pray.g_00348	CDS	708			COG1136	putative ABC transporter ATP-binding protein
+Pray.g_00349	gene	150				
+Pray.g_00349	CDS	150				hypothetical protein
+Pray.g_00350	gene	912				
+Pray.g_00350	CDS	912				hypothetical protein
+Pray.g_00351	gene	705	rpsB			
+Pray.g_00351	CDS	705	rpsB		COG0052	30S ribosomal protein S2
+Pray.g_00352	gene	657	tsf			
+Pray.g_00352	CDS	657	tsf			Elongation factor Ts
+Pray.g_00353	gene	1086				
+Pray.g_00353	CDS	1086				hypothetical protein
+Pray.g_00354	gene	2460	recG			
+Pray.g_00354	CDS	2460	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+Pray.g_00355	gene	684	ddpX_1			
+Pray.g_00355	CDS	684	ddpX_1	3.4.13.22		D-alanyl-D-alanine dipeptidase
+Pray.g_00356	gene	1794	sir			
+Pray.g_00356	CDS	1794	sir	1.8.7.1		Sulfite reductase [ferredoxin]
+Pray.g_00357	gene	2163	glyS			
+Pray.g_00357	CDS	2163	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Pray.g_00358	gene	1341	kmo			
+Pray.g_00358	CDS	1341	kmo	1.14.13.9		Kynurenine 3-monooxygenase
+Pray.g_00359	gene	717	ddpX_2			
+Pray.g_00359	CDS	717	ddpX_2	3.4.13.22		D-alanyl-D-alanine dipeptidase
+Pray.g_00360	gene	1797	typA			
+Pray.g_00360	CDS	1797	typA		COG1217	GTP-binding protein TypA/BipA 
+Pray.g_00361	gene	369				
+Pray.g_00361	CDS	369				hypothetical protein
+Pray.g_00362	gene	729	lptB			
+Pray.g_00362	CDS	729	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Pray.g_00363	gene	930	ccsA			
+Pray.g_00363	CDS	930	ccsA			Cytochrome c biogenesis protein CcsA
+Pray.g_00364	gene	759	rpe			
+Pray.g_00364	CDS	759	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+Pray.g_00365	gene	1002				
+Pray.g_00365	CDS	1002		3.1.3.11	COG1494	D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase
+Pray.g_00366	gene	1311	hemA			
+Pray.g_00366	CDS	1311	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+Pray.g_00367	gene	1296	glgC			
+Pray.g_00367	CDS	1296	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+Pray.g_00368	gene	1419	gnd			
+Pray.g_00368	CDS	1419	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+Pray.g_00369	gene	729	pgl			
+Pray.g_00369	CDS	729	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+Pray.g_00370	gene	549				
+Pray.g_00370	CDS	549				hypothetical protein
+Pray.g_00371	gene	387				
+Pray.g_00371	CDS	387				hypothetical protein
+Pray.g_00372	gene	1674	ilvD			
+Pray.g_00372	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+Pray.g_00373	gene	291				
+Pray.g_00373	CDS	291				hypothetical protein
+Pray.g_00374	gene	612	upp			
+Pray.g_00374	CDS	612	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+Pray.g_00375	gene	513				
+Pray.g_00375	CDS	513				hypothetical protein
+Pray.g_00376	gene	1065	yciC_1			
+Pray.g_00376	CDS	1065	yciC_1		COG0523	Putative metal chaperone YciC
+Pray.g_00377	gene	165				
+Pray.g_00377	CDS	165				hypothetical protein
+Pray.g_00378	gene	255	purS			
+Pray.g_00378	CDS	255	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+Pray.g_00379	gene	666	purQ			
+Pray.g_00379	CDS	666	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+Pray.g_00380	gene	1074	fbaA			
+Pray.g_00380	CDS	1074	fbaA	4.1.2.13		Fructose-bisphosphate aldolase class 2
+Pray.g_00381	gene	1068	fda			
+Pray.g_00381	CDS	1068	fda	4.1.2.13		Fructose-bisphosphate aldolase class 1
+Pray.g_00382	gene	1098	iolG_1			
+Pray.g_00382	CDS	1098	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+Pray.g_00383	gene	399				
+Pray.g_00383	CDS	399				hypothetical protein
+Pray.g_00384	gene	882	accD			
+Pray.g_00384	CDS	882	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Pray.g_00385	gene	897	cfxP			
+Pray.g_00385	CDS	897	cfxP	2.7.1.19	COG3954	Phosphoribulokinase, chromosomal
+Pray.g_00386	gene	1074	leuB			
+Pray.g_00386	CDS	1074	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+Pray.g_00387	gene	1035	lpxD			
+Pray.g_00387	CDS	1035	lpxD	2.3.1.-		UDP-3-O-acylglucosamine N-acyltransferase
+Pray.g_00388	gene	1083	proB			
+Pray.g_00388	CDS	1083	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+Pray.g_00389	gene	495				
+Pray.g_00389	CDS	495				hypothetical protein
+Pray.g_00390	gene	537				
+Pray.g_00390	CDS	537				hypothetical protein
+Pray.g_00391	gene	462	yqgF			
+Pray.g_00391	CDS	462	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Pray.g_00392	gene	1056				
+Pray.g_00392	CDS	1056				hypothetical protein
+Pray.g_00393	gene	1167				
+Pray.g_00393	CDS	1167				hypothetical protein
+Pray.g_00394	gene	549				
+Pray.g_00394	CDS	549				hypothetical protein
+Pray.g_00395	gene	1617				
+Pray.g_00395	CDS	1617				hypothetical protein
+Pray.g_00396	gene	768	hisA			
+Pray.g_00396	CDS	768	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Pray.g_00397	gene	921				
+Pray.g_00397	CDS	921				hypothetical protein
+Pray.g_00398	gene	513	pgsA			
+Pray.g_00398	CDS	513	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Pray.g_00399	gene	612				
+Pray.g_00399	CDS	612				hypothetical protein
+Pray.g_00400	gene	189				
+Pray.g_00400	CDS	189				hypothetical protein
+Pray.g_00401	gene	660				
+Pray.g_00401	CDS	660				hypothetical protein
+Pray.g_00402	gene	654	nth			
+Pray.g_00402	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+Pray.g_00403	gene	1077	fbpC2			
+Pray.g_00403	CDS	1077	fbpC2	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+Pray.g_00404	gene	555	ftnA			
+Pray.g_00404	CDS	555	ftnA	1.16.3.2		Bacterial non-heme ferritin
+Pray.g_00405	gene	291				
+Pray.g_00405	CDS	291				hypothetical protein
+Pray.g_00406	gene	588				
+Pray.g_00406	CDS	588				hypothetical protein
+Pray.g_00407	gene	189				
+Pray.g_00407	CDS	189				hypothetical protein
+Pray.g_00408	gene	789	ylmA			
+Pray.g_00408	CDS	789	ylmA	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+Pray.g_00409	gene	1323				
+Pray.g_00409	CDS	1323		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+Pray.g_00410	gene	195				
+Pray.g_00410	CDS	195				hypothetical protein
+Pray.g_00411	gene	342				
+Pray.g_00411	CDS	342				hypothetical protein
+Pray.g_00412	gene	183				
+Pray.g_00412	CDS	183				hypothetical protein
+Pray.g_00413	gene	150				
+Pray.g_00413	CDS	150				hypothetical protein
+Pray.g_00414	gene	297				
+Pray.g_00414	CDS	297				hypothetical protein
+Pray.g_00415	gene	156				
+Pray.g_00415	CDS	156				hypothetical protein
+Pray.g_00416	gene	399				
+Pray.g_00416	CDS	399				hypothetical protein
+Pray.g_00417	gene	315				
+Pray.g_00417	CDS	315				hypothetical protein
+Pray.g_00418	gene	222				
+Pray.g_00418	CDS	222				hypothetical protein
+Pray.g_00419	gene	111				
+Pray.g_00419	CDS	111				hypothetical protein
+Pray.g_00420	gene	219				
+Pray.g_00420	CDS	219				hypothetical protein
+Pray.g_00421	gene	711	livF			
+Pray.g_00421	CDS	711	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Pray.g_00422	gene	750	metN2			
+Pray.g_00422	CDS	750	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+Pray.g_00423	gene	1131				
+Pray.g_00423	CDS	1131				hypothetical protein
+Pray.g_00424	gene	1155	livH			
+Pray.g_00424	CDS	1155	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+Pray.g_00425	gene	1278	amiC			
+Pray.g_00425	CDS	1278	amiC			Aliphatic amidase expression-regulating protein
+Pray.g_00426	gene	612	ureG			
+Pray.g_00426	CDS	612	ureG		COG0378	Urease accessory protein UreG
+Pray.g_00427	gene	699	ureF			
+Pray.g_00427	CDS	699	ureF		COG0830	Urease accessory protein UreF
+Pray.g_00428	gene	444	ureE			
+Pray.g_00428	CDS	444	ureE			Urease accessory protein UreE
+Pray.g_00429	gene	903	ureD			
+Pray.g_00429	CDS	903	ureD			Urease accessory protein UreD
+Pray.g_00430	gene	303	ureA			
+Pray.g_00430	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+Pray.g_00431	gene	321	ureB			
+Pray.g_00431	CDS	321	ureB	3.5.1.5	COG0832	Urease subunit beta
+Pray.g_00432	gene	1710	ureC			
+Pray.g_00432	CDS	1710	ureC	3.5.1.5		Urease subunit alpha
+Pray.g_00433	gene	1227	gpgS			
+Pray.g_00433	CDS	1227	gpgS	2.4.1.266	COG0463	Glucosyl-3-phosphoglycerate synthase
+Pray.g_00434	gene	1761				
+Pray.g_00434	CDS	1761		2.4.1.352	COG0366	Glucosylglycerate phosphorylase
+Pray.g_00435	gene	798	gpgP			
+Pray.g_00435	CDS	798	gpgP	3.1.3.70	COG3769	Glucosyl-3-phosphoglycerate/mannosyl-3-phosphoglycerate phosphatase
+Pray.g_00436	gene	945				
+Pray.g_00436	CDS	945				hypothetical protein
+Pray.g_00437	gene	228				
+Pray.g_00437	CDS	228				hypothetical protein
+Pray.g_00438	gene	126				
+Pray.g_00438	CDS	126				hypothetical protein
+Pray.g_00439	gene	135				
+Pray.g_00439	CDS	135				hypothetical protein
+Pray.g_00440	gene	807	uppP			
+Pray.g_00440	CDS	807	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+Pray.g_00441	gene	180				
+Pray.g_00441	CDS	180				hypothetical protein
+Pray.g_00442	gene	74				
+Pray.g_00442	tRNA	74				tRNA-Pro(ggg)
+Pray.g_00443	gene	729	msrA			
+Pray.g_00443	CDS	729	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+Pray.g_00444	gene	1746	yheI			
+Pray.g_00444	CDS	1746	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+Pray.g_00445	gene	297				
+Pray.g_00445	CDS	297				hypothetical protein
+Pray.g_00446	gene	1053	trpD2			
+Pray.g_00446	CDS	1053	trpD2	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase 2
+Pray.g_00447	gene	1140	carA			
+Pray.g_00447	CDS	1140	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Pray.g_00448	gene	165				
+Pray.g_00448	CDS	165				hypothetical protein
+Pray.g_00449	gene	399	mrnC			
+Pray.g_00449	CDS	399	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+Pray.g_00450	gene	1008	rlmB			
+Pray.g_00450	CDS	1008	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Pray.g_00451	gene	216				
+Pray.g_00451	CDS	216				hypothetical protein
+Pray.g_00452	gene	1449	gatA			
+Pray.g_00452	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Pray.g_00453	gene	3498	dnaE			
+Pray.g_00453	CDS	3498	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Pray.g_00454	gene	450				
+Pray.g_00454	CDS	450				hypothetical protein
+Pray.g_00455	gene	270	rpsO			
+Pray.g_00455	CDS	270	rpsO			30S ribosomal protein S15
+Pray.g_00456	gene	684	ruvA			
+Pray.g_00456	CDS	684	ruvA	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvA
+Pray.g_00457	gene	354				
+Pray.g_00457	CDS	354				hypothetical protein
+Pray.g_00458	gene	891	cntI			
+Pray.g_00458	CDS	891	cntI			Pseudopaline exporter CntI
+Pray.g_00459	gene	2031	dnaG			
+Pray.g_00459	CDS	2031	dnaG	2.7.7.-	COG0358	DNA primase
+Pray.g_00460	gene	468				
+Pray.g_00460	CDS	468				hypothetical protein
+Pray.g_00461	gene	1287	umuC			
+Pray.g_00461	CDS	1287	umuC		COG0389	Protein UmuC
+Pray.g_00462	gene	417	umuD			
+Pray.g_00462	CDS	417	umuD	3.4.21.-	COG1974	Protein UmuD
+Pray.g_00463	gene	417	rlmH			
+Pray.g_00463	CDS	417	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+Pray.g_00464	gene	333				
+Pray.g_00464	CDS	333				hypothetical protein
+Pray.g_00465	gene	825	rsmA			
+Pray.g_00465	CDS	825	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Pray.g_00466	gene	936	ispE			
+Pray.g_00466	CDS	936	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Pray.g_00467	gene	186				
+Pray.g_00467	CDS	186				hypothetical protein
+Pray.g_00468	gene	96				
+Pray.g_00468	CDS	96				hypothetical protein
+Pray.g_00469	gene	984	bfmBAB			
+Pray.g_00469	CDS	984	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+Pray.g_00470	gene	1470	secD			
+Pray.g_00470	CDS	1470	secD		COG0342	Protein translocase subunit SecD
+Pray.g_00471	gene	915	secF			
+Pray.g_00471	CDS	915	secF			Protein translocase subunit SecF
+Pray.g_00472	gene	183				
+Pray.g_00472	CDS	183				hypothetical protein
+Pray.g_00473	gene	1044				
+Pray.g_00473	CDS	1044				hypothetical protein
+Pray.g_00474	gene	351				
+Pray.g_00474	CDS	351				Photosystem II reaction center Psb28 protein
+Pray.g_00475	gene	1041	selU			
+Pray.g_00475	CDS	1041	selU	2.5.1.-	COG2603	tRNA 2-selenouridine synthase
+Pray.g_00476	gene	720				
+Pray.g_00476	CDS	720				hypothetical protein
+Pray.g_00477	gene	435				
+Pray.g_00477	CDS	435				hypothetical protein
+Pray.g_00478	gene	255				
+Pray.g_00478	CDS	255				hypothetical protein
+Pray.g_00479	gene	1056	COQ5			
+Pray.g_00479	CDS	1056	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Pray.g_00480	gene	1422	glnA			
+Pray.g_00480	CDS	1422	glnA	6.3.1.2		Glutamine synthetase
+Pray.g_00481	gene	1185	pucG			
+Pray.g_00481	CDS	1185	pucG	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+Pray.g_00482	gene	516	tadA			
+Pray.g_00482	CDS	516	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+Pray.g_00483	gene	1386				
+Pray.g_00483	CDS	1386		4.1.1.105	COG0076	Tryptophan decarboxylase
+Pray.g_00484	gene	138				
+Pray.g_00484	CDS	138				hypothetical protein
+Pray.g_00485	gene	1500	era_1			
+Pray.g_00485	CDS	1500	era_1			GTPase Era
+Pray.g_00486	gene	456	lspA			
+Pray.g_00486	CDS	456	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Pray.g_00487	gene	570				
+Pray.g_00487	CDS	570				hypothetical protein
+Pray.g_00488	gene	1233	macB			
+Pray.g_00488	CDS	1233	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+Pray.g_00489	gene	1791	pyk			
+Pray.g_00489	CDS	1791	pyk	2.7.1.40		Pyruvate kinase
+Pray.g_00490	gene	330				
+Pray.g_00490	CDS	330				hypothetical protein
+Pray.g_00491	gene	279				
+Pray.g_00491	CDS	279				hypothetical protein
+Pray.g_00492	gene	462	scpB			
+Pray.g_00492	CDS	462	scpB			Segregation and condensation protein B
+Pray.g_00493	gene	1542	ilvA			
+Pray.g_00493	CDS	1542	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+Pray.g_00494	gene	1890	dxs			
+Pray.g_00494	CDS	1890	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Pray.g_00495	gene	261	psaK1			
+Pray.g_00495	CDS	261	psaK1			Photosystem I reaction center subunit PsaK 1
+Pray.g_00496	gene	336				
+Pray.g_00496	CDS	336				hypothetical protein
+Pray.g_00497	gene	171				
+Pray.g_00497	CDS	171				hypothetical protein
+Pray.g_00498	gene	534				
+Pray.g_00498	CDS	534		1.11.1.15		Peroxiredoxin
+Pray.g_00499	gene	237	rpmB			
+Pray.g_00499	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+Pray.g_00500	gene	1905	htpG			
+Pray.g_00500	CDS	1905	htpG			Chaperone protein HtpG
+Pray.g_00501	gene	1152	hisZ			
+Pray.g_00501	CDS	1152	hisZ			ATP phosphoribosyltransferase regulatory subunit
+Pray.g_00502	gene	849	suhB_2			
+Pray.g_00502	CDS	849	suhB_2	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+Pray.g_00503	gene	375				
+Pray.g_00503	CDS	375				hypothetical protein
+Pray.g_00504	gene	87				
+Pray.g_00504	tRNA	87				tRNA-Ser(gga)
+Pray.g_00505	gene	1998	dnaK2_1			
+Pray.g_00505	CDS	1998	dnaK2_1			Chaperone protein dnaK2
+Pray.g_00506	gene	939	cbpA			
+Pray.g_00506	CDS	939	cbpA		COG2214	Curved DNA-binding protein
+Pray.g_00507	gene	381				
+Pray.g_00507	CDS	381				hypothetical protein
+Pray.g_00508	gene	438	ppiB			
+Pray.g_00508	CDS	438	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+Pray.g_00509	gene	1725	ribBA			
+Pray.g_00509	CDS	1725	ribBA	3.5.4.25		Riboflavin biosynthesis protein RibBA
+Pray.g_00510	gene	1056	argC			
+Pray.g_00510	CDS	1056	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+Pray.g_00511	gene	657	purN			
+Pray.g_00511	CDS	657	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+Pray.g_00512	gene	1584	pgi			
+Pray.g_00512	CDS	1584	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Pray.g_00513	gene	2571	leuS			
+Pray.g_00513	CDS	2571	leuS	6.1.1.4		Leucine--tRNA ligase
+Pray.g_00514	gene	861	dapF			
+Pray.g_00514	CDS	861	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+Pray.g_00515	gene	1173	iscS_1			
+Pray.g_00515	CDS	1173	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Pray.g_00516	gene	627				
+Pray.g_00516	CDS	627				hypothetical protein
+Pray.g_00517	gene	1221				
+Pray.g_00517	CDS	1221				hypothetical protein
+Pray.g_00518	gene	474	coaD			
+Pray.g_00518	CDS	474	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+Pray.g_00519	gene	489	rutF			
+Pray.g_00519	CDS	489	rutF	1.5.1.42		FMN reductase (NADH) RutF
+Pray.g_00520	gene	1959	uvrC			
+Pray.g_00520	CDS	1959	uvrC		COG0322	UvrABC system protein C
+Pray.g_00521	gene	567				
+Pray.g_00521	CDS	567				hypothetical protein
+Pray.g_00522	gene	648				
+Pray.g_00522	CDS	648				hypothetical protein
+Pray.g_00523	gene	3738	cobN_1			
+Pray.g_00523	CDS	3738	cobN_1	6.6.1.2		Aerobic cobaltochelatase subunit CobN
+Pray.g_00524	gene	915	ilvE			
+Pray.g_00524	CDS	915	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+Pray.g_00525	gene	3567	metH			
+Pray.g_00525	CDS	3567	metH	2.1.1.13	COG0646	Methionine synthase
+Pray.g_00526	gene	219				
+Pray.g_00526	CDS	219				hypothetical protein
+Pray.g_00527	gene	384				
+Pray.g_00527	CDS	384				hypothetical protein
+Pray.g_00528	gene	567				
+Pray.g_00528	CDS	567				hypothetical protein
+Pray.g_00529	gene	222				
+Pray.g_00529	CDS	222				hypothetical protein
+Pray.g_00530	gene	1017				
+Pray.g_00530	CDS	1017				hypothetical protein
+Pray.g_00531	gene	249				
+Pray.g_00531	CDS	249				hypothetical protein
+Pray.g_00532	gene	2445	pheT			
+Pray.g_00532	CDS	2445	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+Pray.g_00533	gene	195	rpmG2			
+Pray.g_00533	CDS	195	rpmG2			50S ribosomal protein L33 2
+Pray.g_00534	gene	222				
+Pray.g_00534	CDS	222				hypothetical protein
+Pray.g_00535	gene	1185	rnr_1			
+Pray.g_00535	CDS	1185	rnr_1	3.1.13.1		Ribonuclease R
+Pray.g_00536	gene	1545	metG			
+Pray.g_00536	CDS	1545	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+Pray.g_00537	gene	624	lptC			
+Pray.g_00537	CDS	624	lptC			Lipopolysaccharide export system protein LptC
+Pray.g_00538	gene	627				
+Pray.g_00538	CDS	627				hypothetical protein
+Pray.g_00539	gene	309				
+Pray.g_00539	CDS	309				hypothetical protein
+Pray.g_00540	gene	561	cobU			
+Pray.g_00540	CDS	561	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+Pray.g_00541	gene	471	trmL			
+Pray.g_00541	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+Pray.g_00542	gene	76				
+Pray.g_00542	tRNA	76				tRNA-Met(cat)
+Pray.g_00543	gene	288	clpS_1			
+Pray.g_00543	CDS	288	clpS_1			ATP-dependent Clp protease adapter protein ClpS
+Pray.g_00544	gene	252				
+Pray.g_00544	CDS	252				hypothetical protein
+Pray.g_00545	gene	408				
+Pray.g_00545	CDS	408				hypothetical protein
+Pray.g_00546	gene	153				
+Pray.g_00546	CDS	153				hypothetical protein
+Pray.g_00547	gene	180				
+Pray.g_00547	CDS	180				hypothetical protein
+Pray.g_00548	gene	174				
+Pray.g_00548	CDS	174				hypothetical protein
+Pray.g_00549	gene	177				
+Pray.g_00549	CDS	177				hypothetical protein
+Pray.g_00550	gene	171				
+Pray.g_00550	CDS	171				hypothetical protein
+Pray.g_00551	gene	222				
+Pray.g_00551	CDS	222				hypothetical protein
+Pray.g_00552	gene	159				
+Pray.g_00552	CDS	159				hypothetical protein
+Pray.g_00553	gene	585	ahpC			
+Pray.g_00553	CDS	585	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Pray.g_00554	gene	753				
+Pray.g_00554	CDS	753				hypothetical protein
+Pray.g_00555	gene	1755	ftsH2_2			
+Pray.g_00555	CDS	1755	ftsH2_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 2
+Pray.g_00556	gene	171				
+Pray.g_00556	CDS	171				hypothetical protein
+Pray.g_00557	gene	327				
+Pray.g_00557	CDS	327				hypothetical protein
+Pray.g_00558	gene	762	cbbY			
+Pray.g_00558	CDS	762	cbbY	3.1.3.-	COG0637	Protein CbbY
+Pray.g_00559	gene	348				
+Pray.g_00559	CDS	348				hypothetical protein
+Pray.g_00560	gene	327				
+Pray.g_00560	CDS	327				hypothetical protein
+Pray.g_00561	gene	312				
+Pray.g_00561	CDS	312				hypothetical protein
+Pray.g_00562	gene	2223	rnr_2			
+Pray.g_00562	CDS	2223	rnr_2	3.1.13.1		Ribonuclease R
+Pray.g_00563	gene	444				
+Pray.g_00563	CDS	444				hypothetical protein
+Pray.g_00564	gene	588				
+Pray.g_00564	CDS	588				hypothetical protein
+Pray.g_00565	gene	1173				
+Pray.g_00565	CDS	1173				hypothetical protein
+Pray.g_00566	gene	1425	tldD			
+Pray.g_00566	CDS	1425	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Pray.g_00567	gene	1353				
+Pray.g_00567	CDS	1353				hypothetical protein
+Pray.g_00568	gene	987	fmt			
+Pray.g_00568	CDS	987	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Pray.g_00569	gene	711				
+Pray.g_00569	CDS	711				hypothetical protein
+Pray.g_00570	gene	3510	mfd			
+Pray.g_00570	CDS	3510	mfd	3.6.4.-		Transcription-repair-coupling factor
+Pray.g_00571	gene	198				
+Pray.g_00571	CDS	198				hypothetical protein
+Pray.g_00572	gene	369				
+Pray.g_00572	CDS	369				hypothetical protein
+Pray.g_00573	gene	585				
+Pray.g_00573	CDS	585				hypothetical protein
+Pray.g_00574	gene	336				
+Pray.g_00574	CDS	336				hypothetical protein
+Pray.g_00575	gene	198				
+Pray.g_00575	CDS	198				hypothetical protein
+Pray.g_00576	gene	1155	ubiH			
+Pray.g_00576	CDS	1155	ubiH	1.14.13.-	COG0654	2-octaprenyl-6-methoxyphenol hydroxylase
+Pray.g_00577	gene	642				
+Pray.g_00577	CDS	642				hypothetical protein
+Pray.g_00578	gene	849	dapB			
+Pray.g_00578	CDS	849	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Pray.g_00579	gene	4011	cobN_2			
+Pray.g_00579	CDS	4011	cobN_2	6.6.1.2		Aerobic cobaltochelatase subunit CobN
+Pray.g_00580	gene	858	folP			
+Pray.g_00580	CDS	858	folP	2.5.1.15		Dihydropteroate synthase
+Pray.g_00581	gene	726	tpiA			
+Pray.g_00581	CDS	726	tpiA	5.3.1.1		Triosephosphate isomerase
+Pray.g_00582	gene	177				
+Pray.g_00582	CDS	177				hypothetical protein
+Pray.g_00583	gene	1707				
+Pray.g_00583	CDS	1707		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+Pray.g_00584	gene	219				
+Pray.g_00584	CDS	219				hypothetical protein
+Pray.g_00585	gene	3297	carB			
+Pray.g_00585	CDS	3297	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Pray.g_00586	gene	639				
+Pray.g_00586	CDS	639				hypothetical protein
+Pray.g_00587	gene	351	rsfS			
+Pray.g_00587	CDS	351	rsfS			Ribosomal silencing factor RsfS
+Pray.g_00588	gene	492				
+Pray.g_00588	CDS	492				hypothetical protein
+Pray.g_00589	gene	966				
+Pray.g_00589	CDS	966				hypothetical protein
+Pray.g_00590	gene	77				
+Pray.g_00590	tRNA	77				tRNA-Met(cat)
+Pray.g_00591	gene	147				
+Pray.g_00591	CDS	147				hypothetical protein
+Pray.g_00592	gene	390				
+Pray.g_00592	CDS	390				hypothetical protein
+Pray.g_00593	gene	996	btuD			
+Pray.g_00593	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Pray.g_00594	gene	795				
+Pray.g_00594	CDS	795				hypothetical protein
+Pray.g_00595	gene	795				
+Pray.g_00595	CDS	795				hypothetical protein
+Pray.g_00596	gene	264				
+Pray.g_00596	CDS	264				hypothetical protein
+Pray.g_00597	gene	228				
+Pray.g_00597	CDS	228				hypothetical protein
+Pray.g_00598	gene	729				
+Pray.g_00598	CDS	729				hypothetical protein
+Pray.g_00599	gene	342				
+Pray.g_00599	CDS	342				hypothetical protein
+Pray.g_00600	gene	192				
+Pray.g_00600	CDS	192				hypothetical protein
+Pray.g_00601	gene	402				
+Pray.g_00601	CDS	402				hypothetical protein
+Pray.g_00602	gene	222				
+Pray.g_00602	CDS	222				hypothetical protein
+Pray.g_00603	gene	225				
+Pray.g_00603	CDS	225				hypothetical protein
+Pray.g_00604	gene	534				
+Pray.g_00604	CDS	534				hypothetical protein
+Pray.g_00605	gene	186				
+Pray.g_00605	CDS	186				hypothetical protein
+Pray.g_00606	gene	396	gpt			
+Pray.g_00606	CDS	396	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+Pray.g_00607	gene	459				
+Pray.g_00607	CDS	459				hypothetical protein
+Pray.g_00608	gene	177	rpsU1			
+Pray.g_00608	CDS	177	rpsU1		COG0828	30S ribosomal protein S21 A
+Pray.g_00609	gene	333				
+Pray.g_00609	CDS	333				hypothetical protein
+Pray.g_00610	gene	597	udk_1			
+Pray.g_00610	CDS	597	udk_1	2.7.1.48		Uridine kinase
+Pray.g_00611	gene	1158				
+Pray.g_00611	CDS	1158				hypothetical protein
+Pray.g_00612	gene	804				
+Pray.g_00612	CDS	804				hypothetical protein
+Pray.g_00613	gene	234				
+Pray.g_00613	CDS	234				hypothetical protein
+Pray.g_00614	gene	405				
+Pray.g_00614	CDS	405				hypothetical protein
+Pray.g_00615	gene	681				
+Pray.g_00615	CDS	681				hypothetical protein
+Pray.g_00616	gene	471				
+Pray.g_00616	CDS	471				hypothetical protein
+Pray.g_00617	gene	324				
+Pray.g_00617	CDS	324				hypothetical protein
+Pray.g_00618	gene	150				
+Pray.g_00618	CDS	150				hypothetical protein
+Pray.g_00619	gene	354				
+Pray.g_00619	CDS	354				hypothetical protein
+Pray.g_00620	gene	117				
+Pray.g_00620	CDS	117				hypothetical protein
+Pray.g_00621	gene	270				
+Pray.g_00621	CDS	270				hypothetical protein
+Pray.g_00622	gene	138				
+Pray.g_00622	CDS	138				hypothetical protein
+Pray.g_00623	gene	381				
+Pray.g_00623	CDS	381				hypothetical protein
+Pray.g_00624	gene	186				
+Pray.g_00624	CDS	186				hypothetical protein
+Pray.g_00625	gene	303				
+Pray.g_00625	CDS	303				hypothetical protein
+Pray.g_00626	gene	717				
+Pray.g_00626	CDS	717				hypothetical protein
+Pray.g_00627	gene	282				
+Pray.g_00627	CDS	282				hypothetical protein
+Pray.g_00628	gene	2607	pepN			
+Pray.g_00628	CDS	2607	pepN	3.4.11.2	COG0308	Aminopeptidase N
+Pray.g_00629	gene	225				
+Pray.g_00629	CDS	225				hypothetical protein
+Pray.g_00630	gene	162				
+Pray.g_00630	CDS	162				hypothetical protein
+Pray.g_00631	gene	201				
+Pray.g_00631	CDS	201				hypothetical protein
+Pray.g_00632	gene	1176	purT			
+Pray.g_00632	CDS	1176	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+Pray.g_00633	gene	240				
+Pray.g_00633	CDS	240				hypothetical protein
+Pray.g_00634	gene	480	gpx2			
+Pray.g_00634	CDS	480	gpx2	1.11.1.22		Hydroperoxy fatty acid reductase gpx2
+Pray.g_00635	gene	507	fabD			
+Pray.g_00635	CDS	507	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+Pray.g_00636	gene	621				
+Pray.g_00636	CDS	621				hypothetical protein
+Pray.g_00637	gene	654				
+Pray.g_00637	CDS	654				hypothetical protein
+Pray.g_00638	gene	249				
+Pray.g_00638	CDS	249				hypothetical protein
+Pray.g_00639	gene	1218				
+Pray.g_00639	CDS	1218		2.7.7.-		CC-adding tRNA nucleotidyltransferase
+Pray.g_00640	gene	417				
+Pray.g_00640	CDS	417				hypothetical protein
+Pray.g_00641	gene	909	crtB			
+Pray.g_00641	CDS	909	crtB	2.5.1.32		15-cis-phytoene synthase
+Pray.g_00642	gene	1398	pds_2			
+Pray.g_00642	CDS	1398	pds_2	1.3.5.5	COG3349	15-cis-phytoene desaturase
+Pray.g_00643	gene	348	ndhM			
+Pray.g_00643	CDS	348	ndhM	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit M
+Pray.g_00644	gene	627				
+Pray.g_00644	CDS	627				hypothetical protein
+Pray.g_00645	gene	945	cmpR			
+Pray.g_00645	CDS	945	cmpR			HTH-type transcriptional activator CmpR
+Pray.g_00646	gene	729				
+Pray.g_00646	CDS	729				hypothetical protein
+Pray.g_00647	gene	2034	nuoL			
+Pray.g_00647	CDS	2034	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+Pray.g_00648	gene	1641	ndhD1_1			
+Pray.g_00648	CDS	1641	ndhD1_1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+Pray.g_00649	gene	819				
+Pray.g_00649	CDS	819				hypothetical protein
+Pray.g_00650	gene	1179	cugP			
+Pray.g_00650	CDS	1179	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Pray.g_00651	gene	891	yitJ			
+Pray.g_00651	CDS	891	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+Pray.g_00652	gene	279				
+Pray.g_00652	CDS	279				hypothetical protein
+Pray.g_00653	gene	186				
+Pray.g_00653	CDS	186				hypothetical protein
+Pray.g_00654	gene	498				
+Pray.g_00654	CDS	498		3.6.1.25	COG2954	Inorganic triphosphatase
+Pray.g_00655	gene	912	nadK_1			
+Pray.g_00655	CDS	912	nadK_1	2.7.1.23	COG0061	NAD kinase
+Pray.g_00656	gene	321	nuoK			
+Pray.g_00656	CDS	321	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+Pray.g_00657	gene	600				
+Pray.g_00657	CDS	600				hypothetical protein
+Pray.g_00658	gene	627	ndhI			
+Pray.g_00658	CDS	627	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I
+Pray.g_00659	gene	1119	ndhA			
+Pray.g_00659	CDS	1119	ndhA	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+Pray.g_00660	gene	1146	gltA			
+Pray.g_00660	CDS	1146	gltA	2.3.3.16	COG0372	Citrate synthase
+Pray.g_00661	gene	1461				
+Pray.g_00661	CDS	1461				hypothetical protein
+Pray.g_00662	gene	351				
+Pray.g_00662	CDS	351				hypothetical protein
+Pray.g_00663	gene	1245	trpB			
+Pray.g_00663	CDS	1245	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Pray.g_00664	gene	312				
+Pray.g_00664	CDS	312				hypothetical protein
+Pray.g_00665	gene	636	cysC			
+Pray.g_00665	CDS	636	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+Pray.g_00666	gene	489	purE			
+Pray.g_00666	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+Pray.g_00667	gene	702	chlM			
+Pray.g_00667	CDS	702	chlM	2.1.1.11		Magnesium-protoporphyrin O-methyltransferase
+Pray.g_00668	gene	729	srrA			
+Pray.g_00668	CDS	729	srrA		COG0745	Transcriptional regulatory protein SrrA
+Pray.g_00669	gene	1146	iscS_2			
+Pray.g_00669	CDS	1146	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Pray.g_00670	gene	903	rsmH			
+Pray.g_00670	CDS	903	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Pray.g_00671	gene	1188	ndhH			
+Pray.g_00671	CDS	1188	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+Pray.g_00672	gene	453				
+Pray.g_00672	CDS	453		3.1.2.28	COG0824	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+Pray.g_00673	gene	1215	menE			
+Pray.g_00673	CDS	1215	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+Pray.g_00674	gene	966	menC			
+Pray.g_00674	CDS	966	menC	4.2.1.113		o-succinylbenzoate synthase
+Pray.g_00675	gene	918	menA_1			
+Pray.g_00675	CDS	918	menA_1	2.5.1.130		2-carboxy-1,4-naphthoquinone phytyltransferase
+Pray.g_00676	gene	1413	menF_1			
+Pray.g_00676	CDS	1413	menF_1	5.4.4.2		Isochorismate synthase MenF
+Pray.g_00677	gene	924	gshB			
+Pray.g_00677	CDS	924	gshB	6.3.2.3	COG0189	Glutathione synthetase
+Pray.g_00678	gene	255				
+Pray.g_00678	CDS	255				putative glutaredoxin
+Pray.g_00679	gene	1065	prfB			
+Pray.g_00679	CDS	1065	prfB			Peptide chain release factor 2
+Pray.g_00680	gene	183				
+Pray.g_00680	CDS	183				hypothetical protein
+Pray.g_00681	gene	540	ybeY			
+Pray.g_00681	CDS	540	ybeY	3.1.-.-		Endoribonuclease YbeY
+Pray.g_00682	gene	411	dgkA			
+Pray.g_00682	CDS	411	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+Pray.g_00683	gene	597	trpG			
+Pray.g_00683	CDS	597	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+Pray.g_00684	gene	726				
+Pray.g_00684	CDS	726				hypothetical protein
+Pray.g_00685	gene	1110	hisC			
+Pray.g_00685	CDS	1110	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+Pray.g_00686	gene	1815	argS			
+Pray.g_00686	CDS	1815	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Pray.g_00687	gene	867	nadC			
+Pray.g_00687	CDS	867	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Pray.g_00688	gene	1383	mnmE			
+Pray.g_00688	CDS	1383	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Pray.g_00689	gene	441				
+Pray.g_00689	CDS	441				hypothetical protein
+Pray.g_00690	gene	2310	relA			
+Pray.g_00690	CDS	2310	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Pray.g_00691	gene	1599	yejF			
+Pray.g_00691	CDS	1599	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+Pray.g_00692	gene	960	rluD			
+Pray.g_00692	CDS	960	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Pray.g_00693	gene	873	rbgA			
+Pray.g_00693	CDS	873	rbgA		COG1161	Ribosome biogenesis GTPase A
+Pray.g_00694	gene	1209	pgk			
+Pray.g_00694	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Pray.g_00695	gene	726				
+Pray.g_00695	CDS	726				hypothetical protein
+Pray.g_00696	gene	1092	murG			
+Pray.g_00696	CDS	1092	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Pray.g_00697	gene	1122	cobD_1			
+Pray.g_00697	CDS	1122	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+Pray.g_00698	gene	1170	pyrD			
+Pray.g_00698	CDS	1170	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+Pray.g_00699	gene	738	rnhA			
+Pray.g_00699	CDS	738	rnhA	3.1.26.4		Ribonuclease H
+Pray.g_00700	gene	396	rplL			
+Pray.g_00700	CDS	396	rplL			50S ribosomal protein L7/L12
+Pray.g_00701	gene	528	rplJ			
+Pray.g_00701	CDS	528	rplJ		COG0244	50S ribosomal protein L10
+Pray.g_00702	gene	687	rplA			
+Pray.g_00702	CDS	687	rplA		COG0081	50S ribosomal protein L1
+Pray.g_00703	gene	426	rplK			
+Pray.g_00703	CDS	426	rplK		COG0080	50S ribosomal protein L11
+Pray.g_00704	gene	612	nusG			
+Pray.g_00704	CDS	612	nusG			Transcription termination/antitermination protein NusG
+Pray.g_00705	gene	243				
+Pray.g_00705	CDS	243				hypothetical protein
+Pray.g_00706	gene	2754	clpB1_1			
+Pray.g_00706	CDS	2754	clpB1_1		COG0542	Chaperone protein ClpB 1
+Pray.g_00707	gene	246	eno			
+Pray.g_00707	CDS	246	eno	4.2.1.11	COG0148	Enolase
+Pray.g_00708	gene	1668	ubiB_2			
+Pray.g_00708	CDS	1668	ubiB_2	2.7.-.-	COG0661	putative protein kinase UbiB
+Pray.g_00709	gene	318				
+Pray.g_00709	CDS	318				hypothetical protein
+Pray.g_00710	gene	957	trxB			
+Pray.g_00710	CDS	957	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Pray.g_00711	gene	267				
+Pray.g_00711	CDS	267				hypothetical protein
+Pray.g_00712	gene	999				
+Pray.g_00712	CDS	999				hypothetical protein
+Pray.g_00713	gene	1668	bicA_1			
+Pray.g_00713	CDS	1668	bicA_1		COG0659	Bicarbonate transporter BicA
+Pray.g_00714	gene	1002	hemB			
+Pray.g_00714	CDS	1002	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+Pray.g_00715	gene	387				
+Pray.g_00715	CDS	387				hypothetical protein
+Pray.g_00716	gene	2412	mutS2			
+Pray.g_00716	CDS	2412	mutS2	3.1.-.-		Endonuclease MutS2
+Pray.g_00717	gene	984	obg			
+Pray.g_00717	CDS	984	obg	3.6.5.-		GTPase Obg
+Pray.g_00718	gene	183				
+Pray.g_00718	CDS	183				hypothetical protein
+Pray.g_00719	gene	219				
+Pray.g_00719	CDS	219				hypothetical protein
+Pray.g_00720	gene	945	pcpF			
+Pray.g_00720	CDS	945	pcpF	1.8.5.7	COG0435	Glutathionyl-hydroquinone reductase PcpF
+Pray.g_00721	gene	909				
+Pray.g_00721	CDS	909		3.5.1.15		aspartoacylase
+Pray.g_00722	gene	1083	psbA			
+Pray.g_00722	CDS	1083	psbA	1.10.3.9		Photosystem II protein D1
+Pray.g_00723	gene	1098	aroC			
+Pray.g_00723	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+Pray.g_00724	gene	627				
+Pray.g_00724	CDS	627				hypothetical protein
+Pray.g_00725	gene	1854	ftsH3			
+Pray.g_00725	CDS	1854	ftsH3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 3
+Pray.g_00726	gene	1176	sat/cysC			
+Pray.g_00726	CDS	1176	sat/cysC		COG0529	putative bifunctional SAT/APS kinase
+Pray.g_00727	gene	795	psbO			
+Pray.g_00727	CDS	795	psbO			Photosystem II manganese-stabilizing polypeptide
+Pray.g_00728	gene	1257	coaBC			
+Pray.g_00728	CDS	1257	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+Pray.g_00729	gene	222				
+Pray.g_00729	CDS	222				hypothetical protein
+Pray.g_00730	gene	201				
+Pray.g_00730	CDS	201				hypothetical protein
+Pray.g_00731	gene	342				
+Pray.g_00731	CDS	342				hypothetical protein
+Pray.g_00732	gene	1017	pyrB			
+Pray.g_00732	CDS	1017	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+Pray.g_00733	gene	408				
+Pray.g_00733	CDS	408		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+Pray.g_00734	gene	294	gatC			
+Pray.g_00734	CDS	294	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+Pray.g_00735	gene	726				
+Pray.g_00735	CDS	726				hypothetical protein
+Pray.g_00736	gene	83				
+Pray.g_00736	tRNA	83				tRNA-Leu(tag)
+Pray.g_00737	gene	450				
+Pray.g_00737	CDS	450				hypothetical protein
+Pray.g_00738	gene	2907	ileS			
+Pray.g_00738	CDS	2907	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Pray.g_00739	gene	624				
+Pray.g_00739	CDS	624				hypothetical protein
+Pray.g_00740	gene	636	trmB			
+Pray.g_00740	CDS	636	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+Pray.g_00741	gene	1353	glmM_1			
+Pray.g_00741	CDS	1353	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Pray.g_00742	gene	546	dsbD_1			
+Pray.g_00742	CDS	546	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+Pray.g_00743	gene	633	thyX			
+Pray.g_00743	CDS	633	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+Pray.g_00744	gene	594	dcd			
+Pray.g_00744	CDS	594	dcd	3.5.4.13	COG0717	dCTP deaminase
+Pray.g_00745	gene	582				
+Pray.g_00745	CDS	582				hypothetical protein
+Pray.g_00746	gene	735	ntcA			
+Pray.g_00746	CDS	735	ntcA			Global nitrogen regulator
+Pray.g_00747	gene	960				
+Pray.g_00747	CDS	960				hypothetical protein
+Pray.g_00748	gene	438				
+Pray.g_00748	CDS	438				hypothetical protein
+Pray.g_00749	gene	258				
+Pray.g_00749	CDS	258				hypothetical protein
+Pray.g_00750	gene	603	pth			
+Pray.g_00750	CDS	603	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+Pray.g_00751	gene	201	psbH			
+Pray.g_00751	CDS	201	psbH			Photosystem II reaction center protein H
+Pray.g_00752	gene	153	psbN			
+Pray.g_00752	CDS	153	psbN			Protein PsbN
+Pray.g_00753	gene	2010	lptD			
+Pray.g_00753	CDS	2010	lptD			LPS-assembly protein LptD
+Pray.g_00754	gene	624	leuD1			
+Pray.g_00754	CDS	624	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+Pray.g_00755	gene	1407	leuC			
+Pray.g_00755	CDS	1407	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+Pray.g_00756	gene	1275	cinA			
+Pray.g_00756	CDS	1275	cinA		COG1058	Putative competence-damage inducible protein
+Pray.g_00757	gene	1272	glyA			
+Pray.g_00757	CDS	1272	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Pray.g_00758	gene	76				
+Pray.g_00758	tRNA	76				tRNA-Arg(acg)
+Pray.g_00759	gene	252				
+Pray.g_00759	CDS	252				hypothetical protein
+Pray.g_00760	gene	285				
+Pray.g_00760	CDS	285				hypothetical protein
+Pray.g_00761	gene	1584	murJ			
+Pray.g_00761	CDS	1584	murJ		COG0728	Lipid II flippase MurJ
+Pray.g_00762	gene	741	sfsA			
+Pray.g_00762	CDS	741	sfsA		COG1489	Sugar fermentation stimulation protein A
+Pray.g_00763	gene	1461	amtB			
+Pray.g_00763	CDS	1461	amtB			Ammonia channel
+Pray.g_00764	gene	1197	ispH			
+Pray.g_00764	CDS	1197	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Pray.g_00765	gene	561				
+Pray.g_00765	CDS	561				hypothetical protein
+Pray.g_00766	gene	1554	purH			
+Pray.g_00766	CDS	1554	purH			Bifunctional purine biosynthesis protein PurH
+Pray.g_00767	gene	618				
+Pray.g_00767	CDS	618				hypothetical protein
+Pray.g_00768	gene	369				
+Pray.g_00768	CDS	369				hypothetical protein
+Pray.g_00769	gene	1137	sasA_2			
+Pray.g_00769	CDS	1137	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+Pray.g_00770	gene	741	cobS			
+Pray.g_00770	CDS	741	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+Pray.g_00771	gene	1119	tgt			
+Pray.g_00771	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+Pray.g_00772	gene	1005	iolG_2			
+Pray.g_00772	CDS	1005	iolG_2	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+Pray.g_00773	gene	1269				
+Pray.g_00773	CDS	1269				hypothetical protein
+Pray.g_00774	gene	75				
+Pray.g_00774	tRNA	75				tRNA-Met(cat)
+Pray.g_00775	gene	561	pyrE			
+Pray.g_00775	CDS	561	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+Pray.g_00776	gene	837	ygfZ			
+Pray.g_00776	CDS	837	ygfZ			tRNA-modifying protein YgfZ
+Pray.g_00777	gene	1419				
+Pray.g_00777	CDS	1419				hypothetical protein
+Pray.g_00778	gene	1455	glmM_2			
+Pray.g_00778	CDS	1455	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Pray.g_00779	gene	615				
+Pray.g_00779	CDS	615		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Pray.g_00780	gene	1485				
+Pray.g_00780	CDS	1485		1.13.11.75		Apocarotenoid-15,15'-oxygenase
+Pray.g_00781	gene	606	hisB			
+Pray.g_00781	CDS	606	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+Pray.g_00782	gene	783	fabI			
+Pray.g_00782	CDS	783	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Pray.g_00783	gene	594				
+Pray.g_00783	CDS	594				hypothetical protein
+Pray.g_00784	gene	1206	fdtB			
+Pray.g_00784	CDS	1206	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+Pray.g_00785	gene	1437	phr			
+Pray.g_00785	CDS	1437	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+Pray.g_00786	gene	564	nudF			
+Pray.g_00786	CDS	564	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+Pray.g_00787	gene	564				
+Pray.g_00787	CDS	564				hypothetical protein
+Pray.g_00788	gene	2178				
+Pray.g_00788	CDS	2178				hypothetical protein
+Pray.g_00789	gene	846				
+Pray.g_00789	CDS	846				hypothetical protein
+Pray.g_00790	gene	810	mlaF			
+Pray.g_00790	CDS	810	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+Pray.g_00791	gene	1386				
+Pray.g_00791	CDS	1386				Gluconeogenesis factor
+Pray.g_00792	gene	531	ndhJ			
+Pray.g_00792	CDS	531	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J
+Pray.g_00793	gene	735	ndhK1			
+Pray.g_00793	CDS	735	ndhK1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K 1
+Pray.g_00794	gene	363	ndhC			
+Pray.g_00794	CDS	363	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+Pray.g_00795	gene	429				
+Pray.g_00795	CDS	429				hypothetical protein
+Pray.g_00796	gene	1017				
+Pray.g_00796	CDS	1017			COG4447	Ycf48-like protein
+Pray.g_00797	gene	249	psbE			
+Pray.g_00797	CDS	249	psbE			Cytochrome b559 subunit alpha
+Pray.g_00798	gene	147	psbF_1			
+Pray.g_00798	CDS	147	psbF_1			Cytochrome b559 subunit beta
+Pray.g_00799	gene	198	psbJ			
+Pray.g_00799	CDS	198	psbJ			Photosystem II reaction center protein J
+Pray.g_00800	gene	894	mtnP			
+Pray.g_00800	CDS	894	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+Pray.g_00801	gene	2172	selD			
+Pray.g_00801	CDS	2172	selD	2.7.9.3		Selenide, water dikinase
+Pray.g_00802	gene	1248	pcnB			
+Pray.g_00802	CDS	1248	pcnB	2.7.7.19		Poly(A) polymerase I
+Pray.g_00803	gene	2409	pcrA			
+Pray.g_00803	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+Pray.g_00804	gene	207				
+Pray.g_00804	CDS	207				hypothetical protein
+Pray.g_00805	gene	513	cpeB			
+Pray.g_00805	CDS	513	cpeB			R-phycoerythrin subunit beta
+Pray.g_00806	gene	552	cpeS			
+Pray.g_00806	CDS	552	cpeS	4.-.-.-		Phycoerythrobilin lyase CpeS
+Pray.g_00807	gene	180				
+Pray.g_00807	CDS	180				hypothetical protein
+Pray.g_00808	gene	636				
+Pray.g_00808	CDS	636				hypothetical protein
+Pray.g_00809	gene	435				
+Pray.g_00809	CDS	435				hypothetical protein
+Pray.g_00810	gene	75				
+Pray.g_00810	tRNA	75				tRNA-Phe(gaa)
+Pray.g_00811	gene	1230	PSK			
+Pray.g_00811	CDS	1230	PSK	2.7.1.47	COG1070	D-ribulose kinase
+Pray.g_00812	gene	1242	metK			
+Pray.g_00812	CDS	1242	metK	2.5.1.6		S-adenosylmethionine synthase
+Pray.g_00813	gene	1092	rpsA			
+Pray.g_00813	CDS	1092	rpsA		COG0539	30S ribosomal protein S1
+Pray.g_00814	gene	480	nrdR			
+Pray.g_00814	CDS	480	nrdR		COG1327	Transcriptional repressor NrdR
+Pray.g_00815	gene	99	psbT			
+Pray.g_00815	CDS	99	psbT			Photosystem II reaction center protein T
+Pray.g_00816	gene	1524	psbB			
+Pray.g_00816	CDS	1524	psbB			Photosystem II CP47 reaction center protein
+Pray.g_00817	gene	363				
+Pray.g_00817	CDS	363				hypothetical protein
+Pray.g_00818	gene	153	psbM			
+Pray.g_00818	CDS	153	psbM			Photosystem II reaction center protein M
+Pray.g_00819	gene	870	prmC_1			
+Pray.g_00819	CDS	870	prmC_1	2.1.1.297		Release factor glutamine methyltransferase
+Pray.g_00820	gene	582	tsaC			
+Pray.g_00820	CDS	582	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+Pray.g_00821	gene	168				
+Pray.g_00821	CDS	168				hypothetical protein
+Pray.g_00822	gene	74				
+Pray.g_00822	tRNA	74				tRNA-Thr(tgt)
+Pray.g_00823	gene	324	minE			
+Pray.g_00823	CDS	324	minE			Cell division topological specificity factor
+Pray.g_00824	gene	816	minD			
+Pray.g_00824	CDS	816	minD		COG2894	Septum site-determining protein MinD
+Pray.g_00825	gene	663	minC			
+Pray.g_00825	CDS	663	minC			septum site-determining protein MinC
+Pray.g_00826	gene	1257				
+Pray.g_00826	CDS	1257				hypothetical protein
+Pray.g_00827	gene	1305				
+Pray.g_00827	CDS	1305				hypothetical protein
+Pray.g_00828	gene	657	petB			
+Pray.g_00828	CDS	657	petB		COG1290	Cytochrome b6
+Pray.g_00829	gene	483	petD			
+Pray.g_00829	CDS	483	petD			Cytochrome b6-f complex subunit 4
+Pray.g_00830	gene	1440				
+Pray.g_00830	CDS	1440				hypothetical protein
+Pray.g_00831	gene	76				
+Pray.g_00831	tRNA	76				tRNA-Ile(gat)
+Pray.g_00832	gene	74				
+Pray.g_00832	tRNA	74				tRNA-Ala(tgc)
+Pray.g_00833	gene	879	mutM			
+Pray.g_00833	CDS	879	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Pray.g_00834	gene	273	psaE			
+Pray.g_00834	CDS	273	psaE			Photosystem I reaction center subunit IV
+Pray.g_00835	gene	762				
+Pray.g_00835	CDS	762				hypothetical protein
+Pray.g_00836	gene	1392	aldH1			
+Pray.g_00836	CDS	1392	aldH1	1.2.1.-	COG1012	4,4'-diaponeurosporen-aldehyde dehydrogenase
+Pray.g_00837	gene	891				
+Pray.g_00837	CDS	891				hypothetical protein
+Pray.g_00838	gene	249				
+Pray.g_00838	CDS	249				hypothetical protein
+Pray.g_00839	gene	435				
+Pray.g_00839	CDS	435				hypothetical protein
+Pray.g_00840	gene	510				
+Pray.g_00840	CDS	510				hypothetical protein
+Pray.g_00841	gene	138				
+Pray.g_00841	CDS	138				hypothetical protein
+Pray.g_00842	gene	309				
+Pray.g_00842	CDS	309				hypothetical protein
+Pray.g_00843	gene	207				
+Pray.g_00843	CDS	207				hypothetical protein
+Pray.g_00844	gene	291				
+Pray.g_00844	CDS	291				hypothetical protein
+Pray.g_00845	gene	204				
+Pray.g_00845	CDS	204				hypothetical protein
+Pray.g_00846	gene	1530	crtI_2			
+Pray.g_00846	CDS	1530	crtI_2	1.3.99.31	COG1233	Phytoene desaturase (lycopene-forming)
+Pray.g_00847	gene	111				
+Pray.g_00847	CDS	111				hypothetical protein
+Pray.g_00848	gene	486				
+Pray.g_00848	CDS	486				hypothetical protein
+Pray.g_00849	gene	216				
+Pray.g_00849	CDS	216				hypothetical protein
+Pray.g_00850	gene	318				
+Pray.g_00850	CDS	318				hypothetical protein
+Pray.g_00851	gene	393				
+Pray.g_00851	CDS	393				hypothetical protein
+Pray.g_00852	gene	261	tatA			
+Pray.g_00852	CDS	261	tatA		COG1826	Sec-independent protein translocase protein TatA
+Pray.g_00853	gene	138				
+Pray.g_00853	CDS	138				hypothetical protein
+Pray.g_00854	gene	234				
+Pray.g_00854	CDS	234				hypothetical protein
+Pray.g_00855	gene	135				
+Pray.g_00855	CDS	135				hypothetical protein
+Pray.g_00856	gene	450	bcp_2			
+Pray.g_00856	CDS	450	bcp_2	1.11.1.15	COG1225	Peroxiredoxin Bcp
+Pray.g_00857	gene	273				
+Pray.g_00857	CDS	273				hypothetical protein
+Pray.g_00858	gene	345				
+Pray.g_00858	CDS	345				hypothetical protein
+Pray.g_00859	gene	105				
+Pray.g_00859	CDS	105				hypothetical protein
+Pray.g_00860	gene	375				
+Pray.g_00860	CDS	375				hypothetical protein
+Pray.g_00861	gene	429	arfB			
+Pray.g_00861	CDS	429	arfB	3.1.1.29	COG1186	Peptidyl-tRNA hydrolase ArfB
+Pray.g_00862	gene	249				
+Pray.g_00862	CDS	249				hypothetical protein
+Pray.g_00863	gene	165				
+Pray.g_00863	CDS	165				hypothetical protein
+Pray.g_00864	gene	849				
+Pray.g_00864	CDS	849				hypothetical protein
+Pray.g_00865	gene	198				
+Pray.g_00865	CDS	198				hypothetical protein
+Pray.g_00866	gene	138				
+Pray.g_00866	CDS	138				hypothetical protein
+Pray.g_00867	gene	141				
+Pray.g_00867	CDS	141				hypothetical protein
+Pray.g_00868	gene	183				
+Pray.g_00868	CDS	183				hypothetical protein
+Pray.g_00869	gene	951	pip			
+Pray.g_00869	CDS	951	pip	3.4.11.5		Proline iminopeptidase
+Pray.g_00870	gene	174				
+Pray.g_00870	CDS	174				hypothetical protein
+Pray.g_00871	gene	258				
+Pray.g_00871	CDS	258				hypothetical protein
+Pray.g_00872	gene	1494	cry2			
+Pray.g_00872	CDS	1494	cry2		COG0415	Cryptochrome-like protein cry2
+Pray.g_00873	gene	384				
+Pray.g_00873	CDS	384				hypothetical protein
+Pray.g_00874	gene	513				
+Pray.g_00874	CDS	513				hypothetical protein
+Pray.g_00875	gene	117				
+Pray.g_00875	CDS	117				hypothetical protein
+Pray.g_00876	gene	624	tenA			
+Pray.g_00876	CDS	624	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+Pray.g_00877	gene	780	thiD			
+Pray.g_00877	CDS	780	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Pray.g_00878	gene	186				
+Pray.g_00878	CDS	186				hypothetical protein
+Pray.g_00879	gene	144				
+Pray.g_00879	CDS	144				hypothetical protein
+Pray.g_00880	gene	468				
+Pray.g_00880	CDS	468				hypothetical protein
+Pray.g_00881	gene	378				
+Pray.g_00881	CDS	378				hypothetical protein
+Pray.g_00882	gene	150				
+Pray.g_00882	CDS	150				hypothetical protein
+Pray.g_00883	gene	321				
+Pray.g_00883	CDS	321				hypothetical protein
+Pray.g_00884	gene	279				
+Pray.g_00884	CDS	279				hypothetical protein
+Pray.g_00885	gene	258				
+Pray.g_00885	CDS	258				hypothetical protein
+Pray.g_00886	gene	3609				
+Pray.g_00886	CDS	3609				hypothetical protein
+Pray.g_00887	gene	252				
+Pray.g_00887	CDS	252				hypothetical protein
+Pray.g_00888	gene	423				
+Pray.g_00888	CDS	423				hypothetical protein
+Pray.g_00889	gene	246				
+Pray.g_00889	CDS	246				hypothetical protein
+Pray.g_00890	gene	285				
+Pray.g_00890	CDS	285				hypothetical protein
+Pray.g_00891	gene	1053				
+Pray.g_00891	CDS	1053				hypothetical protein
+Pray.g_00892	gene	1044				
+Pray.g_00892	CDS	1044				hypothetical protein
+Pray.g_00893	gene	1188	soxA			
+Pray.g_00893	CDS	1188	soxA	1.5.3.1		Monomeric sarcosine oxidase
+Pray.g_00894	gene	711				
+Pray.g_00894	CDS	711				hypothetical protein
+Pray.g_00895	gene	186				
+Pray.g_00895	CDS	186				hypothetical protein
+Pray.g_00896	gene	255				
+Pray.g_00896	CDS	255				hypothetical protein
+Pray.g_00897	gene	633				
+Pray.g_00897	CDS	633				hypothetical protein
+Pray.g_00898	gene	588				
+Pray.g_00898	CDS	588				hypothetical protein
+Pray.g_00899	gene	198				
+Pray.g_00899	CDS	198				hypothetical protein
+Pray.g_00900	gene	105				
+Pray.g_00900	CDS	105				hypothetical protein
+Pray.g_00901	gene	1185				
+Pray.g_00901	CDS	1185				hypothetical protein
+Pray.g_00902	gene	207				
+Pray.g_00902	CDS	207				hypothetical protein
+Pray.g_00903	gene	192				
+Pray.g_00903	CDS	192				hypothetical protein
+Pray.g_00904	gene	765	fabG_1			
+Pray.g_00904	CDS	765	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Pray.g_00905	gene	255				
+Pray.g_00905	CDS	255				hypothetical protein
+Pray.g_00906	gene	468				
+Pray.g_00906	CDS	468				hypothetical protein
+Pray.g_00907	gene	855				
+Pray.g_00907	CDS	855				hypothetical protein
+Pray.g_00908	gene	180				
+Pray.g_00908	CDS	180				hypothetical protein
+Pray.g_00909	gene	783				
+Pray.g_00909	CDS	783				hypothetical protein
+Pray.g_00910	gene	192				
+Pray.g_00910	CDS	192				hypothetical protein
+Pray.g_00911	gene	387				
+Pray.g_00911	CDS	387				hypothetical protein
+Pray.g_00912	gene	141				
+Pray.g_00912	CDS	141				hypothetical protein
+Pray.g_00913	gene	1377				
+Pray.g_00913	CDS	1377				hypothetical protein
+Pray.g_00914	gene	1608				
+Pray.g_00914	CDS	1608				hypothetical protein
+Pray.g_00915	gene	2310				
+Pray.g_00915	CDS	2310				hypothetical protein
+Pray.g_00916	gene	948				
+Pray.g_00916	CDS	948				hypothetical protein
+Pray.g_00917	gene	615	xerC			
+Pray.g_00917	CDS	615	xerC			Tyrosine recombinase XerC
+Pray.g_00918	gene	297				
+Pray.g_00918	CDS	297				hypothetical protein
+Pray.g_00919	gene	73				
+Pray.g_00919	tRNA	73				tRNA-Thr(ggt)
+Pray.g_00920	gene	83				
+Pray.g_00920	tRNA	83				tRNA-Tyr(gta)
+Pray.g_00921	gene	444	aroQ			
+Pray.g_00921	CDS	444	aroQ	4.2.1.10		3-dehydroquinate dehydratase
+Pray.g_00922	gene	609				
+Pray.g_00922	CDS	609				hypothetical protein
+Pray.g_00923	gene	756	cbiL			
+Pray.g_00923	CDS	756	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+Pray.g_00924	gene	486				
+Pray.g_00924	CDS	486				hypothetical protein
+Pray.g_00925	gene	1374	der			
+Pray.g_00925	CDS	1374	der		COG1160	GTPase Der
+Pray.g_00926	gene	915	ecfT			
+Pray.g_00926	CDS	915	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+Pray.g_00927	gene	267				
+Pray.g_00927	CDS	267				hypothetical protein
+Pray.g_00928	gene	636				
+Pray.g_00928	CDS	636			COG0325	Pyridoxal phosphate homeostasis protein
+Pray.g_00929	gene	576	sepF			
+Pray.g_00929	CDS	576	sepF		COG1799	Cell division protein SepF
+Pray.g_00930	gene	834	proC			
+Pray.g_00930	CDS	834	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+Pray.g_00931	gene	1158	bshA			
+Pray.g_00931	CDS	1158	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+Pray.g_00932	gene	786	recO			
+Pray.g_00932	CDS	786	recO			DNA repair protein RecO
+Pray.g_00933	gene	660	deoC			
+Pray.g_00933	CDS	660	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+Pray.g_00934	gene	585	hpf			
+Pray.g_00934	CDS	585	hpf		COG1544	Ribosome hibernation promotion factor
+Pray.g_00935	gene	651	lipB			
+Pray.g_00935	CDS	651	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Pray.g_00936	gene	1944				
+Pray.g_00936	CDS	1944		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+Pray.g_00937	gene	444				
+Pray.g_00937	CDS	444				hypothetical protein
+Pray.g_00938	gene	1365	odhB			
+Pray.g_00938	CDS	1365	odhB	2.3.1.61		Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+Pray.g_00939	gene	1128	queA			
+Pray.g_00939	CDS	1128	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Pray.g_00940	gene	987	srpG			
+Pray.g_00940	CDS	987	srpG	2.5.1.47	COG0031	Cysteine synthase
+Pray.g_00941	gene	1470	besB			
+Pray.g_00941	CDS	1470	besB	4.5.1.-		L-2-amino-4-chloropent-4-enoate dechlorinase/desaturase
+Pray.g_00942	gene	1164	metC			
+Pray.g_00942	CDS	1164	metC	4.4.1.13	COG0626	Cystathionine beta-lyase
+Pray.g_00943	gene	609	rpsD			
+Pray.g_00943	CDS	609	rpsD		COG0522	30S ribosomal protein S4
+Pray.g_00944	gene	192	yidD			
+Pray.g_00944	CDS	192	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Pray.g_00945	gene	303				
+Pray.g_00945	CDS	303				hypothetical protein
+Pray.g_00946	gene	1536	murE			
+Pray.g_00946	CDS	1536	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Pray.g_00947	gene	705				
+Pray.g_00947	CDS	705				hypothetical protein
+Pray.g_00948	gene	1176	sufS			
+Pray.g_00948	CDS	1176	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+Pray.g_00949	gene	795	arsM			
+Pray.g_00949	CDS	795	arsM	2.1.1.137		Arsenite methyltransferase
+Pray.g_00950	gene	258				
+Pray.g_00950	CDS	258				hypothetical protein
+Pray.g_00951	gene	246	nfuA			
+Pray.g_00951	CDS	246	nfuA			Fe/S biogenesis protein NfuA
+Pray.g_00952	gene	1497	mqo			
+Pray.g_00952	CDS	1497	mqo	1.1.5.4	COG0579	Malate:quinone oxidoreductase
+Pray.g_00953	gene	1809	lepA			
+Pray.g_00953	CDS	1809	lepA	3.6.5.-		Elongation factor 4
+Pray.g_00954	gene	846	gsiD			
+Pray.g_00954	CDS	846	gsiD		COG1173	Glutathione transport system permease protein GsiD
+Pray.g_00955	gene	672	trmH			
+Pray.g_00955	CDS	672	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+Pray.g_00956	gene	204				
+Pray.g_00956	CDS	204				hypothetical protein
+Pray.g_00957	gene	393				
+Pray.g_00957	CDS	393				hypothetical protein
+Pray.g_00958	gene	237				
+Pray.g_00958	CDS	237				hypothetical protein
+Pray.g_00959	gene	1491	phrB			
+Pray.g_00959	CDS	1491	phrB	4.1.99.13	COG3046	(6-4) photolyase
+Pray.g_00960	gene	180				
+Pray.g_00960	CDS	180				hypothetical protein
+Pray.g_00961	gene	1317	rsmB			
+Pray.g_00961	CDS	1317	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+Pray.g_00962	gene	1770	pbpD			
+Pray.g_00962	CDS	1770	pbpD		COG0744	Penicillin-binding protein 4
+Pray.g_00963	gene	948	menA_2			
+Pray.g_00963	CDS	948	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+Pray.g_00964	gene	225				
+Pray.g_00964	CDS	225				hypothetical protein
+Pray.g_00965	gene	771	hisF			
+Pray.g_00965	CDS	771	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Pray.g_00966	gene	702	menG			
+Pray.g_00966	CDS	702	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+Pray.g_00967	gene	531				
+Pray.g_00967	CDS	531				hypothetical protein
+Pray.g_00968	gene	750	birA			
+Pray.g_00968	CDS	750	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+Pray.g_00969	gene	687	yknY			
+Pray.g_00969	CDS	687	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+Pray.g_00970	gene	1521	ndhB			
+Pray.g_00970	CDS	1521	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+Pray.g_00971	gene	2607	topA			
+Pray.g_00971	CDS	2607	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+Pray.g_00972	gene	585				
+Pray.g_00972	CDS	585				hypothetical protein
+Pray.g_00973	gene	639				
+Pray.g_00973	CDS	639				hypothetical protein
+Pray.g_00974	gene	1158				
+Pray.g_00974	CDS	1158				hypothetical protein
+Pray.g_00975	gene	999				
+Pray.g_00975	CDS	999				hypothetical protein
+Pray.g_00976	gene	1143				
+Pray.g_00976	CDS	1143				hypothetical protein
+Pray.g_00977	gene	654	ribE			
+Pray.g_00977	CDS	654	ribE	2.5.1.9	COG0307	Riboflavin synthase
+Pray.g_00978	gene	354				
+Pray.g_00978	CDS	354				hypothetical protein
+Pray.g_00979	gene	603	ctaE			
+Pray.g_00979	CDS	603	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+Pray.g_00980	gene	1626	ctaD			
+Pray.g_00980	CDS	1626	ctaD	1.9.3.1	COG0843	putative cytochrome c oxidase subunit 1
+Pray.g_00981	gene	804				
+Pray.g_00981	CDS	804				hypothetical protein
+Pray.g_00982	gene	975	ctaA			
+Pray.g_00982	CDS	975	ctaA	1.3.-.-		Heme A synthase
+Pray.g_00983	gene	1002	ctaB			
+Pray.g_00983	CDS	1002	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+Pray.g_00984	gene	1017	drrA			
+Pray.g_00984	CDS	1017	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+Pray.g_00985	gene	825				
+Pray.g_00985	CDS	825				hypothetical protein
+Pray.g_00986	gene	432				
+Pray.g_00986	CDS	432				hypothetical protein
+Pray.g_00987	gene	1455	groL2_1			
+Pray.g_00987	CDS	1455	groL2_1			60 kDa chaperonin 2
+Pray.g_00988	gene	291	groL2_2			
+Pray.g_00988	CDS	291	groL2_2			60 kDa chaperonin 2
+Pray.g_00989	gene	180				
+Pray.g_00989	CDS	180				hypothetical protein
+Pray.g_00990	gene	750	fabG_2			
+Pray.g_00990	CDS	750	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Pray.g_00991	gene	672	ispD			
+Pray.g_00991	CDS	672	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Pray.g_00992	gene	870	ykfA			
+Pray.g_00992	CDS	870	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+Pray.g_00993	gene	909	plqA			
+Pray.g_00993	CDS	909	plqA	2.5.1.39		4-hydroxybenzoate solanesyltransferase
+Pray.g_00994	gene	1596	ppx			
+Pray.g_00994	CDS	1596	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+Pray.g_00995	gene	495				
+Pray.g_00995	CDS	495				hypothetical protein
+Pray.g_00996	gene	774	cbiF			
+Pray.g_00996	CDS	774	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+Pray.g_00997	gene	894	lgt			
+Pray.g_00997	CDS	894	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Pray.g_00998	gene	954	petA			
+Pray.g_00998	CDS	954	petA			Cytochrome f
+Pray.g_00999	gene	537	petC1			
+Pray.g_00999	CDS	537	petC1	7.1.1.6	COG0723	Cytochrome b6-f complex iron-sulfur subunit 1
+Pray.g_01000	gene	318				
+Pray.g_01000	CDS	318				hypothetical protein
+Pray.g_01001	gene	759	tatC			
+Pray.g_01001	CDS	759	tatC		COG0805	Sec-independent protein translocase protein TatC
+Pray.g_01002	gene	261				
+Pray.g_01002	CDS	261				hypothetical protein
+Pray.g_01003	gene	1725	rqcH			
+Pray.g_01003	CDS	1725	rqcH		COG1293	Rqc2 RqcH
+Pray.g_01004	gene	555	gmk			
+Pray.g_01004	CDS	555	gmk	2.7.4.8	COG0194	Guanylate kinase
+Pray.g_01005	gene	135	psaJ			
+Pray.g_01005	CDS	135	psaJ			Photosystem I reaction center subunit IX
+Pray.g_01006	gene	555	psaF			
+Pray.g_01006	CDS	555	psaF			Photosystem I reaction center subunit III
+Pray.g_01007	gene	1071	tsaD			
+Pray.g_01007	CDS	1071	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Pray.g_01008	gene	177				
+Pray.g_01008	CDS	177				hypothetical protein
+Pray.g_01009	gene	1200	nhaH			
+Pray.g_01009	CDS	1200	nhaH			Na(+)/H(+) antiporter NhaH
+Pray.g_01010	gene	1440	gltX			
+Pray.g_01010	CDS	1440	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Pray.g_01011	gene	76				
+Pray.g_01011	tRNA	76				tRNA-Asp(gtc)
+Pray.g_01012	gene	195				
+Pray.g_01012	CDS	195				hypothetical protein
+Pray.g_01013	gene	75				
+Pray.g_01013	tRNA	75				tRNA-Trp(cca)
+Pray.g_01014	gene	471				
+Pray.g_01014	CDS	471				hypothetical protein
+Pray.g_01015	gene	309				
+Pray.g_01015	CDS	309				hypothetical protein
+Pray.g_01016	gene	840	map			
+Pray.g_01016	CDS	840	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Pray.g_01017	gene	717	MgdE			
+Pray.g_01017	CDS	717	MgdE	5.1.3.34		Monoglucosyldiacylglycerol epimerase
+Pray.g_01018	gene	1110				
+Pray.g_01018	CDS	1110				hypothetical protein
+Pray.g_01019	gene	573				
+Pray.g_01019	CDS	573				hypothetical protein
+Pray.g_01020	gene	498				
+Pray.g_01020	CDS	498				hypothetical protein
+Pray.g_01021	gene	216				
+Pray.g_01021	CDS	216				hypothetical protein
+Pray.g_01022	gene	804				
+Pray.g_01022	CDS	804				hypothetical protein
+Pray.g_01023	gene	1302	hemL			
+Pray.g_01023	CDS	1302	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+Pray.g_01024	gene	324	exoA			
+Pray.g_01024	CDS	324	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+Pray.g_01025	gene	504	udg			
+Pray.g_01025	CDS	504	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+Pray.g_01026	gene	1179	aspC			
+Pray.g_01026	CDS	1179	aspC	2.6.1.1		Aspartate aminotransferase
+Pray.g_01027	gene	894	phnD1			
+Pray.g_01027	CDS	894	phnD1		COG3221	putative ABC transporter phosphite binding protein PhnD1
+Pray.g_01028	gene	741	thiQ			
+Pray.g_01028	CDS	741	thiQ	3.6.3.-	COG3840	Thiamine import ATP-binding protein ThiQ
+Pray.g_01029	gene	1503	phnE			
+Pray.g_01029	CDS	1503	phnE		COG3639	Phosphate-import permease protein PhnE
+Pray.g_01030	gene	645				
+Pray.g_01030	CDS	645				hypothetical protein
+Pray.g_01031	gene	744				
+Pray.g_01031	CDS	744				hypothetical protein
+Pray.g_01032	gene	774	rsmE			
+Pray.g_01032	CDS	774	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+Pray.g_01033	gene	444				
+Pray.g_01033	CDS	444				hypothetical protein
+Pray.g_01034	gene	648	glnQ			
+Pray.g_01034	CDS	648	glnQ		COG1126	Glutamine transport ATP-binding protein GlnQ
+Pray.g_01035	gene	909	hslO			
+Pray.g_01035	CDS	909	hslO		COG1281	33 kDa chaperonin
+Pray.g_01036	gene	675				
+Pray.g_01036	CDS	675				hypothetical protein
+Pray.g_01037	gene	1638	prfC			
+Pray.g_01037	CDS	1638	prfC			Peptide chain release factor 3
+Pray.g_01038	gene	696	tam_1			
+Pray.g_01038	CDS	696	tam_1	2.1.1.144		Trans-aconitate 2-methyltransferase
+Pray.g_01039	gene	2334				
+Pray.g_01039	CDS	2334				hypothetical protein
+Pray.g_01040	gene	267				
+Pray.g_01040	CDS	267				hypothetical protein
+Pray.g_01041	gene	195				
+Pray.g_01041	CDS	195				hypothetical protein
+Pray.g_01042	gene	150				
+Pray.g_01042	CDS	150				hypothetical protein
+Pray.g_01043	gene	756				
+Pray.g_01043	CDS	756				hypothetical protein
+Pray.g_01044	gene	411				
+Pray.g_01044	CDS	411				hypothetical protein
+Pray.g_01045	gene	1626				
+Pray.g_01045	CDS	1626				hypothetical protein
+Pray.g_01046	gene	438				
+Pray.g_01046	CDS	438				hypothetical protein
+Pray.g_01047	gene	1002				
+Pray.g_01047	CDS	1002				hypothetical protein
+Pray.g_01048	gene	882				
+Pray.g_01048	CDS	882				hypothetical protein
+Pray.g_01049	gene	192				
+Pray.g_01049	CDS	192				hypothetical protein
+Pray.g_01050	gene	606				
+Pray.g_01050	CDS	606				hypothetical protein
+Pray.g_01051	gene	597				
+Pray.g_01051	CDS	597				hypothetical protein
+Pray.g_01052	gene	89				
+Pray.g_01052	tRNA	89				tRNA-Ser(tga)
+Pray.g_01053	gene	723				
+Pray.g_01053	CDS	723				hypothetical protein
+Pray.g_01054	gene	549				
+Pray.g_01054	CDS	549				hypothetical protein
+Pray.g_01055	gene	678				
+Pray.g_01055	CDS	678				hypothetical protein
+Pray.g_01056	gene	198				
+Pray.g_01056	CDS	198				hypothetical protein
+Pray.g_01057	gene	585				
+Pray.g_01057	CDS	585				hypothetical protein
+Pray.g_01058	gene	330				
+Pray.g_01058	CDS	330				hypothetical protein
+Pray.g_01059	gene	435				
+Pray.g_01059	CDS	435				hypothetical protein
+Pray.g_01060	gene	390	gloA			
+Pray.g_01060	CDS	390	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+Pray.g_01061	gene	648				
+Pray.g_01061	CDS	648				hypothetical protein
+Pray.g_01062	gene	393				
+Pray.g_01062	CDS	393				hypothetical protein
+Pray.g_01063	gene	474				
+Pray.g_01063	CDS	474				Pentapeptide repeat protein Rfr32
+Pray.g_01064	gene	1641	mpdB			
+Pray.g_01064	CDS	1641	mpdB	1.1.1.400		2-methyl-1,2-propanediol dehydrogenase
+Pray.g_01065	gene	258				
+Pray.g_01065	CDS	258				hypothetical protein
+Pray.g_01066	gene	1131				
+Pray.g_01066	CDS	1131				hypothetical protein
+Pray.g_01067	gene	1275				
+Pray.g_01067	CDS	1275				hypothetical protein
+Pray.g_01068	gene	1566	bicA_2			
+Pray.g_01068	CDS	1566	bicA_2		COG0659	Bicarbonate transporter BicA
+Pray.g_01069	gene	891	metAA			
+Pray.g_01069	CDS	891	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+Pray.g_01070	gene	1329	oah1			
+Pray.g_01070	CDS	1329	oah1	2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase 1
+Pray.g_01071	gene	660				
+Pray.g_01071	CDS	660				hypothetical protein
+Pray.g_01072	gene	1509				
+Pray.g_01072	CDS	1509				hypothetical protein
+Pray.g_01073	gene	1221	stpA			
+Pray.g_01073	CDS	1221	stpA	3.1.3.69		Glucosylglycerol-phosphate phosphatase
+Pray.g_01074	gene	933	moaA			
+Pray.g_01074	CDS	933	moaA			GTP 3',8-cyclase
+Pray.g_01075	gene	453	perR			
+Pray.g_01075	CDS	453	perR		COG0735	Peroxide-responsive repressor PerR
+Pray.g_01076	gene	567				
+Pray.g_01076	CDS	567				hypothetical protein
+Pray.g_01077	gene	1032				
+Pray.g_01077	CDS	1032				hypothetical protein
+Pray.g_01078	gene	1002				
+Pray.g_01078	CDS	1002				hypothetical protein
+Pray.g_01079	gene	1284	crtL_2			
+Pray.g_01079	CDS	1284	crtL_2	5.5.1.19		Lycopene beta cyclase
+Pray.g_01080	gene	708	bacC			
+Pray.g_01080	CDS	708	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+Pray.g_01081	gene	543				
+Pray.g_01081	CDS	543				hypothetical protein
+Pray.g_01082	gene	660				
+Pray.g_01082	CDS	660				hypothetical protein
+Pray.g_01083	gene	258				
+Pray.g_01083	CDS	258				hypothetical protein
+Pray.g_01084	gene	1371				
+Pray.g_01084	CDS	1371				hypothetical protein
+Pray.g_01085	gene	1059	pcbA			
+Pray.g_01085	CDS	1059	pcbA			Divinyl chlorophyll a/b light-harvesting protein PcbA
+Pray.g_01086	gene	177				
+Pray.g_01086	CDS	177				hypothetical protein
+Pray.g_01087	gene	234				
+Pray.g_01087	CDS	234				hypothetical protein
+Pray.g_01088	gene	300				
+Pray.g_01088	CDS	300				hypothetical protein
+Pray.g_01089	gene	294				
+Pray.g_01089	CDS	294				hypothetical protein
+Pray.g_01090	gene	1281	hisS			
+Pray.g_01090	CDS	1281	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Pray.g_01091	gene	423				
+Pray.g_01091	CDS	423				hypothetical protein
+Pray.g_01092	gene	780	polC			
+Pray.g_01092	CDS	780	polC	2.7.7.7		DNA polymerase III PolC-type
+Pray.g_01093	gene	723				
+Pray.g_01093	CDS	723				hypothetical protein
+Pray.g_01094	gene	1983	acsA			
+Pray.g_01094	CDS	1983	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Pray.g_01095	gene	972	hepT			
+Pray.g_01095	CDS	972	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+Pray.g_01096	gene	795	murI			
+Pray.g_01096	CDS	795	murI	5.1.1.3		Glutamate racemase
+Pray.g_01097	gene	1086				
+Pray.g_01097	CDS	1086				hypothetical protein
+Pray.g_01098	gene	828	nit1			
+Pray.g_01098	CDS	828	nit1	3.5.1.128		Deaminated glutathione amidase
+Pray.g_01099	gene	735	comB			
+Pray.g_01099	CDS	735	comB	3.1.3.71	COG2045	putative 2-phosphosulfolactate phosphatase
+Pray.g_01100	gene	1311	aroA1			
+Pray.g_01100	CDS	1311	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+Pray.g_01101	gene	906	mnmC_1			
+Pray.g_01101	CDS	906	mnmC_1	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+Pray.g_01102	gene	1350	glmU_1			
+Pray.g_01102	CDS	1350	glmU_1		COG1207	Bifunctional protein GlmU
+Pray.g_01103	gene	1374	murF			
+Pray.g_01103	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Pray.g_01104	gene	1458	glgA			
+Pray.g_01104	CDS	1458	glgA	2.4.1.21	COG0297	Glycogen synthase
+Pray.g_01105	gene	858	menB			
+Pray.g_01105	CDS	858	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+Pray.g_01106	gene	1764	menD			
+Pray.g_01106	CDS	1764	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+Pray.g_01107	gene	585	sipT			
+Pray.g_01107	CDS	585	sipT	3.4.21.89	COG0681	Signal peptidase I T
+Pray.g_01108	gene	330				
+Pray.g_01108	CDS	330				hypothetical protein
+Pray.g_01109	gene	1173				
+Pray.g_01109	CDS	1173				hypothetical protein
+Pray.g_01110	gene	873	mntB_3			
+Pray.g_01110	CDS	873	mntB_3			Manganese transport system membrane protein MntB
+Pray.g_01111	gene	765	mntB_4			
+Pray.g_01111	CDS	765	mntB_4		COG1121	Manganese transport system ATP-binding protein MntB
+Pray.g_01112	gene	909				
+Pray.g_01112	CDS	909			COG0803	putative periplasmic iron-binding protein
+Pray.g_01113	gene	1335				
+Pray.g_01113	CDS	1335				hypothetical protein
+Pray.g_01114	gene	423				
+Pray.g_01114	CDS	423				hypothetical protein
+Pray.g_01115	gene	1017	trpS			
+Pray.g_01115	CDS	1017	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Pray.g_01116	gene	1917	thrS			
+Pray.g_01116	CDS	1917	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Pray.g_01117	gene	1035	glk			
+Pray.g_01117	CDS	1035	glk	2.7.1.2	COG0837	Glucokinase
+Pray.g_01118	gene	948	thrB			
+Pray.g_01118	CDS	948	thrB	2.7.1.39	COG0083	Homoserine kinase
+Pray.g_01119	gene	1542	ndhD1_2			
+Pray.g_01119	CDS	1542	ndhD1_2	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+Pray.g_01120	gene	2088	prlC			
+Pray.g_01120	CDS	2088	prlC	3.4.24.70	COG0339	Oligopeptidase A
+Pray.g_01121	gene	594				
+Pray.g_01121	CDS	594				hypothetical protein
+Pray.g_01122	gene	363	folB			
+Pray.g_01122	CDS	363	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+Pray.g_01123	gene	1311	proA			
+Pray.g_01123	CDS	1311	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+Pray.g_01124	gene	3897				
+Pray.g_01124	CDS	3897				hypothetical protein
+Pray.g_01125	gene	465				
+Pray.g_01125	CDS	465				hypothetical protein
+Pray.g_01126	gene	408				
+Pray.g_01126	CDS	408				hypothetical protein
+Pray.g_01127	gene	267				
+Pray.g_01127	CDS	267				hypothetical protein
+Pray.g_01128	gene	1575	cocE			
+Pray.g_01128	CDS	1575	cocE	3.1.1.84		Cocaine esterase
+Pray.g_01129	gene	2265	glgB			
+Pray.g_01129	CDS	2265	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+Pray.g_01130	gene	1041	hemE			
+Pray.g_01130	CDS	1041	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+Pray.g_01131	gene	984				
+Pray.g_01131	CDS	984				hypothetical protein
+Pray.g_01132	gene	351	petE			
+Pray.g_01132	CDS	351	petE		COG3794	Plastocyanin
+Pray.g_01133	gene	2583	clpB1_2			
+Pray.g_01133	CDS	2583	clpB1_2		COG0542	Chaperone protein ClpB 1
+Pray.g_01134	gene	471				
+Pray.g_01134	CDS	471				hypothetical protein
+Pray.g_01135	gene	660	hisI			
+Pray.g_01135	CDS	660	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+Pray.g_01136	gene	924	sigA2_1			
+Pray.g_01136	CDS	924	sigA2_1		COG0568	RNA polymerase sigma factor SigA2
+Pray.g_01137	gene	369				
+Pray.g_01137	CDS	369				hypothetical protein
+Pray.g_01138	gene	276				
+Pray.g_01138	CDS	276				hypothetical protein
+Pray.g_01139	gene	315				
+Pray.g_01139	CDS	315				hypothetical protein
+Pray.g_01140	gene	357				
+Pray.g_01140	CDS	357				hypothetical protein
+Pray.g_01141	gene	843	trpA			
+Pray.g_01141	CDS	843	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Pray.g_01142	gene	321				
+Pray.g_01142	CDS	321				hypothetical protein
+Pray.g_01143	gene	234	ndhL			
+Pray.g_01143	CDS	234	ndhL	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit L
+Pray.g_01144	gene	86				
+Pray.g_01144	tRNA	86				tRNA-Leu(taa)
+Pray.g_01145	gene	1050	pyrC			
+Pray.g_01145	CDS	1050	pyrC	3.5.2.3	COG0418	Dihydroorotase
+Pray.g_01146	gene	1080				
+Pray.g_01146	CDS	1080				hypothetical protein
+Pray.g_01147	gene	1365	garB			
+Pray.g_01147	CDS	1365	garB	1.8.1.16		Glutathione amide reductase
+Pray.g_01148	gene	1233				
+Pray.g_01148	CDS	1233				hypothetical protein
+Pray.g_01149	gene	1395	dnaA			
+Pray.g_01149	CDS	1395	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+Pray.g_01150	gene	777				
+Pray.g_01150	CDS	777				hypothetical protein
+Pray.g_01151	gene	684				
+Pray.g_01151	CDS	684				hypothetical protein
+Pray.g_01152	gene	531				
+Pray.g_01152	CDS	531				hypothetical protein
+Pray.g_01153	gene	1794				
+Pray.g_01153	CDS	1794			COG1132	putative ABC transporter ATP-binding protein
+Pray.g_01154	gene	639	hisG			
+Pray.g_01154	CDS	639	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+Pray.g_01155	gene	741	gloB			
+Pray.g_01155	CDS	741	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloB
+Pray.g_01156	gene	393	yabJ			
+Pray.g_01156	CDS	393	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+Pray.g_01157	gene	228				
+Pray.g_01157	CDS	228				hypothetical protein
+Pray.g_01158	gene	240				
+Pray.g_01158	CDS	240				hypothetical protein
+Pray.g_01159	gene	249	eutN			
+Pray.g_01159	CDS	249	eutN		COG4576	Ethanolamine utilization protein EutN
+Pray.g_01160	gene	252				
+Pray.g_01160	CDS	252				hypothetical protein
+Pray.g_01161	gene	1530				
+Pray.g_01161	CDS	1530				hypothetical protein
+Pray.g_01162	gene	2298				
+Pray.g_01162	CDS	2298				hypothetical protein
+Pray.g_01163	gene	342	cbbS2			
+Pray.g_01163	CDS	342	cbbS2	4.1.1.39	COG4451	Ribulose bisphosphate carboxylase small chain 2
+Pray.g_01164	gene	1416	cbbL			
+Pray.g_01164	CDS	1416	cbbL	4.1.1.39	COG1850	Ribulose bisphosphate carboxylase large chain
+Pray.g_01165	gene	312	ccmK			
+Pray.g_01165	CDS	312	ccmK		COG4577	Carbon dioxide-concentrating mechanism protein CcmK
+Pray.g_01166	gene	585				
+Pray.g_01166	CDS	585		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Pray.g_01167	gene	771				
+Pray.g_01167	CDS	771				hypothetical protein
+Pray.g_01168	gene	369				
+Pray.g_01168	CDS	369				hypothetical protein
+Pray.g_01169	gene	1257	chlN			
+Pray.g_01169	CDS	1257	chlN	1.3.7.7	COG2710	Light-independent protochlorophyllide reductase subunit N
+Pray.g_01170	gene	1572	chlB			
+Pray.g_01170	CDS	1572	chlB	1.3.7.7	COG2710	Light-independent protochlorophyllide reductase subunit B
+Pray.g_01171	gene	888	chlL			
+Pray.g_01171	CDS	888	chlL	1.3.7.7	COG1348	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein
+Pray.g_01172	gene	1005				
+Pray.g_01172	CDS	1005				hypothetical protein
+Pray.g_01173	gene	348				
+Pray.g_01173	CDS	348				hypothetical protein
+Pray.g_01174	gene	693	lipM			
+Pray.g_01174	CDS	693	lipM	2.3.1.181	COG0095	Octanoyltransferase LipM
+Pray.g_01175	gene	1224	rip3			
+Pray.g_01175	CDS	1224	rip3		COG0517	Putative zinc metalloprotease Rip3
+Pray.g_01176	gene	657	trpF			
+Pray.g_01176	CDS	657	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+Pray.g_01177	gene	741	folE			
+Pray.g_01177	CDS	741	folE	3.5.4.16		GTP cyclohydrolase 1
+Pray.g_01178	gene	735				
+Pray.g_01178	CDS	735				hypothetical protein
+Pray.g_01179	gene	1008	accA			
+Pray.g_01179	CDS	1008	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Pray.g_01180	gene	1041				
+Pray.g_01180	CDS	1041		1.2.1.80	COG5322	Long-chain acyl-[acyl-carrier-protein] reductase
+Pray.g_01181	gene	756				
+Pray.g_01181	CDS	756		4.1.99.5		Aldehyde decarbonylase
+Pray.g_01182	gene	795	mftE			
+Pray.g_01182	CDS	795	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+Pray.g_01183	gene	1218	pnp_1			
+Pray.g_01183	CDS	1218	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+Pray.g_01184	gene	906				
+Pray.g_01184	CDS	906				hypothetical protein
+Pray.g_01185	gene	576				
+Pray.g_01185	CDS	576		1.10.3.-	COG1496	Polyphenol oxidase
+Pray.g_01186	gene	351				
+Pray.g_01186	CDS	351				hypothetical protein
+Pray.g_01187	gene	1764	ilvG			
+Pray.g_01187	CDS	1764	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit
+Pray.g_01188	gene	1176	hemH			
+Pray.g_01188	CDS	1176	hemH	4.99.1.1	COG0276	Ferrochelatase
+Pray.g_01189	gene	1170				
+Pray.g_01189	CDS	1170				hypothetical protein
+Pray.g_01190	gene	693	cobO			
+Pray.g_01190	CDS	693	cobO	2.5.1.17		Corrinoid adenosyltransferase
+Pray.g_01191	gene	705	pyrH			
+Pray.g_01191	CDS	705	pyrH	2.7.4.22		Uridylate kinase
+Pray.g_01192	gene	549	frr			
+Pray.g_01192	CDS	549	frr		COG0233	Ribosome-recycling factor
+Pray.g_01193	gene	1134				
+Pray.g_01193	CDS	1134				hypothetical protein
+Pray.g_01194	gene	1053	tal			
+Pray.g_01194	CDS	1053	tal	2.2.1.2	COG0176	Transaldolase
+Pray.g_01195	gene	1752	spoVD			
+Pray.g_01195	CDS	1752	spoVD		COG0768	Stage V sporulation protein D
+Pray.g_01196	gene	429				
+Pray.g_01196	CDS	429				hypothetical protein
+Pray.g_01197	gene	1362				
+Pray.g_01197	CDS	1362				hypothetical protein
+Pray.g_01198	gene	1329	gpmA			
+Pray.g_01198	CDS	1329	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Pray.g_01199	gene	657	lepB			
+Pray.g_01199	CDS	657	lepB	3.4.21.89	COG0681	Signal peptidase I
+Pray.g_01200	gene	357	mgsR			
+Pray.g_01200	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+Pray.g_01201	gene	555	ppa_1			
+Pray.g_01201	CDS	555	ppa_1	3.6.1.1		Inorganic pyrophosphatase
+Pray.g_01202	gene	255				
+Pray.g_01202	CDS	255				hypothetical protein
+Pray.g_01203	gene	351				
+Pray.g_01203	CDS	351				hypothetical protein
+Pray.g_01204	gene	1803	proS			
+Pray.g_01204	CDS	1803	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Pray.g_01205	gene	438				
+Pray.g_01205	CDS	438				Photosystem II lipoprotein Psb27
+Pray.g_01206	gene	1311	purA			
+Pray.g_01206	CDS	1311	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Pray.g_01207	gene	1011	ydjH			
+Pray.g_01207	CDS	1011	ydjH	2.7.1.-	COG0524	putative sugar kinase YdjH
+Pray.g_01208	gene	306	cutA			
+Pray.g_01208	CDS	306	cutA		COG1324	Divalent-cation tolerance protein CutA
+Pray.g_01209	gene	807	cbiJ			
+Pray.g_01209	CDS	807	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+Pray.g_01210	gene	426				
+Pray.g_01210	CDS	426				hypothetical protein
+Pray.g_01211	gene	183				
+Pray.g_01211	CDS	183				hypothetical protein
+Pray.g_01212	gene	531				
+Pray.g_01212	CDS	531				hypothetical protein
+Pray.g_01213	gene	852	argB			
+Pray.g_01213	CDS	852	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+Pray.g_01214	gene	1110				
+Pray.g_01214	CDS	1110				hypothetical protein
+Pray.g_01215	gene	2235	priA			
+Pray.g_01215	CDS	2235	priA	3.6.4.-	COG1198	Primosomal protein N'
+Pray.g_01216	gene	1182	sigA			
+Pray.g_01216	CDS	1182	sigA		COG0568	RNA polymerase sigma factor SigA
+Pray.g_01217	gene	957	hemC			
+Pray.g_01217	CDS	957	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+Pray.g_01218	gene	588	ppa_2			
+Pray.g_01218	CDS	588	ppa_2	3.6.1.1	COG0221	Inorganic pyrophosphatase
+Pray.g_01219	gene	1506	ypwA			
+Pray.g_01219	CDS	1506	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+Pray.g_01220	gene	456				
+Pray.g_01220	CDS	456				hypothetical protein
+Pray.g_01221	gene	291	phhB			
+Pray.g_01221	CDS	291	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+Pray.g_01222	gene	1152	yciC_2			
+Pray.g_01222	CDS	1152	yciC_2		COG0523	Putative metal chaperone YciC
+Pray.g_01223	gene	1539				
+Pray.g_01223	CDS	1539				hypothetical protein
+Pray.g_01224	gene	957				
+Pray.g_01224	CDS	957				hypothetical protein
+Pray.g_01225	gene	1233	larC			
+Pray.g_01225	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+Pray.g_01226	gene	597				
+Pray.g_01226	CDS	597				hypothetical protein
+Pray.g_01227	gene	285				
+Pray.g_01227	CDS	285				hypothetical protein
+Pray.g_01228	gene	846	xthA			
+Pray.g_01228	CDS	846	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+Pray.g_01229	gene	2496	infB			
+Pray.g_01229	CDS	2496	infB			Translation initiation factor IF-2
+Pray.g_01230	gene	240				
+Pray.g_01230	CDS	240				hypothetical protein
+Pray.g_01231	gene	74				
+Pray.g_01231	tRNA	74				tRNA-Thr(cgt)
+Pray.g_01232	gene	1554	arnT_1			
+Pray.g_01232	CDS	1554	arnT_1	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+Pray.g_01233	gene	1092	arnC_1			
+Pray.g_01233	CDS	1092	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+Pray.g_01234	gene	1614				
+Pray.g_01234	CDS	1614				hypothetical protein
+Pray.g_01235	gene	318	clpS_2			
+Pray.g_01235	CDS	318	clpS_2			ATP-dependent Clp protease adapter protein ClpS
+Pray.g_01236	gene	1227	dapL			
+Pray.g_01236	CDS	1227	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+Pray.g_01237	gene	1827	rne			
+Pray.g_01237	CDS	1827	rne	3.1.26.12		Ribonuclease E
+Pray.g_01238	gene	618	rnhB			
+Pray.g_01238	CDS	618	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Pray.g_01239	gene	519				
+Pray.g_01239	CDS	519				hypothetical protein
+Pray.g_01240	gene	846	pheA			
+Pray.g_01240	CDS	846	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+Pray.g_01241	gene	936				
+Pray.g_01241	CDS	936		2.1.1.295		2-methyl-6-phytyl-1,4-hydroquinone methyltransferase
+Pray.g_01242	gene	657	lon2			
+Pray.g_01242	CDS	657	lon2	3.4.21.53	COG0466	Lon protease 2
+Pray.g_01243	gene	321	rpsJ			
+Pray.g_01243	CDS	321	rpsJ		COG0051	30S ribosomal protein S10
+Pray.g_01244	gene	1200	tuf			
+Pray.g_01244	CDS	1200	tuf			Elongation factor Tu
+Pray.g_01245	gene	2076	fusA			
+Pray.g_01245	CDS	2076	fusA		COG0480	Elongation factor G
+Pray.g_01246	gene	471	rpsG			
+Pray.g_01246	CDS	471	rpsG			30S ribosomal protein S7
+Pray.g_01247	gene	375	rpsL			
+Pray.g_01247	CDS	375	rpsL			30S ribosomal protein S12
+Pray.g_01248	gene	4572	gltS			
+Pray.g_01248	CDS	4572	gltS	1.4.7.1		Ferredoxin-dependent glutamate synthase 2
+Pray.g_01249	gene	294				
+Pray.g_01249	CDS	294				hypothetical protein
+Pray.g_01250	gene	894	lipA			
+Pray.g_01250	CDS	894	lipA	2.8.1.8		Lipoyl synthase
+Pray.g_01251	gene	624	hin			
+Pray.g_01251	CDS	624	hin		COG1961	DNA-invertase hin
+Pray.g_01252	gene	213				
+Pray.g_01252	CDS	213				hypothetical protein
+Pray.g_01253	gene	882				
+Pray.g_01253	CDS	882				hypothetical protein
+Pray.g_01254	gene	759				
+Pray.g_01254	CDS	759				hypothetical protein
+Pray.g_01255	gene	603	psaL			
+Pray.g_01255	CDS	603	psaL			Photosystem I reaction center subunit XI
+Pray.g_01256	gene	282				
+Pray.g_01256	CDS	282				hypothetical protein
+Pray.g_01257	gene	393				
+Pray.g_01257	CDS	393				hypothetical protein
+Pray.g_01258	gene	963	rgtE			
+Pray.g_01258	CDS	963	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+Pray.g_01259	gene	2229	psaB			
+Pray.g_01259	CDS	2229	psaB	1.97.1.12		Photosystem I P700 chlorophyll a apoprotein A2
+Pray.g_01260	gene	2304	psaA			
+Pray.g_01260	CDS	2304	psaA	1.97.1.12		Photosystem I P700 chlorophyll a apoprotein A1
+Pray.g_01261	gene	1809	cysG			
+Pray.g_01261	CDS	1809	cysG	4.99.1.4		Siroheme synthase
+Pray.g_01262	gene	789				
+Pray.g_01262	CDS	789				hypothetical protein
+Pray.g_01263	gene	91				
+Pray.g_01263	tRNA	91				tRNA-Ser(gct)
+Pray.g_01264	gene	1200	alr1			
+Pray.g_01264	CDS	1200	alr1	5.1.1.1	COG0787	Alanine racemase 1
+Pray.g_01265	gene	501				
+Pray.g_01265	CDS	501				hypothetical protein
+Pray.g_01266	gene	1095	prfA			
+Pray.g_01266	CDS	1095	prfA		COG0216	Peptide chain release factor 1
+Pray.g_01267	gene	321				
+Pray.g_01267	CDS	321				hypothetical protein
+Pray.g_01268	gene	411	rpsI			
+Pray.g_01268	CDS	411	rpsI			30S ribosomal protein S9
+Pray.g_01269	gene	432	rplM			
+Pray.g_01269	CDS	432	rplM		COG0102	50S ribosomal protein L13
+Pray.g_01270	gene	807	truA			
+Pray.g_01270	CDS	807	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Pray.g_01271	gene	351	rplQ			
+Pray.g_01271	CDS	351	rplQ		COG0203	50S ribosomal protein L17
+Pray.g_01272	gene	939	rpoA			
+Pray.g_01272	CDS	939	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Pray.g_01273	gene	393	rpsK			
+Pray.g_01273	CDS	393	rpsK			30S ribosomal protein S11
+Pray.g_01274	gene	366	rpsM			
+Pray.g_01274	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+Pray.g_01275	gene	549	adk			
+Pray.g_01275	CDS	549	adk	2.7.4.3	COG0563	Adenylate kinase
+Pray.g_01276	gene	1320	secY			
+Pray.g_01276	CDS	1320	secY		COG0201	Protein translocase subunit SecY
+Pray.g_01277	gene	459	rplO			
+Pray.g_01277	CDS	459	rplO			50S ribosomal protein L15
+Pray.g_01278	gene	624	rpsE			
+Pray.g_01278	CDS	624	rpsE		COG0098	30S ribosomal protein S5
+Pray.g_01279	gene	369	rplR			
+Pray.g_01279	CDS	369	rplR			50S ribosomal protein L18
+Pray.g_01280	gene	540	rplF			
+Pray.g_01280	CDS	540	rplF			50S ribosomal protein L6
+Pray.g_01281	gene	402	rpsH			
+Pray.g_01281	CDS	402	rpsH		COG0096	30S ribosomal protein S8
+Pray.g_01282	gene	540	rplE			
+Pray.g_01282	CDS	540	rplE		COG0094	50S ribosomal protein L5
+Pray.g_01283	gene	357	rplX			
+Pray.g_01283	CDS	357	rplX			50S ribosomal protein L24
+Pray.g_01284	gene	366	rplN			
+Pray.g_01284	CDS	366	rplN			50S ribosomal protein L14
+Pray.g_01285	gene	267	rpsQ			
+Pray.g_01285	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+Pray.g_01286	gene	219				
+Pray.g_01286	CDS	219				hypothetical protein
+Pray.g_01287	gene	420	rplP			
+Pray.g_01287	CDS	420	rplP		COG0197	50S ribosomal protein L16
+Pray.g_01288	gene	732	rpsC			
+Pray.g_01288	CDS	732	rpsC			30S ribosomal protein S3
+Pray.g_01289	gene	387	rplV			
+Pray.g_01289	CDS	387	rplV		COG0091	50S ribosomal protein L22
+Pray.g_01290	gene	279	rpsS			
+Pray.g_01290	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+Pray.g_01291	gene	864	rplB			
+Pray.g_01291	CDS	864	rplB		COG0090	50S ribosomal protein L2
+Pray.g_01292	gene	303	rplW			
+Pray.g_01292	CDS	303	rplW		COG0089	50S ribosomal protein L23
+Pray.g_01293	gene	633	rplD			
+Pray.g_01293	CDS	633	rplD			50S ribosomal protein L4
+Pray.g_01294	gene	651	rplC			
+Pray.g_01294	CDS	651	rplC		COG0087	50S ribosomal protein L3
+Pray.g_01295	gene	477	ndhN			
+Pray.g_01295	CDS	477	ndhN	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit N
+Pray.g_01296	gene	999				
+Pray.g_01296	CDS	999				hypothetical protein
+Pray.g_01297	gene	72				
+Pray.g_01297	tRNA	72				tRNA-Gln(ttg)
+Pray.g_01298	gene	777				
+Pray.g_01298	CDS	777				hypothetical protein
+Pray.g_01299	gene	1098	recA			
+Pray.g_01299	CDS	1098	recA			Protein RecA
+Pray.g_01300	gene	243				
+Pray.g_01300	CDS	243				hypothetical protein
+Pray.g_01301	gene	1449				
+Pray.g_01301	CDS	1449				hypothetical protein
+Pray.g_01302	gene	840	tyrC			
+Pray.g_01302	CDS	840	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+Pray.g_01303	gene	1506				
+Pray.g_01303	CDS	1506				hypothetical protein
+Pray.g_01304	gene	879				
+Pray.g_01304	CDS	879		2.7.1.-		putative ketoamine kinase
+Pray.g_01305	gene	366				
+Pray.g_01305	CDS	366				hypothetical protein
+Pray.g_01306	gene	1155	moeZ			
+Pray.g_01306	CDS	1155	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+Pray.g_01307	gene	1161				
+Pray.g_01307	CDS	1161				hypothetical protein
+Pray.g_01308	gene	825	larE			
+Pray.g_01308	CDS	825	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+Pray.g_01309	gene	435	speH			
+Pray.g_01309	CDS	435	speH	4.1.1.50		S-adenosylmethionine decarboxylase proenzyme
+Pray.g_01310	gene	894	recF			
+Pray.g_01310	CDS	894	recF		COG1195	DNA replication and repair protein RecF
+Pray.g_01311	gene	74				
+Pray.g_01311	tRNA	74				tRNA-Arg(ccg)
+Pray.g_01312	gene	447				
+Pray.g_01312	CDS	447				hypothetical protein
+Pray.g_01313	gene	2970	ppc			
+Pray.g_01313	CDS	2970	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+Pray.g_01314	gene	1119	gshA			
+Pray.g_01314	CDS	1119	gshA	6.3.2.2		Glutamate--cysteine ligase
+Pray.g_01315	gene	1521	trpE			
+Pray.g_01315	CDS	1521	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Pray.g_01316	gene	423	psaD			
+Pray.g_01316	CDS	423	psaD			Photosystem I reaction center subunit II
+Pray.g_01317	gene	1365				
+Pray.g_01317	CDS	1365				hypothetical protein
+Pray.g_01318	gene	1269	mrdB			
+Pray.g_01318	CDS	1269	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Pray.g_01319	gene	1071	apbC			
+Pray.g_01319	CDS	1071	apbC		COG0489	Iron-sulfur cluster carrier protein
+Pray.g_01320	gene	1029	hemF			
+Pray.g_01320	CDS	1029	hemF	1.3.3.3		Oxygen-dependent coproporphyrinogen-III oxidase
+Pray.g_01321	gene	558				
+Pray.g_01321	CDS	558				hypothetical protein
+Pray.g_01322	gene	636	rnd			
+Pray.g_01322	CDS	636	rnd	3.1.13.5		Ribonuclease D
+Pray.g_01323	gene	267				
+Pray.g_01323	CDS	267				hypothetical protein
+Pray.g_01324	gene	71				
+Pray.g_01324	tRNA	71				tRNA-Cys(gca)
+Pray.g_01325	gene	441				
+Pray.g_01325	CDS	441				hypothetical protein
+Pray.g_01326	gene	213				
+Pray.g_01326	CDS	213				hypothetical protein
+Pray.g_01327	gene	645				
+Pray.g_01327	CDS	645				hypothetical protein
+Pray.g_01328	gene	1044	purM			
+Pray.g_01328	CDS	1044	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Pray.g_01329	gene	1533	panC/cmk			
+Pray.g_01329	CDS	1533	panC/cmk	2.7.4.25		Bifunctional pantoate ligase/cytidylate kinase
+Pray.g_01330	gene	474				
+Pray.g_01330	CDS	474		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+Pray.g_01331	gene	762	pebB			
+Pray.g_01331	CDS	762	pebB	1.3.7.3		Phycoerythrobilin:ferredoxin oxidoreductase
+Pray.g_01332	gene	711	pebA			
+Pray.g_01332	CDS	711	pebA	1.3.7.2		15,16-dihydrobiliverdin:ferredoxin oxidoreductase
+Pray.g_01333	gene	711	pbsA1			
+Pray.g_01333	CDS	711	pbsA1	1.14.14.18		Heme oxygenase 1
+Pray.g_01334	gene	432				
+Pray.g_01334	CDS	432				hypothetical protein
+Pray.g_01335	gene	1425	icd			
+Pray.g_01335	CDS	1425	icd	1.1.1.42		Isocitrate dehydrogenase [NADP]
+Pray.g_01336	gene	1344				
+Pray.g_01336	CDS	1344				hypothetical protein
+Pray.g_01337	gene	855				
+Pray.g_01337	CDS	855				hypothetical protein
+Pray.g_01338	gene	900	lip1			
+Pray.g_01338	CDS	900	lip1	3.1.1.3		Lipase 1
+Pray.g_01339	gene	1368	nhaS3			
+Pray.g_01339	CDS	1368	nhaS3			High-affinity Na(+)/H(+) antiporter NhaS3
+Pray.g_01340	gene	2565	malP			
+Pray.g_01340	CDS	2565	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+Pray.g_01341	gene	456				
+Pray.g_01341	CDS	456				hypothetical protein
+Pray.g_01342	gene	333				
+Pray.g_01342	CDS	333				hypothetical protein
+Pray.g_01343	gene	76				
+Pray.g_01343	tRNA	76				tRNA-Arg(cct)
+Pray.g_01344	gene	750	rnc			
+Pray.g_01344	CDS	750	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Pray.g_01345	gene	186				
+Pray.g_01345	CDS	186				hypothetical protein
+Pray.g_01346	gene	546	rimM			
+Pray.g_01346	CDS	546	rimM		COG0806	Ribosome maturation factor RimM
+Pray.g_01347	gene	1896	glmS			
+Pray.g_01347	CDS	1896	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Pray.g_01348	gene	246	psaC			
+Pray.g_01348	CDS	246	psaC	1.97.1.12	COG1145	Photosystem I iron-sulfur center
+Pray.g_01349	gene	240	acpP			
+Pray.g_01349	CDS	240	acpP			Acyl carrier protein
+Pray.g_01350	gene	1245	fabF			
+Pray.g_01350	CDS	1245	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+Pray.g_01351	gene	2007	tkt			
+Pray.g_01351	CDS	2007	tkt	2.2.1.1	COG0021	Transketolase
+Pray.g_01352	gene	1371	thiC			
+Pray.g_01352	CDS	1371	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Pray.g_01353	gene	216				
+Pray.g_01353	CDS	216				hypothetical protein
+Pray.g_01354	gene	1185	scmP			
+Pray.g_01354	CDS	1185	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+Pray.g_01355	gene	789				
+Pray.g_01355	CDS	789				hypothetical protein
+Pray.g_01356	gene	1059	ruvB_1			
+Pray.g_01356	CDS	1059	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Pray.g_01357	gene	495	smpB			
+Pray.g_01357	CDS	495	smpB		COG0691	SsrA-binding protein
+Pray.g_01358	gene	249				
+Pray.g_01358	CDS	249				hypothetical protein
+Pray.g_01359	gene	1539	lysS			
+Pray.g_01359	CDS	1539	lysS	6.1.1.6		Lysine--tRNA ligase
+Pray.g_01360	gene	747	mprA			
+Pray.g_01360	CDS	747	mprA			Response regulator MprA
+Pray.g_01361	gene	150				
+Pray.g_01361	CDS	150				hypothetical protein
+Pray.g_01362	gene	519				
+Pray.g_01362	CDS	519				hypothetical protein
+Pray.g_01363	gene	750				
+Pray.g_01363	CDS	750				hypothetical protein
+Pray.g_01364	gene	1053	mreB			
+Pray.g_01364	CDS	1053	mreB			Cell shape-determining protein MreB
+Pray.g_01365	gene	372	ssb			
+Pray.g_01365	CDS	372	ssb		COG0629	Single-stranded DNA-binding protein
+Pray.g_01366	gene	660	dedA			
+Pray.g_01366	CDS	660	dedA		COG0586	Protein DedA
+Pray.g_01367	gene	1419	ahcY			
+Pray.g_01367	CDS	1419	ahcY	3.3.1.1		Adenosylhomocysteinase
+Pray.g_01368	gene	450				
+Pray.g_01368	CDS	450				hypothetical protein
+Pray.g_01369	gene	999	scrK			
+Pray.g_01369	CDS	999	scrK	2.7.1.4	COG0524	Fructokinase
+Pray.g_01370	gene	915	menH_2			
+Pray.g_01370	CDS	915	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Pray.g_01371	gene	1032	sigA2_2			
+Pray.g_01371	CDS	1032	sigA2_2		COG0568	RNA polymerase sigma factor SigA2
+Pray.g_01372	gene	1407				
+Pray.g_01372	CDS	1407			COG2239	Magnesium transporter MgtE
+Pray.g_01373	gene	330	crcB_1			
+Pray.g_01373	CDS	330	crcB_1			Putative fluoride ion transporter CrcB
+Pray.g_01374	gene	366	crcB_2			
+Pray.g_01374	CDS	366	crcB_2			Putative fluoride ion transporter CrcB
+Pray.g_01375	gene	330				
+Pray.g_01375	CDS	330				hypothetical protein
+Pray.g_01376	gene	1968	gyrB			
+Pray.g_01376	CDS	1968	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Pray.g_01377	gene	900	miaA			
+Pray.g_01377	CDS	900	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Pray.g_01378	gene	573	infC			
+Pray.g_01378	CDS	573	infC		COG0290	Translation initiation factor IF-3
+Pray.g_01379	gene	987				
+Pray.g_01379	CDS	987				hypothetical protein
+Pray.g_01380	gene	744	cysE			
+Pray.g_01380	CDS	744	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+Pray.g_01381	gene	2832	secA			
+Pray.g_01381	CDS	2832	secA		COG0653	Protein translocase subunit SecA
+Pray.g_01382	gene	456				
+Pray.g_01382	CDS	456				hypothetical protein
+Pray.g_01383	gene	432				
+Pray.g_01383	CDS	432				hypothetical protein
+Pray.g_01384	gene	72				
+Pray.g_01384	tRNA	72				tRNA-Gly(gcc)
+Pray.g_01385	gene	477	ribH			
+Pray.g_01385	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Pray.g_01386	gene	198	psbZ			
+Pray.g_01386	CDS	198	psbZ			Photosystem II reaction center protein Z
+Pray.g_01387	gene	117				
+Pray.g_01387	CDS	117				hypothetical protein
+Pray.g_01388	gene	2742	mutS			
+Pray.g_01388	CDS	2742	mutS		COG0249	DNA mismatch repair protein MutS
+Pray.g_01389	gene	624	cobH			
+Pray.g_01389	CDS	624	cobH	5.4.99.61		Precorrin-8X methylmutase
+Pray.g_01390	gene	1002				
+Pray.g_01390	CDS	1002				hypothetical protein
+Pray.g_01391	gene	1761				
+Pray.g_01391	CDS	1761				hypothetical protein
+Pray.g_01392	gene	2040	uvrB			
+Pray.g_01392	CDS	2040	uvrB			UvrABC system protein B
+Pray.g_01393	gene	777				
+Pray.g_01393	CDS	777				hypothetical protein
+Pray.g_01394	gene	1017	tilS			
+Pray.g_01394	CDS	1017	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+Pray.g_01395	gene	1989	rnjA			
+Pray.g_01395	CDS	1989	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+Pray.g_01396	gene	906	dapA			
+Pray.g_01396	CDS	906	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Pray.g_01397	gene	1032	asd			
+Pray.g_01397	CDS	1032	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Pray.g_01398	gene	1434	tig			
+Pray.g_01398	CDS	1434	tig	5.2.1.8		Trigger factor
+Pray.g_01399	gene	645	clpP_2			
+Pray.g_01399	CDS	645	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Pray.g_01400	gene	1368	clpX			
+Pray.g_01400	CDS	1368	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Pray.g_01401	gene	1764	ruvB_2			
+Pray.g_01401	CDS	1764	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Pray.g_01402	gene	1302				
+Pray.g_01402	CDS	1302		2.4.1.336	COG1215	Beta-monoglucosyldiacylglycerol synthase
+Pray.g_01403	gene	1539				
+Pray.g_01403	CDS	1539				hypothetical protein
+Pray.g_01404	gene	198	rpmI			
+Pray.g_01404	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Pray.g_01405	gene	348	rplT			
+Pray.g_01405	CDS	348	rplT		COG0292	50S ribosomal protein L20
+Pray.g_01406	gene	558				
+Pray.g_01406	CDS	558				hypothetical protein
+Pray.g_01407	gene	795	thiG			
+Pray.g_01407	CDS	795	thiG	2.8.1.10	COG2022	Thiazole synthase
+Pray.g_01408	gene	1194	galE_1			
+Pray.g_01408	CDS	1194	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Pray.g_01409	gene	1134	mgtA			
+Pray.g_01409	CDS	1134	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+Pray.g_01410	gene	249				
+Pray.g_01410	CDS	249				hypothetical protein
+Pray.g_01411	gene	2910	gcvP			
+Pray.g_01411	CDS	2910	gcvP	1.4.4.2		Glycine dehydrogenase (decarboxylating)
+Pray.g_01412	gene	390	gcvH			
+Pray.g_01412	CDS	390	gcvH		COG0509	Glycine cleavage system H protein
+Pray.g_01413	gene	1293				
+Pray.g_01413	CDS	1293				hypothetical protein
+Pray.g_01414	gene	699				
+Pray.g_01414	CDS	699				hypothetical protein
+Pray.g_01415	gene	939				
+Pray.g_01415	CDS	939				hypothetical protein
+Pray.g_01416	gene	456	rplI			
+Pray.g_01416	CDS	456	rplI		COG0359	50S ribosomal protein L9
+Pray.g_01417	gene	1383	dnaB			
+Pray.g_01417	CDS	1383	dnaB	3.6.4.12		Replicative DNA helicase
+Pray.g_01418	gene	1968	mnmG			
+Pray.g_01418	CDS	1968	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Pray.g_01419	gene	543				
+Pray.g_01419	CDS	543				hypothetical protein
+Pray.g_01420	gene	564				
+Pray.g_01420	CDS	564				hypothetical protein
+Pray.g_01421	gene	528				
+Pray.g_01421	CDS	528				hypothetical protein
+Pray.g_01422	gene	420				
+Pray.g_01422	CDS	420				hypothetical protein
+Pray.g_01423	gene	1329	lig_2			
+Pray.g_01423	CDS	1329	lig_2	6.5.1.1		DNA ligase
+Pray.g_01424	gene	153				
+Pray.g_01424	CDS	153				hypothetical protein
+Pray.g_01425	gene	603	ydjZ			
+Pray.g_01425	CDS	603	ydjZ		COG0398	TVP38/TMEM64 family inner membrane protein YdjZ
+Pray.g_01426	gene	2757	valS			
+Pray.g_01426	CDS	2757	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Pray.g_01427	gene	342				
+Pray.g_01427	CDS	342				hypothetical protein
+Pray.g_01428	gene	72				
+Pray.g_01428	tRNA	72				tRNA-Val(tac)
+Pray.g_01429	gene	855	mazG			
+Pray.g_01429	CDS	855	mazG	3.6.1.1	COG1694	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG
+Pray.g_01430	gene	852	speE			
+Pray.g_01430	CDS	852	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+Pray.g_01431	gene	882	speB			
+Pray.g_01431	CDS	882	speB	3.5.3.11	COG0010	Agmatinase
+Pray.g_01432	gene	1113	gcvT			
+Pray.g_01432	CDS	1113	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+Pray.g_01433	gene	1797	aspS			
+Pray.g_01433	CDS	1797	aspS	6.1.1.12		Aspartate--tRNA ligase
+Pray.g_01434	gene	1611	pyrG			
+Pray.g_01434	CDS	1611	pyrG	6.3.4.2		CTP synthase
+Pray.g_01435	gene	672	queE			
+Pray.g_01435	CDS	672	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Pray.g_01436	gene	675	queC			
+Pray.g_01436	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+Pray.g_01437	gene	1317	menF_2			
+Pray.g_01437	CDS	1317	menF_2	5.4.4.2		Isochorismate synthase MenF
+Pray.g_01438	gene	828				
+Pray.g_01438	CDS	828				hypothetical protein
+Pray.g_01439	gene	816	sumT			
+Pray.g_01439	CDS	816	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+Pray.g_01440	gene	1284	tetA			
+Pray.g_01440	CDS	1284	tetA			Tetracycline resistance protein, class B
+Pray.g_01441	gene	2076	ppk			
+Pray.g_01441	CDS	2076	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+Pray.g_01442	gene	1020	hrdA			
+Pray.g_01442	CDS	1020	hrdA		COG0568	RNA polymerase principal sigma factor HrdA
+Pray.g_01443	gene	642	vte5			
+Pray.g_01443	CDS	642	vte5	2.7.1.182		Phytol kinase
+Pray.g_01444	gene	1068	aroG			
+Pray.g_01444	CDS	1068	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+Pray.g_01445	gene	2574	acnB			
+Pray.g_01445	CDS	2574	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+Pray.g_01446	gene	1359	clcA			
+Pray.g_01446	CDS	1359	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+Pray.g_01447	gene	855	purU			
+Pray.g_01447	CDS	855	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+Pray.g_01448	gene	1083	mnmC_2			
+Pray.g_01448	CDS	1083	mnmC_2	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+Pray.g_01449	gene	1899	dnaK2_2			
+Pray.g_01449	CDS	1899	dnaK2_2			Chaperone protein dnaK2
+Pray.g_01450	gene	861	aroE			
+Pray.g_01450	CDS	861	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Pray.g_01451	gene	450				
+Pray.g_01451	CDS	450				hypothetical protein
+Pray.g_01452	gene	1215	argG			
+Pray.g_01452	CDS	1215	argG	6.3.4.5		Argininosuccinate synthase
+Pray.g_01453	gene	279				
+Pray.g_01453	CDS	279				hypothetical protein
+Pray.g_01454	gene	1077	mraY			
+Pray.g_01454	CDS	1077	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Pray.g_01455	gene	246				
+Pray.g_01455	CDS	246				hypothetical protein
+Pray.g_01456	gene	1410	susA			
+Pray.g_01456	CDS	1410	susA	2.4.1.13	COG0438	Sucrose synthase
+Pray.g_01457	gene	2904	uvrA			
+Pray.g_01457	CDS	2904	uvrA		COG0178	UvrABC system protein A
+Pray.g_01458	gene	1680	recN			
+Pray.g_01458	CDS	1680	recN		COG0497	DNA repair protein RecN
+Pray.g_01459	gene	1857	ubiB_3			
+Pray.g_01459	CDS	1857	ubiB_3	2.7.-.-		protein kinase UbiB
+Pray.g_01460	gene	573				
+Pray.g_01460	CDS	573				hypothetical protein
+Pray.g_01461	gene	1104	thrC			
+Pray.g_01461	CDS	1104	thrC	4.2.3.1	COG0498	Threonine synthase
+Pray.g_01462	gene	1167	dnaN			
+Pray.g_01462	CDS	1167	dnaN		COG0592	Beta sliding clamp
+Pray.g_01463	gene	708				
+Pray.g_01463	CDS	708				hypothetical protein
+Pray.g_01464	gene	2340	purL			
+Pray.g_01464	CDS	2340	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+Pray.g_01465	gene	1047	purF_1			
+Pray.g_01465	CDS	1047	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Pray.g_01466	gene	447	purF_2			
+Pray.g_01466	CDS	447	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Pray.g_01467	gene	2442	gyrA_2			
+Pray.g_01467	CDS	2442	gyrA_2	5.6.2.2		DNA gyrase subunit A
+Pray.g_01468	gene	864	lapB_2			
+Pray.g_01468	CDS	864	lapB_2			Lipopolysaccharide assembly protein B
+Pray.g_01469	gene	981	queG			
+Pray.g_01469	CDS	981	queG	1.17.99.6		Epoxyqueuosine reductase
+Pray.g_01470	gene	735				
+Pray.g_01470	CDS	735				hypothetical protein
+Pray.g_01471	gene	630	nusB			
+Pray.g_01471	CDS	630	nusB			Transcription antitermination protein NusB
+Pray.g_01472	gene	1260	ftsY			
+Pray.g_01472	CDS	1260	ftsY			Signal recognition particle receptor FtsY
+Pray.g_01473	gene	1347				
+Pray.g_01473	CDS	1347				hypothetical protein
+Pray.g_01474	gene	1380	argH			
+Pray.g_01474	CDS	1380	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+Pray.g_01475	gene	648				
+Pray.g_01475	CDS	648				hypothetical protein
+Pray.g_01476	gene	1005	dusA			
+Pray.g_01476	CDS	1005	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+Pray.g_01477	gene	495	msrB			
+Pray.g_01477	CDS	495	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+Pray.g_01478	gene	720	grpE			
+Pray.g_01478	CDS	720	grpE			Protein GrpE
+Pray.g_01479	gene	1125	dnaJ_2			
+Pray.g_01479	CDS	1125	dnaJ_2		COG0484	Chaperone protein DnaJ
+Pray.g_01480	gene	234				
+Pray.g_01480	CDS	234				hypothetical protein
+Pray.g_01481	gene	918	rsgA			
+Pray.g_01481	CDS	918	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+Pray.g_01482	gene	351	ybaB			
+Pray.g_01482	CDS	351	ybaB		COG0718	Nucleoid-associated protein YbaB
+Pray.g_01483	gene	894	murB			
+Pray.g_01483	CDS	894	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Pray.g_01484	gene	1428	murC			
+Pray.g_01484	CDS	1428	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+Pray.g_01485	gene	1080	gap2			
+Pray.g_01485	CDS	1080	gap2	1.2.1.59	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 2
+Pray.g_01486	gene	987	thiL			
+Pray.g_01486	CDS	987	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+Pray.g_01487	gene	1092				
+Pray.g_01487	CDS	1092				hypothetical protein
+Pray.g_01488	gene	597	efp			
+Pray.g_01488	CDS	597	efp		COG0231	Elongation factor P
+Pray.g_01489	gene	501	accB			
+Pray.g_01489	CDS	501	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Pray.g_01490	gene	1035	pdxA2			
+Pray.g_01490	CDS	1035	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+Pray.g_01491	gene	879				
+Pray.g_01491	CDS	879				hypothetical protein
+Pray.g_01492	gene	228				
+Pray.g_01492	CDS	228				hypothetical protein
+Pray.g_01493	gene	402				
+Pray.g_01493	CDS	402				hypothetical protein
+Pray.g_01494	gene	450				
+Pray.g_01494	CDS	450				hypothetical protein
+Pray.g_01495	gene	513				
+Pray.g_01495	CDS	513				hypothetical protein
+Pray.g_01496	gene	198				
+Pray.g_01496	CDS	198				hypothetical protein
+Pray.g_01497	gene	1164				
+Pray.g_01497	CDS	1164		1.12.-.-		Soluble hydrogenase 42 kDa subunit
+Pray.g_01498	gene	1089	cbiD			
+Pray.g_01498	CDS	1089	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+Pray.g_01499	gene	1587	guaA			
+Pray.g_01499	CDS	1587	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Pray.g_01500	gene	318				
+Pray.g_01500	CDS	318				hypothetical protein
+Pray.g_01501	gene	195				
+Pray.g_01501	CDS	195				hypothetical protein
+Pray.g_01502	gene	282				
+Pray.g_01502	CDS	282				hypothetical protein
+Pray.g_01503	gene	1404	nusA			
+Pray.g_01503	CDS	1404	nusA			Transcription termination/antitermination protein NusA
+Pray.g_01504	gene	507	rimP			
+Pray.g_01504	CDS	507	rimP			Ribosome maturation factor RimP
+Pray.g_01505	gene	1131	hhoA			
+Pray.g_01505	CDS	1131	hhoA			Putative serine protease HhoA
+Pray.g_01506	gene	714	rpiA			
+Pray.g_01506	CDS	714	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+Pray.g_01507	gene	1287	hisD			
+Pray.g_01507	CDS	1287	hisD	1.1.1.23		Histidinol dehydrogenase
+Pray.g_01508	gene	294				
+Pray.g_01508	CDS	294				hypothetical protein
+Pray.g_01509	gene	810	dtd3			
+Pray.g_01509	CDS	810	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+Pray.g_01510	gene	3294	rpoB			
+Pray.g_01510	CDS	3294	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Pray.g_01511	gene	1905	rpoC			
+Pray.g_01511	CDS	1905	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Pray.g_01512	gene	4101	rpoC2			
+Pray.g_01512	CDS	4101	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+Pray.g_01513	gene	1047	rlmN			
+Pray.g_01513	CDS	1047	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+Pray.g_01514	gene	147				
+Pray.g_01514	CDS	147				hypothetical protein
+Pray.g_01515	gene	768				
+Pray.g_01515	CDS	768				hypothetical protein
+Pray.g_01516	gene	216				
+Pray.g_01516	CDS	216				hypothetical protein
+Pray.g_01517	gene	393				
+Pray.g_01517	CDS	393				hypothetical protein
+Pray.g_01518	gene	360				
+Pray.g_01518	CDS	360				hypothetical protein
+Pray.g_01519	gene	1194				
+Pray.g_01519	CDS	1194				hypothetical protein
+Pray.g_01520	gene	714	rsmG			
+Pray.g_01520	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+Pray.g_01521	gene	441	dnaJ_3			
+Pray.g_01521	CDS	441	dnaJ_3			Chaperone protein DnaJ
+Pray.g_01522	gene	258				
+Pray.g_01522	CDS	258				hypothetical protein
+Pray.g_01523	gene	1302	bioA			
+Pray.g_01523	CDS	1302	bioA	2.6.1.62		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Pray.g_01524	gene	699	bioD1			
+Pray.g_01524	CDS	699	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+Pray.g_01525	gene	771	tam_2			
+Pray.g_01525	CDS	771	tam_2	2.1.1.144		Trans-aconitate 2-methyltransferase
+Pray.g_01526	gene	705				
+Pray.g_01526	CDS	705				hypothetical protein
+Pray.g_01527	gene	1140	bioF			
+Pray.g_01527	CDS	1140	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+Pray.g_01528	gene	2727				
+Pray.g_01528	CDS	2727				hypothetical protein
+Pray.g_01529	gene	1386	fumC			
+Pray.g_01529	CDS	1386	fumC	4.2.1.2		Fumarate hydratase class II
+Pray.g_01530	gene	1296	purB			
+Pray.g_01530	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Pray.g_01531	gene	813	tlyA			
+Pray.g_01531	CDS	813	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+Pray.g_01532	gene	339	glnB			
+Pray.g_01532	CDS	339	glnB			Nitrogen regulatory protein P-II
+Pray.g_01533	gene	246				
+Pray.g_01533	CDS	246				hypothetical protein
+Pray.g_01534	gene	411	queF			
+Pray.g_01534	CDS	411	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+Pray.g_01535	gene	1287	ccsB			
+Pray.g_01535	CDS	1287	ccsB			Cytochrome c biogenesis protein CcsB
+Pray.g_01536	gene	657	dsbD_2			
+Pray.g_01536	CDS	657	dsbD_2	1.8.1.8		Thiol:disulfide interchange protein DsbD
+Pray.g_01537	gene	1236	ftsW			
+Pray.g_01537	CDS	1236	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Pray.g_01538	gene	477				
+Pray.g_01538	CDS	477				hypothetical protein
+Pray.g_01539	gene	726	atpB			
+Pray.g_01539	CDS	726	atpB		COG0356	ATP synthase subunit a
+Pray.g_01540	gene	246	atpH_1			
+Pray.g_01540	CDS	246	atpH_1			ATP synthase subunit c
+Pray.g_01541	gene	462	atpG_1			
+Pray.g_01541	CDS	462	atpG_1		COG0711	ATP synthase subunit b'
+Pray.g_01542	gene	513	atpF			
+Pray.g_01542	CDS	513	atpF		COG0711	ATP synthase subunit b
+Pray.g_01543	gene	543	atpH_2			
+Pray.g_01543	CDS	543	atpH_2		COG0712	ATP synthase subunit delta
+Pray.g_01544	gene	1518	atpA			
+Pray.g_01544	CDS	1518	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+Pray.g_01545	gene	951	atpG_2			
+Pray.g_01545	CDS	951	atpG_2		COG0224	ATP synthase gamma chain
+Pray.g_01546	gene	327	petF_1			
+Pray.g_01546	CDS	327	petF_1			Ferredoxin-1
+Pray.g_01547	gene	192				
+Pray.g_01547	CDS	192				hypothetical protein
+Pray.g_01548	gene	1059				
+Pray.g_01548	CDS	1059				hypothetical protein
+Pray.g_01549	gene	1698	nadE			
+Pray.g_01549	CDS	1698	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+Pray.g_01550	gene	570	nadD			
+Pray.g_01550	CDS	570	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+Pray.g_01551	gene	1242	era_2			
+Pray.g_01551	CDS	1242	era_2			GTPase Era
+Pray.g_01552	gene	984				
+Pray.g_01552	CDS	984				hypothetical protein
+Pray.g_01553	gene	1326	pepP			
+Pray.g_01553	CDS	1326	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+Pray.g_01554	gene	159				
+Pray.g_01554	CDS	159				hypothetical protein
+Pray.g_01555	gene	477				
+Pray.g_01555	CDS	477				hypothetical protein
+Pray.g_01556	gene	405	atpC			
+Pray.g_01556	CDS	405	atpC			ATP synthase epsilon chain
+Pray.g_01557	gene	1461	atpD			
+Pray.g_01557	CDS	1461	atpD	7.1.2.2		ATP synthase subunit beta
+Pray.g_01558	gene	312	groS			
+Pray.g_01558	CDS	312	groS			10 kDa chaperonin
+Pray.g_01559	gene	1638	groL1			
+Pray.g_01559	CDS	1638	groL1			60 kDa chaperonin 1
+Pray.g_01560	gene	228				
+Pray.g_01560	CDS	228				hypothetical protein
+Pray.g_01561	gene	1623	gpmI			
+Pray.g_01561	CDS	1623	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Pray.g_01562	gene	537	pyrR			
+Pray.g_01562	CDS	537	pyrR		COG2065	Bifunctional protein PyrR
+Pray.g_01563	gene	1569	dnaK			
+Pray.g_01563	CDS	1569	dnaK		COG0443	Chaperone protein DnaK
+Pray.g_01564	gene	237	rpoZ			
+Pray.g_01564	CDS	237	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+Pray.g_01565	gene	372				
+Pray.g_01565	CDS	372				hypothetical protein
+Pray.g_01566	gene	252				
+Pray.g_01566	CDS	252				hypothetical protein
+Pray.g_01567	gene	459				
+Pray.g_01567	CDS	459				hypothetical protein
+Pray.g_01568	gene	390				
+Pray.g_01568	CDS	390				hypothetical protein
+Pray.g_01569	gene	261				
+Pray.g_01569	CDS	261				hypothetical protein
+Pray.g_01570	gene	123				
+Pray.g_01570	CDS	123				hypothetical protein
+Pray.g_01571	gene	429				
+Pray.g_01571	CDS	429				hypothetical protein
+Pray.g_01572	gene	156				
+Pray.g_01572	CDS	156				hypothetical protein
+Pray.g_01573	gene	174				
+Pray.g_01573	CDS	174				hypothetical protein
+Pray.g_01574	gene	216				
+Pray.g_01574	CDS	216				hypothetical protein
+Pray.g_01575	gene	117				
+Pray.g_01575	CDS	117				hypothetical protein
+Pray.g_01576	gene	144				
+Pray.g_01576	CDS	144				hypothetical protein
+Pray.g_01577	gene	717				
+Pray.g_01577	CDS	717				hypothetical protein
+Pray.g_01578	gene	315				
+Pray.g_01578	CDS	315				hypothetical protein
+Pray.g_01579	gene	171				
+Pray.g_01579	CDS	171				hypothetical protein
+Pray.g_01580	gene	165				
+Pray.g_01580	CDS	165				hypothetical protein
+Pray.g_01581	gene	159				
+Pray.g_01581	CDS	159				hypothetical protein
+Pray.g_01582	gene	108				
+Pray.g_01582	CDS	108				hypothetical protein
+Pray.g_01583	gene	117				
+Pray.g_01583	CDS	117				hypothetical protein
+Pray.g_01584	gene	825				
+Pray.g_01584	CDS	825				hypothetical protein
+Pray.g_01585	gene	645				
+Pray.g_01585	CDS	645				hypothetical protein
+Pray.g_01586	gene	147				
+Pray.g_01586	CDS	147				hypothetical protein
+Pray.g_01587	gene	258				
+Pray.g_01587	CDS	258				hypothetical protein
+Pray.g_01588	gene	126				
+Pray.g_01588	CDS	126				hypothetical protein
+Pray.g_01589	gene	141				
+Pray.g_01589	CDS	141				hypothetical protein
+Pray.g_01590	gene	156				
+Pray.g_01590	CDS	156				hypothetical protein
+Pray.g_01591	gene	213				
+Pray.g_01591	CDS	213				hypothetical protein
+Pray.g_01592	gene	210				
+Pray.g_01592	CDS	210				hypothetical protein
+Pray.g_01593	gene	387				
+Pray.g_01593	CDS	387				hypothetical protein
+Pray.g_01594	gene	123				
+Pray.g_01594	CDS	123				hypothetical protein
+Pray.g_01595	gene	195				
+Pray.g_01595	CDS	195				hypothetical protein
+Pray.g_01596	gene	381				
+Pray.g_01596	CDS	381				hypothetical protein
+Pray.g_01597	gene	477				
+Pray.g_01597	CDS	477				hypothetical protein
+Pray.g_01598	gene	144				
+Pray.g_01598	CDS	144				hypothetical protein
+Pray.g_01599	gene	579				
+Pray.g_01599	CDS	579				hypothetical protein
+Pray.g_01600	gene	1206				
+Pray.g_01600	CDS	1206				hypothetical protein
+Pray.g_01601	gene	120				
+Pray.g_01601	CDS	120				hypothetical protein
+Pray.g_01602	gene	207				
+Pray.g_01602	CDS	207				hypothetical protein
+Pray.g_01603	gene	141				
+Pray.g_01603	CDS	141				hypothetical protein
+Pray.g_01604	gene	108				
+Pray.g_01604	CDS	108				hypothetical protein
+Pray.g_01605	gene	162				
+Pray.g_01605	CDS	162				hypothetical protein
+Pray.g_01606	gene	1167	desA			
+Pray.g_01606	CDS	1167	desA	1.14.19.6		Delta(12)-fatty-acid desaturase
+Pray.g_01607	gene	132				
+Pray.g_01607	CDS	132				hypothetical protein
+Pray.g_01608	gene	114				
+Pray.g_01608	CDS	114				hypothetical protein
+Pray.g_01609	gene	153				
+Pray.g_01609	CDS	153				hypothetical protein
+Pray.g_01610	gene	159				
+Pray.g_01610	CDS	159				hypothetical protein
+Pray.g_01611	gene	1107	des			
+Pray.g_01611	CDS	1107	des	1.14.19.-	COG3239	Fatty acid desaturase
+Pray.g_01612	gene	156				
+Pray.g_01612	CDS	156				hypothetical protein
+Pray.g_01613	gene	219				
+Pray.g_01613	CDS	219				hypothetical protein
+Pray.g_01614	gene	318				
+Pray.g_01614	CDS	318				hypothetical protein
+Pray.g_01615	gene	336				
+Pray.g_01615	CDS	336				hypothetical protein
+Pray.g_01616	gene	165				
+Pray.g_01616	CDS	165				hypothetical protein
+Pray.g_01617	gene	180				
+Pray.g_01617	CDS	180				hypothetical protein
+Pray.g_01618	gene	183				
+Pray.g_01618	CDS	183				hypothetical protein
+Pray.g_01619	gene	171				
+Pray.g_01619	CDS	171				hypothetical protein
+Pray.g_01620	gene	276				
+Pray.g_01620	CDS	276				hypothetical protein
+Pray.g_01621	gene	135				
+Pray.g_01621	CDS	135				hypothetical protein
+Pray.g_01622	gene	117				
+Pray.g_01622	CDS	117				hypothetical protein
+Pray.g_01623	gene	873				
+Pray.g_01623	CDS	873				hypothetical protein
+Pray.g_01624	gene	237				
+Pray.g_01624	CDS	237				hypothetical protein
+Pray.g_01625	gene	1284				
+Pray.g_01625	CDS	1284			COG2081	putative protein
+Pray.g_01626	gene	750				
+Pray.g_01626	CDS	750				hypothetical protein
+Pray.g_01627	gene	486				
+Pray.g_01627	CDS	486				hypothetical protein
+Pray.g_01628	gene	537				
+Pray.g_01628	CDS	537				hypothetical protein
+Pray.g_01629	gene	129				
+Pray.g_01629	CDS	129				hypothetical protein
+Pray.g_01630	gene	732	yhhW			
+Pray.g_01630	CDS	732	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+Pray.g_01631	gene	315				
+Pray.g_01631	CDS	315				hypothetical protein
+Pray.g_01632	gene	1431	murD			
+Pray.g_01632	CDS	1431	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Pray.g_01633	gene	267				
+Pray.g_01633	CDS	267				hypothetical protein
+Pray.g_01634	gene	930	acr1			
+Pray.g_01634	CDS	930	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+Pray.g_01635	gene	735	ligA			
+Pray.g_01635	CDS	735	ligA	6.5.1.2		DNA ligase
+Pray.g_01636	gene	1155				
+Pray.g_01636	CDS	1155				hypothetical protein
+Pray.g_01637	gene	552				
+Pray.g_01637	CDS	552				hypothetical protein
+Pray.g_01638	gene	174				
+Pray.g_01638	CDS	174				hypothetical protein
+Pray.g_01639	gene	552	pdxH			
+Pray.g_01639	CDS	552	pdxH	1.4.3.5		Pyridoxine/pyridoxamine 5'-phosphate oxidase
+Pray.g_01640	gene	618				
+Pray.g_01640	CDS	618				hypothetical protein
+Pray.g_01641	gene	72				
+Pray.g_01641	tRNA	72				tRNA-Val(gac)
+Pray.g_01642	gene	792				
+Pray.g_01642	CDS	792				hypothetical protein
+Pray.g_01643	gene	552				
+Pray.g_01643	CDS	552				hypothetical protein
+Pray.g_01644	gene	1587	serA			
+Pray.g_01644	CDS	1587	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+Pray.g_01645	gene	912	prmC_2			
+Pray.g_01645	CDS	912	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+Pray.g_01646	gene	300	petF_2			
+Pray.g_01646	CDS	300	petF_2			Ferredoxin
+Pray.g_01647	gene	369				
+Pray.g_01647	CDS	369				hypothetical protein
+Pray.g_01648	gene	603				
+Pray.g_01648	CDS	603				hypothetical protein
+Pray.g_01649	gene	939	rnz			
+Pray.g_01649	CDS	939	rnz	3.1.26.11	COG1234	Ribonuclease Z
+Pray.g_01650	gene	1176				
+Pray.g_01650	CDS	1176				hypothetical protein
+Pray.g_01651	gene	918	truB			
+Pray.g_01651	CDS	918	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Pray.g_01652	gene	774	cmoM			
+Pray.g_01652	CDS	774	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+Pray.g_01653	gene	261	rpmA			
+Pray.g_01653	CDS	261	rpmA		COG0211	50S ribosomal protein L27
+Pray.g_01654	gene	441				
+Pray.g_01654	CDS	441				hypothetical protein
+Pray.g_01655	gene	309	kaiB			
+Pray.g_01655	CDS	309	kaiB			Circadian clock protein KaiB
+Pray.g_01656	gene	1497	kaiC			
+Pray.g_01656	CDS	1497	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+Pray.g_01657	gene	2070	sasA_3			
+Pray.g_01657	CDS	2070	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+Pray.g_01658	gene	1332	purD			
+Pray.g_01658	CDS	1332	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+Pray.g_01659	gene	729	purC			
+Pray.g_01659	CDS	729	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Pray.g_01660	gene	2133	bamA			
+Pray.g_01660	CDS	2133	bamA			Outer membrane protein assembly factor BamA
+Pray.g_01661	gene	837	lpxC			
+Pray.g_01661	CDS	837	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Pray.g_01662	gene	459	fabZ			
+Pray.g_01662	CDS	459	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Pray.g_01663	gene	843	lpxA			
+Pray.g_01663	CDS	843	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Pray.g_01664	gene	1179	lpxB_2			
+Pray.g_01664	CDS	1179	lpxB_2	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Pray.g_01665	gene	603	msrA2			
+Pray.g_01665	CDS	603	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+Pray.g_01666	gene	1473	pepA			
+Pray.g_01666	CDS	1473	pepA	3.4.11.1	COG0260	putative cytosol aminopeptidase
+Pray.g_01667	gene	612				
+Pray.g_01667	CDS	612				hypothetical protein
+Pray.g_01668	gene	324				
+Pray.g_01668	CDS	324				hypothetical protein
+Pray.g_01669	gene	1239	tyrS			
+Pray.g_01669	CDS	1239	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Pray.g_01670	gene	729	pyrF			
+Pray.g_01670	CDS	729	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+Pray.g_01671	gene	594	plsY			
+Pray.g_01671	CDS	594	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+Pray.g_01672	gene	1011				
+Pray.g_01672	CDS	1011				hypothetical protein
+Pray.g_01673	gene	405				
+Pray.g_01673	CDS	405				hypothetical protein
+Pray.g_01674	gene	756	mlaE			
+Pray.g_01674	CDS	756	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+Pray.g_01675	gene	1398	yicJ			
+Pray.g_01675	CDS	1398	yicJ		COG2211	Inner membrane symporter YicJ
+Pray.g_01676	gene	71				
+Pray.g_01676	tRNA	71				tRNA-Gly(tcc)
+Pray.g_01677	gene	2034	glgX			
+Pray.g_01677	CDS	2034	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+Pray.g_01678	gene	309	hup			
+Pray.g_01678	CDS	309	hup		COG0776	DNA-binding protein HU
+Pray.g_01679	gene	363				
+Pray.g_01679	CDS	363				hypothetical protein
+Pray.g_01680	gene	246				
+Pray.g_01680	CDS	246				hypothetical protein
+Pray.g_01681	gene	258				
+Pray.g_01681	CDS	258				hypothetical protein
+Pray.g_01682	gene	213				
+Pray.g_01682	CDS	213				hypothetical protein
+Pray.g_01683	gene	246				
+Pray.g_01683	CDS	246				hypothetical protein
+Pray.g_01684	gene	1023	cobD_2			
+Pray.g_01684	CDS	1023	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+Pray.g_01685	gene	990	ilvC			
+Pray.g_01685	CDS	990	ilvC	1.1.1.86		Ketol-acid reductoisomerase (NADP(+))
+Pray.g_01686	gene	612	clpP_3			
+Pray.g_01686	CDS	612	clpP_3	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+Pray.g_01687	gene	663	clpP_4			
+Pray.g_01687	CDS	663	clpP_4	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Pray.g_01688	gene	1110	yacL			
+Pray.g_01688	CDS	1110	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+Pray.g_01689	gene	1224	hemW			
+Pray.g_01689	CDS	1224	hemW			Heme chaperone HemW
+Pray.g_01690	gene	774	panB			
+Pray.g_01690	CDS	774	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Pray.g_01691	gene	1116	ftsZ			
+Pray.g_01691	CDS	1116	ftsZ			Cell division protein FtsZ
+Pray.g_01692	gene	726				
+Pray.g_01692	CDS	726				hypothetical protein
+Pray.g_01693	gene	411				
+Pray.g_01693	CDS	411				hypothetical protein
+Pray.g_01694	gene	1068	ddlA			
+Pray.g_01694	CDS	1068	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+Pray.g_01695	gene	1395	miaB			
+Pray.g_01695	CDS	1395	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Pray.g_01696	gene	74				
+Pray.g_01696	tRNA	74				tRNA-His(gtg)
+Pray.g_01697	gene	1236	codAch2			
+Pray.g_01697	CDS	1236	codAch2	3.5.4.11	COG0402	Pterin deaminase
+Pray.g_01698	gene	1353				
+Pray.g_01698	CDS	1353				hypothetical protein
+Pray.g_01699	gene	1233	folC			
+Pray.g_01699	CDS	1233	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+Pray.g_01700	gene	83				
+Pray.g_01700	tRNA	83				tRNA-Leu(caa)
+Pray.g_01701	gene	108				
+Pray.g_01701	CDS	108				hypothetical protein
+Pray.g_01702	gene	1371	murA			
+Pray.g_01702	CDS	1371	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Pray.g_01703	gene	711				
+Pray.g_01703	CDS	711		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+Pray.g_01704	gene	1440	lpdA			
+Pray.g_01704	CDS	1440	lpdA	1.8.1.4		Dihydrolipoyl dehydrogenase
+Pray.g_01705	gene	888	trpC			
+Pray.g_01705	CDS	888	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+Pray.g_01706	gene	672				
+Pray.g_01706	CDS	672				hypothetical protein
+Pray.g_01707	gene	318				
+Pray.g_01707	CDS	318				hypothetical protein
+Pray.g_01708	gene	474	sodN			
+Pray.g_01708	CDS	474	sodN	1.15.1.1		Superoxide dismutase [Ni]
+Pray.g_01709	gene	573				
+Pray.g_01709	CDS	573				hypothetical protein
+Pray.g_01710	gene	1488	lnt			
+Pray.g_01710	CDS	1488	lnt	2.3.1.269		Apolipoprotein N-acyltransferase
+Pray.g_01711	gene	1158	mnmA			
+Pray.g_01711	CDS	1158	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Pray.g_01712	gene	1566	nnr			
+Pray.g_01712	CDS	1566	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+Pray.g_01713	gene	942	sigA2_3			
+Pray.g_01713	CDS	942	sigA2_3		COG0568	RNA polymerase sigma factor SigA2
+Pray.g_01714	gene	1038	acoA			
+Pray.g_01714	CDS	1038	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+Pray.g_01715	gene	2106				
+Pray.g_01715	CDS	2106				hypothetical protein
+Pray.g_01716	gene	1479	ffh			
+Pray.g_01716	CDS	1479	ffh		COG0541	Signal recognition particle protein
+Pray.g_01717	gene	369				
+Pray.g_01717	CDS	369				hypothetical protein
+Pray.g_01718	gene	957	ybeZ			
+Pray.g_01718	CDS	957	ybeZ		COG1702	PhoH-like protein
+Pray.g_01719	gene	738				
+Pray.g_01719	CDS	738				hypothetical protein
+Pray.g_01720	gene	528				
+Pray.g_01720	CDS	528				hypothetical protein
+Pray.g_01721	gene	915	era_3			
+Pray.g_01721	CDS	915	era_3		COG1159	GTPase Era
+Pray.g_01722	gene	1221	trmD			
+Pray.g_01722	CDS	1221	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+Pray.g_01723	gene	447				
+Pray.g_01723	CDS	447				hypothetical protein
+Pray.g_01724	gene	657	larB			
+Pray.g_01724	CDS	657	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+Pray.g_01725	gene	132				
+Pray.g_01725	CDS	132				hypothetical protein
+Pray.g_01726	gene	168				
+Pray.g_01726	CDS	168				hypothetical protein
+Pray.g_01727	gene	210				
+Pray.g_01727	CDS	210				hypothetical protein
+Pray.g_01728	gene	1056	thiE			
+Pray.g_01728	CDS	1056	thiE	2.5.1.3		Thiamine-phosphate synthase
+Pray.g_01729	gene	924	ribF			
+Pray.g_01729	CDS	924	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+Pray.g_01730	gene	534				
+Pray.g_01730	CDS	534				hypothetical protein
+Pray.g_01731	gene	810	surE			
+Pray.g_01731	CDS	810	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+Pray.g_01732	gene	1008	pheS			
+Pray.g_01732	CDS	1008	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Pray.g_01733	gene	909	nadK_2			
+Pray.g_01733	CDS	909	nadK_2	2.7.1.23		NAD kinase
+Pray.g_01734	gene	1272	cbiET			
+Pray.g_01734	CDS	1272	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+Pray.g_01735	gene	252				
+Pray.g_01735	CDS	252				hypothetical protein
+Pray.g_01736	gene	501				
+Pray.g_01736	CDS	501				hypothetical protein
+Pray.g_01737	gene	1095	ribD			
+Pray.g_01737	CDS	1095	ribD		COG0117	Riboflavin biosynthesis protein RibD
+Pray.g_01738	gene	1863	ftsH4			
+Pray.g_01738	CDS	1863	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+Pray.g_01739	gene	927	argF			
+Pray.g_01739	CDS	927	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+Pray.g_01740	gene	618	lexA			
+Pray.g_01740	CDS	618	lexA			Transcription regulator LexA
+Pray.g_01741	gene	1194				
+Pray.g_01741	CDS	1194				hypothetical protein
+Pray.g_01742	gene	1647				
+Pray.g_01742	CDS	1647				hypothetical protein
+Pray.g_01743	gene	816				
+Pray.g_01743	CDS	816				hypothetical protein
+Pray.g_01744	gene	921				
+Pray.g_01744	CDS	921				hypothetical protein
+Pray.g_01745	gene	74				
+Pray.g_01745	tRNA	74				tRNA-Ala(ggc)
+Pray.g_01746	gene	1293				
+Pray.g_01746	CDS	1293				hypothetical protein
+Pray.g_01747	gene	273				
+Pray.g_01747	CDS	273				hypothetical protein
+Pray.g_01748	gene	927				
+Pray.g_01748	CDS	927				hypothetical protein
+Pray.g_01749	gene	1251				
+Pray.g_01749	CDS	1251				hypothetical protein
+Pray.g_01750	gene	378				
+Pray.g_01750	CDS	378				hypothetical protein
+Pray.g_01751	gene	387				
+Pray.g_01751	CDS	387				hypothetical protein
+Pray.g_01752	gene	168				
+Pray.g_01752	CDS	168				hypothetical protein
+Pray.g_01753	gene	366				
+Pray.g_01753	CDS	366				hypothetical protein
+Pray.g_01754	gene	399				
+Pray.g_01754	CDS	399				hypothetical protein
+Pray.g_01755	gene	834				
+Pray.g_01755	CDS	834				hypothetical protein
+Pray.g_01756	gene	1731				
+Pray.g_01756	CDS	1731				hypothetical protein
+Pray.g_01757	gene	1122				
+Pray.g_01757	CDS	1122				hypothetical protein
+Pray.g_01758	gene	1965				
+Pray.g_01758	CDS	1965				hypothetical protein
+Pray.g_01759	gene	1023				
+Pray.g_01759	CDS	1023				hypothetical protein
+Pray.g_01760	gene	1569	glmU_2			
+Pray.g_01760	CDS	1569	glmU_2	2.7.7.23		Bifunctional protein GlmU
+Pray.g_01761	gene	699	arnC_2			
+Pray.g_01761	CDS	699	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+Pray.g_01762	gene	585				
+Pray.g_01762	CDS	585				hypothetical protein
+Pray.g_01763	gene	2028	udk_2			
+Pray.g_01763	CDS	2028	udk_2	2.7.1.48		Uridine kinase
+Pray.g_01764	gene	747	gph			
+Pray.g_01764	CDS	747	gph	3.1.3.18		Phosphoglycolate phosphatase
+Pray.g_01765	gene	1056				
+Pray.g_01765	CDS	1056				hypothetical protein
+Pray.g_01766	gene	1068				
+Pray.g_01766	CDS	1068				hypothetical protein
+Pray.g_01767	gene	1785	asnB			
+Pray.g_01767	CDS	1785	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+Pray.g_01768	gene	1617				
+Pray.g_01768	CDS	1617				hypothetical protein
+Pray.g_01769	gene	897				
+Pray.g_01769	CDS	897				hypothetical protein
+Pray.g_01770	gene	1194				
+Pray.g_01770	CDS	1194				hypothetical protein
+Pray.g_01771	gene	1653				
+Pray.g_01771	CDS	1653				hypothetical protein
+Pray.g_01772	gene	537	gmhA1			
+Pray.g_01772	CDS	537	gmhA1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+Pray.g_01773	gene	936	hldD			
+Pray.g_01773	CDS	936	hldD	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+Pray.g_01774	gene	1356	hldE			
+Pray.g_01774	CDS	1356	hldE		COG2870	Bifunctional protein HldE
+Pray.g_01775	gene	525	gmhB			
+Pray.g_01775	CDS	525	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+Pray.g_01776	gene	963				
+Pray.g_01776	CDS	963				hypothetical protein
+Pray.g_01777	gene	1059				
+Pray.g_01777	CDS	1059				hypothetical protein
+Pray.g_01778	gene	981				
+Pray.g_01778	CDS	981				hypothetical protein
+Pray.g_01779	gene	1164				
+Pray.g_01779	CDS	1164				hypothetical protein
+Pray.g_01780	gene	750	noeI			
+Pray.g_01780	CDS	750	noeI	2.1.1.-		2-O-methyltransferase NoeI
+Pray.g_01781	gene	1251				
+Pray.g_01781	CDS	1251				hypothetical protein
+Pray.g_01782	gene	1371	wcaJ			
+Pray.g_01782	CDS	1371	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+Pray.g_01783	gene	1302	wbpA			
+Pray.g_01783	CDS	1302	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+Pray.g_01784	gene	996	fcl			
+Pray.g_01784	CDS	996	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+Pray.g_01785	gene	1116	gmd			
+Pray.g_01785	CDS	1116	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+Pray.g_01786	gene	1062	galE_2			
+Pray.g_01786	CDS	1062	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Pray.g_01787	gene	1431	algA			
+Pray.g_01787	CDS	1431	algA		COG0662	Alginate biosynthesis protein AlgA
+Pray.g_01788	gene	1047	wbgU			
+Pray.g_01788	CDS	1047	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+Pray.g_01789	gene	372				
+Pray.g_01789	CDS	372				hypothetical protein
+Pray.g_01790	gene	1125				
+Pray.g_01790	CDS	1125				hypothetical protein
+Pray.g_01791	gene	660				
+Pray.g_01791	CDS	660				hypothetical protein
+Pray.g_01792	gene	1161	perA			
+Pray.g_01792	CDS	1161	perA	2.6.1.102	COG0399	GDP-perosamine synthase
+Pray.g_01793	gene	1758	pglK			
+Pray.g_01793	CDS	1758	pglK	7.5.2.5	COG1132	Protein glycosylation K
+Pray.g_01794	gene	999				
+Pray.g_01794	CDS	999				hypothetical protein
+Pray.g_01795	gene	1083	rfbB			
+Pray.g_01795	CDS	1083	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+Pray.g_01796	gene	1893				
+Pray.g_01796	CDS	1893				hypothetical protein
+Pray.g_01797	gene	1260				
+Pray.g_01797	CDS	1260				hypothetical protein
+Pray.g_01798	gene	930				
+Pray.g_01798	CDS	930				hypothetical protein
+Pray.g_01799	gene	909	tagO			
+Pray.g_01799	CDS	909	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+Pray.g_01800	gene	873				
+Pray.g_01800	CDS	873				hypothetical protein
+Pray.g_01801	gene	726				
+Pray.g_01801	CDS	726				hypothetical protein
+Pray.g_01802	gene	1242	mshA_1			
+Pray.g_01802	CDS	1242	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Pray.g_01803	gene	993				
+Pray.g_01803	CDS	993				hypothetical protein
+Pray.g_01804	gene	834				
+Pray.g_01804	CDS	834				hypothetical protein
+Pray.g_01805	gene	861				
+Pray.g_01805	CDS	861				hypothetical protein
+Pray.g_01806	gene	945				
+Pray.g_01806	CDS	945		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+Pray.g_01807	gene	879	rmlA			
+Pray.g_01807	CDS	879	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+Pray.g_01808	gene	1449	tuaD			
+Pray.g_01808	CDS	1449	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+Pray.g_01809	gene	1287				
+Pray.g_01809	CDS	1287				hypothetical protein
+Pray.g_01810	gene	77				
+Pray.g_01810	tRNA	77				tRNA-Arg(tct)
+Pray.g_01811	gene	753				
+Pray.g_01811	CDS	753				hypothetical protein
+Pray.g_01812	gene	222				
+Pray.g_01812	CDS	222				hypothetical protein
+Pray.g_01813	gene	864	rsmI			
+Pray.g_01813	CDS	864	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Pray.g_01814	gene	903	cysQ			
+Pray.g_01814	CDS	903	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+Pray.g_01815	gene	2166	pnp_2			
+Pray.g_01815	CDS	2166	pnp_2	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Pray.g_01816	gene	303	rpsN			
+Pray.g_01816	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+Pray.g_01817	gene	1080	mmpA			
+Pray.g_01817	CDS	1080	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+Pray.g_01818	gene	1296	serS			
+Pray.g_01818	CDS	1296	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Pray.g_01819	gene	1467	ftsH			
+Pray.g_01819	CDS	1467	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Pray.g_01820	gene	1143	yidC			
+Pray.g_01820	CDS	1143	yidC			Membrane protein insertase YidC
+Pray.g_01821	gene	414				
+Pray.g_01821	CDS	414				hypothetical protein
+Pray.g_01822	gene	387	rnpA			
+Pray.g_01822	CDS	387	rnpA	3.1.26.5		Ribonuclease P protein component
+Pray.g_01823	gene	138				
+Pray.g_01823	CDS	138				hypothetical protein
+Pray.g_01824	gene	564				
+Pray.g_01824	CDS	564				hypothetical protein
+Pray.g_01825	gene	384	aroH			
+Pray.g_01825	CDS	384	aroH	5.4.99.5	COG4401	Chorismate mutase AroH
+Pray.g_01826	gene	810				
+Pray.g_01826	CDS	810				hypothetical protein
+Pray.g_01827	gene	915				
+Pray.g_01827	CDS	915				hypothetical protein
+Pray.g_01828	gene	1077	mshA_2			
+Pray.g_01828	CDS	1077	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Pray.g_01829	gene	1806	arnT_2			
+Pray.g_01829	CDS	1806	arnT_2	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+Pray.g_01830	gene	252				
+Pray.g_01830	CDS	252				hypothetical protein
+Pray.g_01831	gene	786				
+Pray.g_01831	CDS	786				hypothetical protein
+Pray.g_01832	gene	234				
+Pray.g_01832	CDS	234				hypothetical protein
+Pray.g_01833	gene	264				
+Pray.g_01833	CDS	264			COG4095	Sugar transporter SemiSWEET
+Pray.g_01834	gene	735				
+Pray.g_01834	CDS	735				hypothetical protein
+Pray.g_01835	gene	525	isiB			
+Pray.g_01835	CDS	525	isiB		COG0716	Flavodoxin
+Pray.g_01836	gene	1059	pcbC			
+Pray.g_01836	CDS	1059	pcbC			Divinyl chlorophyll a/b light-harvesting protein PcbC
+Pray.g_01837	gene	654				
+Pray.g_01837	CDS	654				hypothetical protein
+Pray.g_01838	gene	246				
+Pray.g_01838	CDS	246				hypothetical protein
+Pray.g_01839	gene	639				
+Pray.g_01839	CDS	639				hypothetical protein
+Pray.g_01840	gene	171				
+Pray.g_01840	CDS	171				hypothetical protein
+Pray.g_01841	gene	333				
+Pray.g_01841	CDS	333				hypothetical protein
+Pray.g_01842	gene	387				
+Pray.g_01842	CDS	387				hypothetical protein
+Pray.g_01843	gene	891	glyQ			
+Pray.g_01843	CDS	891	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Pray.g_01844	gene	1275				
+Pray.g_01844	CDS	1275				putative protein
+Pray.g_01845	gene	228				
+Pray.g_01845	CDS	228				hypothetical protein
+Pray.g_01846	gene	666				
+Pray.g_01846	CDS	666		1.14.11.-	COG3128	PKHD-type hydroxylase
+Pray.g_01847	gene	1023	idiA			
+Pray.g_01847	CDS	1023	idiA		COG1840	Iron deficiency-induced protein A
+Pray.g_01848	gene	85				
+Pray.g_01848	tRNA	85				tRNA-Ser(cga)
+Pray.g_01849	gene	480				
+Pray.g_01849	CDS	480				hypothetical protein
+Pray.g_01850	gene	120				
+Pray.g_01850	CDS	120				hypothetical protein
+Pray.g_01851	gene	237				
+Pray.g_01851	CDS	237				hypothetical protein
+Pray.g_01852	gene	186				
+Pray.g_01852	CDS	186				hypothetical protein
+Pray.g_01853	gene	603				
+Pray.g_01853	CDS	603				hypothetical protein
+Pray.g_01854	gene	273				
+Pray.g_01854	CDS	273				hypothetical protein
+Pray.g_01855	gene	1830				
+Pray.g_01855	CDS	1830				hypothetical protein
+Pray.g_01856	gene	252				
+Pray.g_01856	CDS	252				hypothetical protein
+Pray.g_01857	gene	1530	cobQ			
+Pray.g_01857	CDS	1530	cobQ		COG1492	Cobyric acid synthase
+Pray.g_01858	gene	612				
+Pray.g_01858	CDS	612		3.6.1.9	COG0424	Nucleoside triphosphate pyrophosphatase
+Pray.g_01859	gene	1383	psbC			
+Pray.g_01859	CDS	1383	psbC			Photosystem II CP43 reaction center protein
+Pray.g_01860	gene	1077	psbD1			
+Pray.g_01860	CDS	1077	psbD1	1.10.3.9		Photosystem II D2 protein
+Pray.g_01861	gene	558	ycf4			
+Pray.g_01861	CDS	558	ycf4			Photosystem I assembly protein Ycf4
+Pray.g_01862	gene	603				
+Pray.g_01862	CDS	603				hypothetical protein
+Pray.g_01863	gene	525	ilvH			
+Pray.g_01863	CDS	525	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+Pray.g_01864	gene	945	menH_3			
+Pray.g_01864	CDS	945	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Pray.g_01865	gene	99	petM			
+Pray.g_01865	CDS	99	petM			Cytochrome b6-f complex subunit 7
+Pray.g_01866	gene	963				
+Pray.g_01866	CDS	963				hypothetical protein
+Pray.g_01867	gene	213				
+Pray.g_01867	CDS	213				hypothetical protein
+Pray.g_01868	gene	267	infA			
+Pray.g_01868	CDS	267	infA			Translation initiation factor IF-1
+Pray.g_01869	gene	1377				
+Pray.g_01869	CDS	1377		1.18.1.2		Ferredoxin--NADP reductase
+Pray.g_01870	gene	225				
+Pray.g_01870	CDS	225				hypothetical protein
+Pray.g_01871	gene	579				
+Pray.g_01871	CDS	579				hypothetical protein
+Pray.g_01872	gene	1131	pntAA			
+Pray.g_01872	CDS	1131	pntAA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+Pray.g_01873	gene	294	pntA			
+Pray.g_01873	CDS	294	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+Pray.g_01874	gene	1440	pntB			
+Pray.g_01874	CDS	1440	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+Pray.g_01875	gene	1080				
+Pray.g_01875	CDS	1080				hypothetical protein
+Pray.g_01876	gene	342	fdx4			
+Pray.g_01876	CDS	342	fdx4		COG3411	Ferredoxin, 2Fe-2S
+Pray.g_01877	gene	1215	dxr			
+Pray.g_01877	CDS	1215	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Pray.g_01878	gene	1470	cysS			
+Pray.g_01878	CDS	1470	cysS	6.1.1.16		Cysteine--tRNA ligase
+Pray.g_01879	gene	2931	polA			
+Pray.g_01879	CDS	2931	polA	2.7.7.7	COG0258	DNA polymerase I
+Pray.g_01880	gene	1062	macA			
+Pray.g_01880	CDS	1062	macA		COG0845	Macrolide export protein MacA
+Pray.g_01881	gene	1092	ychF			
+Pray.g_01881	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+Pray.g_01882	gene	159				
+Pray.g_01882	CDS	159				hypothetical protein
+Pray.g_01883	gene	162				
+Pray.g_01883	CDS	162				hypothetical protein
+Pray.g_01884	gene	285				
+Pray.g_01884	CDS	285				hypothetical protein
+Pray.g_01885	gene	252				
+Pray.g_01885	CDS	252				hypothetical protein
+Pray.g_01886	gene	216				
+Pray.g_01886	CDS	216				hypothetical protein
+Pray.g_01887	gene	180				
+Pray.g_01887	CDS	180				hypothetical protein
+Pray.g_01888	gene	129				
+Pray.g_01888	CDS	129				hypothetical protein
+Pray.g_01889	gene	261				
+Pray.g_01889	CDS	261				hypothetical protein
+Pray.g_01890	gene	312				
+Pray.g_01890	CDS	312				hypothetical protein
+Pray.g_01891	gene	270				
+Pray.g_01891	CDS	270				hypothetical protein
+Pray.g_01892	gene	183				
+Pray.g_01892	CDS	183				hypothetical protein
+Pray.g_01893	gene	162				
+Pray.g_01893	CDS	162				hypothetical protein
+Pray.g_01894	gene	423				
+Pray.g_01894	CDS	423				hypothetical protein
+Pray.g_01895	gene	1704	selO			
+Pray.g_01895	CDS	1704	selO	2.7.7.-	COG0397	Protein adenylyltransferase SelO
+Pray.g_01896	gene	1344				
+Pray.g_01896	CDS	1344				hypothetical protein
+Pray.g_01897	gene	282				
+Pray.g_01897	CDS	282				hypothetical protein
+Pray.g_01898	gene	300				
+Pray.g_01898	CDS	300				hypothetical protein
+Pray.g_01899	gene	357				
+Pray.g_01899	CDS	357				hypothetical protein
+Pray.g_01900	gene	117				
+Pray.g_01900	CDS	117				hypothetical protein
+Pray.g_01901	gene	1305				
+Pray.g_01901	CDS	1305				hypothetical protein
+Pray.g_01902	gene	198				
+Pray.g_01902	CDS	198				hypothetical protein
+Pray.g_01903	gene	231				
+Pray.g_01903	CDS	231				hypothetical protein
+Pray.g_01904	gene	243				
+Pray.g_01904	CDS	243				hypothetical protein
+Pray.g_01905	gene	135				
+Pray.g_01905	CDS	135				hypothetical protein
+Pray.g_01906	gene	276				
+Pray.g_01906	CDS	276				hypothetical protein
+Pray.g_01907	gene	171				
+Pray.g_01907	CDS	171				hypothetical protein
+Pray.g_01908	gene	291				
+Pray.g_01908	CDS	291				hypothetical protein
+Pray.g_01909	gene	180				
+Pray.g_01909	CDS	180				hypothetical protein
+Pray.g_01910	gene	201				
+Pray.g_01910	CDS	201				hypothetical protein
+Pray.g_01911	gene	261				
+Pray.g_01911	CDS	261				hypothetical protein
+Pray.g_01912	gene	222				
+Pray.g_01912	CDS	222				hypothetical protein
+Pray.g_01913	gene	519				
+Pray.g_01913	CDS	519				hypothetical protein
+Pray.g_01914	gene	453				
+Pray.g_01914	CDS	453				hypothetical protein
+Pray.g_01915	gene	231				
+Pray.g_01915	CDS	231				hypothetical protein
+Pray.g_01916	gene	117				
+Pray.g_01916	CDS	117				hypothetical protein
+Pray.g_01917	gene	144				
+Pray.g_01917	CDS	144				hypothetical protein
+Pray.g_01918	gene	105				
+Pray.g_01918	CDS	105				hypothetical protein
+Pray.g_01919	gene	114				
+Pray.g_01919	CDS	114				hypothetical protein
+Pray.g_01920	gene	201				
+Pray.g_01920	CDS	201				hypothetical protein
+Pray.g_01921	gene	105				
+Pray.g_01921	CDS	105				hypothetical protein
+Pray.g_01922	gene	312				
+Pray.g_01922	CDS	312				hypothetical protein
+Pray.g_01923	gene	165				
+Pray.g_01923	CDS	165				hypothetical protein
+Pray.g_01924	gene	186				
+Pray.g_01924	CDS	186				hypothetical protein
+Pray.g_01925	gene	147				
+Pray.g_01925	CDS	147				hypothetical protein
+Pray.g_01926	gene	639				
+Pray.g_01926	CDS	639				hypothetical protein
+Pray.g_01927	gene	723	rluF			
+Pray.g_01927	CDS	723	rluF	5.4.99.-	COG1187	Dual-specificity RNA pseudouridine synthase RluF
+Pray.g_01928	gene	255				
+Pray.g_01928	CDS	255				hypothetical protein
+Pray.g_01929	gene	696				
+Pray.g_01929	CDS	696				hypothetical protein
+Pray.g_01930	gene	306				
+Pray.g_01930	CDS	306				hypothetical protein
+Pray.g_01931	gene	129				
+Pray.g_01931	CDS	129				hypothetical protein
+Pray.g_01932	gene	135				
+Pray.g_01932	CDS	135				hypothetical protein
+Pray.g_01933	gene	513				
+Pray.g_01933	CDS	513				hypothetical protein
+Pray.g_01934	gene	369				
+Pray.g_01934	CDS	369				hypothetical protein
+Pray.g_01935	gene	297	psbF_2			
+Pray.g_01935	CDS	297	psbF_2			Cytochrome b559 subunit beta
+Pray.g_01936	gene	186				
+Pray.g_01936	CDS	186				hypothetical protein
+Pray.g_01937	gene	414				
+Pray.g_01937	CDS	414				hypothetical protein
+Pray.g_01938	gene	147				
+Pray.g_01938	CDS	147				hypothetical protein
+Pray.g_01939	gene	216				
+Pray.g_01939	CDS	216				hypothetical protein
+Pray.g_01940	gene	729				
+Pray.g_01940	CDS	729				hypothetical protein
+Pray.g_01941	gene	516				
+Pray.g_01941	CDS	516				hypothetical protein
+Pray.g_01942	gene	795				
+Pray.g_01942	CDS	795				hypothetical protein
+Pray.g_01943	gene	321				
+Pray.g_01943	CDS	321				hypothetical protein

@@ -1,0 +1,68 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=12;
+TAXLABELS
+[1] 'Prag'
+[2] 'Prat'
+[3] 'Praa'
+[4] 'Praf'
+[5] 'Prah'
+[6] 'Prak'
+[7] 'Prab'
+[8] 'Prau'
+[9] 'Prae'
+[10] 'Prai'
+[11] 'Prbb'
+[12] 'Praj'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=12 nsplits=41;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 6,
+	92	 2 6,
+	100	 4,
+	100	 5,
+	100	 4 5,
+	82	 2 4 5 6,
+	100	 11,
+	100	 12,
+	100	 11 12,
+	100	 1 3 7 8 9 10,
+	100	 7,
+	100	 10,
+	95	 7 10,
+	94	 1 3 8 9,
+	100	 3,
+	100	 9,
+	97	 3 9,
+	100	 8,
+	64	 3 8 9,
+	100	 1,
+	30	 1 3 9,
+	13	 4 5 11 12,
+	5	 2 6 11 12,
+	5	 2 4 5 11 12,
+	6	 1 7 10,
+	5	 1 3 8 9 10,
+	1	 1 8 9,
+	4	 1 8,
+	1	 2 4 5,
+	1	 4 5 6 11 12,
+	1	 3 8,
+	1	 1 7 8 10,
+	1	 4 5 6,
+	1	 1 3 7 9 10,
+	1	 1 3 8,
+	1	 1 9,
+	0	 2 4 5 6 11,
+	0	 8 9,
+	0	 1 3,
+	0	 1 7 9 10,
+;
+END; [Splits]
+

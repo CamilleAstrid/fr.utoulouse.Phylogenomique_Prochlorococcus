@@ -1,0 +1,3993 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Prad.g_00001	gene	102				
+Prad.g_00001	CDS	102				hypothetical protein
+Prad.g_00002	gene	171				
+Prad.g_00002	CDS	171				hypothetical protein
+Prad.g_00003	gene	270				
+Prad.g_00003	CDS	270				hypothetical protein
+Prad.g_00004	gene	165				
+Prad.g_00004	CDS	165				hypothetical protein
+Prad.g_00005	gene	225				
+Prad.g_00005	CDS	225				hypothetical protein
+Prad.g_00006	gene	165				
+Prad.g_00006	CDS	165				hypothetical protein
+Prad.g_00007	gene	162				
+Prad.g_00007	CDS	162				hypothetical protein
+Prad.g_00008	gene	165				
+Prad.g_00008	CDS	165				hypothetical protein
+Prad.g_00009	gene	162				
+Prad.g_00009	CDS	162				hypothetical protein
+Prad.g_00010	gene	252				
+Prad.g_00010	CDS	252				hypothetical protein
+Prad.g_00011	gene	2043				
+Prad.g_00011	CDS	2043				hypothetical protein
+Prad.g_00012	gene	825				
+Prad.g_00012	CDS	825				hypothetical protein
+Prad.g_00013	gene	1017	drrA			
+Prad.g_00013	CDS	1017	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+Prad.g_00014	gene	1002	ctaB			
+Prad.g_00014	CDS	1002	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+Prad.g_00015	gene	927	ctaA			
+Prad.g_00015	CDS	927	ctaA	1.3.-.-		Heme A synthase
+Prad.g_00016	gene	804				
+Prad.g_00016	CDS	804				hypothetical protein
+Prad.g_00017	gene	1626	ctaD_1			
+Prad.g_00017	CDS	1626	ctaD_1	1.9.3.1	COG0843	putative cytochrome c oxidase subunit 1
+Prad.g_00018	gene	603	ctaE_1			
+Prad.g_00018	CDS	603	ctaE_1	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+Prad.g_00019	gene	354				
+Prad.g_00019	CDS	354				hypothetical protein
+Prad.g_00020	gene	654	ribE			
+Prad.g_00020	CDS	654	ribE	2.5.1.9	COG0307	Riboflavin synthase
+Prad.g_00021	gene	1143				
+Prad.g_00021	CDS	1143				hypothetical protein
+Prad.g_00022	gene	999				
+Prad.g_00022	CDS	999				hypothetical protein
+Prad.g_00023	gene	1158				
+Prad.g_00023	CDS	1158				hypothetical protein
+Prad.g_00024	gene	639				
+Prad.g_00024	CDS	639				hypothetical protein
+Prad.g_00025	gene	549				
+Prad.g_00025	CDS	549				hypothetical protein
+Prad.g_00026	gene	2607	topA			
+Prad.g_00026	CDS	2607	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+Prad.g_00027	gene	1521	ndhB			
+Prad.g_00027	CDS	1521	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+Prad.g_00028	gene	687	yknY			
+Prad.g_00028	CDS	687	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+Prad.g_00029	gene	750	birA			
+Prad.g_00029	CDS	750	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+Prad.g_00030	gene	462				
+Prad.g_00030	CDS	462				hypothetical protein
+Prad.g_00031	gene	711	menG			
+Prad.g_00031	CDS	711	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+Prad.g_00032	gene	771	hisF			
+Prad.g_00032	CDS	771	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Prad.g_00033	gene	225				
+Prad.g_00033	CDS	225				hypothetical protein
+Prad.g_00034	gene	948	menA_1			
+Prad.g_00034	CDS	948	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+Prad.g_00035	gene	1770	pbpF			
+Prad.g_00035	CDS	1770	pbpF		COG0744	Penicillin-binding protein 1F
+Prad.g_00036	gene	1317	rsmB			
+Prad.g_00036	CDS	1317	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+Prad.g_00037	gene	1491	phrB			
+Prad.g_00037	CDS	1491	phrB	4.1.99.13	COG3046	(6-4) photolyase
+Prad.g_00038	gene	237				
+Prad.g_00038	CDS	237				hypothetical protein
+Prad.g_00039	gene	393				
+Prad.g_00039	CDS	393				hypothetical protein
+Prad.g_00040	gene	204				
+Prad.g_00040	CDS	204				hypothetical protein
+Prad.g_00041	gene	672	trmH			
+Prad.g_00041	CDS	672	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+Prad.g_00042	gene	846	gsiD			
+Prad.g_00042	CDS	846	gsiD		COG1173	Glutathione transport system permease protein GsiD
+Prad.g_00043	gene	1809	lepA			
+Prad.g_00043	CDS	1809	lepA	3.6.5.-		Elongation factor 4
+Prad.g_00044	gene	1497	mqo			
+Prad.g_00044	CDS	1497	mqo	1.1.5.4	COG0579	Malate:quinone oxidoreductase
+Prad.g_00045	gene	246	nfuA			
+Prad.g_00045	CDS	246	nfuA			Fe/S biogenesis protein NfuA
+Prad.g_00046	gene	258				
+Prad.g_00046	CDS	258				hypothetical protein
+Prad.g_00047	gene	210				
+Prad.g_00047	CDS	210				hypothetical protein
+Prad.g_00048	gene	795	arsM			
+Prad.g_00048	CDS	795	arsM	2.1.1.137		Arsenite methyltransferase
+Prad.g_00049	gene	1176	sufS			
+Prad.g_00049	CDS	1176	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+Prad.g_00050	gene	705				
+Prad.g_00050	CDS	705				hypothetical protein
+Prad.g_00051	gene	1536	murE			
+Prad.g_00051	CDS	1536	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Prad.g_00052	gene	303				
+Prad.g_00052	CDS	303				hypothetical protein
+Prad.g_00053	gene	192	yidD			
+Prad.g_00053	CDS	192	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Prad.g_00054	gene	609	rpsD			
+Prad.g_00054	CDS	609	rpsD		COG0522	30S ribosomal protein S4
+Prad.g_00055	gene	1164	metC			
+Prad.g_00055	CDS	1164	metC	4.4.1.13	COG0626	Cystathionine beta-lyase
+Prad.g_00056	gene	1470	besB			
+Prad.g_00056	CDS	1470	besB	4.5.1.-		L-2-amino-4-chloropent-4-enoate dechlorinase/desaturase
+Prad.g_00057	gene	987	cysK			
+Prad.g_00057	CDS	987	cysK	2.5.1.47	COG0031	Cysteine synthase A
+Prad.g_00058	gene	1125	queA			
+Prad.g_00058	CDS	1125	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Prad.g_00059	gene	1350	odhB			
+Prad.g_00059	CDS	1350	odhB	2.3.1.61		Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+Prad.g_00060	gene	444				
+Prad.g_00060	CDS	444				hypothetical protein
+Prad.g_00061	gene	1944				
+Prad.g_00061	CDS	1944		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+Prad.g_00062	gene	651	lipB			
+Prad.g_00062	CDS	651	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Prad.g_00063	gene	585	hpf			
+Prad.g_00063	CDS	585	hpf		COG1544	Ribosome hibernation promotion factor
+Prad.g_00064	gene	657	deoC			
+Prad.g_00064	CDS	657	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+Prad.g_00065	gene	786	recO			
+Prad.g_00065	CDS	786	recO			DNA repair protein RecO
+Prad.g_00066	gene	1167	bshA			
+Prad.g_00066	CDS	1167	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+Prad.g_00067	gene	813	proC			
+Prad.g_00067	CDS	813	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+Prad.g_00068	gene	576	sepF			
+Prad.g_00068	CDS	576	sepF		COG1799	Cell division protein SepF
+Prad.g_00069	gene	636				
+Prad.g_00069	CDS	636			COG0325	Pyridoxal phosphate homeostasis protein
+Prad.g_00070	gene	267				
+Prad.g_00070	CDS	267				hypothetical protein
+Prad.g_00071	gene	126				
+Prad.g_00071	CDS	126				hypothetical protein
+Prad.g_00072	gene	219				
+Prad.g_00072	CDS	219				hypothetical protein
+Prad.g_00073	gene	2274	lapB_1			
+Prad.g_00073	CDS	2274	lapB_1			Lipopolysaccharide assembly protein B
+Prad.g_00074	gene	165				
+Prad.g_00074	CDS	165				hypothetical protein
+Prad.g_00075	gene	105				
+Prad.g_00075	CDS	105				hypothetical protein
+Prad.g_00076	gene	513	apt			
+Prad.g_00076	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+Prad.g_00077	gene	666				
+Prad.g_00077	CDS	666				hypothetical protein
+Prad.g_00078	gene	75				
+Prad.g_00078	tRNA	75				tRNA-Pro(tgg)
+Prad.g_00079	gene	156				
+Prad.g_00079	CDS	156				hypothetical protein
+Prad.g_00080	gene	228				
+Prad.g_00080	CDS	228				hypothetical protein
+Prad.g_00081	gene	519				
+Prad.g_00081	CDS	519				hypothetical protein
+Prad.g_00082	gene	258				
+Prad.g_00082	CDS	258				hypothetical protein
+Prad.g_00083	gene	108				
+Prad.g_00083	CDS	108				hypothetical protein
+Prad.g_00084	gene	1038				
+Prad.g_00084	CDS	1038				hypothetical protein
+Prad.g_00085	gene	933				
+Prad.g_00085	CDS	933				hypothetical protein
+Prad.g_00086	gene	267				
+Prad.g_00086	CDS	267				hypothetical protein
+Prad.g_00087	gene	861				
+Prad.g_00087	CDS	861				hypothetical protein
+Prad.g_00088	gene	366				
+Prad.g_00088	CDS	366				hypothetical protein
+Prad.g_00089	gene	1296				
+Prad.g_00089	CDS	1296				hypothetical protein
+Prad.g_00090	gene	168				
+Prad.g_00090	CDS	168				hypothetical protein
+Prad.g_00091	gene	1539				
+Prad.g_00091	CDS	1539				hypothetical protein
+Prad.g_00092	gene	957				
+Prad.g_00092	CDS	957				hypothetical protein
+Prad.g_00093	gene	1227	larC			
+Prad.g_00093	CDS	1227	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+Prad.g_00094	gene	600				
+Prad.g_00094	CDS	600				hypothetical protein
+Prad.g_00095	gene	282				
+Prad.g_00095	CDS	282				hypothetical protein
+Prad.g_00096	gene	846	xthA			
+Prad.g_00096	CDS	846	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+Prad.g_00097	gene	1302	hemL			
+Prad.g_00097	CDS	1302	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+Prad.g_00098	gene	804				
+Prad.g_00098	CDS	804				hypothetical protein
+Prad.g_00099	gene	207				
+Prad.g_00099	CDS	207				hypothetical protein
+Prad.g_00100	gene	498				
+Prad.g_00100	CDS	498				hypothetical protein
+Prad.g_00101	gene	513				
+Prad.g_00101	CDS	513				hypothetical protein
+Prad.g_00102	gene	1110				
+Prad.g_00102	CDS	1110				hypothetical protein
+Prad.g_00103	gene	720	MgdE			
+Prad.g_00103	CDS	720	MgdE	5.1.3.34		Monoglucosyldiacylglycerol epimerase
+Prad.g_00104	gene	840	map			
+Prad.g_00104	CDS	840	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Prad.g_00105	gene	228				
+Prad.g_00105	CDS	228				hypothetical protein
+Prad.g_00106	gene	471				
+Prad.g_00106	CDS	471				hypothetical protein
+Prad.g_00107	gene	75				
+Prad.g_00107	tRNA	75				tRNA-Trp(cca)
+Prad.g_00108	gene	195				
+Prad.g_00108	CDS	195				hypothetical protein
+Prad.g_00109	gene	76				
+Prad.g_00109	tRNA	76				tRNA-Asp(gtc)
+Prad.g_00110	gene	1440	gltX			
+Prad.g_00110	CDS	1440	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Prad.g_00111	gene	1206	nhaH			
+Prad.g_00111	CDS	1206	nhaH			Na(+)/H(+) antiporter NhaH
+Prad.g_00112	gene	177				
+Prad.g_00112	CDS	177				hypothetical protein
+Prad.g_00113	gene	1071	tsaD			
+Prad.g_00113	CDS	1071	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Prad.g_00114	gene	555	psaF			
+Prad.g_00114	CDS	555	psaF			Photosystem I reaction center subunit III
+Prad.g_00115	gene	135	psaJ			
+Prad.g_00115	CDS	135	psaJ			Photosystem I reaction center subunit IX
+Prad.g_00116	gene	555	gmk			
+Prad.g_00116	CDS	555	gmk	2.7.4.8	COG0194	Guanylate kinase
+Prad.g_00117	gene	1725	rqcH			
+Prad.g_00117	CDS	1725	rqcH		COG1293	Rqc2 RqcH
+Prad.g_00118	gene	261				
+Prad.g_00118	CDS	261				hypothetical protein
+Prad.g_00119	gene	759	tatC			
+Prad.g_00119	CDS	759	tatC		COG0805	Sec-independent protein translocase protein TatC
+Prad.g_00120	gene	318				
+Prad.g_00120	CDS	318				hypothetical protein
+Prad.g_00121	gene	537	petC			
+Prad.g_00121	CDS	537	petC	7.1.1.6	COG0723	Cytochrome b6-f complex iron-sulfur subunit
+Prad.g_00122	gene	954	petA			
+Prad.g_00122	CDS	954	petA			Cytochrome f
+Prad.g_00123	gene	894	lgt			
+Prad.g_00123	CDS	894	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Prad.g_00124	gene	756	cbiF			
+Prad.g_00124	CDS	756	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+Prad.g_00125	gene	522				
+Prad.g_00125	CDS	522				hypothetical protein
+Prad.g_00126	gene	1596	ppx			
+Prad.g_00126	CDS	1596	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+Prad.g_00127	gene	906	plqA			
+Prad.g_00127	CDS	906	plqA	2.5.1.39		4-hydroxybenzoate solanesyltransferase
+Prad.g_00128	gene	870	ykfA			
+Prad.g_00128	CDS	870	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+Prad.g_00129	gene	672	ispD			
+Prad.g_00129	CDS	672	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Prad.g_00130	gene	750	fabG_1			
+Prad.g_00130	CDS	750	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+Prad.g_00131	gene	180				
+Prad.g_00131	CDS	180				hypothetical protein
+Prad.g_00132	gene	1746	groL2			
+Prad.g_00132	CDS	1746	groL2			60 kDa chaperonin 2
+Prad.g_00133	gene	159				
+Prad.g_00133	CDS	159				hypothetical protein
+Prad.g_00134	gene	444				
+Prad.g_00134	CDS	444				hypothetical protein
+Prad.g_00135	gene	2223	rnr_1			
+Prad.g_00135	CDS	2223	rnr_1	3.1.13.1	COG0557	Ribonuclease R
+Prad.g_00136	gene	285				
+Prad.g_00136	CDS	285				hypothetical protein
+Prad.g_00137	gene	327				
+Prad.g_00137	CDS	327				hypothetical protein
+Prad.g_00138	gene	348				
+Prad.g_00138	CDS	348				hypothetical protein
+Prad.g_00139	gene	762	cbbY			
+Prad.g_00139	CDS	762	cbbY	3.1.3.-	COG0637	Protein CbbY
+Prad.g_00140	gene	327				
+Prad.g_00140	CDS	327				hypothetical protein
+Prad.g_00141	gene	171				
+Prad.g_00141	CDS	171				hypothetical protein
+Prad.g_00142	gene	1755	ftsH2_1			
+Prad.g_00142	CDS	1755	ftsH2_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 2
+Prad.g_00143	gene	753				
+Prad.g_00143	CDS	753				hypothetical protein
+Prad.g_00144	gene	585	ahpC			
+Prad.g_00144	CDS	585	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Prad.g_00145	gene	159				
+Prad.g_00145	CDS	159				hypothetical protein
+Prad.g_00146	gene	222				
+Prad.g_00146	CDS	222				hypothetical protein
+Prad.g_00147	gene	171				
+Prad.g_00147	CDS	171				hypothetical protein
+Prad.g_00148	gene	168				
+Prad.g_00148	CDS	168				hypothetical protein
+Prad.g_00149	gene	177				
+Prad.g_00149	CDS	177				hypothetical protein
+Prad.g_00150	gene	174				
+Prad.g_00150	CDS	174				hypothetical protein
+Prad.g_00151	gene	159				
+Prad.g_00151	CDS	159				hypothetical protein
+Prad.g_00152	gene	366				
+Prad.g_00152	CDS	366				hypothetical protein
+Prad.g_00153	gene	399				
+Prad.g_00153	CDS	399				hypothetical protein
+Prad.g_00154	gene	288	clpS_1			
+Prad.g_00154	CDS	288	clpS_1			ATP-dependent Clp protease adapter protein ClpS
+Prad.g_00155	gene	74				
+Prad.g_00155	tRNA	74				tRNA-Met(cat)
+Prad.g_00156	gene	483	trmL			
+Prad.g_00156	CDS	483	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+Prad.g_00157	gene	561	cobU			
+Prad.g_00157	CDS	561	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+Prad.g_00158	gene	312				
+Prad.g_00158	CDS	312				hypothetical protein
+Prad.g_00159	gene	627				
+Prad.g_00159	CDS	627				hypothetical protein
+Prad.g_00160	gene	621	lptD_1			
+Prad.g_00160	CDS	621	lptD_1			LPS-assembly protein LptD
+Prad.g_00161	gene	1536	metG			
+Prad.g_00161	CDS	1536	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+Prad.g_00162	gene	1185	rnr_2			
+Prad.g_00162	CDS	1185	rnr_2	3.1.13.1		Ribonuclease R
+Prad.g_00163	gene	222				
+Prad.g_00163	CDS	222				hypothetical protein
+Prad.g_00164	gene	234				
+Prad.g_00164	CDS	234				hypothetical protein
+Prad.g_00165	gene	2445	pheT			
+Prad.g_00165	CDS	2445	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+Prad.g_00166	gene	249				
+Prad.g_00166	CDS	249				hypothetical protein
+Prad.g_00167	gene	1011				
+Prad.g_00167	CDS	1011				hypothetical protein
+Prad.g_00168	gene	180				
+Prad.g_00168	CDS	180				hypothetical protein
+Prad.g_00169	gene	831				
+Prad.g_00169	CDS	831				hypothetical protein
+Prad.g_00170	gene	384				
+Prad.g_00170	CDS	384				hypothetical protein
+Prad.g_00171	gene	219				
+Prad.g_00171	CDS	219				hypothetical protein
+Prad.g_00172	gene	3567	metH			
+Prad.g_00172	CDS	3567	metH	2.1.1.13	COG0646	Methionine synthase
+Prad.g_00173	gene	915	ilvE			
+Prad.g_00173	CDS	915	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+Prad.g_00174	gene	3738	cobN_1			
+Prad.g_00174	CDS	3738	cobN_1	6.6.1.2		Aerobic cobaltochelatase subunit CobN
+Prad.g_00175	gene	648				
+Prad.g_00175	CDS	648				hypothetical protein
+Prad.g_00176	gene	537	hemG			
+Prad.g_00176	CDS	537	hemG	1.3.5.3	COG4635	Protoporphyrinogen IX dehydrogenase [menaquinone]
+Prad.g_00177	gene	1935	uvrC			
+Prad.g_00177	CDS	1935	uvrC		COG0322	UvrABC system protein C
+Prad.g_00178	gene	489	rutF			
+Prad.g_00178	CDS	489	rutF	1.5.1.42		FMN reductase (NADH) RutF
+Prad.g_00179	gene	474	coaD			
+Prad.g_00179	CDS	474	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+Prad.g_00180	gene	1224				
+Prad.g_00180	CDS	1224				hypothetical protein
+Prad.g_00181	gene	645				
+Prad.g_00181	CDS	645				hypothetical protein
+Prad.g_00182	gene	1173	iscS_1			
+Prad.g_00182	CDS	1173	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Prad.g_00183	gene	861	dapF			
+Prad.g_00183	CDS	861	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+Prad.g_00184	gene	2571	leuS			
+Prad.g_00184	CDS	2571	leuS	6.1.1.4		Leucine--tRNA ligase
+Prad.g_00185	gene	1584	pgi			
+Prad.g_00185	CDS	1584	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Prad.g_00186	gene	657	purN			
+Prad.g_00186	CDS	657	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+Prad.g_00187	gene	1056	argC			
+Prad.g_00187	CDS	1056	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+Prad.g_00188	gene	1725	ribBA			
+Prad.g_00188	CDS	1725	ribBA	3.5.4.25		Riboflavin biosynthesis protein RibBA
+Prad.g_00189	gene	438	ppiB			
+Prad.g_00189	CDS	438	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+Prad.g_00190	gene	384				
+Prad.g_00190	CDS	384				hypothetical protein
+Prad.g_00191	gene	960	cbpA			
+Prad.g_00191	CDS	960	cbpA		COG2214	Curved DNA-binding protein
+Prad.g_00192	gene	1998	dnaK2_1			
+Prad.g_00192	CDS	1998	dnaK2_1			Chaperone protein dnaK2
+Prad.g_00193	gene	87				
+Prad.g_00193	tRNA	87				tRNA-Ser(gga)
+Prad.g_00194	gene	375				
+Prad.g_00194	CDS	375				hypothetical protein
+Prad.g_00195	gene	849	suhB			
+Prad.g_00195	CDS	849	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+Prad.g_00196	gene	1152	hisZ			
+Prad.g_00196	CDS	1152	hisZ			ATP phosphoribosyltransferase regulatory subunit
+Prad.g_00197	gene	1905	htpG			
+Prad.g_00197	CDS	1905	htpG			Chaperone protein HtpG
+Prad.g_00198	gene	237	rpmB			
+Prad.g_00198	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+Prad.g_00199	gene	534	bcp_1			
+Prad.g_00199	CDS	534	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+Prad.g_00200	gene	303				
+Prad.g_00200	CDS	303				hypothetical protein
+Prad.g_00201	gene	336				
+Prad.g_00201	CDS	336				hypothetical protein
+Prad.g_00202	gene	264	psaK1			
+Prad.g_00202	CDS	264	psaK1			Photosystem I reaction center subunit PsaK 1
+Prad.g_00203	gene	1890	dxs			
+Prad.g_00203	CDS	1890	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Prad.g_00204	gene	1542	ilvA			
+Prad.g_00204	CDS	1542	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+Prad.g_00205	gene	462	scpB			
+Prad.g_00205	CDS	462	scpB			Segregation and condensation protein B
+Prad.g_00206	gene	279				
+Prad.g_00206	CDS	279				hypothetical protein
+Prad.g_00207	gene	330				
+Prad.g_00207	CDS	330				hypothetical protein
+Prad.g_00208	gene	1791	pyk			
+Prad.g_00208	CDS	1791	pyk	2.7.1.40		Pyruvate kinase
+Prad.g_00209	gene	1233	macB			
+Prad.g_00209	CDS	1233	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+Prad.g_00210	gene	570				
+Prad.g_00210	CDS	570				hypothetical protein
+Prad.g_00211	gene	459	lspA			
+Prad.g_00211	CDS	459	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Prad.g_00212	gene	1500	era_1			
+Prad.g_00212	CDS	1500	era_1			GTPase Era
+Prad.g_00213	gene	138				
+Prad.g_00213	CDS	138				hypothetical protein
+Prad.g_00214	gene	1386				
+Prad.g_00214	CDS	1386		4.1.1.105	COG0076	Tryptophan decarboxylase
+Prad.g_00215	gene	516	tadA			
+Prad.g_00215	CDS	516	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Prad.g_00216	gene	1185	pucG			
+Prad.g_00216	CDS	1185	pucG	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+Prad.g_00217	gene	1422	glnA			
+Prad.g_00217	CDS	1422	glnA	6.3.1.2		Glutamine synthetase
+Prad.g_00218	gene	1056	COQ5			
+Prad.g_00218	CDS	1056	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Prad.g_00219	gene	264				
+Prad.g_00219	CDS	264				hypothetical protein
+Prad.g_00220	gene	435				
+Prad.g_00220	CDS	435				hypothetical protein
+Prad.g_00221	gene	720				
+Prad.g_00221	CDS	720				hypothetical protein
+Prad.g_00222	gene	1041	selU			
+Prad.g_00222	CDS	1041	selU	2.5.1.-	COG2603	tRNA 2-selenouridine synthase
+Prad.g_00223	gene	354				
+Prad.g_00223	CDS	354				Photosystem II reaction center Psb28 protein
+Prad.g_00224	gene	1044				
+Prad.g_00224	CDS	1044				hypothetical protein
+Prad.g_00225	gene	183				
+Prad.g_00225	CDS	183				hypothetical protein
+Prad.g_00226	gene	915	secF			
+Prad.g_00226	CDS	915	secF			Protein translocase subunit SecF
+Prad.g_00227	gene	1470	secDF			
+Prad.g_00227	CDS	1470	secDF		COG0341	Protein translocase subunit SecDF
+Prad.g_00228	gene	984	bfmBAB			
+Prad.g_00228	CDS	984	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+Prad.g_00229	gene	96				
+Prad.g_00229	CDS	96				hypothetical protein
+Prad.g_00230	gene	303				
+Prad.g_00230	CDS	303				hypothetical protein
+Prad.g_00231	gene	936	ispE			
+Prad.g_00231	CDS	936	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Prad.g_00232	gene	825	rsmA			
+Prad.g_00232	CDS	825	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Prad.g_00233	gene	294				
+Prad.g_00233	CDS	294				hypothetical protein
+Prad.g_00234	gene	417	rlmH			
+Prad.g_00234	CDS	417	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+Prad.g_00235	gene	417	umuD			
+Prad.g_00235	CDS	417	umuD	3.4.21.-	COG1974	Protein UmuD
+Prad.g_00236	gene	1287	umuC			
+Prad.g_00236	CDS	1287	umuC		COG0389	Protein UmuC
+Prad.g_00237	gene	468				
+Prad.g_00237	CDS	468				hypothetical protein
+Prad.g_00238	gene	2034	dnaG			
+Prad.g_00238	CDS	2034	dnaG	2.7.7.-	COG0358	DNA primase
+Prad.g_00239	gene	891	cntI			
+Prad.g_00239	CDS	891	cntI			Pseudopaline exporter CntI
+Prad.g_00240	gene	351				
+Prad.g_00240	CDS	351				hypothetical protein
+Prad.g_00241	gene	678	ruvA			
+Prad.g_00241	CDS	678	ruvA	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvA
+Prad.g_00242	gene	270	rpsO			
+Prad.g_00242	CDS	270	rpsO			30S ribosomal protein S15
+Prad.g_00243	gene	450				
+Prad.g_00243	CDS	450				hypothetical protein
+Prad.g_00244	gene	3498	dnaE			
+Prad.g_00244	CDS	3498	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Prad.g_00245	gene	1449	gatA			
+Prad.g_00245	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Prad.g_00246	gene	216				
+Prad.g_00246	CDS	216				hypothetical protein
+Prad.g_00247	gene	1005	rlmB			
+Prad.g_00247	CDS	1005	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Prad.g_00248	gene	378	mrnC			
+Prad.g_00248	CDS	378	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+Prad.g_00249	gene	1140	carA			
+Prad.g_00249	CDS	1140	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Prad.g_00250	gene	1035	trpD2			
+Prad.g_00250	CDS	1035	trpD2	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase 2
+Prad.g_00251	gene	297				
+Prad.g_00251	CDS	297				hypothetical protein
+Prad.g_00252	gene	1746	yheI			
+Prad.g_00252	CDS	1746	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+Prad.g_00253	gene	723	msrA			
+Prad.g_00253	CDS	723	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+Prad.g_00254	gene	74				
+Prad.g_00254	tRNA	74				tRNA-Pro(ggg)
+Prad.g_00255	gene	153				
+Prad.g_00255	CDS	153				hypothetical protein
+Prad.g_00256	gene	798	uppP			
+Prad.g_00256	CDS	798	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+Prad.g_00257	gene	135				
+Prad.g_00257	CDS	135				hypothetical protein
+Prad.g_00258	gene	126				
+Prad.g_00258	CDS	126				hypothetical protein
+Prad.g_00259	gene	228				
+Prad.g_00259	CDS	228				hypothetical protein
+Prad.g_00260	gene	954				
+Prad.g_00260	CDS	954				hypothetical protein
+Prad.g_00261	gene	798	gpgP			
+Prad.g_00261	CDS	798	gpgP	3.1.3.70	COG3769	Glucosyl-3-phosphoglycerate/mannosyl-3-phosphoglycerate phosphatase
+Prad.g_00262	gene	1761				
+Prad.g_00262	CDS	1761		2.4.1.352	COG0366	Glucosylglycerate phosphorylase
+Prad.g_00263	gene	1227	gpgS			
+Prad.g_00263	CDS	1227	gpgS	2.4.1.266	COG0463	Glucosyl-3-phosphoglycerate synthase
+Prad.g_00264	gene	1710	ureC			
+Prad.g_00264	CDS	1710	ureC	3.5.1.5		Urease subunit alpha
+Prad.g_00265	gene	321	ureB			
+Prad.g_00265	CDS	321	ureB	3.5.1.5	COG0832	Urease subunit beta
+Prad.g_00266	gene	303	ureA			
+Prad.g_00266	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+Prad.g_00267	gene	903	ureD			
+Prad.g_00267	CDS	903	ureD			Urease accessory protein UreD
+Prad.g_00268	gene	450	ureE			
+Prad.g_00268	CDS	450	ureE			Urease accessory protein UreE
+Prad.g_00269	gene	687	ureF			
+Prad.g_00269	CDS	687	ureF		COG0830	Urease accessory protein UreF
+Prad.g_00270	gene	630	ureG			
+Prad.g_00270	CDS	630	ureG		COG0378	Urease accessory protein UreG
+Prad.g_00271	gene	1278	amiC			
+Prad.g_00271	CDS	1278	amiC			Aliphatic amidase expression-regulating protein
+Prad.g_00272	gene	1155	livH			
+Prad.g_00272	CDS	1155	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+Prad.g_00273	gene	1131				
+Prad.g_00273	CDS	1131				hypothetical protein
+Prad.g_00274	gene	750	tcyN			
+Prad.g_00274	CDS	750	tcyN	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyN
+Prad.g_00275	gene	711	livF			
+Prad.g_00275	CDS	711	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Prad.g_00276	gene	165				
+Prad.g_00276	CDS	165				hypothetical protein
+Prad.g_00277	gene	117				
+Prad.g_00277	CDS	117				hypothetical protein
+Prad.g_00278	gene	174				
+Prad.g_00278	CDS	174				hypothetical protein
+Prad.g_00279	gene	315				
+Prad.g_00279	CDS	315				hypothetical protein
+Prad.g_00280	gene	402				
+Prad.g_00280	CDS	402				hypothetical protein
+Prad.g_00281	gene	150				
+Prad.g_00281	CDS	150				hypothetical protein
+Prad.g_00282	gene	297				
+Prad.g_00282	CDS	297				hypothetical protein
+Prad.g_00283	gene	144				
+Prad.g_00283	CDS	144				hypothetical protein
+Prad.g_00284	gene	183				
+Prad.g_00284	CDS	183				hypothetical protein
+Prad.g_00285	gene	342				
+Prad.g_00285	CDS	342				hypothetical protein
+Prad.g_00286	gene	195				
+Prad.g_00286	CDS	195				hypothetical protein
+Prad.g_00287	gene	1323				
+Prad.g_00287	CDS	1323		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+Prad.g_00288	gene	789	ylmA			
+Prad.g_00288	CDS	789	ylmA	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+Prad.g_00289	gene	180				
+Prad.g_00289	CDS	180				hypothetical protein
+Prad.g_00290	gene	588				
+Prad.g_00290	CDS	588				hypothetical protein
+Prad.g_00291	gene	255				
+Prad.g_00291	CDS	255				hypothetical protein
+Prad.g_00292	gene	555	ftnA			
+Prad.g_00292	CDS	555	ftnA	1.16.3.2		Bacterial non-heme ferritin
+Prad.g_00293	gene	1059	fbpC2			
+Prad.g_00293	CDS	1059	fbpC2	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+Prad.g_00294	gene	654	nth			
+Prad.g_00294	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+Prad.g_00295	gene	660				
+Prad.g_00295	CDS	660				hypothetical protein
+Prad.g_00296	gene	189				
+Prad.g_00296	CDS	189				hypothetical protein
+Prad.g_00297	gene	612				
+Prad.g_00297	CDS	612				hypothetical protein
+Prad.g_00298	gene	606	pgsA			
+Prad.g_00298	CDS	606	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Prad.g_00299	gene	921				
+Prad.g_00299	CDS	921				hypothetical protein
+Prad.g_00300	gene	768	hisA			
+Prad.g_00300	CDS	768	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Prad.g_00301	gene	1617				
+Prad.g_00301	CDS	1617				hypothetical protein
+Prad.g_00302	gene	555				
+Prad.g_00302	CDS	555				hypothetical protein
+Prad.g_00303	gene	1170				
+Prad.g_00303	CDS	1170				hypothetical protein
+Prad.g_00304	gene	1056				
+Prad.g_00304	CDS	1056				hypothetical protein
+Prad.g_00305	gene	462	yqgF			
+Prad.g_00305	CDS	462	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Prad.g_00306	gene	537				
+Prad.g_00306	CDS	537				hypothetical protein
+Prad.g_00307	gene	495				
+Prad.g_00307	CDS	495				hypothetical protein
+Prad.g_00308	gene	1083	proB			
+Prad.g_00308	CDS	1083	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+Prad.g_00309	gene	720				
+Prad.g_00309	CDS	720				hypothetical protein
+Prad.g_00310	gene	828				
+Prad.g_00310	CDS	828				hypothetical protein
+Prad.g_00311	gene	204				
+Prad.g_00311	CDS	204				hypothetical protein
+Prad.g_00312	gene	165				
+Prad.g_00312	CDS	165				hypothetical protein
+Prad.g_00313	gene	186				
+Prad.g_00313	CDS	186				hypothetical protein
+Prad.g_00314	gene	177				
+Prad.g_00314	CDS	177				hypothetical protein
+Prad.g_00315	gene	273				
+Prad.g_00315	CDS	273				hypothetical protein
+Prad.g_00316	gene	312				
+Prad.g_00316	CDS	312				hypothetical protein
+Prad.g_00317	gene	168				
+Prad.g_00317	CDS	168				hypothetical protein
+Prad.g_00318	gene	114				
+Prad.g_00318	CDS	114				hypothetical protein
+Prad.g_00319	gene	105				
+Prad.g_00319	CDS	105				hypothetical protein
+Prad.g_00320	gene	144				
+Prad.g_00320	CDS	144				hypothetical protein
+Prad.g_00321	gene	117				
+Prad.g_00321	CDS	117				hypothetical protein
+Prad.g_00322	gene	231				
+Prad.g_00322	CDS	231				hypothetical protein
+Prad.g_00323	gene	222				
+Prad.g_00323	CDS	222				hypothetical protein
+Prad.g_00324	gene	258				
+Prad.g_00324	CDS	258				hypothetical protein
+Prad.g_00325	gene	201				
+Prad.g_00325	CDS	201				hypothetical protein
+Prad.g_00326	gene	147				
+Prad.g_00326	CDS	147				hypothetical protein
+Prad.g_00327	gene	207				
+Prad.g_00327	CDS	207				hypothetical protein
+Prad.g_00328	gene	171				
+Prad.g_00328	CDS	171				hypothetical protein
+Prad.g_00329	gene	276				
+Prad.g_00329	CDS	276				hypothetical protein
+Prad.g_00330	gene	135				
+Prad.g_00330	CDS	135				hypothetical protein
+Prad.g_00331	gene	243				
+Prad.g_00331	CDS	243				hypothetical protein
+Prad.g_00332	gene	231				
+Prad.g_00332	CDS	231				hypothetical protein
+Prad.g_00333	gene	198				
+Prad.g_00333	CDS	198				hypothetical protein
+Prad.g_00334	gene	1305				
+Prad.g_00334	CDS	1305				hypothetical protein
+Prad.g_00335	gene	117				
+Prad.g_00335	CDS	117				hypothetical protein
+Prad.g_00336	gene	117				
+Prad.g_00336	CDS	117				hypothetical protein
+Prad.g_00337	gene	357				
+Prad.g_00337	CDS	357				hypothetical protein
+Prad.g_00338	gene	300				
+Prad.g_00338	CDS	300				hypothetical protein
+Prad.g_00339	gene	282				
+Prad.g_00339	CDS	282				hypothetical protein
+Prad.g_00340	gene	1344				
+Prad.g_00340	CDS	1344				hypothetical protein
+Prad.g_00341	gene	1704	selO			
+Prad.g_00341	CDS	1704	selO	2.7.7.-	COG0397	Protein adenylyltransferase SelO
+Prad.g_00342	gene	423				
+Prad.g_00342	CDS	423				hypothetical protein
+Prad.g_00343	gene	162				
+Prad.g_00343	CDS	162				hypothetical protein
+Prad.g_00344	gene	183				
+Prad.g_00344	CDS	183				hypothetical protein
+Prad.g_00345	gene	270				
+Prad.g_00345	CDS	270				hypothetical protein
+Prad.g_00346	gene	291				
+Prad.g_00346	CDS	291				hypothetical protein
+Prad.g_00347	gene	330				
+Prad.g_00347	CDS	330				hypothetical protein
+Prad.g_00348	gene	738				
+Prad.g_00348	CDS	738				hypothetical protein
+Prad.g_00349	gene	129				
+Prad.g_00349	CDS	129				hypothetical protein
+Prad.g_00350	gene	264				
+Prad.g_00350	CDS	264				hypothetical protein
+Prad.g_00351	gene	261				
+Prad.g_00351	CDS	261				hypothetical protein
+Prad.g_00352	gene	129				
+Prad.g_00352	CDS	129				hypothetical protein
+Prad.g_00353	gene	180				
+Prad.g_00353	CDS	180				hypothetical protein
+Prad.g_00354	gene	216				
+Prad.g_00354	CDS	216				hypothetical protein
+Prad.g_00355	gene	240				
+Prad.g_00355	CDS	240				hypothetical protein
+Prad.g_00356	gene	285				
+Prad.g_00356	CDS	285				hypothetical protein
+Prad.g_00357	gene	129				
+Prad.g_00357	CDS	129				hypothetical protein
+Prad.g_00358	gene	159				
+Prad.g_00358	CDS	159				hypothetical protein
+Prad.g_00359	gene	1092	ychF			
+Prad.g_00359	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+Prad.g_00360	gene	1062	macA			
+Prad.g_00360	CDS	1062	macA		COG0845	Macrolide export protein MacA
+Prad.g_00361	gene	2931	polA			
+Prad.g_00361	CDS	2931	polA	2.7.7.7	COG0258	DNA polymerase I
+Prad.g_00362	gene	1470	cysS			
+Prad.g_00362	CDS	1470	cysS	6.1.1.16		Cysteine--tRNA ligase
+Prad.g_00363	gene	1215	dxr			
+Prad.g_00363	CDS	1215	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Prad.g_00364	gene	345	fdx4			
+Prad.g_00364	CDS	345	fdx4		COG3411	Ferredoxin, 2Fe-2S
+Prad.g_00365	gene	1083				
+Prad.g_00365	CDS	1083				hypothetical protein
+Prad.g_00366	gene	1110	pntB			
+Prad.g_00366	CDS	1110	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+Prad.g_00367	gene	1392				
+Prad.g_00367	CDS	1392				hypothetical protein
+Prad.g_00368	gene	867				
+Prad.g_00368	CDS	867				hypothetical protein
+Prad.g_00369	gene	504				
+Prad.g_00369	CDS	504				hypothetical protein
+Prad.g_00370	gene	147				
+Prad.g_00370	CDS	147				hypothetical protein
+Prad.g_00371	gene	135				
+Prad.g_00371	CDS	135				hypothetical protein
+Prad.g_00372	gene	129				
+Prad.g_00372	CDS	129				hypothetical protein
+Prad.g_00373	gene	171				
+Prad.g_00373	CDS	171				hypothetical protein
+Prad.g_00374	gene	429				
+Prad.g_00374	CDS	429				hypothetical protein
+Prad.g_00375	gene	1092	arnC			
+Prad.g_00375	CDS	1092	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+Prad.g_00376	gene	1554	arnT_1			
+Prad.g_00376	CDS	1554	arnT_1	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+Prad.g_00377	gene	243				
+Prad.g_00377	CDS	243				hypothetical protein
+Prad.g_00378	gene	126				
+Prad.g_00378	CDS	126				hypothetical protein
+Prad.g_00379	gene	141				
+Prad.g_00379	CDS	141				hypothetical protein
+Prad.g_00380	gene	117				
+Prad.g_00380	CDS	117				hypothetical protein
+Prad.g_00381	gene	210				
+Prad.g_00381	CDS	210				hypothetical protein
+Prad.g_00382	gene	180				
+Prad.g_00382	CDS	180				hypothetical protein
+Prad.g_00383	gene	195				
+Prad.g_00383	CDS	195				hypothetical protein
+Prad.g_00384	gene	381				
+Prad.g_00384	CDS	381				hypothetical protein
+Prad.g_00385	gene	477				
+Prad.g_00385	CDS	477				hypothetical protein
+Prad.g_00386	gene	141				
+Prad.g_00386	CDS	141				hypothetical protein
+Prad.g_00387	gene	678				
+Prad.g_00387	CDS	678				hypothetical protein
+Prad.g_00388	gene	1200				
+Prad.g_00388	CDS	1200				hypothetical protein
+Prad.g_00389	gene	207				
+Prad.g_00389	CDS	207				hypothetical protein
+Prad.g_00390	gene	129				
+Prad.g_00390	CDS	129				hypothetical protein
+Prad.g_00391	gene	117				
+Prad.g_00391	CDS	117				hypothetical protein
+Prad.g_00392	gene	141				
+Prad.g_00392	CDS	141				hypothetical protein
+Prad.g_00393	gene	108				
+Prad.g_00393	CDS	108				hypothetical protein
+Prad.g_00394	gene	165				
+Prad.g_00394	CDS	165				hypothetical protein
+Prad.g_00395	gene	630				
+Prad.g_00395	CDS	630				hypothetical protein
+Prad.g_00396	gene	162				
+Prad.g_00396	CDS	162				hypothetical protein
+Prad.g_00397	gene	1182	desA			
+Prad.g_00397	CDS	1182	desA	1.14.19.6		Delta(12)-fatty-acid desaturase
+Prad.g_00398	gene	201				
+Prad.g_00398	CDS	201				hypothetical protein
+Prad.g_00399	gene	141				
+Prad.g_00399	CDS	141				hypothetical protein
+Prad.g_00400	gene	153				
+Prad.g_00400	CDS	153				hypothetical protein
+Prad.g_00401	gene	159				
+Prad.g_00401	CDS	159				hypothetical protein
+Prad.g_00402	gene	153				
+Prad.g_00402	CDS	153				hypothetical protein
+Prad.g_00403	gene	1107	des			
+Prad.g_00403	CDS	1107	des	1.14.19.-	COG3239	Fatty acid desaturase
+Prad.g_00404	gene	156				
+Prad.g_00404	CDS	156				hypothetical protein
+Prad.g_00405	gene	219				
+Prad.g_00405	CDS	219				hypothetical protein
+Prad.g_00406	gene	318				
+Prad.g_00406	CDS	318				hypothetical protein
+Prad.g_00407	gene	336				
+Prad.g_00407	CDS	336				hypothetical protein
+Prad.g_00408	gene	165				
+Prad.g_00408	CDS	165				hypothetical protein
+Prad.g_00409	gene	180				
+Prad.g_00409	CDS	180				hypothetical protein
+Prad.g_00410	gene	132				
+Prad.g_00410	CDS	132				hypothetical protein
+Prad.g_00411	gene	171				
+Prad.g_00411	CDS	171				hypothetical protein
+Prad.g_00412	gene	276				
+Prad.g_00412	CDS	276				hypothetical protein
+Prad.g_00413	gene	135				
+Prad.g_00413	CDS	135				hypothetical protein
+Prad.g_00414	gene	123				
+Prad.g_00414	CDS	123				hypothetical protein
+Prad.g_00415	gene	873				
+Prad.g_00415	CDS	873				hypothetical protein
+Prad.g_00416	gene	237				
+Prad.g_00416	CDS	237				hypothetical protein
+Prad.g_00417	gene	1233				
+Prad.g_00417	CDS	1233			COG2081	putative protein
+Prad.g_00418	gene	750				
+Prad.g_00418	CDS	750				hypothetical protein
+Prad.g_00419	gene	486				
+Prad.g_00419	CDS	486				hypothetical protein
+Prad.g_00420	gene	537				
+Prad.g_00420	CDS	537				hypothetical protein
+Prad.g_00421	gene	129				
+Prad.g_00421	CDS	129				hypothetical protein
+Prad.g_00422	gene	732	yhhW			
+Prad.g_00422	CDS	732	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+Prad.g_00423	gene	315				
+Prad.g_00423	CDS	315				hypothetical protein
+Prad.g_00424	gene	1416	murD			
+Prad.g_00424	CDS	1416	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Prad.g_00425	gene	267				
+Prad.g_00425	CDS	267				hypothetical protein
+Prad.g_00426	gene	930	acr1			
+Prad.g_00426	CDS	930	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+Prad.g_00427	gene	750	ligA			
+Prad.g_00427	CDS	750	ligA	6.5.1.2		DNA ligase
+Prad.g_00428	gene	1155				
+Prad.g_00428	CDS	1155				hypothetical protein
+Prad.g_00429	gene	552				
+Prad.g_00429	CDS	552				hypothetical protein
+Prad.g_00430	gene	174				
+Prad.g_00430	CDS	174				hypothetical protein
+Prad.g_00431	gene	552	pdxH			
+Prad.g_00431	CDS	552	pdxH	1.4.3.5		Pyridoxine/pyridoxamine 5'-phosphate oxidase
+Prad.g_00432	gene	618				
+Prad.g_00432	CDS	618				hypothetical protein
+Prad.g_00433	gene	74				
+Prad.g_00433	tRNA	74				tRNA-Val(gac)
+Prad.g_00434	gene	792				
+Prad.g_00434	CDS	792				hypothetical protein
+Prad.g_00435	gene	552				
+Prad.g_00435	CDS	552				hypothetical protein
+Prad.g_00436	gene	1587	serA			
+Prad.g_00436	CDS	1587	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+Prad.g_00437	gene	912	prmC_1			
+Prad.g_00437	CDS	912	prmC_1	2.1.1.297		Release factor glutamine methyltransferase
+Prad.g_00438	gene	300	petF_1			
+Prad.g_00438	CDS	300	petF_1			Ferredoxin
+Prad.g_00439	gene	369				
+Prad.g_00439	CDS	369				hypothetical protein
+Prad.g_00440	gene	603				
+Prad.g_00440	CDS	603				hypothetical protein
+Prad.g_00441	gene	939	rnz			
+Prad.g_00441	CDS	939	rnz	3.1.26.11	COG1234	Ribonuclease Z
+Prad.g_00442	gene	1176				
+Prad.g_00442	CDS	1176				hypothetical protein
+Prad.g_00443	gene	927	truB			
+Prad.g_00443	CDS	927	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Prad.g_00444	gene	741	cmoM			
+Prad.g_00444	CDS	741	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+Prad.g_00445	gene	261	rpmA			
+Prad.g_00445	CDS	261	rpmA		COG0211	50S ribosomal protein L27
+Prad.g_00446	gene	438				
+Prad.g_00446	CDS	438				hypothetical protein
+Prad.g_00447	gene	318	kaiB			
+Prad.g_00447	CDS	318	kaiB			Circadian clock protein KaiB
+Prad.g_00448	gene	1530	kaiC			
+Prad.g_00448	CDS	1530	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+Prad.g_00449	gene	2082	sasA_1			
+Prad.g_00449	CDS	2082	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+Prad.g_00450	gene	1332	purD			
+Prad.g_00450	CDS	1332	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+Prad.g_00451	gene	729	purC			
+Prad.g_00451	CDS	729	purC	6.3.2.6		Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Prad.g_00452	gene	2133	bamA			
+Prad.g_00452	CDS	2133	bamA			Outer membrane protein assembly factor BamA
+Prad.g_00453	gene	837	lpxC			
+Prad.g_00453	CDS	837	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Prad.g_00454	gene	459	fabZ			
+Prad.g_00454	CDS	459	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Prad.g_00455	gene	843	lpxA			
+Prad.g_00455	CDS	843	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Prad.g_00456	gene	1179	lpxB_1			
+Prad.g_00456	CDS	1179	lpxB_1	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Prad.g_00457	gene	603	msrA2			
+Prad.g_00457	CDS	603	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+Prad.g_00458	gene	1473	pepA			
+Prad.g_00458	CDS	1473	pepA	3.4.11.1	COG0260	putative cytosol aminopeptidase
+Prad.g_00459	gene	612				
+Prad.g_00459	CDS	612				hypothetical protein
+Prad.g_00460	gene	324				
+Prad.g_00460	CDS	324				hypothetical protein
+Prad.g_00461	gene	1239	tyrS			
+Prad.g_00461	CDS	1239	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Prad.g_00462	gene	729	pyrF			
+Prad.g_00462	CDS	729	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+Prad.g_00463	gene	591	plsY			
+Prad.g_00463	CDS	591	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+Prad.g_00464	gene	1011				
+Prad.g_00464	CDS	1011				hypothetical protein
+Prad.g_00465	gene	405				
+Prad.g_00465	CDS	405				hypothetical protein
+Prad.g_00466	gene	756	mlaE			
+Prad.g_00466	CDS	756	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+Prad.g_00467	gene	1347	yicJ			
+Prad.g_00467	CDS	1347	yicJ		COG2211	Inner membrane symporter YicJ
+Prad.g_00468	gene	71				
+Prad.g_00468	tRNA	71				tRNA-Gly(tcc)
+Prad.g_00469	gene	2034	glgX			
+Prad.g_00469	CDS	2034	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+Prad.g_00470	gene	276	hup			
+Prad.g_00470	CDS	276	hup		COG0776	DNA-binding protein HU
+Prad.g_00471	gene	312				
+Prad.g_00471	CDS	312				hypothetical protein
+Prad.g_00472	gene	246				
+Prad.g_00472	CDS	246				hypothetical protein
+Prad.g_00473	gene	258				
+Prad.g_00473	CDS	258				hypothetical protein
+Prad.g_00474	gene	213				
+Prad.g_00474	CDS	213				hypothetical protein
+Prad.g_00475	gene	246				
+Prad.g_00475	CDS	246				hypothetical protein
+Prad.g_00476	gene	1026	cbiB			
+Prad.g_00476	CDS	1026	cbiB			Cobalamin biosynthesis protein CbiB
+Prad.g_00477	gene	990	ilvC			
+Prad.g_00477	CDS	990	ilvC	1.1.1.86		Ketol-acid reductoisomerase (NADP(+))
+Prad.g_00478	gene	612	clpP_1			
+Prad.g_00478	CDS	612	clpP_1	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+Prad.g_00479	gene	663	clpP_2			
+Prad.g_00479	CDS	663	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Prad.g_00480	gene	1110	yacL			
+Prad.g_00480	CDS	1110	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+Prad.g_00481	gene	1224	hemW			
+Prad.g_00481	CDS	1224	hemW			Heme chaperone HemW
+Prad.g_00482	gene	774	panB			
+Prad.g_00482	CDS	774	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Prad.g_00483	gene	1146	ftsZ			
+Prad.g_00483	CDS	1146	ftsZ			Cell division protein FtsZ
+Prad.g_00484	gene	726				
+Prad.g_00484	CDS	726				hypothetical protein
+Prad.g_00485	gene	411				
+Prad.g_00485	CDS	411				hypothetical protein
+Prad.g_00486	gene	1065	ddlA			
+Prad.g_00486	CDS	1065	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+Prad.g_00487	gene	1395	miaB			
+Prad.g_00487	CDS	1395	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Prad.g_00488	gene	74				
+Prad.g_00488	tRNA	74				tRNA-His(gtg)
+Prad.g_00489	gene	1236	codAch2			
+Prad.g_00489	CDS	1236	codAch2	3.5.4.11	COG0402	Pterin deaminase
+Prad.g_00490	gene	1356				
+Prad.g_00490	CDS	1356				hypothetical protein
+Prad.g_00491	gene	1233	folC			
+Prad.g_00491	CDS	1233	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+Prad.g_00492	gene	83				
+Prad.g_00492	tRNA	83				tRNA-Leu(caa)
+Prad.g_00493	gene	108				
+Prad.g_00493	CDS	108				hypothetical protein
+Prad.g_00494	gene	1371	murA			
+Prad.g_00494	CDS	1371	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Prad.g_00495	gene	201				
+Prad.g_00495	CDS	201				hypothetical protein
+Prad.g_00496	gene	711				
+Prad.g_00496	CDS	711		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+Prad.g_00497	gene	1440	lpdA			
+Prad.g_00497	CDS	1440	lpdA	1.8.1.4		Dihydrolipoyl dehydrogenase
+Prad.g_00498	gene	888	trpC			
+Prad.g_00498	CDS	888	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+Prad.g_00499	gene	672				
+Prad.g_00499	CDS	672				hypothetical protein
+Prad.g_00500	gene	318				
+Prad.g_00500	CDS	318				hypothetical protein
+Prad.g_00501	gene	474	sodN			
+Prad.g_00501	CDS	474	sodN	1.15.1.1		Superoxide dismutase [Ni]
+Prad.g_00502	gene	573				
+Prad.g_00502	CDS	573				hypothetical protein
+Prad.g_00503	gene	1488	lnt			
+Prad.g_00503	CDS	1488	lnt	2.3.1.269		Apolipoprotein N-acyltransferase
+Prad.g_00504	gene	1158	mnmA			
+Prad.g_00504	CDS	1158	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Prad.g_00505	gene	1566	nnr			
+Prad.g_00505	CDS	1566	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+Prad.g_00506	gene	942	sigA2_1			
+Prad.g_00506	CDS	942	sigA2_1		COG0568	RNA polymerase sigma factor SigA2
+Prad.g_00507	gene	1074	acoA			
+Prad.g_00507	CDS	1074	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+Prad.g_00508	gene	2112				
+Prad.g_00508	CDS	2112				hypothetical protein
+Prad.g_00509	gene	1461	ffh			
+Prad.g_00509	CDS	1461	ffh		COG0541	Signal recognition particle protein
+Prad.g_00510	gene	348				
+Prad.g_00510	CDS	348				hypothetical protein
+Prad.g_00511	gene	957	ybeZ			
+Prad.g_00511	CDS	957	ybeZ		COG1702	PhoH-like protein
+Prad.g_00512	gene	738				
+Prad.g_00512	CDS	738				hypothetical protein
+Prad.g_00513	gene	528				
+Prad.g_00513	CDS	528				hypothetical protein
+Prad.g_00514	gene	912	era_2			
+Prad.g_00514	CDS	912	era_2		COG1159	GTPase Era
+Prad.g_00515	gene	1221	trmD			
+Prad.g_00515	CDS	1221	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+Prad.g_00516	gene	441				
+Prad.g_00516	CDS	441				hypothetical protein
+Prad.g_00517	gene	657	larB			
+Prad.g_00517	CDS	657	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+Prad.g_00518	gene	132				
+Prad.g_00518	CDS	132				hypothetical protein
+Prad.g_00519	gene	168				
+Prad.g_00519	CDS	168				hypothetical protein
+Prad.g_00520	gene	210				
+Prad.g_00520	CDS	210				hypothetical protein
+Prad.g_00521	gene	1056	thiE			
+Prad.g_00521	CDS	1056	thiE	2.5.1.3		Thiamine-phosphate synthase
+Prad.g_00522	gene	924	ribF			
+Prad.g_00522	CDS	924	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+Prad.g_00523	gene	534				
+Prad.g_00523	CDS	534				hypothetical protein
+Prad.g_00524	gene	810	surE			
+Prad.g_00524	CDS	810	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+Prad.g_00525	gene	1008	pheS			
+Prad.g_00525	CDS	1008	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Prad.g_00526	gene	909	nadK_1			
+Prad.g_00526	CDS	909	nadK_1	2.7.1.23		NAD kinase
+Prad.g_00527	gene	1275	cbiET			
+Prad.g_00527	CDS	1275	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+Prad.g_00528	gene	252				
+Prad.g_00528	CDS	252				hypothetical protein
+Prad.g_00529	gene	501				
+Prad.g_00529	CDS	501				hypothetical protein
+Prad.g_00530	gene	1095	ribD			
+Prad.g_00530	CDS	1095	ribD		COG0117	Riboflavin biosynthesis protein RibD
+Prad.g_00531	gene	1866	ftsH4			
+Prad.g_00531	CDS	1866	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+Prad.g_00532	gene	927	argF			
+Prad.g_00532	CDS	927	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+Prad.g_00533	gene	618	lexA			
+Prad.g_00533	CDS	618	lexA			Transcription regulator LexA
+Prad.g_00534	gene	1116				
+Prad.g_00534	CDS	1116				hypothetical protein
+Prad.g_00535	gene	1590				
+Prad.g_00535	CDS	1590				hypothetical protein
+Prad.g_00536	gene	1083				
+Prad.g_00536	CDS	1083				hypothetical protein
+Prad.g_00537	gene	75				
+Prad.g_00537	tRNA	75				tRNA-Ala(ggc)
+Prad.g_00538	gene	336				
+Prad.g_00538	CDS	336				hypothetical protein
+Prad.g_00539	gene	219				
+Prad.g_00539	CDS	219				hypothetical protein
+Prad.g_00540	gene	129				
+Prad.g_00540	CDS	129				hypothetical protein
+Prad.g_00541	gene	249				
+Prad.g_00541	CDS	249				hypothetical protein
+Prad.g_00542	gene	918				
+Prad.g_00542	CDS	918				hypothetical protein
+Prad.g_00543	gene	612				
+Prad.g_00543	CDS	612				hypothetical protein
+Prad.g_00544	gene	2298				
+Prad.g_00544	CDS	2298				hypothetical protein
+Prad.g_00545	gene	660				
+Prad.g_00545	CDS	660				hypothetical protein
+Prad.g_00546	gene	342				
+Prad.g_00546	CDS	342				hypothetical protein
+Prad.g_00547	gene	168				
+Prad.g_00547	CDS	168				hypothetical protein
+Prad.g_00548	gene	258				
+Prad.g_00548	CDS	258				hypothetical protein
+Prad.g_00549	gene	216				
+Prad.g_00549	CDS	216				hypothetical protein
+Prad.g_00550	gene	333				
+Prad.g_00550	CDS	333				hypothetical protein
+Prad.g_00551	gene	1248				
+Prad.g_00551	CDS	1248				hypothetical protein
+Prad.g_00552	gene	1332				
+Prad.g_00552	CDS	1332				hypothetical protein
+Prad.g_00553	gene	777				
+Prad.g_00553	CDS	777				hypothetical protein
+Prad.g_00554	gene	1035				
+Prad.g_00554	CDS	1035				hypothetical protein
+Prad.g_00555	gene	744				
+Prad.g_00555	CDS	744				hypothetical protein
+Prad.g_00556	gene	906				
+Prad.g_00556	CDS	906				hypothetical protein
+Prad.g_00557	gene	1215				
+Prad.g_00557	CDS	1215				hypothetical protein
+Prad.g_00558	gene	1101				
+Prad.g_00558	CDS	1101				hypothetical protein
+Prad.g_00559	gene	1152				
+Prad.g_00559	CDS	1152				hypothetical protein
+Prad.g_00560	gene	906				
+Prad.g_00560	CDS	906				hypothetical protein
+Prad.g_00561	gene	1326				
+Prad.g_00561	CDS	1326				hypothetical protein
+Prad.g_00562	gene	1017	fcl			
+Prad.g_00562	CDS	1017	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+Prad.g_00563	gene	1128	gmd			
+Prad.g_00563	CDS	1128	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+Prad.g_00564	gene	1413	rkpK			
+Prad.g_00564	CDS	1413	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+Prad.g_00565	gene	1092	galE_1			
+Prad.g_00565	CDS	1092	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Prad.g_00566	gene	1032				
+Prad.g_00566	CDS	1032		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+Prad.g_00567	gene	1437	manC1			
+Prad.g_00567	CDS	1437	manC1	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase 1
+Prad.g_00568	gene	705				
+Prad.g_00568	CDS	705				hypothetical protein
+Prad.g_00569	gene	1131	rfbD			
+Prad.g_00569	CDS	1131	rfbD	5.4.99.9		UDP-galactopyranose mutase
+Prad.g_00570	gene	1104	wbnH			
+Prad.g_00570	CDS	1104	wbnH	2.4.1.306		O-antigen biosynthesis glycosyltransferase WbnH
+Prad.g_00571	gene	1809	btuD_1			
+Prad.g_00571	CDS	1809	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Prad.g_00572	gene	654	pglC			
+Prad.g_00572	CDS	654	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+Prad.g_00573	gene	1179				
+Prad.g_00573	CDS	1179				hypothetical protein
+Prad.g_00574	gene	1308				
+Prad.g_00574	CDS	1308				hypothetical protein
+Prad.g_00575	gene	76				
+Prad.g_00575	tRNA	76				tRNA-Arg(tct)
+Prad.g_00576	gene	645				
+Prad.g_00576	CDS	645				hypothetical protein
+Prad.g_00577	gene	222				
+Prad.g_00577	CDS	222				hypothetical protein
+Prad.g_00578	gene	867	rsmI			
+Prad.g_00578	CDS	867	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Prad.g_00579	gene	912	cysQ_1			
+Prad.g_00579	CDS	912	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+Prad.g_00580	gene	2166	pnp_1			
+Prad.g_00580	CDS	2166	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Prad.g_00581	gene	288	rpsN			
+Prad.g_00581	CDS	288	rpsN		COG0199	30S ribosomal protein S14
+Prad.g_00582	gene	1080	mmpA			
+Prad.g_00582	CDS	1080	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+Prad.g_00583	gene	1278	serS			
+Prad.g_00583	CDS	1278	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Prad.g_00584	gene	1467	ftsH			
+Prad.g_00584	CDS	1467	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Prad.g_00585	gene	1143	yidC			
+Prad.g_00585	CDS	1143	yidC			Membrane protein insertase YidC
+Prad.g_00586	gene	414				
+Prad.g_00586	CDS	414				hypothetical protein
+Prad.g_00587	gene	387	rnpA			
+Prad.g_00587	CDS	387	rnpA	3.1.26.5		Ribonuclease P protein component
+Prad.g_00588	gene	138				
+Prad.g_00588	CDS	138				hypothetical protein
+Prad.g_00589	gene	582				
+Prad.g_00589	CDS	582				hypothetical protein
+Prad.g_00590	gene	372	aroH			
+Prad.g_00590	CDS	372	aroH	5.4.99.5	COG4401	Chorismate mutase AroH
+Prad.g_00591	gene	810				
+Prad.g_00591	CDS	810				hypothetical protein
+Prad.g_00592	gene	942				
+Prad.g_00592	CDS	942				hypothetical protein
+Prad.g_00593	gene	1077	mshA			
+Prad.g_00593	CDS	1077	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Prad.g_00594	gene	1806	arnT_2			
+Prad.g_00594	CDS	1806	arnT_2	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+Prad.g_00595	gene	252				
+Prad.g_00595	CDS	252				hypothetical protein
+Prad.g_00596	gene	798				
+Prad.g_00596	CDS	798				hypothetical protein
+Prad.g_00597	gene	231				
+Prad.g_00597	CDS	231				hypothetical protein
+Prad.g_00598	gene	264				
+Prad.g_00598	CDS	264			COG4095	Sugar transporter SemiSWEET
+Prad.g_00599	gene	735				
+Prad.g_00599	CDS	735				hypothetical protein
+Prad.g_00600	gene	525	isiB			
+Prad.g_00600	CDS	525	isiB		COG0716	Flavodoxin
+Prad.g_00601	gene	1059	pcbC			
+Prad.g_00601	CDS	1059	pcbC			Divinyl chlorophyll a/b light-harvesting protein PcbC
+Prad.g_00602	gene	654				
+Prad.g_00602	CDS	654				hypothetical protein
+Prad.g_00603	gene	246				
+Prad.g_00603	CDS	246				hypothetical protein
+Prad.g_00604	gene	639				
+Prad.g_00604	CDS	639				hypothetical protein
+Prad.g_00605	gene	171				
+Prad.g_00605	CDS	171				hypothetical protein
+Prad.g_00606	gene	333				
+Prad.g_00606	CDS	333				hypothetical protein
+Prad.g_00607	gene	387				
+Prad.g_00607	CDS	387				hypothetical protein
+Prad.g_00608	gene	867	glyQ			
+Prad.g_00608	CDS	867	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Prad.g_00609	gene	1326				
+Prad.g_00609	CDS	1326				putative protein
+Prad.g_00610	gene	240				
+Prad.g_00610	CDS	240				hypothetical protein
+Prad.g_00611	gene	666				
+Prad.g_00611	CDS	666		1.14.11.-	COG3128	PKHD-type hydroxylase
+Prad.g_00612	gene	1023	idiA			
+Prad.g_00612	CDS	1023	idiA		COG1840	Iron deficiency-induced protein A
+Prad.g_00613	gene	85				
+Prad.g_00613	tRNA	85				tRNA-Ser(cga)
+Prad.g_00614	gene	252				
+Prad.g_00614	CDS	252				hypothetical protein
+Prad.g_00615	gene	1530	cobQ			
+Prad.g_00615	CDS	1530	cobQ			Cobyric acid synthase
+Prad.g_00616	gene	612				
+Prad.g_00616	CDS	612		3.6.1.9	COG0424	Nucleoside triphosphate pyrophosphatase
+Prad.g_00617	gene	1383	psbC			
+Prad.g_00617	CDS	1383	psbC			Photosystem II CP43 reaction center protein
+Prad.g_00618	gene	1077	psbD1			
+Prad.g_00618	CDS	1077	psbD1	1.10.3.9		Photosystem II D2 protein
+Prad.g_00619	gene	558	ycf4			
+Prad.g_00619	CDS	558	ycf4			Photosystem I assembly protein Ycf4
+Prad.g_00620	gene	606	ppiA			
+Prad.g_00620	CDS	606	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+Prad.g_00621	gene	525	ilvH			
+Prad.g_00621	CDS	525	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+Prad.g_00622	gene	942	menH_1			
+Prad.g_00622	CDS	942	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Prad.g_00623	gene	99	petM			
+Prad.g_00623	CDS	99	petM			Cytochrome b6-f complex subunit 7
+Prad.g_00624	gene	963				
+Prad.g_00624	CDS	963				hypothetical protein
+Prad.g_00625	gene	213				
+Prad.g_00625	CDS	213				hypothetical protein
+Prad.g_00626	gene	267	infA			
+Prad.g_00626	CDS	267	infA			Translation initiation factor IF-1
+Prad.g_00627	gene	1377				
+Prad.g_00627	CDS	1377		1.18.1.2		Ferredoxin--NADP reductase
+Prad.g_00628	gene	225				
+Prad.g_00628	CDS	225				hypothetical protein
+Prad.g_00629	gene	579				
+Prad.g_00629	CDS	579				hypothetical protein
+Prad.g_00630	gene	1131	pntAA			
+Prad.g_00630	CDS	1131	pntAA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+Prad.g_00631	gene	294	pntA			
+Prad.g_00631	CDS	294	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+Prad.g_00632	gene	492				
+Prad.g_00632	CDS	492				hypothetical protein
+Prad.g_00633	gene	393				
+Prad.g_00633	CDS	393				hypothetical protein
+Prad.g_00634	gene	1044	dus			
+Prad.g_00634	CDS	1044	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+Prad.g_00635	gene	255				
+Prad.g_00635	CDS	255				hypothetical protein
+Prad.g_00636	gene	165				
+Prad.g_00636	CDS	165				hypothetical protein
+Prad.g_00637	gene	237				
+Prad.g_00637	CDS	237				hypothetical protein
+Prad.g_00638	gene	237				
+Prad.g_00638	CDS	237				hypothetical protein
+Prad.g_00639	gene	420				
+Prad.g_00639	CDS	420		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+Prad.g_00640	gene	249				
+Prad.g_00640	CDS	249				hypothetical protein
+Prad.g_00641	gene	252				
+Prad.g_00641	CDS	252				hypothetical protein
+Prad.g_00642	gene	870				
+Prad.g_00642	CDS	870				hypothetical protein
+Prad.g_00643	gene	405				
+Prad.g_00643	CDS	405				hypothetical protein
+Prad.g_00644	gene	126				
+Prad.g_00644	CDS	126				hypothetical protein
+Prad.g_00645	gene	294				
+Prad.g_00645	CDS	294				hypothetical protein
+Prad.g_00646	gene	543				
+Prad.g_00646	CDS	543				hypothetical protein
+Prad.g_00647	gene	285				
+Prad.g_00647	CDS	285				hypothetical protein
+Prad.g_00648	gene	180				
+Prad.g_00648	CDS	180				hypothetical protein
+Prad.g_00649	gene	180				
+Prad.g_00649	CDS	180				hypothetical protein
+Prad.g_00650	gene	135				
+Prad.g_00650	CDS	135				hypothetical protein
+Prad.g_00651	gene	303				
+Prad.g_00651	CDS	303				hypothetical protein
+Prad.g_00652	gene	186				
+Prad.g_00652	CDS	186				hypothetical protein
+Prad.g_00653	gene	180				
+Prad.g_00653	CDS	180				hypothetical protein
+Prad.g_00654	gene	108				
+Prad.g_00654	CDS	108				hypothetical protein
+Prad.g_00655	gene	183				
+Prad.g_00655	CDS	183				hypothetical protein
+Prad.g_00656	gene	771				
+Prad.g_00656	CDS	771				hypothetical protein
+Prad.g_00657	gene	345				
+Prad.g_00657	CDS	345				hypothetical protein
+Prad.g_00658	gene	162				
+Prad.g_00658	CDS	162				hypothetical protein
+Prad.g_00659	gene	375				
+Prad.g_00659	CDS	375				hypothetical protein
+Prad.g_00660	gene	207				
+Prad.g_00660	CDS	207				hypothetical protein
+Prad.g_00661	gene	108				
+Prad.g_00661	CDS	108				hypothetical protein
+Prad.g_00662	gene	243				
+Prad.g_00662	CDS	243				hypothetical protein
+Prad.g_00663	gene	405				
+Prad.g_00663	CDS	405				hypothetical protein
+Prad.g_00664	gene	111				
+Prad.g_00664	CDS	111				hypothetical protein
+Prad.g_00665	gene	285				
+Prad.g_00665	CDS	285				hypothetical protein
+Prad.g_00666	gene	915	ecfT			
+Prad.g_00666	CDS	915	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+Prad.g_00667	gene	1377	der			
+Prad.g_00667	CDS	1377	der		COG1160	GTPase Der
+Prad.g_00668	gene	486				
+Prad.g_00668	CDS	486				hypothetical protein
+Prad.g_00669	gene	756	cbiL			
+Prad.g_00669	CDS	756	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+Prad.g_00670	gene	609				
+Prad.g_00670	CDS	609				hypothetical protein
+Prad.g_00671	gene	441	aroQ			
+Prad.g_00671	CDS	441	aroQ	4.2.1.10		3-dehydroquinate dehydratase
+Prad.g_00672	gene	83				
+Prad.g_00672	tRNA	83				tRNA-Tyr(gta)
+Prad.g_00673	gene	73				
+Prad.g_00673	tRNA	73				tRNA-Thr(ggt)
+Prad.g_00674	gene	405				
+Prad.g_00674	CDS	405				hypothetical protein
+Prad.g_00675	gene	855				
+Prad.g_00675	CDS	855				hypothetical protein
+Prad.g_00676	gene	765	fabG_2			
+Prad.g_00676	CDS	765	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Prad.g_00677	gene	189				
+Prad.g_00677	CDS	189				hypothetical protein
+Prad.g_00678	gene	207				
+Prad.g_00678	CDS	207				hypothetical protein
+Prad.g_00679	gene	1185				
+Prad.g_00679	CDS	1185				hypothetical protein
+Prad.g_00680	gene	105				
+Prad.g_00680	CDS	105				hypothetical protein
+Prad.g_00681	gene	198				
+Prad.g_00681	CDS	198				hypothetical protein
+Prad.g_00682	gene	588				
+Prad.g_00682	CDS	588				hypothetical protein
+Prad.g_00683	gene	627				
+Prad.g_00683	CDS	627				hypothetical protein
+Prad.g_00684	gene	255				
+Prad.g_00684	CDS	255				hypothetical protein
+Prad.g_00685	gene	186				
+Prad.g_00685	CDS	186				hypothetical protein
+Prad.g_00686	gene	711				
+Prad.g_00686	CDS	711				hypothetical protein
+Prad.g_00687	gene	1188	soxA			
+Prad.g_00687	CDS	1188	soxA	1.5.3.1		Monomeric sarcosine oxidase
+Prad.g_00688	gene	1044				
+Prad.g_00688	CDS	1044				hypothetical protein
+Prad.g_00689	gene	1053				
+Prad.g_00689	CDS	1053				hypothetical protein
+Prad.g_00690	gene	237				
+Prad.g_00690	CDS	237				hypothetical protein
+Prad.g_00691	gene	246				
+Prad.g_00691	CDS	246				hypothetical protein
+Prad.g_00692	gene	423				
+Prad.g_00692	CDS	423				hypothetical protein
+Prad.g_00693	gene	159				
+Prad.g_00693	CDS	159				hypothetical protein
+Prad.g_00694	gene	240				
+Prad.g_00694	CDS	240				hypothetical protein
+Prad.g_00695	gene	213				
+Prad.g_00695	CDS	213				hypothetical protein
+Prad.g_00696	gene	73				
+Prad.g_00696	tRNA	73				tRNA-Thr(ggt)
+Prad.g_00697	gene	192				
+Prad.g_00697	CDS	192				hypothetical protein
+Prad.g_00698	gene	132				
+Prad.g_00698	CDS	132				hypothetical protein
+Prad.g_00699	gene	186				
+Prad.g_00699	CDS	186				hypothetical protein
+Prad.g_00700	gene	183				
+Prad.g_00700	CDS	183				hypothetical protein
+Prad.g_00701	gene	420				
+Prad.g_00701	CDS	420				hypothetical protein
+Prad.g_00702	gene	468				
+Prad.g_00702	CDS	468				hypothetical protein
+Prad.g_00703	gene	144				
+Prad.g_00703	CDS	144				hypothetical protein
+Prad.g_00704	gene	186				
+Prad.g_00704	CDS	186				hypothetical protein
+Prad.g_00705	gene	780	thiD			
+Prad.g_00705	CDS	780	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Prad.g_00706	gene	624	tenA			
+Prad.g_00706	CDS	624	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+Prad.g_00707	gene	117				
+Prad.g_00707	CDS	117				hypothetical protein
+Prad.g_00708	gene	372				
+Prad.g_00708	CDS	372				hypothetical protein
+Prad.g_00709	gene	384				
+Prad.g_00709	CDS	384				hypothetical protein
+Prad.g_00710	gene	1494	cry2			
+Prad.g_00710	CDS	1494	cry2		COG0415	Cryptochrome-like protein cry2
+Prad.g_00711	gene	255				
+Prad.g_00711	CDS	255				hypothetical protein
+Prad.g_00712	gene	174				
+Prad.g_00712	CDS	174				hypothetical protein
+Prad.g_00713	gene	408	exbD			
+Prad.g_00713	CDS	408	exbD		COG0848	Biopolymer transport protein ExbD
+Prad.g_00714	gene	582	tolQ			
+Prad.g_00714	CDS	582	tolQ			Tol-Pal system protein TolQ
+Prad.g_00715	gene	702				
+Prad.g_00715	CDS	702				hypothetical protein
+Prad.g_00716	gene	858	btuF			
+Prad.g_00716	CDS	858	btuF			Vitamin B12-binding protein
+Prad.g_00717	gene	2256	btuB			
+Prad.g_00717	CDS	2256	btuB			Vitamin B12 transporter BtuB
+Prad.g_00718	gene	783	fecE			
+Prad.g_00718	CDS	783	fecE		COG1120	Fe(3+) dicitrate transport ATP-binding protein FecE
+Prad.g_00719	gene	909	yfhA			
+Prad.g_00719	CDS	909	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+Prad.g_00720	gene	942	pip			
+Prad.g_00720	CDS	942	pip	3.4.11.5		Proline iminopeptidase
+Prad.g_00721	gene	183				
+Prad.g_00721	CDS	183				hypothetical protein
+Prad.g_00722	gene	141				
+Prad.g_00722	CDS	141				hypothetical protein
+Prad.g_00723	gene	195				
+Prad.g_00723	CDS	195				hypothetical protein
+Prad.g_00724	gene	837				
+Prad.g_00724	CDS	837				hypothetical protein
+Prad.g_00725	gene	165				
+Prad.g_00725	CDS	165				hypothetical protein
+Prad.g_00726	gene	321				
+Prad.g_00726	CDS	321				hypothetical protein
+Prad.g_00727	gene	429	arfB			
+Prad.g_00727	CDS	429	arfB	3.1.1.29	COG1186	Peptidyl-tRNA hydrolase ArfB
+Prad.g_00728	gene	351				
+Prad.g_00728	CDS	351				hypothetical protein
+Prad.g_00729	gene	345				
+Prad.g_00729	CDS	345				hypothetical protein
+Prad.g_00730	gene	258				
+Prad.g_00730	CDS	258				hypothetical protein
+Prad.g_00731	gene	450	bcp_2			
+Prad.g_00731	CDS	450	bcp_2	1.11.1.15	COG1225	Peroxiredoxin Bcp
+Prad.g_00732	gene	132				
+Prad.g_00732	CDS	132				hypothetical protein
+Prad.g_00733	gene	240				
+Prad.g_00733	CDS	240				hypothetical protein
+Prad.g_00734	gene	138				
+Prad.g_00734	CDS	138				hypothetical protein
+Prad.g_00735	gene	291	tatA			
+Prad.g_00735	CDS	291	tatA			Sec-independent protein translocase protein TatA
+Prad.g_00736	gene	393				
+Prad.g_00736	CDS	393				hypothetical protein
+Prad.g_00737	gene	318				
+Prad.g_00737	CDS	318				hypothetical protein
+Prad.g_00738	gene	216				
+Prad.g_00738	CDS	216				hypothetical protein
+Prad.g_00739	gene	486				
+Prad.g_00739	CDS	486				hypothetical protein
+Prad.g_00740	gene	111				
+Prad.g_00740	CDS	111				hypothetical protein
+Prad.g_00741	gene	1530	crtI			
+Prad.g_00741	CDS	1530	crtI	1.3.99.31	COG1233	Phytoene desaturase (lycopene-forming)
+Prad.g_00742	gene	204				
+Prad.g_00742	CDS	204				hypothetical protein
+Prad.g_00743	gene	291				
+Prad.g_00743	CDS	291				hypothetical protein
+Prad.g_00744	gene	207				
+Prad.g_00744	CDS	207				hypothetical protein
+Prad.g_00745	gene	309				
+Prad.g_00745	CDS	309				hypothetical protein
+Prad.g_00746	gene	141				
+Prad.g_00746	CDS	141				hypothetical protein
+Prad.g_00747	gene	510				
+Prad.g_00747	CDS	510				hypothetical protein
+Prad.g_00748	gene	435				
+Prad.g_00748	CDS	435				hypothetical protein
+Prad.g_00749	gene	102				
+Prad.g_00749	CDS	102				hypothetical protein
+Prad.g_00750	gene	93				
+Prad.g_00750	CDS	93				hypothetical protein
+Prad.g_00751	gene	249				
+Prad.g_00751	CDS	249				hypothetical protein
+Prad.g_00752	gene	891				
+Prad.g_00752	CDS	891				hypothetical protein
+Prad.g_00753	gene	1392	aldH1			
+Prad.g_00753	CDS	1392	aldH1	1.2.1.-	COG1012	4,4'-diaponeurosporen-aldehyde dehydrogenase
+Prad.g_00754	gene	771				
+Prad.g_00754	CDS	771				hypothetical protein
+Prad.g_00755	gene	216	psaE			
+Prad.g_00755	CDS	216	psaE			Photosystem I reaction center subunit IV
+Prad.g_00756	gene	882	mutM			
+Prad.g_00756	CDS	882	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Prad.g_00757	gene	74				
+Prad.g_00757	tRNA	74				tRNA-Ala(tgc)
+Prad.g_00758	gene	76				
+Prad.g_00758	tRNA	76				tRNA-Ile(gat)
+Prad.g_00759	gene	1440				
+Prad.g_00759	CDS	1440				hypothetical protein
+Prad.g_00760	gene	483	petD			
+Prad.g_00760	CDS	483	petD			Cytochrome b6-f complex subunit 4
+Prad.g_00761	gene	396	petB			
+Prad.g_00761	CDS	396	petB		COG1290	Cytochrome b6
+Prad.g_00762	gene	1284	thiC			
+Prad.g_00762	CDS	1284	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Prad.g_00763	gene	2007	tkt			
+Prad.g_00763	CDS	2007	tkt	2.2.1.1	COG0021	Transketolase
+Prad.g_00764	gene	1245	fabF			
+Prad.g_00764	CDS	1245	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+Prad.g_00765	gene	240	acpP			
+Prad.g_00765	CDS	240	acpP			Acyl carrier protein
+Prad.g_00766	gene	246	psaC_1			
+Prad.g_00766	CDS	246	psaC_1	1.97.1.12	COG1145	Photosystem I iron-sulfur center
+Prad.g_00767	gene	1896	glmS			
+Prad.g_00767	CDS	1896	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Prad.g_00768	gene	540	rimM			
+Prad.g_00768	CDS	540	rimM		COG0806	Ribosome maturation factor RimM
+Prad.g_00769	gene	195				
+Prad.g_00769	CDS	195				hypothetical protein
+Prad.g_00770	gene	750	rnc			
+Prad.g_00770	CDS	750	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Prad.g_00771	gene	76				
+Prad.g_00771	tRNA	76				tRNA-Arg(cct)
+Prad.g_00772	gene	333				
+Prad.g_00772	CDS	333				hypothetical protein
+Prad.g_00773	gene	456				
+Prad.g_00773	CDS	456				hypothetical protein
+Prad.g_00774	gene	2565	malP			
+Prad.g_00774	CDS	2565	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+Prad.g_00775	gene	1368	nhaS3			
+Prad.g_00775	CDS	1368	nhaS3			High-affinity Na(+)/H(+) antiporter NhaS3
+Prad.g_00776	gene	900	lip1			
+Prad.g_00776	CDS	900	lip1	3.1.1.3		Lipase 1
+Prad.g_00777	gene	855				
+Prad.g_00777	CDS	855				hypothetical protein
+Prad.g_00778	gene	1350				
+Prad.g_00778	CDS	1350				hypothetical protein
+Prad.g_00779	gene	1425	icd			
+Prad.g_00779	CDS	1425	icd	1.1.1.42		Isocitrate dehydrogenase [NADP]
+Prad.g_00780	gene	432				
+Prad.g_00780	CDS	432				hypothetical protein
+Prad.g_00781	gene	711	pbsA1			
+Prad.g_00781	CDS	711	pbsA1	1.14.14.18		Heme oxygenase 1
+Prad.g_00782	gene	711	pebA			
+Prad.g_00782	CDS	711	pebA	1.3.7.2		15,16-dihydrobiliverdin:ferredoxin oxidoreductase
+Prad.g_00783	gene	762	pebB			
+Prad.g_00783	CDS	762	pebB	1.3.7.3		Phycoerythrobilin:ferredoxin oxidoreductase
+Prad.g_00784	gene	474				
+Prad.g_00784	CDS	474		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+Prad.g_00785	gene	1533	panC/cmk			
+Prad.g_00785	CDS	1533	panC/cmk	2.7.4.25		Bifunctional pantoate ligase/cytidylate kinase
+Prad.g_00786	gene	1044	purM			
+Prad.g_00786	CDS	1044	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Prad.g_00787	gene	645				
+Prad.g_00787	CDS	645				hypothetical protein
+Prad.g_00788	gene	213				
+Prad.g_00788	CDS	213				hypothetical protein
+Prad.g_00789	gene	71				
+Prad.g_00789	tRNA	71				tRNA-Cys(gca)
+Prad.g_00790	gene	267				
+Prad.g_00790	CDS	267				hypothetical protein
+Prad.g_00791	gene	636	rnd			
+Prad.g_00791	CDS	636	rnd	3.1.13.5		Ribonuclease D
+Prad.g_00792	gene	558				
+Prad.g_00792	CDS	558				hypothetical protein
+Prad.g_00793	gene	1029	hemF			
+Prad.g_00793	CDS	1029	hemF	1.3.3.3		Oxygen-dependent coproporphyrinogen-III oxidase
+Prad.g_00794	gene	1071	apbC			
+Prad.g_00794	CDS	1071	apbC		COG0489	Iron-sulfur cluster carrier protein
+Prad.g_00795	gene	1269	mrdB			
+Prad.g_00795	CDS	1269	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Prad.g_00796	gene	1365				
+Prad.g_00796	CDS	1365				hypothetical protein
+Prad.g_00797	gene	423	psaD			
+Prad.g_00797	CDS	423	psaD			Photosystem I reaction center subunit II
+Prad.g_00798	gene	1521	trpE			
+Prad.g_00798	CDS	1521	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Prad.g_00799	gene	1119	gshA			
+Prad.g_00799	CDS	1119	gshA	6.3.2.2		Glutamate--cysteine ligase
+Prad.g_00800	gene	2970	ppc			
+Prad.g_00800	CDS	2970	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+Prad.g_00801	gene	447				
+Prad.g_00801	CDS	447				hypothetical protein
+Prad.g_00802	gene	74				
+Prad.g_00802	tRNA	74				tRNA-Arg(ccg)
+Prad.g_00803	gene	894	recF			
+Prad.g_00803	CDS	894	recF		COG1195	DNA replication and repair protein RecF
+Prad.g_00804	gene	435	speH			
+Prad.g_00804	CDS	435	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+Prad.g_00805	gene	825	larE			
+Prad.g_00805	CDS	825	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+Prad.g_00806	gene	1161				
+Prad.g_00806	CDS	1161				hypothetical protein
+Prad.g_00807	gene	1146	moeZ			
+Prad.g_00807	CDS	1146	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+Prad.g_00808	gene	366				
+Prad.g_00808	CDS	366				hypothetical protein
+Prad.g_00809	gene	879				
+Prad.g_00809	CDS	879		2.7.1.-		putative ketoamine kinase
+Prad.g_00810	gene	1506				
+Prad.g_00810	CDS	1506				hypothetical protein
+Prad.g_00811	gene	840	tyrC			
+Prad.g_00811	CDS	840	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+Prad.g_00812	gene	1449				
+Prad.g_00812	CDS	1449				hypothetical protein
+Prad.g_00813	gene	246				
+Prad.g_00813	CDS	246				hypothetical protein
+Prad.g_00814	gene	1098	recA			
+Prad.g_00814	CDS	1098	recA			Protein RecA
+Prad.g_00815	gene	777				
+Prad.g_00815	CDS	777				hypothetical protein
+Prad.g_00816	gene	72				
+Prad.g_00816	tRNA	72				tRNA-Gln(ttg)
+Prad.g_00817	gene	1008				
+Prad.g_00817	CDS	1008				hypothetical protein
+Prad.g_00818	gene	477	ndhN			
+Prad.g_00818	CDS	477	ndhN	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit N
+Prad.g_00819	gene	654	rplC			
+Prad.g_00819	CDS	654	rplC		COG0087	50S ribosomal protein L3
+Prad.g_00820	gene	633	rplD			
+Prad.g_00820	CDS	633	rplD			50S ribosomal protein L4
+Prad.g_00821	gene	303	rplW			
+Prad.g_00821	CDS	303	rplW		COG0089	50S ribosomal protein L23
+Prad.g_00822	gene	864	rplB			
+Prad.g_00822	CDS	864	rplB			50S ribosomal protein L2
+Prad.g_00823	gene	279	rpsS			
+Prad.g_00823	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+Prad.g_00824	gene	387	rplV			
+Prad.g_00824	CDS	387	rplV		COG0091	50S ribosomal protein L22
+Prad.g_00825	gene	732	rpsC			
+Prad.g_00825	CDS	732	rpsC			30S ribosomal protein S3
+Prad.g_00826	gene	480	rplP			
+Prad.g_00826	CDS	480	rplP		COG0197	50S ribosomal protein L16
+Prad.g_00827	gene	219				
+Prad.g_00827	CDS	219				hypothetical protein
+Prad.g_00828	gene	267	rpsQ			
+Prad.g_00828	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+Prad.g_00829	gene	366	rplN			
+Prad.g_00829	CDS	366	rplN			50S ribosomal protein L14
+Prad.g_00830	gene	357	rplX			
+Prad.g_00830	CDS	357	rplX			50S ribosomal protein L24
+Prad.g_00831	gene	540	rplE			
+Prad.g_00831	CDS	540	rplE		COG0094	50S ribosomal protein L5
+Prad.g_00832	gene	402	rpsH			
+Prad.g_00832	CDS	402	rpsH		COG0096	30S ribosomal protein S8
+Prad.g_00833	gene	540	rplF			
+Prad.g_00833	CDS	540	rplF			50S ribosomal protein L6
+Prad.g_00834	gene	369	rplR			
+Prad.g_00834	CDS	369	rplR			50S ribosomal protein L18
+Prad.g_00835	gene	621				
+Prad.g_00835	CDS	621				hypothetical protein
+Prad.g_00836	gene	459	rplO			
+Prad.g_00836	CDS	459	rplO		COG0200	50S ribosomal protein L15
+Prad.g_00837	gene	1320	secY			
+Prad.g_00837	CDS	1320	secY		COG0201	Protein translocase subunit SecY
+Prad.g_00838	gene	552	adk			
+Prad.g_00838	CDS	552	adk	2.7.4.3	COG0563	Adenylate kinase
+Prad.g_00839	gene	366	rpsM			
+Prad.g_00839	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+Prad.g_00840	gene	393	rpsK			
+Prad.g_00840	CDS	393	rpsK			30S ribosomal protein S11
+Prad.g_00841	gene	939	rpoA			
+Prad.g_00841	CDS	939	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Prad.g_00842	gene	351	rplQ			
+Prad.g_00842	CDS	351	rplQ		COG0203	50S ribosomal protein L17
+Prad.g_00843	gene	807	truA			
+Prad.g_00843	CDS	807	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Prad.g_00844	gene	432	rplM			
+Prad.g_00844	CDS	432	rplM		COG0102	50S ribosomal protein L13
+Prad.g_00845	gene	411	rpsI			
+Prad.g_00845	CDS	411	rpsI		COG0103	30S ribosomal protein S9
+Prad.g_00846	gene	321				
+Prad.g_00846	CDS	321				hypothetical protein
+Prad.g_00847	gene	1095	prfA			
+Prad.g_00847	CDS	1095	prfA		COG0216	Peptide chain release factor 1
+Prad.g_00848	gene	558				
+Prad.g_00848	CDS	558				hypothetical protein
+Prad.g_00849	gene	1200	alr2			
+Prad.g_00849	CDS	1200	alr2	5.1.1.1	COG0787	Alanine racemase 2
+Prad.g_00850	gene	91				
+Prad.g_00850	tRNA	91				tRNA-Ser(gct)
+Prad.g_00851	gene	789				
+Prad.g_00851	CDS	789				hypothetical protein
+Prad.g_00852	gene	1797	cysG			
+Prad.g_00852	CDS	1797	cysG	4.99.1.4		Siroheme synthase
+Prad.g_00853	gene	2283	psaA			
+Prad.g_00853	CDS	2283	psaA	1.97.1.12		Photosystem I P700 chlorophyll a apoprotein A1
+Prad.g_00854	gene	2229	psaB			
+Prad.g_00854	CDS	2229	psaB	1.97.1.12		Photosystem I P700 chlorophyll a apoprotein A2
+Prad.g_00855	gene	963	rgtE			
+Prad.g_00855	CDS	963	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+Prad.g_00856	gene	393				
+Prad.g_00856	CDS	393				hypothetical protein
+Prad.g_00857	gene	114				
+Prad.g_00857	CDS	114				hypothetical protein
+Prad.g_00858	gene	600	psaL			
+Prad.g_00858	CDS	600	psaL			Photosystem I reaction center subunit XI
+Prad.g_00859	gene	759				
+Prad.g_00859	CDS	759				hypothetical protein
+Prad.g_00860	gene	882				
+Prad.g_00860	CDS	882				hypothetical protein
+Prad.g_00861	gene	213				
+Prad.g_00861	CDS	213				hypothetical protein
+Prad.g_00862	gene	624	hin			
+Prad.g_00862	CDS	624	hin		COG1961	DNA-invertase hin
+Prad.g_00863	gene	933	lipA			
+Prad.g_00863	CDS	933	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Prad.g_00864	gene	297				
+Prad.g_00864	CDS	297				hypothetical protein
+Prad.g_00865	gene	4575	gltS			
+Prad.g_00865	CDS	4575	gltS	1.4.7.1		Ferredoxin-dependent glutamate synthase 2
+Prad.g_00866	gene	375	rpsL			
+Prad.g_00866	CDS	375	rpsL			30S ribosomal protein S12
+Prad.g_00867	gene	471	rpsG			
+Prad.g_00867	CDS	471	rpsG			30S ribosomal protein S7
+Prad.g_00868	gene	2076	fusA			
+Prad.g_00868	CDS	2076	fusA		COG0480	Elongation factor G
+Prad.g_00869	gene	1200	tuf			
+Prad.g_00869	CDS	1200	tuf			Elongation factor Tu
+Prad.g_00870	gene	321	rpsJ			
+Prad.g_00870	CDS	321	rpsJ		COG0051	30S ribosomal protein S10
+Prad.g_00871	gene	657	lon2			
+Prad.g_00871	CDS	657	lon2	3.4.21.53	COG0466	Lon protease 2
+Prad.g_00872	gene	936				
+Prad.g_00872	CDS	936		2.1.1.295		2-methyl-6-phytyl-1,4-hydroquinone methyltransferase
+Prad.g_00873	gene	846	pheA			
+Prad.g_00873	CDS	846	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+Prad.g_00874	gene	519				
+Prad.g_00874	CDS	519				hypothetical protein
+Prad.g_00875	gene	618	rnhB			
+Prad.g_00875	CDS	618	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Prad.g_00876	gene	1821	rne			
+Prad.g_00876	CDS	1821	rne	3.1.26.12		Ribonuclease E
+Prad.g_00877	gene	1227	dapL			
+Prad.g_00877	CDS	1227	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+Prad.g_00878	gene	318	clpS_2			
+Prad.g_00878	CDS	318	clpS_2			ATP-dependent Clp protease adapter protein ClpS
+Prad.g_00879	gene	1650				
+Prad.g_00879	CDS	1650				hypothetical protein
+Prad.g_00880	gene	74				
+Prad.g_00880	tRNA	74				tRNA-Thr(cgt)
+Prad.g_00881	gene	240				
+Prad.g_00881	CDS	240				hypothetical protein
+Prad.g_00882	gene	3381	infB			
+Prad.g_00882	CDS	3381	infB			Translation initiation factor IF-2
+Prad.g_00883	gene	282				
+Prad.g_00883	CDS	282				hypothetical protein
+Prad.g_00884	gene	1404	nusA			
+Prad.g_00884	CDS	1404	nusA			Transcription termination/antitermination protein NusA
+Prad.g_00885	gene	468	rimP			
+Prad.g_00885	CDS	468	rimP			Ribosome maturation factor RimP
+Prad.g_00886	gene	1131	hhoA_1			
+Prad.g_00886	CDS	1131	hhoA_1			Putative serine protease HhoA
+Prad.g_00887	gene	696	rpiA			
+Prad.g_00887	CDS	696	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+Prad.g_00888	gene	1287	hisD			
+Prad.g_00888	CDS	1287	hisD	1.1.1.23		Histidinol dehydrogenase
+Prad.g_00889	gene	294	rpsT			
+Prad.g_00889	CDS	294	rpsT		COG0268	30S ribosomal protein S20
+Prad.g_00890	gene	795	dtd3			
+Prad.g_00890	CDS	795	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+Prad.g_00891	gene	3294	rpoB			
+Prad.g_00891	CDS	3294	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Prad.g_00892	gene	1905	rpoC			
+Prad.g_00892	CDS	1905	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Prad.g_00893	gene	4101	rpoC2			
+Prad.g_00893	CDS	4101	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+Prad.g_00894	gene	153				
+Prad.g_00894	CDS	153				hypothetical protein
+Prad.g_00895	gene	1050	rlmN			
+Prad.g_00895	CDS	1050	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+Prad.g_00896	gene	168				
+Prad.g_00896	CDS	168				hypothetical protein
+Prad.g_00897	gene	768				
+Prad.g_00897	CDS	768				hypothetical protein
+Prad.g_00898	gene	216				
+Prad.g_00898	CDS	216				hypothetical protein
+Prad.g_00899	gene	393				
+Prad.g_00899	CDS	393				hypothetical protein
+Prad.g_00900	gene	360				
+Prad.g_00900	CDS	360				hypothetical protein
+Prad.g_00901	gene	1194				
+Prad.g_00901	CDS	1194				hypothetical protein
+Prad.g_00902	gene	744	rsmG			
+Prad.g_00902	CDS	744	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+Prad.g_00903	gene	441	dnaJ_1			
+Prad.g_00903	CDS	441	dnaJ_1			Chaperone protein DnaJ
+Prad.g_00904	gene	264				
+Prad.g_00904	CDS	264				hypothetical protein
+Prad.g_00905	gene	1302	bioA			
+Prad.g_00905	CDS	1302	bioA	2.6.1.62		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Prad.g_00906	gene	660	bioD1			
+Prad.g_00906	CDS	660	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+Prad.g_00907	gene	771	bioC			
+Prad.g_00907	CDS	771	bioC	2.1.1.197	COG0500	Malonyl-[acyl-carrier protein] O-methyltransferase
+Prad.g_00908	gene	705				
+Prad.g_00908	CDS	705				hypothetical protein
+Prad.g_00909	gene	1140	bioF			
+Prad.g_00909	CDS	1140	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+Prad.g_00910	gene	2727	helY			
+Prad.g_00910	CDS	2727	helY	3.6.4.-	COG4581	putative helicase HelY
+Prad.g_00911	gene	1386	fumC			
+Prad.g_00911	CDS	1386	fumC	4.2.1.2		Fumarate hydratase class II
+Prad.g_00912	gene	1296	purB			
+Prad.g_00912	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Prad.g_00913	gene	813	tlyA			
+Prad.g_00913	CDS	813	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+Prad.g_00914	gene	339	glnB			
+Prad.g_00914	CDS	339	glnB			Nitrogen regulatory protein P-II
+Prad.g_00915	gene	246				
+Prad.g_00915	CDS	246				hypothetical protein
+Prad.g_00916	gene	411	queF			
+Prad.g_00916	CDS	411	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+Prad.g_00917	gene	1287	ccsB			
+Prad.g_00917	CDS	1287	ccsB			Cytochrome c biogenesis protein CcsB
+Prad.g_00918	gene	657	dsbD_1			
+Prad.g_00918	CDS	657	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+Prad.g_00919	gene	1287	ftsW			
+Prad.g_00919	CDS	1287	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Prad.g_00920	gene	477				
+Prad.g_00920	CDS	477				hypothetical protein
+Prad.g_00921	gene	726	atpB			
+Prad.g_00921	CDS	726	atpB		COG0356	ATP synthase subunit a
+Prad.g_00922	gene	246	atpH_1			
+Prad.g_00922	CDS	246	atpH_1			ATP synthase subunit c
+Prad.g_00923	gene	462	atpG_1			
+Prad.g_00923	CDS	462	atpG_1		COG0711	ATP synthase subunit b'
+Prad.g_00924	gene	513	atpF			
+Prad.g_00924	CDS	513	atpF		COG0711	ATP synthase subunit b
+Prad.g_00925	gene	543	atpH_2			
+Prad.g_00925	CDS	543	atpH_2		COG0712	ATP synthase subunit delta
+Prad.g_00926	gene	1518	atpA			
+Prad.g_00926	CDS	1518	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+Prad.g_00927	gene	951	atpG_2			
+Prad.g_00927	CDS	951	atpG_2		COG0224	ATP synthase gamma chain
+Prad.g_00928	gene	327	petF_2			
+Prad.g_00928	CDS	327	petF_2			Ferredoxin-1
+Prad.g_00929	gene	192				
+Prad.g_00929	CDS	192				hypothetical protein
+Prad.g_00930	gene	1053				
+Prad.g_00930	CDS	1053				hypothetical protein
+Prad.g_00931	gene	1698	nadE			
+Prad.g_00931	CDS	1698	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+Prad.g_00932	gene	579	nadD			
+Prad.g_00932	CDS	579	nadD	2.7.7.18		putative nicotinate-nucleotide adenylyltransferase
+Prad.g_00933	gene	1242	era_3			
+Prad.g_00933	CDS	1242	era_3			GTPase Era
+Prad.g_00934	gene	978				
+Prad.g_00934	CDS	978				hypothetical protein
+Prad.g_00935	gene	1326	pepP			
+Prad.g_00935	CDS	1326	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+Prad.g_00936	gene	159				
+Prad.g_00936	CDS	159				hypothetical protein
+Prad.g_00937	gene	477				
+Prad.g_00937	CDS	477				hypothetical protein
+Prad.g_00938	gene	405	atpC			
+Prad.g_00938	CDS	405	atpC			ATP synthase epsilon chain
+Prad.g_00939	gene	1461	atpD			
+Prad.g_00939	CDS	1461	atpD	7.1.2.2		ATP synthase subunit beta
+Prad.g_00940	gene	312	groS			
+Prad.g_00940	CDS	312	groS			10 kDa chaperonin
+Prad.g_00941	gene	1638	groL1			
+Prad.g_00941	CDS	1638	groL1			60 kDa chaperonin 1
+Prad.g_00942	gene	228				
+Prad.g_00942	CDS	228				hypothetical protein
+Prad.g_00943	gene	1623	gpmI			
+Prad.g_00943	CDS	1623	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Prad.g_00944	gene	537	pyrR			
+Prad.g_00944	CDS	537	pyrR		COG2065	Bifunctional protein PyrR
+Prad.g_00945	gene	1569	dnaK			
+Prad.g_00945	CDS	1569	dnaK			Chaperone protein DnaK
+Prad.g_00946	gene	237	rpoZ			
+Prad.g_00946	CDS	237	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+Prad.g_00947	gene	378				
+Prad.g_00947	CDS	378				hypothetical protein
+Prad.g_00948	gene	252				
+Prad.g_00948	CDS	252				hypothetical protein
+Prad.g_00949	gene	459				
+Prad.g_00949	CDS	459				hypothetical protein
+Prad.g_00950	gene	261				
+Prad.g_00950	CDS	261				hypothetical protein
+Prad.g_00951	gene	240				
+Prad.g_00951	CDS	240				hypothetical protein
+Prad.g_00952	gene	183				
+Prad.g_00952	CDS	183				hypothetical protein
+Prad.g_00953	gene	570				
+Prad.g_00953	CDS	570				hypothetical protein
+Prad.g_00954	gene	381				
+Prad.g_00954	CDS	381				hypothetical protein
+Prad.g_00955	gene	264				
+Prad.g_00955	CDS	264				hypothetical protein
+Prad.g_00956	gene	123				
+Prad.g_00956	CDS	123				hypothetical protein
+Prad.g_00957	gene	201				
+Prad.g_00957	CDS	201				hypothetical protein
+Prad.g_00958	gene	378				
+Prad.g_00958	CDS	378				hypothetical protein
+Prad.g_00959	gene	156				
+Prad.g_00959	CDS	156				hypothetical protein
+Prad.g_00960	gene	222				
+Prad.g_00960	CDS	222				hypothetical protein
+Prad.g_00961	gene	195				
+Prad.g_00961	CDS	195				hypothetical protein
+Prad.g_00962	gene	105				
+Prad.g_00962	CDS	105				hypothetical protein
+Prad.g_00963	gene	144				
+Prad.g_00963	CDS	144				hypothetical protein
+Prad.g_00964	gene	261				
+Prad.g_00964	CDS	261				hypothetical protein
+Prad.g_00965	gene	183				
+Prad.g_00965	CDS	183				hypothetical protein
+Prad.g_00966	gene	132				
+Prad.g_00966	CDS	132				hypothetical protein
+Prad.g_00967	gene	429				
+Prad.g_00967	CDS	429				hypothetical protein
+Prad.g_00968	gene	156				
+Prad.g_00968	CDS	156				hypothetical protein
+Prad.g_00969	gene	360				
+Prad.g_00969	CDS	360				hypothetical protein
+Prad.g_00970	gene	480	gpx2			
+Prad.g_00970	CDS	480	gpx2	1.11.1.22		Hydroperoxy fatty acid reductase gpx2
+Prad.g_00971	gene	264				
+Prad.g_00971	CDS	264				hypothetical protein
+Prad.g_00972	gene	1176	purT			
+Prad.g_00972	CDS	1176	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+Prad.g_00973	gene	201				
+Prad.g_00973	CDS	201				hypothetical protein
+Prad.g_00974	gene	162				
+Prad.g_00974	CDS	162				hypothetical protein
+Prad.g_00975	gene	222				
+Prad.g_00975	CDS	222				hypothetical protein
+Prad.g_00976	gene	2607	pepN			
+Prad.g_00976	CDS	2607	pepN	3.4.11.2	COG0308	Aminopeptidase N
+Prad.g_00977	gene	279				
+Prad.g_00977	CDS	279				hypothetical protein
+Prad.g_00978	gene	717				
+Prad.g_00978	CDS	717				hypothetical protein
+Prad.g_00979	gene	303				
+Prad.g_00979	CDS	303				hypothetical protein
+Prad.g_00980	gene	186				
+Prad.g_00980	CDS	186				hypothetical protein
+Prad.g_00981	gene	381				
+Prad.g_00981	CDS	381				hypothetical protein
+Prad.g_00982	gene	219				
+Prad.g_00982	CDS	219				hypothetical protein
+Prad.g_00983	gene	270				
+Prad.g_00983	CDS	270				hypothetical protein
+Prad.g_00984	gene	117				
+Prad.g_00984	CDS	117				hypothetical protein
+Prad.g_00985	gene	318				
+Prad.g_00985	CDS	318				hypothetical protein
+Prad.g_00986	gene	150				
+Prad.g_00986	CDS	150				hypothetical protein
+Prad.g_00987	gene	324				
+Prad.g_00987	CDS	324				hypothetical protein
+Prad.g_00988	gene	471				
+Prad.g_00988	CDS	471				hypothetical protein
+Prad.g_00989	gene	681				
+Prad.g_00989	CDS	681				hypothetical protein
+Prad.g_00990	gene	405				
+Prad.g_00990	CDS	405				hypothetical protein
+Prad.g_00991	gene	804				
+Prad.g_00991	CDS	804				hypothetical protein
+Prad.g_00992	gene	1167				
+Prad.g_00992	CDS	1167				hypothetical protein
+Prad.g_00993	gene	597	udk			
+Prad.g_00993	CDS	597	udk	2.7.1.48		Uridine kinase
+Prad.g_00994	gene	339				
+Prad.g_00994	CDS	339				hypothetical protein
+Prad.g_00995	gene	177	rpsU1			
+Prad.g_00995	CDS	177	rpsU1		COG0828	30S ribosomal protein S21 A
+Prad.g_00996	gene	459				
+Prad.g_00996	CDS	459				hypothetical protein
+Prad.g_00997	gene	396	gpt			
+Prad.g_00997	CDS	396	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+Prad.g_00998	gene	270				
+Prad.g_00998	CDS	270				hypothetical protein
+Prad.g_00999	gene	525				
+Prad.g_00999	CDS	525				hypothetical protein
+Prad.g_01000	gene	225				
+Prad.g_01000	CDS	225				hypothetical protein
+Prad.g_01001	gene	222				
+Prad.g_01001	CDS	222				hypothetical protein
+Prad.g_01002	gene	402				
+Prad.g_01002	CDS	402				hypothetical protein
+Prad.g_01003	gene	192				
+Prad.g_01003	CDS	192				hypothetical protein
+Prad.g_01004	gene	342				
+Prad.g_01004	CDS	342				hypothetical protein
+Prad.g_01005	gene	789				
+Prad.g_01005	CDS	789				hypothetical protein
+Prad.g_01006	gene	228				
+Prad.g_01006	CDS	228				hypothetical protein
+Prad.g_01007	gene	267				
+Prad.g_01007	CDS	267				hypothetical protein
+Prad.g_01008	gene	795				
+Prad.g_01008	CDS	795				hypothetical protein
+Prad.g_01009	gene	795				
+Prad.g_01009	CDS	795				hypothetical protein
+Prad.g_01010	gene	996	btuD_2			
+Prad.g_01010	CDS	996	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Prad.g_01011	gene	390				
+Prad.g_01011	CDS	390				hypothetical protein
+Prad.g_01012	gene	77				
+Prad.g_01012	tRNA	77				tRNA-Met(cat)
+Prad.g_01013	gene	966				
+Prad.g_01013	CDS	966				hypothetical protein
+Prad.g_01014	gene	555				
+Prad.g_01014	CDS	555				hypothetical protein
+Prad.g_01015	gene	351	rsfS			
+Prad.g_01015	CDS	351	rsfS			Ribosomal silencing factor RsfS
+Prad.g_01016	gene	639				
+Prad.g_01016	CDS	639				hypothetical protein
+Prad.g_01017	gene	3297	carB			
+Prad.g_01017	CDS	3297	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Prad.g_01018	gene	219				
+Prad.g_01018	CDS	219				hypothetical protein
+Prad.g_01019	gene	1647				
+Prad.g_01019	CDS	1647		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+Prad.g_01020	gene	174				
+Prad.g_01020	CDS	174				hypothetical protein
+Prad.g_01021	gene	726	tpiA			
+Prad.g_01021	CDS	726	tpiA	5.3.1.1		Triosephosphate isomerase
+Prad.g_01022	gene	846	folP			
+Prad.g_01022	CDS	846	folP	2.5.1.15		Dihydropteroate synthase
+Prad.g_01023	gene	4011	cobN_2			
+Prad.g_01023	CDS	4011	cobN_2	6.6.1.2		Aerobic cobaltochelatase subunit CobN
+Prad.g_01024	gene	849	dapB			
+Prad.g_01024	CDS	849	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Prad.g_01025	gene	642				
+Prad.g_01025	CDS	642				hypothetical protein
+Prad.g_01026	gene	1155	ubiH			
+Prad.g_01026	CDS	1155	ubiH	1.14.13.-	COG0654	2-octaprenyl-6-methoxyphenol hydroxylase
+Prad.g_01027	gene	198				
+Prad.g_01027	CDS	198				hypothetical protein
+Prad.g_01028	gene	141				
+Prad.g_01028	CDS	141				hypothetical protein
+Prad.g_01029	gene	321				
+Prad.g_01029	CDS	321				hypothetical protein
+Prad.g_01030	gene	591				
+Prad.g_01030	CDS	591				hypothetical protein
+Prad.g_01031	gene	369				
+Prad.g_01031	CDS	369				hypothetical protein
+Prad.g_01032	gene	162				
+Prad.g_01032	CDS	162				hypothetical protein
+Prad.g_01033	gene	3513	mfd			
+Prad.g_01033	CDS	3513	mfd	3.6.4.-		Transcription-repair-coupling factor
+Prad.g_01034	gene	711				
+Prad.g_01034	CDS	711				hypothetical protein
+Prad.g_01035	gene	987	fmt			
+Prad.g_01035	CDS	987	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Prad.g_01036	gene	1353	pmbA			
+Prad.g_01036	CDS	1353	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+Prad.g_01037	gene	1425	tldD			
+Prad.g_01037	CDS	1425	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Prad.g_01038	gene	1173				
+Prad.g_01038	CDS	1173				hypothetical protein
+Prad.g_01039	gene	318				
+Prad.g_01039	CDS	318				hypothetical protein
+Prad.g_01040	gene	1164	epsF			
+Prad.g_01040	CDS	1164	epsF		COG1459	Type II secretion system protein F
+Prad.g_01041	gene	1044	pilT			
+Prad.g_01041	CDS	1044	pilT		COG2805	Twitching mobility protein
+Prad.g_01042	gene	1656				
+Prad.g_01042	CDS	1656				hypothetical protein
+Prad.g_01043	gene	1170				
+Prad.g_01043	CDS	1170				hypothetical protein
+Prad.g_01044	gene	513				
+Prad.g_01044	CDS	513				hypothetical protein
+Prad.g_01045	gene	507				
+Prad.g_01045	CDS	507				hypothetical protein
+Prad.g_01046	gene	819	pppA			
+Prad.g_01046	CDS	819	pppA		COG1989	Prepilin peptidase PppA
+Prad.g_01047	gene	150				
+Prad.g_01047	CDS	150				hypothetical protein
+Prad.g_01048	gene	195				
+Prad.g_01048	CDS	195				hypothetical protein
+Prad.g_01049	gene	258				
+Prad.g_01049	CDS	258				hypothetical protein
+Prad.g_01050	gene	2400	rtpR			
+Prad.g_01050	CDS	2400	rtpR	1.17.4.2		Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase
+Prad.g_01051	gene	696	tam			
+Prad.g_01051	CDS	696	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+Prad.g_01052	gene	1638	prfC			
+Prad.g_01052	CDS	1638	prfC			Peptide chain release factor 3
+Prad.g_01053	gene	675				
+Prad.g_01053	CDS	675				hypothetical protein
+Prad.g_01054	gene	909	hslO			
+Prad.g_01054	CDS	909	hslO		COG1281	33 kDa chaperonin
+Prad.g_01055	gene	648	glnQ			
+Prad.g_01055	CDS	648	glnQ		COG1126	Glutamine transport ATP-binding protein GlnQ
+Prad.g_01056	gene	444				
+Prad.g_01056	CDS	444				hypothetical protein
+Prad.g_01057	gene	774	rsmE			
+Prad.g_01057	CDS	774	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+Prad.g_01058	gene	744				
+Prad.g_01058	CDS	744				hypothetical protein
+Prad.g_01059	gene	645				
+Prad.g_01059	CDS	645				hypothetical protein
+Prad.g_01060	gene	1503				
+Prad.g_01060	CDS	1503				hypothetical protein
+Prad.g_01061	gene	741	thiQ			
+Prad.g_01061	CDS	741	thiQ	3.6.3.-	COG3840	Thiamine import ATP-binding protein ThiQ
+Prad.g_01062	gene	894	phnD1			
+Prad.g_01062	CDS	894	phnD1		COG3221	putative ABC transporter phosphite binding protein PhnD1
+Prad.g_01063	gene	1179	aspC			
+Prad.g_01063	CDS	1179	aspC	2.6.1.1		Aspartate aminotransferase
+Prad.g_01064	gene	504	udg			
+Prad.g_01064	CDS	504	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+Prad.g_01065	gene	1218	ispG			
+Prad.g_01065	CDS	1218	ispG	1.17.7.1	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+Prad.g_01066	gene	1320				
+Prad.g_01066	CDS	1320				hypothetical protein
+Prad.g_01067	gene	915	nadA			
+Prad.g_01067	CDS	915	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+Prad.g_01068	gene	774				
+Prad.g_01068	CDS	774				hypothetical protein
+Prad.g_01069	gene	798				
+Prad.g_01069	CDS	798				hypothetical protein
+Prad.g_01070	gene	1191				
+Prad.g_01070	CDS	1191				hypothetical protein
+Prad.g_01071	gene	1092	aroB			
+Prad.g_01071	CDS	1092	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+Prad.g_01072	gene	1191	purK			
+Prad.g_01072	CDS	1191	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+Prad.g_01073	gene	228				
+Prad.g_01073	CDS	228				hypothetical protein
+Prad.g_01074	gene	255				
+Prad.g_01074	CDS	255				hypothetical protein
+Prad.g_01075	gene	294				
+Prad.g_01075	CDS	294				hypothetical protein
+Prad.g_01076	gene	141				
+Prad.g_01076	CDS	141				hypothetical protein
+Prad.g_01077	gene	159				
+Prad.g_01077	CDS	159				hypothetical protein
+Prad.g_01078	gene	750	ligB			
+Prad.g_01078	CDS	750	ligB	6.5.1.2	COG0272	DNA ligase B
+Prad.g_01079	gene	207				
+Prad.g_01079	CDS	207				hypothetical protein
+Prad.g_01080	gene	255				
+Prad.g_01080	CDS	255				hypothetical protein
+Prad.g_01081	gene	228				
+Prad.g_01081	CDS	228				hypothetical protein
+Prad.g_01082	gene	291				
+Prad.g_01082	CDS	291				hypothetical protein
+Prad.g_01083	gene	183				
+Prad.g_01083	CDS	183				hypothetical protein
+Prad.g_01084	gene	198				
+Prad.g_01084	CDS	198				hypothetical protein
+Prad.g_01085	gene	303				
+Prad.g_01085	CDS	303				hypothetical protein
+Prad.g_01086	gene	123				
+Prad.g_01086	CDS	123				hypothetical protein
+Prad.g_01087	gene	183				
+Prad.g_01087	CDS	183				hypothetical protein
+Prad.g_01088	gene	213				
+Prad.g_01088	CDS	213				hypothetical protein
+Prad.g_01089	gene	210				
+Prad.g_01089	CDS	210				hypothetical protein
+Prad.g_01090	gene	171				
+Prad.g_01090	CDS	171				hypothetical protein
+Prad.g_01091	gene	207				
+Prad.g_01091	CDS	207				hypothetical protein
+Prad.g_01092	gene	666				
+Prad.g_01092	CDS	666				hypothetical protein
+Prad.g_01093	gene	138				
+Prad.g_01093	CDS	138				hypothetical protein
+Prad.g_01094	gene	255				
+Prad.g_01094	CDS	255				hypothetical protein
+Prad.g_01095	gene	228				
+Prad.g_01095	CDS	228				hypothetical protein
+Prad.g_01096	gene	144				
+Prad.g_01096	CDS	144				hypothetical protein
+Prad.g_01097	gene	252				
+Prad.g_01097	CDS	252				hypothetical protein
+Prad.g_01098	gene	231				
+Prad.g_01098	CDS	231				hypothetical protein
+Prad.g_01099	gene	237				
+Prad.g_01099	CDS	237				hypothetical protein
+Prad.g_01100	gene	243				
+Prad.g_01100	CDS	243				hypothetical protein
+Prad.g_01101	gene	195				
+Prad.g_01101	CDS	195				hypothetical protein
+Prad.g_01102	gene	312				
+Prad.g_01102	CDS	312				hypothetical protein
+Prad.g_01103	gene	384				
+Prad.g_01103	CDS	384				hypothetical protein
+Prad.g_01104	gene	138				
+Prad.g_01104	CDS	138				hypothetical protein
+Prad.g_01105	gene	354				
+Prad.g_01105	CDS	354				hypothetical protein
+Prad.g_01106	gene	132				
+Prad.g_01106	CDS	132				hypothetical protein
+Prad.g_01107	gene	1056	kefB			
+Prad.g_01107	CDS	1056	kefB			Glutathione-regulated potassium-efflux system protein KefB
+Prad.g_01108	gene	906	pstS			
+Prad.g_01108	CDS	906	pstS		COG0226	Phosphate-binding protein PstS
+Prad.g_01109	gene	948	pstC			
+Prad.g_01109	CDS	948	pstC		COG0573	Phosphate transport system permease protein PstC
+Prad.g_01110	gene	894	pstA			
+Prad.g_01110	CDS	894	pstA		COG0581	Phosphate transport system permease protein PstA
+Prad.g_01111	gene	810	pstB3			
+Prad.g_01111	CDS	810	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Prad.g_01112	gene	138				
+Prad.g_01112	CDS	138				hypothetical protein
+Prad.g_01113	gene	147				
+Prad.g_01113	CDS	147				hypothetical protein
+Prad.g_01114	gene	303				
+Prad.g_01114	CDS	303				hypothetical protein
+Prad.g_01115	gene	651				
+Prad.g_01115	CDS	651				hypothetical protein
+Prad.g_01116	gene	2475	cshB			
+Prad.g_01116	CDS	2475	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+Prad.g_01117	gene	1638	lig_1			
+Prad.g_01117	CDS	1638	lig_1	6.5.1.1		DNA ligase
+Prad.g_01118	gene	993				
+Prad.g_01118	CDS	993				hypothetical protein
+Prad.g_01119	gene	414				
+Prad.g_01119	CDS	414				hypothetical protein
+Prad.g_01120	gene	288				
+Prad.g_01120	CDS	288				hypothetical protein
+Prad.g_01121	gene	1320				
+Prad.g_01121	CDS	1320				hypothetical protein
+Prad.g_01122	gene	381				
+Prad.g_01122	CDS	381				hypothetical protein
+Prad.g_01123	gene	204				
+Prad.g_01123	CDS	204				hypothetical protein
+Prad.g_01124	gene	201				
+Prad.g_01124	CDS	201				hypothetical protein
+Prad.g_01125	gene	207				
+Prad.g_01125	CDS	207				hypothetical protein
+Prad.g_01126	gene	195				
+Prad.g_01126	CDS	195				hypothetical protein
+Prad.g_01127	gene	183				
+Prad.g_01127	CDS	183				hypothetical protein
+Prad.g_01128	gene	129				
+Prad.g_01128	CDS	129				hypothetical protein
+Prad.g_01129	gene	381				
+Prad.g_01129	CDS	381				hypothetical protein
+Prad.g_01130	gene	177				
+Prad.g_01130	CDS	177				hypothetical protein
+Prad.g_01131	gene	432				
+Prad.g_01131	CDS	432				hypothetical protein
+Prad.g_01132	gene	270				
+Prad.g_01132	CDS	270				hypothetical protein
+Prad.g_01133	gene	231				
+Prad.g_01133	CDS	231				hypothetical protein
+Prad.g_01134	gene	279				
+Prad.g_01134	CDS	279				hypothetical protein
+Prad.g_01135	gene	120	petN			
+Prad.g_01135	CDS	120	petN			Cytochrome b6-f complex subunit 8
+Prad.g_01136	gene	144				
+Prad.g_01136	CDS	144				hypothetical protein
+Prad.g_01137	gene	654	thf1			
+Prad.g_01137	CDS	654	thf1			Protein Thf1
+Prad.g_01138	gene	588	clpP_3			
+Prad.g_01138	CDS	588	clpP_3	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Prad.g_01139	gene	1914	ftsH2_2			
+Prad.g_01139	CDS	1914	ftsH2_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 2
+Prad.g_01140	gene	246				
+Prad.g_01140	CDS	246				hypothetical protein
+Prad.g_01141	gene	1218				
+Prad.g_01141	CDS	1218		3.4.24.-	COG0612	putative zinc protease
+Prad.g_01142	gene	1251				
+Prad.g_01142	CDS	1251		3.4.24.-	COG0612	putative zinc protease
+Prad.g_01143	gene	723	pcyA			
+Prad.g_01143	CDS	723	pcyA	1.3.7.5		Phycocyanobilin:ferredoxin oxidoreductase
+Prad.g_01144	gene	912				
+Prad.g_01144	CDS	912				hypothetical protein
+Prad.g_01145	gene	1173				
+Prad.g_01145	CDS	1173				hypothetical protein
+Prad.g_01146	gene	729				
+Prad.g_01146	CDS	729			COG1136	putative ABC transporter ATP-binding protein
+Prad.g_01147	gene	150				
+Prad.g_01147	CDS	150				hypothetical protein
+Prad.g_01148	gene	912				
+Prad.g_01148	CDS	912				hypothetical protein
+Prad.g_01149	gene	693	rpsB			
+Prad.g_01149	CDS	693	rpsB		COG0052	30S ribosomal protein S2
+Prad.g_01150	gene	657	tsf			
+Prad.g_01150	CDS	657	tsf			Elongation factor Ts
+Prad.g_01151	gene	1125				
+Prad.g_01151	CDS	1125				hypothetical protein
+Prad.g_01152	gene	2457	recG			
+Prad.g_01152	CDS	2457	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+Prad.g_01153	gene	684	ddpX_1			
+Prad.g_01153	CDS	684	ddpX_1	3.4.13.22		D-alanyl-D-alanine dipeptidase
+Prad.g_01154	gene	1788	sir			
+Prad.g_01154	CDS	1788	sir	1.8.7.1		Sulfite reductase [ferredoxin]
+Prad.g_01155	gene	2163	glyS			
+Prad.g_01155	CDS	2163	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Prad.g_01156	gene	1341	kmo			
+Prad.g_01156	CDS	1341	kmo	1.14.13.9		Kynurenine 3-monooxygenase
+Prad.g_01157	gene	720	ddpX_2			
+Prad.g_01157	CDS	720	ddpX_2	3.4.13.22		D-alanyl-D-alanine dipeptidase
+Prad.g_01158	gene	1797	typA			
+Prad.g_01158	CDS	1797	typA		COG1217	GTP-binding protein TypA/BipA 
+Prad.g_01159	gene	369				
+Prad.g_01159	CDS	369				hypothetical protein
+Prad.g_01160	gene	729	lptB			
+Prad.g_01160	CDS	729	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Prad.g_01161	gene	930	ccsA			
+Prad.g_01161	CDS	930	ccsA			Cytochrome c biogenesis protein CcsA
+Prad.g_01162	gene	756	rpe			
+Prad.g_01162	CDS	756	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+Prad.g_01163	gene	1002				
+Prad.g_01163	CDS	1002		3.1.3.11	COG1494	D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase
+Prad.g_01164	gene	1311	hemA			
+Prad.g_01164	CDS	1311	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+Prad.g_01165	gene	1296	glgC			
+Prad.g_01165	CDS	1296	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+Prad.g_01166	gene	1419	gnd			
+Prad.g_01166	CDS	1419	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+Prad.g_01167	gene	738	pgl			
+Prad.g_01167	CDS	738	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+Prad.g_01168	gene	549				
+Prad.g_01168	CDS	549				hypothetical protein
+Prad.g_01169	gene	387				
+Prad.g_01169	CDS	387				hypothetical protein
+Prad.g_01170	gene	1674	ilvD			
+Prad.g_01170	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+Prad.g_01171	gene	291				
+Prad.g_01171	CDS	291				hypothetical protein
+Prad.g_01172	gene	618	upp			
+Prad.g_01172	CDS	618	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+Prad.g_01173	gene	513				
+Prad.g_01173	CDS	513				Pentapeptide repeat protein Rfr32
+Prad.g_01174	gene	1065	yciC			
+Prad.g_01174	CDS	1065	yciC		COG0523	Putative metal chaperone YciC
+Prad.g_01175	gene	165				
+Prad.g_01175	CDS	165				hypothetical protein
+Prad.g_01176	gene	255	purS			
+Prad.g_01176	CDS	255	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+Prad.g_01177	gene	666	purQ			
+Prad.g_01177	CDS	666	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+Prad.g_01178	gene	1074	fbaA			
+Prad.g_01178	CDS	1074	fbaA	4.1.2.13		Fructose-bisphosphate aldolase class 2
+Prad.g_01179	gene	1068	fda			
+Prad.g_01179	CDS	1068	fda	4.1.2.13		Fructose-bisphosphate aldolase class 1
+Prad.g_01180	gene	1098	iolG_1			
+Prad.g_01180	CDS	1098	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+Prad.g_01181	gene	393				
+Prad.g_01181	CDS	393				hypothetical protein
+Prad.g_01182	gene	882	accD			
+Prad.g_01182	CDS	882	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Prad.g_01183	gene	900	cfxP			
+Prad.g_01183	CDS	900	cfxP	2.7.1.19	COG3954	Phosphoribulokinase, chromosomal
+Prad.g_01184	gene	1074	leuB			
+Prad.g_01184	CDS	1074	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+Prad.g_01185	gene	426	lpxD			
+Prad.g_01185	CDS	426	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+Prad.g_01186	gene	945				
+Prad.g_01186	CDS	945		2.4.-.-		putative glycosyltransferase
+Prad.g_01187	gene	390				
+Prad.g_01187	CDS	390				hypothetical protein
+Prad.g_01188	gene	246				
+Prad.g_01188	CDS	246				hypothetical protein
+Prad.g_01189	gene	198				
+Prad.g_01189	CDS	198				hypothetical protein
+Prad.g_01190	gene	405				
+Prad.g_01190	CDS	405				hypothetical protein
+Prad.g_01191	gene	267				
+Prad.g_01191	CDS	267				hypothetical protein
+Prad.g_01192	gene	180				
+Prad.g_01192	CDS	180				hypothetical protein
+Prad.g_01193	gene	159				
+Prad.g_01193	CDS	159				hypothetical protein
+Prad.g_01194	gene	147				
+Prad.g_01194	CDS	147				hypothetical protein
+Prad.g_01195	gene	183				
+Prad.g_01195	CDS	183				hypothetical protein
+Prad.g_01196	gene	150				
+Prad.g_01196	CDS	150				hypothetical protein
+Prad.g_01197	gene	114				
+Prad.g_01197	CDS	114				hypothetical protein
+Prad.g_01198	gene	258				
+Prad.g_01198	CDS	258				hypothetical protein
+Prad.g_01199	gene	216				
+Prad.g_01199	CDS	216				hypothetical protein
+Prad.g_01200	gene	96				
+Prad.g_01200	CDS	96				hypothetical protein
+Prad.g_01201	gene	138				
+Prad.g_01201	CDS	138				hypothetical protein
+Prad.g_01202	gene	414				
+Prad.g_01202	CDS	414				hypothetical protein
+Prad.g_01203	gene	183				
+Prad.g_01203	CDS	183				hypothetical protein
+Prad.g_01204	gene	297	psbF_1			
+Prad.g_01204	CDS	297	psbF_1			Cytochrome b559 subunit beta
+Prad.g_01205	gene	366				
+Prad.g_01205	CDS	366				hypothetical protein
+Prad.g_01206	gene	240				
+Prad.g_01206	CDS	240				hypothetical protein
+Prad.g_01207	gene	282				
+Prad.g_01207	CDS	282				hypothetical protein
+Prad.g_01208	gene	303				
+Prad.g_01208	CDS	303				hypothetical protein
+Prad.g_01209	gene	390				
+Prad.g_01209	CDS	390				hypothetical protein
+Prad.g_01210	gene	318				
+Prad.g_01210	CDS	318				hypothetical protein
+Prad.g_01211	gene	198				
+Prad.g_01211	CDS	198				hypothetical protein
+Prad.g_01212	gene	306				
+Prad.g_01212	CDS	306				hypothetical protein
+Prad.g_01213	gene	945				
+Prad.g_01213	CDS	945				hypothetical protein
+Prad.g_01214	gene	723	rluF			
+Prad.g_01214	CDS	723	rluF	5.4.99.-	COG1187	Dual-specificity RNA pseudouridine synthase RluF
+Prad.g_01215	gene	258				
+Prad.g_01215	CDS	258				hypothetical protein
+Prad.g_01216	gene	639				
+Prad.g_01216	CDS	639				hypothetical protein
+Prad.g_01217	gene	150				
+Prad.g_01217	CDS	150				hypothetical protein
+Prad.g_01218	gene	279				
+Prad.g_01218	CDS	279				hypothetical protein
+Prad.g_01219	gene	948	thrB			
+Prad.g_01219	CDS	948	thrB	2.7.1.39	COG0083	Homoserine kinase
+Prad.g_01220	gene	1038	glk			
+Prad.g_01220	CDS	1038	glk	2.7.1.2	COG0837	Glucokinase
+Prad.g_01221	gene	1917	thrS			
+Prad.g_01221	CDS	1917	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Prad.g_01222	gene	1017	trpS			
+Prad.g_01222	CDS	1017	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Prad.g_01223	gene	423				
+Prad.g_01223	CDS	423				hypothetical protein
+Prad.g_01224	gene	1335				
+Prad.g_01224	CDS	1335				hypothetical protein
+Prad.g_01225	gene	900	yfeA			
+Prad.g_01225	CDS	900	yfeA		COG0803	Periplasmic chelated iron-binding protein YfeA
+Prad.g_01226	gene	765	mntB_1			
+Prad.g_01226	CDS	765	mntB_1		COG1121	Manganese transport system ATP-binding protein MntB
+Prad.g_01227	gene	873	mntB_2			
+Prad.g_01227	CDS	873	mntB_2			Manganese transport system membrane protein MntB
+Prad.g_01228	gene	1173				
+Prad.g_01228	CDS	1173				hypothetical protein
+Prad.g_01229	gene	336				
+Prad.g_01229	CDS	336				hypothetical protein
+Prad.g_01230	gene	585	sipS			
+Prad.g_01230	CDS	585	sipS	3.4.21.89	COG0681	Signal peptidase I S
+Prad.g_01231	gene	1764	menD			
+Prad.g_01231	CDS	1764	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+Prad.g_01232	gene	858	menB			
+Prad.g_01232	CDS	858	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+Prad.g_01233	gene	1458	glgA			
+Prad.g_01233	CDS	1458	glgA	2.4.1.21	COG0297	Glycogen synthase
+Prad.g_01234	gene	1374	murF			
+Prad.g_01234	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Prad.g_01235	gene	1350	glmU			
+Prad.g_01235	CDS	1350	glmU		COG1207	Bifunctional protein GlmU
+Prad.g_01236	gene	906	mnmC_1			
+Prad.g_01236	CDS	906	mnmC_1	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+Prad.g_01237	gene	1311	aroA1			
+Prad.g_01237	CDS	1311	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+Prad.g_01238	gene	735	comB			
+Prad.g_01238	CDS	735	comB	3.1.3.71	COG2045	putative 2-phosphosulfolactate phosphatase
+Prad.g_01239	gene	816	nit1			
+Prad.g_01239	CDS	816	nit1	3.5.1.128		Deaminated glutathione amidase
+Prad.g_01240	gene	1086				
+Prad.g_01240	CDS	1086				hypothetical protein
+Prad.g_01241	gene	795	murI			
+Prad.g_01241	CDS	795	murI	5.1.1.3		Glutamate racemase
+Prad.g_01242	gene	972	hepT			
+Prad.g_01242	CDS	972	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+Prad.g_01243	gene	1983	acsA			
+Prad.g_01243	CDS	1983	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Prad.g_01244	gene	723				
+Prad.g_01244	CDS	723				hypothetical protein
+Prad.g_01245	gene	780				
+Prad.g_01245	CDS	780				hypothetical protein
+Prad.g_01246	gene	423				
+Prad.g_01246	CDS	423				hypothetical protein
+Prad.g_01247	gene	1284	hisS			
+Prad.g_01247	CDS	1284	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Prad.g_01248	gene	291				
+Prad.g_01248	CDS	291				hypothetical protein
+Prad.g_01249	gene	300				
+Prad.g_01249	CDS	300				hypothetical protein
+Prad.g_01250	gene	234				
+Prad.g_01250	CDS	234				hypothetical protein
+Prad.g_01251	gene	177				
+Prad.g_01251	CDS	177				hypothetical protein
+Prad.g_01252	gene	1059	pcbA			
+Prad.g_01252	CDS	1059	pcbA			Divinyl chlorophyll a/b light-harvesting protein PcbA
+Prad.g_01253	gene	1389				
+Prad.g_01253	CDS	1389				hypothetical protein
+Prad.g_01254	gene	258				
+Prad.g_01254	CDS	258				hypothetical protein
+Prad.g_01255	gene	660				
+Prad.g_01255	CDS	660				hypothetical protein
+Prad.g_01256	gene	543				
+Prad.g_01256	CDS	543				hypothetical protein
+Prad.g_01257	gene	708	bacC			
+Prad.g_01257	CDS	708	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+Prad.g_01258	gene	1284	crtL_1			
+Prad.g_01258	CDS	1284	crtL_1	5.5.1.19		Lycopene beta cyclase
+Prad.g_01259	gene	1002				
+Prad.g_01259	CDS	1002				hypothetical protein
+Prad.g_01260	gene	1032				
+Prad.g_01260	CDS	1032				hypothetical protein
+Prad.g_01261	gene	525				
+Prad.g_01261	CDS	525				hypothetical protein
+Prad.g_01262	gene	456	perR			
+Prad.g_01262	CDS	456	perR		COG0735	Peroxide operon regulator
+Prad.g_01263	gene	933	moaA			
+Prad.g_01263	CDS	933	moaA			GTP 3',8-cyclase
+Prad.g_01264	gene	1221	stpA			
+Prad.g_01264	CDS	1221	stpA	3.1.3.69		Glucosylglycerol-phosphate phosphatase
+Prad.g_01265	gene	1509				
+Prad.g_01265	CDS	1509				hypothetical protein
+Prad.g_01266	gene	660				
+Prad.g_01266	CDS	660				hypothetical protein
+Prad.g_01267	gene	1329	oah1			
+Prad.g_01267	CDS	1329	oah1	2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase 1
+Prad.g_01268	gene	891	metAA			
+Prad.g_01268	CDS	891	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+Prad.g_01269	gene	1566	bicA_1			
+Prad.g_01269	CDS	1566	bicA_1		COG0659	Bicarbonate transporter BicA
+Prad.g_01270	gene	1275				
+Prad.g_01270	CDS	1275				hypothetical protein
+Prad.g_01271	gene	1125				
+Prad.g_01271	CDS	1125				hypothetical protein
+Prad.g_01272	gene	258				
+Prad.g_01272	CDS	258				hypothetical protein
+Prad.g_01273	gene	1641	mpdB			
+Prad.g_01273	CDS	1641	mpdB	1.1.1.400		2-methyl-1,2-propanediol dehydrogenase
+Prad.g_01274	gene	474				
+Prad.g_01274	CDS	474				Pentapeptide repeat protein Rfr32
+Prad.g_01275	gene	393				
+Prad.g_01275	CDS	393				hypothetical protein
+Prad.g_01276	gene	498				
+Prad.g_01276	CDS	498				hypothetical protein
+Prad.g_01277	gene	390	gloA			
+Prad.g_01277	CDS	390	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+Prad.g_01278	gene	435				
+Prad.g_01278	CDS	435				hypothetical protein
+Prad.g_01279	gene	330				
+Prad.g_01279	CDS	330				hypothetical protein
+Prad.g_01280	gene	555				
+Prad.g_01280	CDS	555				hypothetical protein
+Prad.g_01281	gene	201				
+Prad.g_01281	CDS	201				hypothetical protein
+Prad.g_01282	gene	711				
+Prad.g_01282	CDS	711				hypothetical protein
+Prad.g_01283	gene	2970				
+Prad.g_01283	CDS	2970				hypothetical protein
+Prad.g_01284	gene	1299				
+Prad.g_01284	CDS	1299				hypothetical protein
+Prad.g_01285	gene	1176				
+Prad.g_01285	CDS	1176				hypothetical protein
+Prad.g_01286	gene	1743				
+Prad.g_01286	CDS	1743				hypothetical protein
+Prad.g_01287	gene	195				
+Prad.g_01287	CDS	195				hypothetical protein
+Prad.g_01288	gene	303				
+Prad.g_01288	CDS	303				hypothetical protein
+Prad.g_01289	gene	90				
+Prad.g_01289	tRNA	90				tRNA-Ser(tga)
+Prad.g_01290	gene	1176				
+Prad.g_01290	CDS	1176				hypothetical protein
+Prad.g_01291	gene	339				
+Prad.g_01291	CDS	339				hypothetical protein
+Prad.g_01292	gene	186				
+Prad.g_01292	CDS	186				hypothetical protein
+Prad.g_01293	gene	117				
+Prad.g_01293	CDS	117				hypothetical protein
+Prad.g_01294	gene	246	psaC_2			
+Prad.g_01294	CDS	246	psaC_2	1.97.1.12	COG1145	Photosystem I iron-sulfur center
+Prad.g_01295	gene	384				
+Prad.g_01295	CDS	384				hypothetical protein
+Prad.g_01296	gene	120				
+Prad.g_01296	CDS	120				hypothetical protein
+Prad.g_01297	gene	108				
+Prad.g_01297	CDS	108				hypothetical protein
+Prad.g_01298	gene	180				
+Prad.g_01298	CDS	180				hypothetical protein
+Prad.g_01299	gene	342				
+Prad.g_01299	CDS	342				hypothetical protein
+Prad.g_01300	gene	381				
+Prad.g_01300	CDS	381				hypothetical protein
+Prad.g_01301	gene	237				
+Prad.g_01301	CDS	237				hypothetical protein
+Prad.g_01302	gene	186				
+Prad.g_01302	CDS	186				hypothetical protein
+Prad.g_01303	gene	96				
+Prad.g_01303	CDS	96				hypothetical protein
+Prad.g_01304	gene	429				
+Prad.g_01304	CDS	429				hypothetical protein
+Prad.g_01305	gene	144				
+Prad.g_01305	CDS	144				hypothetical protein
+Prad.g_01306	gene	174				
+Prad.g_01306	CDS	174				hypothetical protein
+Prad.g_01307	gene	219				
+Prad.g_01307	CDS	219				hypothetical protein
+Prad.g_01308	gene	1569	fdhL			
+Prad.g_01308	CDS	1569	fdhL	1.1.99.11		Fructose dehydrogenase large subunit
+Prad.g_01309	gene	597	ctaE_2			
+Prad.g_01309	CDS	597	ctaE_2	1.9.3.1	COG1845	putative cytochrome c oxidase subunit 3
+Prad.g_01310	gene	1692	ctaD_2			
+Prad.g_01310	CDS	1692	ctaD_2	1.9.3.1	COG0843	putative cytochrome c oxidase subunit 1
+Prad.g_01311	gene	936				
+Prad.g_01311	CDS	936				hypothetical protein
+Prad.g_01312	gene	678				
+Prad.g_01312	CDS	678				hypothetical protein
+Prad.g_01313	gene	531				
+Prad.g_01313	CDS	531				hypothetical protein
+Prad.g_01314	gene	210				
+Prad.g_01314	CDS	210				hypothetical protein
+Prad.g_01315	gene	177				
+Prad.g_01315	CDS	177				hypothetical protein
+Prad.g_01316	gene	102				
+Prad.g_01316	CDS	102				hypothetical protein
+Prad.g_01317	gene	135				
+Prad.g_01317	CDS	135				hypothetical protein
+Prad.g_01318	gene	288				
+Prad.g_01318	CDS	288				hypothetical protein
+Prad.g_01319	gene	396				
+Prad.g_01319	CDS	396				hypothetical protein
+Prad.g_01320	gene	270				
+Prad.g_01320	CDS	270				hypothetical protein
+Prad.g_01321	gene	384				
+Prad.g_01321	CDS	384				hypothetical protein
+Prad.g_01322	gene	1929	sctC			
+Prad.g_01322	CDS	1929	sctC			Type 3 secretion system secretin
+Prad.g_01323	gene	696				
+Prad.g_01323	CDS	696				hypothetical protein
+Prad.g_01324	gene	660				
+Prad.g_01324	CDS	660				hypothetical protein
+Prad.g_01325	gene	432				
+Prad.g_01325	CDS	432				hypothetical protein
+Prad.g_01326	gene	210				
+Prad.g_01326	CDS	210				hypothetical protein
+Prad.g_01327	gene	531				
+Prad.g_01327	CDS	531				hypothetical protein
+Prad.g_01328	gene	168				
+Prad.g_01328	CDS	168				hypothetical protein
+Prad.g_01329	gene	147				
+Prad.g_01329	CDS	147				hypothetical protein
+Prad.g_01330	gene	291	phhB			
+Prad.g_01330	CDS	291	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+Prad.g_01331	gene	456				
+Prad.g_01331	CDS	456				hypothetical protein
+Prad.g_01332	gene	1506				
+Prad.g_01332	CDS	1506		3.4.17.19	COG2317	Thermostable carboxypeptidase 1
+Prad.g_01333	gene	588	ppa_1			
+Prad.g_01333	CDS	588	ppa_1	3.6.1.1		Inorganic pyrophosphatase
+Prad.g_01334	gene	951	hemC			
+Prad.g_01334	CDS	951	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+Prad.g_01335	gene	1182	sigA			
+Prad.g_01335	CDS	1182	sigA		COG0568	RNA polymerase sigma factor SigA
+Prad.g_01336	gene	2277	priA			
+Prad.g_01336	CDS	2277	priA	3.6.4.-	COG1198	Primosomal protein N'
+Prad.g_01337	gene	1110				
+Prad.g_01337	CDS	1110				hypothetical protein
+Prad.g_01338	gene	852	argB			
+Prad.g_01338	CDS	852	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+Prad.g_01339	gene	531				
+Prad.g_01339	CDS	531				hypothetical protein
+Prad.g_01340	gene	183				
+Prad.g_01340	CDS	183				hypothetical protein
+Prad.g_01341	gene	426				
+Prad.g_01341	CDS	426				Thylakoid-associated single-stranded DNA-binding protein
+Prad.g_01342	gene	807	cbiJ			
+Prad.g_01342	CDS	807	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+Prad.g_01343	gene	306	cutA			
+Prad.g_01343	CDS	306	cutA			Divalent-cation tolerance protein CutA
+Prad.g_01344	gene	1011	iolC			
+Prad.g_01344	CDS	1011	iolC	2.7.1.92	COG0524	5-dehydro-2-deoxygluconokinase
+Prad.g_01345	gene	1311	purA			
+Prad.g_01345	CDS	1311	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Prad.g_01346	gene	438				
+Prad.g_01346	CDS	438				Photosystem II lipoprotein Psb27
+Prad.g_01347	gene	1803	proS			
+Prad.g_01347	CDS	1803	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Prad.g_01348	gene	351				
+Prad.g_01348	CDS	351				hypothetical protein
+Prad.g_01349	gene	255				
+Prad.g_01349	CDS	255				hypothetical protein
+Prad.g_01350	gene	555	ppa_2			
+Prad.g_01350	CDS	555	ppa_2	3.6.1.1		Inorganic pyrophosphatase
+Prad.g_01351	gene	363	mgsR			
+Prad.g_01351	CDS	363	mgsR		COG1393	Regulatory protein MgsR
+Prad.g_01352	gene	660	lepB			
+Prad.g_01352	CDS	660	lepB	3.4.21.89	COG0681	Signal peptidase I
+Prad.g_01353	gene	1329	gpmA			
+Prad.g_01353	CDS	1329	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Prad.g_01354	gene	1362				
+Prad.g_01354	CDS	1362				hypothetical protein
+Prad.g_01355	gene	429				
+Prad.g_01355	CDS	429				hypothetical protein
+Prad.g_01356	gene	1752	spoVD			
+Prad.g_01356	CDS	1752	spoVD		COG0768	Stage V sporulation protein D
+Prad.g_01357	gene	1002	tal			
+Prad.g_01357	CDS	1002	tal	2.2.1.2	COG0176	Transaldolase
+Prad.g_01358	gene	1134				
+Prad.g_01358	CDS	1134				hypothetical protein
+Prad.g_01359	gene	549	frr			
+Prad.g_01359	CDS	549	frr		COG0233	Ribosome-recycling factor
+Prad.g_01360	gene	705	pyrH			
+Prad.g_01360	CDS	705	pyrH	2.7.4.22		Uridylate kinase
+Prad.g_01361	gene	693	cobO			
+Prad.g_01361	CDS	693	cobO	2.5.1.17		Corrinoid adenosyltransferase
+Prad.g_01362	gene	1170				
+Prad.g_01362	CDS	1170				hypothetical protein
+Prad.g_01363	gene	1176	hemH			
+Prad.g_01363	CDS	1176	hemH	4.99.1.1	COG0276	Ferrochelatase
+Prad.g_01364	gene	1764	ilvG			
+Prad.g_01364	CDS	1764	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit
+Prad.g_01365	gene	351				
+Prad.g_01365	CDS	351				hypothetical protein
+Prad.g_01366	gene	570				
+Prad.g_01366	CDS	570		1.10.3.-	COG1496	Polyphenol oxidase
+Prad.g_01367	gene	906				
+Prad.g_01367	CDS	906				hypothetical protein
+Prad.g_01368	gene	1203	pnp_2			
+Prad.g_01368	CDS	1203	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+Prad.g_01369	gene	795	mftE			
+Prad.g_01369	CDS	795	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+Prad.g_01370	gene	759				
+Prad.g_01370	CDS	759		4.1.99.5		Aldehyde decarbonylase
+Prad.g_01371	gene	1041				
+Prad.g_01371	CDS	1041		1.2.1.80	COG5322	Long-chain acyl-[acyl-carrier-protein] reductase
+Prad.g_01372	gene	1008	accA			
+Prad.g_01372	CDS	1008	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Prad.g_01373	gene	735				
+Prad.g_01373	CDS	735		1.1.1.393	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NADP(+))
+Prad.g_01374	gene	747	folE			
+Prad.g_01374	CDS	747	folE	3.5.4.16		GTP cyclohydrolase 1
+Prad.g_01375	gene	669	trpF			
+Prad.g_01375	CDS	669	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+Prad.g_01376	gene	1224	rip3			
+Prad.g_01376	CDS	1224	rip3		COG0517	Putative zinc metalloprotease Rip3
+Prad.g_01377	gene	744	lipM			
+Prad.g_01377	CDS	744	lipM	2.3.1.181		Octanoyltransferase LipM
+Prad.g_01378	gene	105	psaM			
+Prad.g_01378	CDS	105	psaM			Photosystem I reaction center subunit XII
+Prad.g_01379	gene	357				
+Prad.g_01379	CDS	357				hypothetical protein
+Prad.g_01380	gene	1005				
+Prad.g_01380	CDS	1005				hypothetical protein
+Prad.g_01381	gene	888	chlL			
+Prad.g_01381	CDS	888	chlL	1.3.7.7	COG1348	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein
+Prad.g_01382	gene	1572	chlB			
+Prad.g_01382	CDS	1572	chlB	1.3.7.7	COG2710	Light-independent protochlorophyllide reductase subunit B
+Prad.g_01383	gene	1257	chlN			
+Prad.g_01383	CDS	1257	chlN	1.3.7.7	COG2710	Light-independent protochlorophyllide reductase subunit N
+Prad.g_01384	gene	369				
+Prad.g_01384	CDS	369				hypothetical protein
+Prad.g_01385	gene	768				
+Prad.g_01385	CDS	768				hypothetical protein
+Prad.g_01386	gene	585				
+Prad.g_01386	CDS	585		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Prad.g_01387	gene	312	ccmK			
+Prad.g_01387	CDS	312	ccmK		COG4577	Carbon dioxide-concentrating mechanism protein CcmK
+Prad.g_01388	gene	1416	cbbL			
+Prad.g_01388	CDS	1416	cbbL	4.1.1.39	COG1850	Ribulose bisphosphate carboxylase large chain
+Prad.g_01389	gene	342	cbbS2			
+Prad.g_01389	CDS	342	cbbS2	4.1.1.39	COG4451	Ribulose bisphosphate carboxylase small chain 2
+Prad.g_01390	gene	2280				
+Prad.g_01390	CDS	2280				hypothetical protein
+Prad.g_01391	gene	1530				
+Prad.g_01391	CDS	1530				hypothetical protein
+Prad.g_01392	gene	252				
+Prad.g_01392	CDS	252				hypothetical protein
+Prad.g_01393	gene	240	eutN			
+Prad.g_01393	CDS	240	eutN		COG4576	Ethanolamine utilization protein EutN
+Prad.g_01394	gene	240				
+Prad.g_01394	CDS	240				hypothetical protein
+Prad.g_01395	gene	228				
+Prad.g_01395	CDS	228				hypothetical protein
+Prad.g_01396	gene	393	yabJ			
+Prad.g_01396	CDS	393	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+Prad.g_01397	gene	741	gloB			
+Prad.g_01397	CDS	741	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloB
+Prad.g_01398	gene	639	hisG			
+Prad.g_01398	CDS	639	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+Prad.g_01399	gene	1797				
+Prad.g_01399	CDS	1797			COG1132	putative ABC transporter ATP-binding protein
+Prad.g_01400	gene	531				
+Prad.g_01400	CDS	531				hypothetical protein
+Prad.g_01401	gene	684				
+Prad.g_01401	CDS	684				hypothetical protein
+Prad.g_01402	gene	654				
+Prad.g_01402	CDS	654				hypothetical protein
+Prad.g_01403	gene	1395	dnaA			
+Prad.g_01403	CDS	1395	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+Prad.g_01404	gene	1230				
+Prad.g_01404	CDS	1230				hypothetical protein
+Prad.g_01405	gene	1365	garB			
+Prad.g_01405	CDS	1365	garB	1.8.1.16		Glutathione amide reductase
+Prad.g_01406	gene	1080				
+Prad.g_01406	CDS	1080				hypothetical protein
+Prad.g_01407	gene	1050	pyrC			
+Prad.g_01407	CDS	1050	pyrC	3.5.2.3	COG0418	Dihydroorotase
+Prad.g_01408	gene	88				
+Prad.g_01408	tRNA	88				tRNA-Leu(taa)
+Prad.g_01409	gene	234	ndhL			
+Prad.g_01409	CDS	234	ndhL	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit L
+Prad.g_01410	gene	321				
+Prad.g_01410	CDS	321				hypothetical protein
+Prad.g_01411	gene	840	trpA			
+Prad.g_01411	CDS	840	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Prad.g_01412	gene	357				
+Prad.g_01412	CDS	357				hypothetical protein
+Prad.g_01413	gene	270				
+Prad.g_01413	CDS	270				hypothetical protein
+Prad.g_01414	gene	321				
+Prad.g_01414	CDS	321				hypothetical protein
+Prad.g_01415	gene	372				
+Prad.g_01415	CDS	372				hypothetical protein
+Prad.g_01416	gene	924	sigA2_2			
+Prad.g_01416	CDS	924	sigA2_2		COG0568	RNA polymerase sigma factor SigA2
+Prad.g_01417	gene	660	hisI			
+Prad.g_01417	CDS	660	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+Prad.g_01418	gene	471				
+Prad.g_01418	CDS	471				hypothetical protein
+Prad.g_01419	gene	2583	clpB1_1			
+Prad.g_01419	CDS	2583	clpB1_1		COG0542	Chaperone protein ClpB 1
+Prad.g_01420	gene	351	petE			
+Prad.g_01420	CDS	351	petE		COG3794	Plastocyanin
+Prad.g_01421	gene	984				
+Prad.g_01421	CDS	984				hypothetical protein
+Prad.g_01422	gene	1041	hemE			
+Prad.g_01422	CDS	1041	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+Prad.g_01423	gene	2265	glgB			
+Prad.g_01423	CDS	2265	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+Prad.g_01424	gene	1581	cocE			
+Prad.g_01424	CDS	1581	cocE	3.1.1.84		Cocaine esterase
+Prad.g_01425	gene	267				
+Prad.g_01425	CDS	267				hypothetical protein
+Prad.g_01426	gene	408				
+Prad.g_01426	CDS	408				hypothetical protein
+Prad.g_01427	gene	444				
+Prad.g_01427	CDS	444				hypothetical protein
+Prad.g_01428	gene	3960				
+Prad.g_01428	CDS	3960				hypothetical protein
+Prad.g_01429	gene	1311	proA			
+Prad.g_01429	CDS	1311	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+Prad.g_01430	gene	363				
+Prad.g_01430	CDS	363				hypothetical protein
+Prad.g_01431	gene	570				
+Prad.g_01431	CDS	570				hypothetical protein
+Prad.g_01432	gene	2088	prlC			
+Prad.g_01432	CDS	2088	prlC	3.4.24.70	COG0339	Oligopeptidase A
+Prad.g_01433	gene	594	ndhD1_1			
+Prad.g_01433	CDS	594	ndhD1_1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+Prad.g_01434	gene	171				
+Prad.g_01434	CDS	171				hypothetical protein
+Prad.g_01435	gene	108				
+Prad.g_01435	CDS	108				hypothetical protein
+Prad.g_01436	gene	73				
+Prad.g_01436	tRNA	73				tRNA-Lys(ttt)
+Prad.g_01437	gene	117	psbY			
+Prad.g_01437	CDS	117	psbY			Photosystem II protein Y
+Prad.g_01438	gene	1413	trmFO			
+Prad.g_01438	CDS	1413	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+Prad.g_01439	gene	1545	crtNb			
+Prad.g_01439	CDS	1545	crtNb	1.14.99.44		4,4'-diapolycopene oxygenase
+Prad.g_01440	gene	507				
+Prad.g_01440	CDS	507				hypothetical protein
+Prad.g_01441	gene	738	phoB			
+Prad.g_01441	CDS	738	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+Prad.g_01442	gene	270				
+Prad.g_01442	CDS	270				hypothetical protein
+Prad.g_01443	gene	324	grxD			
+Prad.g_01443	CDS	324	grxD		COG0278	Glutaredoxin 4
+Prad.g_01444	gene	231				
+Prad.g_01444	CDS	231			COG0271	putative protein RP812
+Prad.g_01445	gene	516				
+Prad.g_01445	CDS	516				hypothetical protein
+Prad.g_01446	gene	675				
+Prad.g_01446	CDS	675				hypothetical protein
+Prad.g_01447	gene	717	pdxJ			
+Prad.g_01447	CDS	717	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Prad.g_01448	gene	318				
+Prad.g_01448	CDS	318				Ycf54-like protein
+Prad.g_01449	gene	3183	recC			
+Prad.g_01449	CDS	3183	recC	3.1.11.5		RecBCD enzyme subunit RecC
+Prad.g_01450	gene	474				
+Prad.g_01450	CDS	474				hypothetical protein
+Prad.g_01451	gene	3627	recB			
+Prad.g_01451	CDS	3627	recB	3.1.11.5		RecBCD enzyme subunit RecB
+Prad.g_01452	gene	1704	recD			
+Prad.g_01452	CDS	1704	recD	3.1.11.5		RecBCD enzyme subunit RecD
+Prad.g_01453	gene	1782	deaD			
+Prad.g_01453	CDS	1782	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Prad.g_01454	gene	294				
+Prad.g_01454	CDS	294				hypothetical protein
+Prad.g_01455	gene	1773	msbA			
+Prad.g_01455	CDS	1773	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+Prad.g_01456	gene	558				
+Prad.g_01456	CDS	558				hypothetical protein
+Prad.g_01457	gene	600	recR			
+Prad.g_01457	CDS	600	recR		COG0353	Recombination protein RecR
+Prad.g_01458	gene	900	lipA2			
+Prad.g_01458	CDS	900	lipA2	2.8.1.8	COG0320	Lipoyl synthase 2
+Prad.g_01459	gene	501				
+Prad.g_01459	CDS	501				hypothetical protein
+Prad.g_01460	gene	933				
+Prad.g_01460	CDS	933				hypothetical protein
+Prad.g_01461	gene	1008	bioB			
+Prad.g_01461	CDS	1008	bioB	2.8.1.6	COG0502	Biotin synthase
+Prad.g_01462	gene	804	uppS			
+Prad.g_01462	CDS	804	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+Prad.g_01463	gene	909	dacA			
+Prad.g_01463	CDS	909	dacA	2.7.7.85		Diadenylate cyclase
+Prad.g_01464	gene	1374	lysA			
+Prad.g_01464	CDS	1374	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+Prad.g_01465	gene	441	rimI			
+Prad.g_01465	CDS	441	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+Prad.g_01466	gene	2529	clpC			
+Prad.g_01466	CDS	2529	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+Prad.g_01467	gene	1092	gldA			
+Prad.g_01467	CDS	1092	gldA	1.1.1.6	COG0371	Glycerol dehydrogenase
+Prad.g_01468	gene	900	menH_2			
+Prad.g_01468	CDS	900	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Prad.g_01469	gene	858				
+Prad.g_01469	CDS	858				hypothetical protein
+Prad.g_01470	gene	372				
+Prad.g_01470	CDS	372				hypothetical protein
+Prad.g_01471	gene	891	speA_1			
+Prad.g_01471	CDS	891	speA_1	4.1.1.19	COG1982	Arginine decarboxylase
+Prad.g_01472	gene	1659	ubiB_1			
+Prad.g_01472	CDS	1659	ubiB_1	2.7.-.-		protein kinase UbiB
+Prad.g_01473	gene	495				
+Prad.g_01473	CDS	495				hypothetical protein
+Prad.g_01474	gene	1515	malQ			
+Prad.g_01474	CDS	1515	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+Prad.g_01475	gene	996	prs			
+Prad.g_01475	CDS	996	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Prad.g_01476	gene	441				
+Prad.g_01476	CDS	441				hypothetical protein
+Prad.g_01477	gene	543				
+Prad.g_01477	CDS	543				hypothetical protein
+Prad.g_01478	gene	1119	sasA_2			
+Prad.g_01478	CDS	1119	sasA_2	2.7.13.3		Adaptive-response sensory-kinase SasA
+Prad.g_01479	gene	75				
+Prad.g_01479	tRNA	75				tRNA-Glu(ttc)
+Prad.g_01480	gene	540				
+Prad.g_01480	CDS	540				hypothetical protein
+Prad.g_01481	gene	1197	petH			
+Prad.g_01481	CDS	1197	petH	1.18.1.2		Ferredoxin--NADP reductase
+Prad.g_01482	gene	1524	zwf			
+Prad.g_01482	CDS	1524	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+Prad.g_01483	gene	1302				
+Prad.g_01483	CDS	1302				hypothetical protein
+Prad.g_01484	gene	1392	cbiA			
+Prad.g_01484	CDS	1392	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+Prad.g_01485	gene	480				
+Prad.g_01485	CDS	480				hypothetical protein
+Prad.g_01486	gene	903				
+Prad.g_01486	CDS	903		2.5.1.10		Farnesyl diphosphate synthase
+Prad.g_01487	gene	897	folD			
+Prad.g_01487	CDS	897	folD			Bifunctional protein FolD protein
+Prad.g_01488	gene	1473				
+Prad.g_01488	CDS	1473				hypothetical protein
+Prad.g_01489	gene	393				
+Prad.g_01489	CDS	393				hypothetical protein
+Prad.g_01490	gene	1641	leuA			
+Prad.g_01490	CDS	1641	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+Prad.g_01491	gene	1584				
+Prad.g_01491	CDS	1584		2.4.1.18	COG1543	1,4-alpha-glucan branching enzyme
+Prad.g_01492	gene	1212	crtL_2			
+Prad.g_01492	CDS	1212	crtL_2	5.5.1.19		Lycopene beta cyclase
+Prad.g_01493	gene	2616	gyrA_1			
+Prad.g_01493	CDS	2616	gyrA_1	5.6.2.2	COG0188	DNA gyrase subunit A
+Prad.g_01494	gene	1164				
+Prad.g_01494	CDS	1164		1.-.-.-	COG0516	putative oxidoreductase/MSMEI_1564
+Prad.g_01495	gene	324	trxA			
+Prad.g_01495	CDS	324	trxA			Thioredoxin
+Prad.g_01496	gene	618	hisH			
+Prad.g_01496	CDS	618	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+Prad.g_01497	gene	600	rsmD			
+Prad.g_01497	CDS	600	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Prad.g_01498	gene	120	petG			
+Prad.g_01498	CDS	120	petG			Cytochrome b6-f complex subunit 5
+Prad.g_01499	gene	384				
+Prad.g_01499	CDS	384				hypothetical protein
+Prad.g_01500	gene	747				
+Prad.g_01500	CDS	747		2.1.1.-	COG0565	putative tRNA/rRNA methyltransferase
+Prad.g_01501	gene	1089	bchI			
+Prad.g_01501	CDS	1089	bchI	6.6.1.1	COG1239	Magnesium-chelatase 38 kDa subunit
+Prad.g_01502	gene	474	ruvC			
+Prad.g_01502	CDS	474	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Prad.g_01503	gene	558				
+Prad.g_01503	CDS	558		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+Prad.g_01504	gene	420	sufE			
+Prad.g_01504	CDS	420	sufE		COG2166	Cysteine desulfuration protein SufE
+Prad.g_01505	gene	1302	hom			
+Prad.g_01505	CDS	1302	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+Prad.g_01506	gene	246				
+Prad.g_01506	CDS	246				hypothetical protein
+Prad.g_01507	gene	1572	gsiB			
+Prad.g_01507	CDS	1572	gsiB		COG0747	Glutathione-binding protein GsiB
+Prad.g_01508	gene	1023	dppB			
+Prad.g_01508	CDS	1023	dppB		COG0601	Dipeptide transport system permease protein DppB
+Prad.g_01509	gene	1551				
+Prad.g_01509	CDS	1551				hypothetical protein
+Prad.g_01510	gene	1230				
+Prad.g_01510	CDS	1230				hypothetical protein
+Prad.g_01511	gene	369				
+Prad.g_01511	CDS	369				hypothetical protein
+Prad.g_01512	gene	870	RBKS			
+Prad.g_01512	CDS	870	RBKS	2.7.1.15		Ribokinase
+Prad.g_01513	gene	192				
+Prad.g_01513	CDS	192				hypothetical protein
+Prad.g_01514	gene	354				
+Prad.g_01514	CDS	354				hypothetical protein
+Prad.g_01515	gene	519				
+Prad.g_01515	CDS	519				Pentapeptide repeat protein Rfr32
+Prad.g_01516	gene	522				
+Prad.g_01516	CDS	522				hypothetical protein
+Prad.g_01517	gene	858				
+Prad.g_01517	CDS	858				hypothetical protein
+Prad.g_01518	gene	942				
+Prad.g_01518	CDS	942				hypothetical protein
+Prad.g_01519	gene	1446				
+Prad.g_01519	CDS	1446			COG2308	putative protein
+Prad.g_01520	gene	237				
+Prad.g_01520	CDS	237				hypothetical protein
+Prad.g_01521	gene	234				
+Prad.g_01521	CDS	234				hypothetical protein
+Prad.g_01522	gene	276				
+Prad.g_01522	CDS	276				hypothetical protein
+Prad.g_01523	gene	156				
+Prad.g_01523	CDS	156				hypothetical protein
+Prad.g_01524	gene	1074				
+Prad.g_01524	CDS	1074				hypothetical protein
+Prad.g_01525	gene	1350				
+Prad.g_01525	CDS	1350				hypothetical protein
+Prad.g_01526	gene	1245				
+Prad.g_01526	CDS	1245				hypothetical protein
+Prad.g_01527	gene	630	nusB			
+Prad.g_01527	CDS	630	nusB			Transcription antitermination protein NusB
+Prad.g_01528	gene	735				
+Prad.g_01528	CDS	735				hypothetical protein
+Prad.g_01529	gene	960	queG			
+Prad.g_01529	CDS	960	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+Prad.g_01530	gene	864	lapB_2			
+Prad.g_01530	CDS	864	lapB_2			Lipopolysaccharide assembly protein B
+Prad.g_01531	gene	2442	gyrA_2			
+Prad.g_01531	CDS	2442	gyrA_2	5.6.2.2		DNA gyrase subunit A
+Prad.g_01532	gene	1461	purF			
+Prad.g_01532	CDS	1461	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Prad.g_01533	gene	2331	purL			
+Prad.g_01533	CDS	2331	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+Prad.g_01534	gene	708				
+Prad.g_01534	CDS	708				hypothetical protein
+Prad.g_01535	gene	1158	dnaN			
+Prad.g_01535	CDS	1158	dnaN		COG0592	Beta sliding clamp
+Prad.g_01536	gene	1104	thrC			
+Prad.g_01536	CDS	1104	thrC	4.2.3.1	COG0498	Threonine synthase
+Prad.g_01537	gene	573				
+Prad.g_01537	CDS	573				hypothetical protein
+Prad.g_01538	gene	1857	ubiB_2			
+Prad.g_01538	CDS	1857	ubiB_2	2.7.-.-		protein kinase UbiB
+Prad.g_01539	gene	1677	recN			
+Prad.g_01539	CDS	1677	recN		COG0497	DNA repair protein RecN
+Prad.g_01540	gene	2904	uvrA			
+Prad.g_01540	CDS	2904	uvrA		COG0178	UvrABC system protein A
+Prad.g_01541	gene	1410	susA			
+Prad.g_01541	CDS	1410	susA	2.4.1.13	COG0438	Sucrose synthase
+Prad.g_01542	gene	246				
+Prad.g_01542	CDS	246				hypothetical protein
+Prad.g_01543	gene	1077	mraY			
+Prad.g_01543	CDS	1077	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Prad.g_01544	gene	282				
+Prad.g_01544	CDS	282				hypothetical protein
+Prad.g_01545	gene	1215	argG			
+Prad.g_01545	CDS	1215	argG	6.3.4.5		Argininosuccinate synthase
+Prad.g_01546	gene	501				
+Prad.g_01546	CDS	501				hypothetical protein
+Prad.g_01547	gene	882	aroE			
+Prad.g_01547	CDS	882	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Prad.g_01548	gene	1938	dnaK2_2			
+Prad.g_01548	CDS	1938	dnaK2_2			Chaperone protein dnaK2
+Prad.g_01549	gene	1086	mnmC_2			
+Prad.g_01549	CDS	1086	mnmC_2	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+Prad.g_01550	gene	855	purU			
+Prad.g_01550	CDS	855	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+Prad.g_01551	gene	1359	clcA			
+Prad.g_01551	CDS	1359	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+Prad.g_01552	gene	2574	acnB			
+Prad.g_01552	CDS	2574	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+Prad.g_01553	gene	1068	aroG			
+Prad.g_01553	CDS	1068	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+Prad.g_01554	gene	642	vte5			
+Prad.g_01554	CDS	642	vte5	2.7.1.182		Phytol kinase
+Prad.g_01555	gene	1020	hrdA			
+Prad.g_01555	CDS	1020	hrdA		COG0568	RNA polymerase principal sigma factor HrdA
+Prad.g_01556	gene	2079	ppk			
+Prad.g_01556	CDS	2079	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+Prad.g_01557	gene	1284	tetA			
+Prad.g_01557	CDS	1284	tetA			Tetracycline resistance protein, class C
+Prad.g_01558	gene	816	sumT			
+Prad.g_01558	CDS	816	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+Prad.g_01559	gene	828				
+Prad.g_01559	CDS	828				hypothetical protein
+Prad.g_01560	gene	1320	pabB			
+Prad.g_01560	CDS	1320	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+Prad.g_01561	gene	675	queC			
+Prad.g_01561	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+Prad.g_01562	gene	672	queE			
+Prad.g_01562	CDS	672	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Prad.g_01563	gene	1611	pyrG			
+Prad.g_01563	CDS	1611	pyrG	6.3.4.2		CTP synthase
+Prad.g_01564	gene	1797	aspS			
+Prad.g_01564	CDS	1797	aspS	6.1.1.12		Aspartate--tRNA ligase
+Prad.g_01565	gene	1113	gcvT			
+Prad.g_01565	CDS	1113	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+Prad.g_01566	gene	882	speB			
+Prad.g_01566	CDS	882	speB	3.5.3.11	COG0010	Agmatinase
+Prad.g_01567	gene	852	speE			
+Prad.g_01567	CDS	852	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+Prad.g_01568	gene	846	mazG			
+Prad.g_01568	CDS	846	mazG	3.6.1.1	COG1694	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG
+Prad.g_01569	gene	72				
+Prad.g_01569	tRNA	72				tRNA-Val(tac)
+Prad.g_01570	gene	342				
+Prad.g_01570	CDS	342				hypothetical protein
+Prad.g_01571	gene	2757	valS			
+Prad.g_01571	CDS	2757	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Prad.g_01572	gene	597				
+Prad.g_01572	CDS	597				hypothetical protein
+Prad.g_01573	gene	153				
+Prad.g_01573	CDS	153				hypothetical protein
+Prad.g_01574	gene	1314	lig_2			
+Prad.g_01574	CDS	1314	lig_2	6.5.1.1		DNA ligase
+Prad.g_01575	gene	420				
+Prad.g_01575	CDS	420				hypothetical protein
+Prad.g_01576	gene	528				
+Prad.g_01576	CDS	528				hypothetical protein
+Prad.g_01577	gene	564				
+Prad.g_01577	CDS	564				hypothetical protein
+Prad.g_01578	gene	543				
+Prad.g_01578	CDS	543				hypothetical protein
+Prad.g_01579	gene	1968	mnmG			
+Prad.g_01579	CDS	1968	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Prad.g_01580	gene	1383	dnaB			
+Prad.g_01580	CDS	1383	dnaB	3.6.4.12		Replicative DNA helicase
+Prad.g_01581	gene	456	rplI			
+Prad.g_01581	CDS	456	rplI		COG0359	50S ribosomal protein L9
+Prad.g_01582	gene	939				
+Prad.g_01582	CDS	939				hypothetical protein
+Prad.g_01583	gene	699				
+Prad.g_01583	CDS	699				hypothetical protein
+Prad.g_01584	gene	1293				
+Prad.g_01584	CDS	1293				hypothetical protein
+Prad.g_01585	gene	390	gcvH			
+Prad.g_01585	CDS	390	gcvH		COG0509	Glycine cleavage system H protein
+Prad.g_01586	gene	2910	gcvP			
+Prad.g_01586	CDS	2910	gcvP	1.4.4.2		Glycine dehydrogenase (decarboxylating)
+Prad.g_01587	gene	249				
+Prad.g_01587	CDS	249				hypothetical protein
+Prad.g_01588	gene	1140	mgtA			
+Prad.g_01588	CDS	1140	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+Prad.g_01589	gene	1194	galE_2			
+Prad.g_01589	CDS	1194	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Prad.g_01590	gene	795	thiG			
+Prad.g_01590	CDS	795	thiG	2.8.1.10	COG2022	Thiazole synthase
+Prad.g_01591	gene	558				
+Prad.g_01591	CDS	558				hypothetical protein
+Prad.g_01592	gene	348	rplT			
+Prad.g_01592	CDS	348	rplT		COG0292	50S ribosomal protein L20
+Prad.g_01593	gene	198	rpmI			
+Prad.g_01593	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Prad.g_01594	gene	1539				
+Prad.g_01594	CDS	1539				hypothetical protein
+Prad.g_01595	gene	1302				
+Prad.g_01595	CDS	1302		2.4.1.336	COG1215	Beta-monoglucosyldiacylglycerol synthase
+Prad.g_01596	gene	1764	ruvB_1			
+Prad.g_01596	CDS	1764	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Prad.g_01597	gene	1368	clpX			
+Prad.g_01597	CDS	1368	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Prad.g_01598	gene	645	clpP_4			
+Prad.g_01598	CDS	645	clpP_4	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Prad.g_01599	gene	1422	tig			
+Prad.g_01599	CDS	1422	tig	5.2.1.8		Trigger factor
+Prad.g_01600	gene	1032	asd			
+Prad.g_01600	CDS	1032	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Prad.g_01601	gene	909	dapA			
+Prad.g_01601	CDS	909	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Prad.g_01602	gene	1974	rnj1			
+Prad.g_01602	CDS	1974	rnj1	3.1.-.-		Ribonuclease J 1
+Prad.g_01603	gene	1011	tilS			
+Prad.g_01603	CDS	1011	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+Prad.g_01604	gene	777				
+Prad.g_01604	CDS	777				hypothetical protein
+Prad.g_01605	gene	2040	uvrB			
+Prad.g_01605	CDS	2040	uvrB			UvrABC system protein B
+Prad.g_01606	gene	1761				
+Prad.g_01606	CDS	1761				hypothetical protein
+Prad.g_01607	gene	1002				
+Prad.g_01607	CDS	1002				hypothetical protein
+Prad.g_01608	gene	624	cobH			
+Prad.g_01608	CDS	624	cobH	5.4.99.61		Precorrin-8X methylmutase
+Prad.g_01609	gene	2742	mutS			
+Prad.g_01609	CDS	2742	mutS		COG0249	DNA mismatch repair protein MutS
+Prad.g_01610	gene	198	psbZ			
+Prad.g_01610	CDS	198	psbZ			Photosystem II reaction center protein Z
+Prad.g_01611	gene	477	ribH			
+Prad.g_01611	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Prad.g_01612	gene	72				
+Prad.g_01612	tRNA	72				tRNA-Gly(gcc)
+Prad.g_01613	gene	432				
+Prad.g_01613	CDS	432				hypothetical protein
+Prad.g_01614	gene	456				
+Prad.g_01614	CDS	456				hypothetical protein
+Prad.g_01615	gene	2838	secA			
+Prad.g_01615	CDS	2838	secA		COG0653	Protein translocase subunit SecA
+Prad.g_01616	gene	735	cysE			
+Prad.g_01616	CDS	735	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+Prad.g_01617	gene	987				
+Prad.g_01617	CDS	987				hypothetical protein
+Prad.g_01618	gene	573	infC			
+Prad.g_01618	CDS	573	infC		COG0290	Translation initiation factor IF-3
+Prad.g_01619	gene	900	miaA			
+Prad.g_01619	CDS	900	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Prad.g_01620	gene	1968	gyrB			
+Prad.g_01620	CDS	1968	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Prad.g_01621	gene	330				
+Prad.g_01621	CDS	330				hypothetical protein
+Prad.g_01622	gene	330	crcB			
+Prad.g_01622	CDS	330	crcB			Putative fluoride ion transporter CrcB
+Prad.g_01623	gene	1401				
+Prad.g_01623	CDS	1401			COG2239	Magnesium transporter MgtE
+Prad.g_01624	gene	1035	sigA2_3			
+Prad.g_01624	CDS	1035	sigA2_3		COG0568	RNA polymerase sigma factor SigA2
+Prad.g_01625	gene	915	menH_3			
+Prad.g_01625	CDS	915	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Prad.g_01626	gene	999	scrK			
+Prad.g_01626	CDS	999	scrK	2.7.1.4	COG0524	Fructokinase
+Prad.g_01627	gene	438				
+Prad.g_01627	CDS	438				hypothetical protein
+Prad.g_01628	gene	1419	ahcY			
+Prad.g_01628	CDS	1419	ahcY	3.3.1.1		Adenosylhomocysteinase
+Prad.g_01629	gene	660	dedA			
+Prad.g_01629	CDS	660	dedA		COG0586	Protein DedA
+Prad.g_01630	gene	372	ssb			
+Prad.g_01630	CDS	372	ssb		COG0629	Single-stranded DNA-binding protein
+Prad.g_01631	gene	1053	mreB			
+Prad.g_01631	CDS	1053	mreB			Cell shape-determining protein MreB
+Prad.g_01632	gene	750				
+Prad.g_01632	CDS	750				hypothetical protein
+Prad.g_01633	gene	540				
+Prad.g_01633	CDS	540				hypothetical protein
+Prad.g_01634	gene	747	mprA			
+Prad.g_01634	CDS	747	mprA			Response regulator MprA
+Prad.g_01635	gene	1512	lysS			
+Prad.g_01635	CDS	1512	lysS	6.1.1.6		Lysine--tRNA ligase
+Prad.g_01636	gene	249				
+Prad.g_01636	CDS	249				hypothetical protein
+Prad.g_01637	gene	495	smpB			
+Prad.g_01637	CDS	495	smpB		COG0691	SsrA-binding protein
+Prad.g_01638	gene	1059	ruvB_2			
+Prad.g_01638	CDS	1059	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Prad.g_01639	gene	801	cpoB			
+Prad.g_01639	CDS	801	cpoB			Cell division coordinator CpoB
+Prad.g_01640	gene	1185	scmP			
+Prad.g_01640	CDS	1185	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+Prad.g_01641	gene	213				
+Prad.g_01641	CDS	213				hypothetical protein
+Prad.g_01642	gene	1305				
+Prad.g_01642	CDS	1305				hypothetical protein
+Prad.g_01643	gene	1257				
+Prad.g_01643	CDS	1257				hypothetical protein
+Prad.g_01644	gene	657	minC			
+Prad.g_01644	CDS	657	minC			septum site-determining protein MinC
+Prad.g_01645	gene	816	minD			
+Prad.g_01645	CDS	816	minD		COG2894	Septum site-determining protein MinD
+Prad.g_01646	gene	333	minE			
+Prad.g_01646	CDS	333	minE			Cell division topological specificity factor
+Prad.g_01647	gene	74				
+Prad.g_01647	tRNA	74				tRNA-Thr(tgt)
+Prad.g_01648	gene	168				
+Prad.g_01648	CDS	168				hypothetical protein
+Prad.g_01649	gene	582	tsaC			
+Prad.g_01649	CDS	582	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+Prad.g_01650	gene	870	prmC_2			
+Prad.g_01650	CDS	870	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+Prad.g_01651	gene	153	psbM			
+Prad.g_01651	CDS	153	psbM			Photosystem II reaction center protein M
+Prad.g_01652	gene	363				
+Prad.g_01652	CDS	363				hypothetical protein
+Prad.g_01653	gene	1524	psbB			
+Prad.g_01653	CDS	1524	psbB			Photosystem II CP47 reaction center protein
+Prad.g_01654	gene	99	psbT			
+Prad.g_01654	CDS	99	psbT			Photosystem II reaction center protein T
+Prad.g_01655	gene	480	nrdR			
+Prad.g_01655	CDS	480	nrdR		COG1327	Transcriptional repressor NrdR
+Prad.g_01656	gene	1092	rpsA			
+Prad.g_01656	CDS	1092	rpsA		COG0539	30S ribosomal protein S1
+Prad.g_01657	gene	1242	metK			
+Prad.g_01657	CDS	1242	metK	2.5.1.6		S-adenosylmethionine synthase
+Prad.g_01658	gene	1230	PSK			
+Prad.g_01658	CDS	1230	PSK	2.7.1.47	COG1070	D-ribulose kinase
+Prad.g_01659	gene	75				
+Prad.g_01659	tRNA	75				tRNA-Phe(gaa)
+Prad.g_01660	gene	420				
+Prad.g_01660	CDS	420				hypothetical protein
+Prad.g_01661	gene	636				
+Prad.g_01661	CDS	636				hypothetical protein
+Prad.g_01662	gene	180				
+Prad.g_01662	CDS	180				hypothetical protein
+Prad.g_01663	gene	552	cpeS			
+Prad.g_01663	CDS	552	cpeS	4.-.-.-		Phycoerythrobilin lyase CpeS
+Prad.g_01664	gene	513	cpeB			
+Prad.g_01664	CDS	513	cpeB			R-phycoerythrin subunit beta
+Prad.g_01665	gene	270				
+Prad.g_01665	CDS	270				hypothetical protein
+Prad.g_01666	gene	2409	pcrA			
+Prad.g_01666	CDS	2409	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+Prad.g_01667	gene	1248	pcnB			
+Prad.g_01667	CDS	1248	pcnB	2.7.7.19		Poly(A) polymerase I
+Prad.g_01668	gene	2172	selD			
+Prad.g_01668	CDS	2172	selD	2.7.9.3		Selenide, water dikinase
+Prad.g_01669	gene	894	mtnP			
+Prad.g_01669	CDS	894	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+Prad.g_01670	gene	198	psbJ			
+Prad.g_01670	CDS	198	psbJ			Photosystem II reaction center protein J
+Prad.g_01671	gene	147	psbF_2			
+Prad.g_01671	CDS	147	psbF_2			Cytochrome b559 subunit beta
+Prad.g_01672	gene	249	psbE			
+Prad.g_01672	CDS	249	psbE			Cytochrome b559 subunit alpha
+Prad.g_01673	gene	1017				
+Prad.g_01673	CDS	1017			COG4447	Ycf48-like protein
+Prad.g_01674	gene	429				
+Prad.g_01674	CDS	429				hypothetical protein
+Prad.g_01675	gene	363	ndhC			
+Prad.g_01675	CDS	363	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+Prad.g_01676	gene	735	ndhK1			
+Prad.g_01676	CDS	735	ndhK1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K 1
+Prad.g_01677	gene	531	ndhJ			
+Prad.g_01677	CDS	531	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J
+Prad.g_01678	gene	1386				
+Prad.g_01678	CDS	1386				Gluconeogenesis factor
+Prad.g_01679	gene	786	mlaF			
+Prad.g_01679	CDS	786	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+Prad.g_01680	gene	846				
+Prad.g_01680	CDS	846				hypothetical protein
+Prad.g_01681	gene	2178				
+Prad.g_01681	CDS	2178				hypothetical protein
+Prad.g_01682	gene	564	folK			
+Prad.g_01682	CDS	564	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Prad.g_01683	gene	564	nudF			
+Prad.g_01683	CDS	564	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+Prad.g_01684	gene	1437	phr			
+Prad.g_01684	CDS	1437	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+Prad.g_01685	gene	1206	fdtB			
+Prad.g_01685	CDS	1206	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+Prad.g_01686	gene	594				
+Prad.g_01686	CDS	594				hypothetical protein
+Prad.g_01687	gene	783	fabI			
+Prad.g_01687	CDS	783	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Prad.g_01688	gene	606	hisB			
+Prad.g_01688	CDS	606	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+Prad.g_01689	gene	1524				
+Prad.g_01689	CDS	1524		1.13.11.75		Apocarotenoid-15,15'-oxygenase
+Prad.g_01690	gene	576				
+Prad.g_01690	CDS	576		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Prad.g_01691	gene	1455	glmM_1			
+Prad.g_01691	CDS	1455	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Prad.g_01692	gene	1419				
+Prad.g_01692	CDS	1419				hypothetical protein
+Prad.g_01693	gene	837	ygfZ			
+Prad.g_01693	CDS	837	ygfZ			tRNA-modifying protein YgfZ
+Prad.g_01694	gene	561	pyrE			
+Prad.g_01694	CDS	561	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+Prad.g_01695	gene	75				
+Prad.g_01695	tRNA	75				tRNA-Met(cat)
+Prad.g_01696	gene	1269				
+Prad.g_01696	CDS	1269				hypothetical protein
+Prad.g_01697	gene	1005	iolG_2			
+Prad.g_01697	CDS	1005	iolG_2	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+Prad.g_01698	gene	141	psbK			
+Prad.g_01698	CDS	141	psbK			Photosystem II reaction center protein K
+Prad.g_01699	gene	1119	tgt			
+Prad.g_01699	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+Prad.g_01700	gene	741	cobS			
+Prad.g_01700	CDS	741	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+Prad.g_01701	gene	1137	sasA_3			
+Prad.g_01701	CDS	1137	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+Prad.g_01702	gene	369				
+Prad.g_01702	CDS	369				hypothetical protein
+Prad.g_01703	gene	618				
+Prad.g_01703	CDS	618				hypothetical protein
+Prad.g_01704	gene	1554	purH			
+Prad.g_01704	CDS	1554	purH			Bifunctional purine biosynthesis protein PurH
+Prad.g_01705	gene	561				
+Prad.g_01705	CDS	561				hypothetical protein
+Prad.g_01706	gene	1254	ispH			
+Prad.g_01706	CDS	1254	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Prad.g_01707	gene	1461	amtB			
+Prad.g_01707	CDS	1461	amtB			Ammonia channel
+Prad.g_01708	gene	741	sfsA			
+Prad.g_01708	CDS	741	sfsA		COG1489	Sugar fermentation stimulation protein A
+Prad.g_01709	gene	1584	murJ			
+Prad.g_01709	CDS	1584	murJ		COG0728	Lipid II flippase MurJ
+Prad.g_01710	gene	291				
+Prad.g_01710	CDS	291				hypothetical protein
+Prad.g_01711	gene	252				
+Prad.g_01711	CDS	252				hypothetical protein
+Prad.g_01712	gene	76				
+Prad.g_01712	tRNA	76				tRNA-Arg(acg)
+Prad.g_01713	gene	1275	glyA			
+Prad.g_01713	CDS	1275	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Prad.g_01714	gene	1296	cinA			
+Prad.g_01714	CDS	1296	cinA		COG1058	Putative competence-damage inducible protein
+Prad.g_01715	gene	1407	leuC			
+Prad.g_01715	CDS	1407	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+Prad.g_01716	gene	624	leuD1			
+Prad.g_01716	CDS	624	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+Prad.g_01717	gene	1956	lptD_2			
+Prad.g_01717	CDS	1956	lptD_2			LPS-assembly protein LptD
+Prad.g_01718	gene	129	psbI			
+Prad.g_01718	CDS	129	psbI			Photosystem II reaction center protein I
+Prad.g_01719	gene	153	psbN			
+Prad.g_01719	CDS	153	psbN			Protein PsbN
+Prad.g_01720	gene	201	psbH			
+Prad.g_01720	CDS	201	psbH			Photosystem II reaction center protein H
+Prad.g_01721	gene	603	pth			
+Prad.g_01721	CDS	603	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+Prad.g_01722	gene	258				
+Prad.g_01722	CDS	258				hypothetical protein
+Prad.g_01723	gene	447				
+Prad.g_01723	CDS	447				hypothetical protein
+Prad.g_01724	gene	960				
+Prad.g_01724	CDS	960				hypothetical protein
+Prad.g_01725	gene	735	ntcA			
+Prad.g_01725	CDS	735	ntcA			Global nitrogen regulator
+Prad.g_01726	gene	582				
+Prad.g_01726	CDS	582				hypothetical protein
+Prad.g_01727	gene	594	dcd			
+Prad.g_01727	CDS	594	dcd	3.5.4.13	COG0717	dCTP deaminase
+Prad.g_01728	gene	633	thyX			
+Prad.g_01728	CDS	633	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+Prad.g_01729	gene	546	dsbD_2			
+Prad.g_01729	CDS	546	dsbD_2	1.8.1.8		Thiol:disulfide interchange protein DsbD
+Prad.g_01730	gene	1353	glmM_2			
+Prad.g_01730	CDS	1353	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Prad.g_01731	gene	630	trmB			
+Prad.g_01731	CDS	630	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+Prad.g_01732	gene	624				
+Prad.g_01732	CDS	624				hypothetical protein
+Prad.g_01733	gene	336				
+Prad.g_01733	CDS	336				hypothetical protein
+Prad.g_01734	gene	2907	ileS			
+Prad.g_01734	CDS	2907	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Prad.g_01735	gene	450				
+Prad.g_01735	CDS	450				hypothetical protein
+Prad.g_01736	gene	83				
+Prad.g_01736	tRNA	83				tRNA-Leu(tag)
+Prad.g_01737	gene	726				
+Prad.g_01737	CDS	726				hypothetical protein
+Prad.g_01738	gene	294	gatC			
+Prad.g_01738	CDS	294	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+Prad.g_01739	gene	534				
+Prad.g_01739	CDS	534		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+Prad.g_01740	gene	1017	pyrB			
+Prad.g_01740	CDS	1017	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+Prad.g_01741	gene	342				
+Prad.g_01741	CDS	342				hypothetical protein
+Prad.g_01742	gene	201				
+Prad.g_01742	CDS	201				hypothetical protein
+Prad.g_01743	gene	222				
+Prad.g_01743	CDS	222				hypothetical protein
+Prad.g_01744	gene	1257	coaBC			
+Prad.g_01744	CDS	1257	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+Prad.g_01745	gene	795	psbO			
+Prad.g_01745	CDS	795	psbO			Photosystem II manganese-stabilizing polypeptide
+Prad.g_01746	gene	1176	sat/cysC			
+Prad.g_01746	CDS	1176	sat/cysC		COG0529	putative bifunctional SAT/APS kinase
+Prad.g_01747	gene	1854	ftsH3			
+Prad.g_01747	CDS	1854	ftsH3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 3
+Prad.g_01748	gene	627				
+Prad.g_01748	CDS	627				hypothetical protein
+Prad.g_01749	gene	1098	aroC			
+Prad.g_01749	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+Prad.g_01750	gene	1083	psbA			
+Prad.g_01750	CDS	1083	psbA	1.10.3.9		Photosystem II protein D1
+Prad.g_01751	gene	906				
+Prad.g_01751	CDS	906		3.5.1.15		aspartoacylase
+Prad.g_01752	gene	954	pcpF			
+Prad.g_01752	CDS	954	pcpF	1.8.5.7	COG0435	Glutathionyl-hydroquinone reductase PcpF
+Prad.g_01753	gene	219				
+Prad.g_01753	CDS	219				hypothetical protein
+Prad.g_01754	gene	183				
+Prad.g_01754	CDS	183				hypothetical protein
+Prad.g_01755	gene	984	obg			
+Prad.g_01755	CDS	984	obg	3.6.5.-		GTPase Obg
+Prad.g_01756	gene	2412	mutS2			
+Prad.g_01756	CDS	2412	mutS2	3.1.-.-		Endonuclease MutS2
+Prad.g_01757	gene	387				
+Prad.g_01757	CDS	387				hypothetical protein
+Prad.g_01758	gene	1002	hemB			
+Prad.g_01758	CDS	1002	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+Prad.g_01759	gene	1653	bicA_2			
+Prad.g_01759	CDS	1653	bicA_2		COG0659	Bicarbonate transporter BicA
+Prad.g_01760	gene	999				
+Prad.g_01760	CDS	999				hypothetical protein
+Prad.g_01761	gene	282				
+Prad.g_01761	CDS	282				hypothetical protein
+Prad.g_01762	gene	957	trxB			
+Prad.g_01762	CDS	957	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Prad.g_01763	gene	309				
+Prad.g_01763	CDS	309				hypothetical protein
+Prad.g_01764	gene	1668	ubiB_3			
+Prad.g_01764	CDS	1668	ubiB_3	2.7.-.-		protein kinase UbiB
+Prad.g_01765	gene	1293	eno			
+Prad.g_01765	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+Prad.g_01766	gene	2757	clpB1_2			
+Prad.g_01766	CDS	2757	clpB1_2		COG0542	Chaperone protein ClpB 1
+Prad.g_01767	gene	243				
+Prad.g_01767	CDS	243				hypothetical protein
+Prad.g_01768	gene	612	nusG			
+Prad.g_01768	CDS	612	nusG			Transcription termination/antitermination protein NusG
+Prad.g_01769	gene	426	rplK			
+Prad.g_01769	CDS	426	rplK		COG0080	50S ribosomal protein L11
+Prad.g_01770	gene	708	rplA			
+Prad.g_01770	CDS	708	rplA		COG0081	50S ribosomal protein L1
+Prad.g_01771	gene	528	rplJ			
+Prad.g_01771	CDS	528	rplJ		COG0244	50S ribosomal protein L10
+Prad.g_01772	gene	396	rplL			
+Prad.g_01772	CDS	396	rplL			50S ribosomal protein L7/L12
+Prad.g_01773	gene	729	rnhA			
+Prad.g_01773	CDS	729	rnhA	3.1.26.4		Ribonuclease H
+Prad.g_01774	gene	1170	pyrD			
+Prad.g_01774	CDS	1170	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+Prad.g_01775	gene	1125	cobD			
+Prad.g_01775	CDS	1125	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+Prad.g_01776	gene	1092	murG			
+Prad.g_01776	CDS	1092	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Prad.g_01777	gene	726				
+Prad.g_01777	CDS	726				hypothetical protein
+Prad.g_01778	gene	1209	pgk			
+Prad.g_01778	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Prad.g_01779	gene	873	rbgA			
+Prad.g_01779	CDS	873	rbgA		COG1161	Ribosome biogenesis GTPase A
+Prad.g_01780	gene	960	rluD			
+Prad.g_01780	CDS	960	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Prad.g_01781	gene	1599	yejF			
+Prad.g_01781	CDS	1599	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+Prad.g_01782	gene	2310	relA			
+Prad.g_01782	CDS	2310	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Prad.g_01783	gene	444				
+Prad.g_01783	CDS	444				hypothetical protein
+Prad.g_01784	gene	1383	mnmE			
+Prad.g_01784	CDS	1383	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Prad.g_01785	gene	867	nadC			
+Prad.g_01785	CDS	867	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Prad.g_01786	gene	1815	argS			
+Prad.g_01786	CDS	1815	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Prad.g_01787	gene	1110	hisC			
+Prad.g_01787	CDS	1110	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+Prad.g_01788	gene	726				
+Prad.g_01788	CDS	726				hypothetical protein
+Prad.g_01789	gene	597	trpG			
+Prad.g_01789	CDS	597	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+Prad.g_01790	gene	411	dgkA			
+Prad.g_01790	CDS	411	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+Prad.g_01791	gene	540	ybeY			
+Prad.g_01791	CDS	540	ybeY	3.1.-.-		Endoribonuclease YbeY
+Prad.g_01792	gene	183				
+Prad.g_01792	CDS	183				hypothetical protein
+Prad.g_01793	gene	1065	prfB			
+Prad.g_01793	CDS	1065	prfB			Peptide chain release factor 2
+Prad.g_01794	gene	255				
+Prad.g_01794	CDS	255				putative glutaredoxin
+Prad.g_01795	gene	924	gshB			
+Prad.g_01795	CDS	924	gshB	6.3.2.3	COG0189	Glutathione synthetase
+Prad.g_01796	gene	1422	menF			
+Prad.g_01796	CDS	1422	menF	5.4.4.2		Isochorismate synthase MenF
+Prad.g_01797	gene	918	menA_2			
+Prad.g_01797	CDS	918	menA_2	2.5.1.130		2-carboxy-1,4-naphthoquinone phytyltransferase
+Prad.g_01798	gene	966	menC			
+Prad.g_01798	CDS	966	menC	4.2.1.113		o-succinylbenzoate synthase
+Prad.g_01799	gene	1215	menE			
+Prad.g_01799	CDS	1215	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+Prad.g_01800	gene	453				
+Prad.g_01800	CDS	453		3.1.2.28	COG0824	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+Prad.g_01801	gene	1188	ndhH			
+Prad.g_01801	CDS	1188	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+Prad.g_01802	gene	903	rsmH			
+Prad.g_01802	CDS	903	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Prad.g_01803	gene	1146	iscS_2			
+Prad.g_01803	CDS	1146	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Prad.g_01804	gene	729	srrA			
+Prad.g_01804	CDS	729	srrA		COG0745	Transcriptional regulatory protein SrrA
+Prad.g_01805	gene	702	chlM			
+Prad.g_01805	CDS	702	chlM	2.1.1.11		Magnesium-protoporphyrin O-methyltransferase
+Prad.g_01806	gene	537	purE			
+Prad.g_01806	CDS	537	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+Prad.g_01807	gene	636	cysC			
+Prad.g_01807	CDS	636	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+Prad.g_01808	gene	312				
+Prad.g_01808	CDS	312				hypothetical protein
+Prad.g_01809	gene	1245	trpB			
+Prad.g_01809	CDS	1245	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Prad.g_01810	gene	351				
+Prad.g_01810	CDS	351				hypothetical protein
+Prad.g_01811	gene	1461				
+Prad.g_01811	CDS	1461				hypothetical protein
+Prad.g_01812	gene	1146	gltA			
+Prad.g_01812	CDS	1146	gltA	2.3.3.16	COG0372	Citrate synthase
+Prad.g_01813	gene	1119	ndhA			
+Prad.g_01813	CDS	1119	ndhA	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+Prad.g_01814	gene	627	ndhI			
+Prad.g_01814	CDS	627	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I
+Prad.g_01815	gene	600				
+Prad.g_01815	CDS	600				hypothetical protein
+Prad.g_01816	gene	321	nuoK			
+Prad.g_01816	CDS	321	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+Prad.g_01817	gene	912	nadK_2			
+Prad.g_01817	CDS	912	nadK_2	2.7.1.23		NAD kinase
+Prad.g_01818	gene	468				
+Prad.g_01818	CDS	468		3.6.1.25	COG2954	Inorganic triphosphatase
+Prad.g_01819	gene	186				
+Prad.g_01819	CDS	186				hypothetical protein
+Prad.g_01820	gene	279				
+Prad.g_01820	CDS	279				hypothetical protein
+Prad.g_01821	gene	831	yitJ			
+Prad.g_01821	CDS	831	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+Prad.g_01822	gene	1179	cugP			
+Prad.g_01822	CDS	1179	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Prad.g_01823	gene	819				
+Prad.g_01823	CDS	819				hypothetical protein
+Prad.g_01824	gene	1605	ndhD1_2			
+Prad.g_01824	CDS	1605	ndhD1_2	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+Prad.g_01825	gene	2022	nuoL			
+Prad.g_01825	CDS	2022	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+Prad.g_01826	gene	729				
+Prad.g_01826	CDS	729				hypothetical protein
+Prad.g_01827	gene	945	cmpR			
+Prad.g_01827	CDS	945	cmpR			HTH-type transcriptional activator CmpR
+Prad.g_01828	gene	627				
+Prad.g_01828	CDS	627				hypothetical protein
+Prad.g_01829	gene	348	ndhM			
+Prad.g_01829	CDS	348	ndhM	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit M
+Prad.g_01830	gene	1398	pds_1			
+Prad.g_01830	CDS	1398	pds_1	1.3.5.5	COG3349	15-cis-phytoene desaturase
+Prad.g_01831	gene	909	crtB			
+Prad.g_01831	CDS	909	crtB	2.5.1.32		15-cis-phytoene synthase
+Prad.g_01832	gene	420				
+Prad.g_01832	CDS	420				hypothetical protein
+Prad.g_01833	gene	1206				
+Prad.g_01833	CDS	1206		2.7.7.-		CC-adding tRNA nucleotidyltransferase
+Prad.g_01834	gene	252				
+Prad.g_01834	CDS	252				hypothetical protein
+Prad.g_01835	gene	654				
+Prad.g_01835	CDS	654				hypothetical protein
+Prad.g_01836	gene	621				
+Prad.g_01836	CDS	621				hypothetical protein
+Prad.g_01837	gene	897	fabD			
+Prad.g_01837	CDS	897	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+Prad.g_01838	gene	1008	fabH			
+Prad.g_01838	CDS	1008	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Prad.g_01839	gene	1419	plsX			
+Prad.g_01839	CDS	1419	plsX	2.3.1.274		Phosphate acyltransferase
+Prad.g_01840	gene	747	walR			
+Prad.g_01840	CDS	747	walR		COG0745	Transcriptional regulatory protein WalR
+Prad.g_01841	gene	1353	radA			
+Prad.g_01841	CDS	1353	radA	3.6.4.-	COG1066	DNA repair protein RadA
+Prad.g_01842	gene	522	ycf3			
+Prad.g_01842	CDS	522	ycf3			Photosystem I assembly protein Ycf3
+Prad.g_01843	gene	2295	copA			
+Prad.g_01843	CDS	2295	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+Prad.g_01844	gene	639	tmk			
+Prad.g_01844	CDS	639	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Prad.g_01845	gene	969				
+Prad.g_01845	CDS	969				hypothetical protein
+Prad.g_01846	gene	783	phoP			
+Prad.g_01846	CDS	783	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Prad.g_01847	gene	360				
+Prad.g_01847	CDS	360				hypothetical protein
+Prad.g_01848	gene	150				
+Prad.g_01848	CDS	150				hypothetical protein
+Prad.g_01849	gene	198				
+Prad.g_01849	CDS	198				hypothetical protein
+Prad.g_01850	gene	74				
+Prad.g_01850	tRNA	74				tRNA-Asn(gtt)
+Prad.g_01851	gene	675	ecfA1			
+Prad.g_01851	CDS	675	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+Prad.g_01852	gene	279				
+Prad.g_01852	CDS	279				hypothetical protein
+Prad.g_01853	gene	969	cysK1			
+Prad.g_01853	CDS	969	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+Prad.g_01854	gene	678	dnaJ_2			
+Prad.g_01854	CDS	678	dnaJ_2			Chaperone protein DnaJ
+Prad.g_01855	gene	237	ndhO			
+Prad.g_01855	CDS	237	ndhO	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit O
+Prad.g_01856	gene	927				
+Prad.g_01856	CDS	927			COG1090	Epimerase family protein
+Prad.g_01857	gene	270				
+Prad.g_01857	CDS	270				hypothetical protein
+Prad.g_01858	gene	1203				
+Prad.g_01858	CDS	1203				hypothetical protein
+Prad.g_01859	gene	429				
+Prad.g_01859	CDS	429				hypothetical protein
+Prad.g_01860	gene	393	iscA			
+Prad.g_01860	CDS	393	iscA		COG0316	Iron-binding protein IscA
+Prad.g_01861	gene	1455	pds_2			
+Prad.g_01861	CDS	1455	pds_2	1.3.5.5	COG3349	15-cis-phytoene desaturase
+Prad.g_01862	gene	471				
+Prad.g_01862	CDS	471				hypothetical protein
+Prad.g_01863	gene	798				
+Prad.g_01863	CDS	798				hypothetical protein
+Prad.g_01864	gene	393	rbfA			
+Prad.g_01864	CDS	393	rbfA			Ribosome-binding factor A
+Prad.g_01865	gene	210				
+Prad.g_01865	CDS	210				hypothetical protein
+Prad.g_01866	gene	726				
+Prad.g_01866	CDS	726				hypothetical protein
+Prad.g_01867	gene	708				
+Prad.g_01867	CDS	708				hypothetical protein
+Prad.g_01868	gene	258				
+Prad.g_01868	CDS	258				hypothetical protein
+Prad.g_01869	gene	558	aroK			
+Prad.g_01869	CDS	558	aroK	2.7.1.71		Shikimate kinase
+Prad.g_01870	gene	927				
+Prad.g_01870	CDS	927				hypothetical protein
+Prad.g_01871	gene	651				
+Prad.g_01871	CDS	651				hypothetical protein
+Prad.g_01872	gene	1155				
+Prad.g_01872	CDS	1155				hypothetical protein
+Prad.g_01873	gene	387				
+Prad.g_01873	CDS	387				hypothetical protein
+Prad.g_01874	gene	93				
+Prad.g_01874	CDS	93				hypothetical protein
+Prad.g_01875	gene	1365	rimO			
+Prad.g_01875	CDS	1365	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+Prad.g_01876	gene	936				
+Prad.g_01876	CDS	936		1.17.4.-	COG4243	Vitamin K epoxide reductase 
+Prad.g_01877	gene	1668	nadB			
+Prad.g_01877	CDS	1668	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Prad.g_01878	gene	768				
+Prad.g_01878	CDS	768				hypothetical protein
+Prad.g_01879	gene	1380				
+Prad.g_01879	CDS	1380				hypothetical protein
+Prad.g_01880	gene	1434				
+Prad.g_01880	CDS	1434				hypothetical protein
+Prad.g_01881	gene	801	cysQ_2			
+Prad.g_01881	CDS	801	cysQ_2	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+Prad.g_01882	gene	915				
+Prad.g_01882	CDS	915				hypothetical protein
+Prad.g_01883	gene	342				
+Prad.g_01883	CDS	342				hypothetical protein
+Prad.g_01884	gene	147				
+Prad.g_01884	CDS	147				hypothetical protein
+Prad.g_01885	gene	384				
+Prad.g_01885	CDS	384				hypothetical protein
+Prad.g_01886	gene	264				
+Prad.g_01886	CDS	264				hypothetical protein
+Prad.g_01887	gene	1122	hhoA_2			
+Prad.g_01887	CDS	1122	hhoA_2			Putative serine protease HhoA
+Prad.g_01888	gene	153				
+Prad.g_01888	CDS	153				hypothetical protein
+Prad.g_01889	gene	1629	yheS			
+Prad.g_01889	CDS	1629	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+Prad.g_01890	gene	177				
+Prad.g_01890	CDS	177				hypothetical protein
+Prad.g_01891	gene	231				
+Prad.g_01891	CDS	231				hypothetical protein
+Prad.g_01892	gene	372				
+Prad.g_01892	CDS	372				hypothetical protein
+Prad.g_01893	gene	303				
+Prad.g_01893	CDS	303				hypothetical protein
+Prad.g_01894	gene	705	ktrA			
+Prad.g_01894	CDS	705	ktrA		COG0569	Ktr system potassium uptake protein A
+Prad.g_01895	gene	1404	ktrB			
+Prad.g_01895	CDS	1404	ktrB		COG0168	Ktr system potassium uptake protein B
+Prad.g_01896	gene	1809				
+Prad.g_01896	CDS	1809				hypothetical protein
+Prad.g_01897	gene	1194	ndbB			
+Prad.g_01897	CDS	1194	ndbB	1.6.5.12		Demethylphylloquinone reductase NdbB
+Prad.g_01898	gene	723	cysH			
+Prad.g_01898	CDS	723	cysH	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase
+Prad.g_01899	gene	696	coaX			
+Prad.g_01899	CDS	696	coaX	2.7.1.33		Type III pantothenate kinase
+Prad.g_01900	gene	468	bcp_3			
+Prad.g_01900	CDS	468	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+Prad.g_01901	gene	594				
+Prad.g_01901	CDS	594				hypothetical protein
+Prad.g_01902	gene	1290	rarA			
+Prad.g_01902	CDS	1290	rarA		COG2256	Replication-associated recombination protein A
+Prad.g_01903	gene	1638	pgm			
+Prad.g_01903	CDS	1638	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+Prad.g_01904	gene	171				
+Prad.g_01904	CDS	171				hypothetical protein
+Prad.g_01905	gene	1083				
+Prad.g_01905	CDS	1083				hypothetical protein
+Prad.g_01906	gene	348				
+Prad.g_01906	CDS	348				hypothetical protein
+Prad.g_01907	gene	1443	sufB			
+Prad.g_01907	CDS	1443	sufB		COG0719	FeS cluster assembly protein SufB
+Prad.g_01908	gene	786	sufC			
+Prad.g_01908	CDS	786	sufC		COG0396	putative ATP-dependent transporter SufC
+Prad.g_01909	gene	1218				
+Prad.g_01909	CDS	1218				hypothetical protein
+Prad.g_01910	gene	1254	csd			
+Prad.g_01910	CDS	1254	csd	2.8.1.7		putative cysteine desulfurase
+Prad.g_01911	gene	1932				
+Prad.g_01911	CDS	1932				hypothetical protein
+Prad.g_01912	gene	606	def			
+Prad.g_01912	CDS	606	def	3.5.1.88	COG0242	Peptide deformylase
+Prad.g_01913	gene	342				
+Prad.g_01913	CDS	342		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Prad.g_01914	gene	279				
+Prad.g_01914	CDS	279				hypothetical protein
+Prad.g_01915	gene	1983				
+Prad.g_01915	CDS	1983				hypothetical protein
+Prad.g_01916	gene	276				
+Prad.g_01916	CDS	276				hypothetical protein
+Prad.g_01917	gene	930				
+Prad.g_01917	CDS	930				hypothetical protein
+Prad.g_01918	gene	186	psbX			
+Prad.g_01918	CDS	186	psbX			Photosystem II reaction center X protein
+Prad.g_01919	gene	315				
+Prad.g_01919	CDS	315				hypothetical protein
+Prad.g_01920	gene	1347	accC			
+Prad.g_01920	CDS	1347	accC	6.3.4.14	COG0439	Biotin carboxylase
+Prad.g_01921	gene	84				
+Prad.g_01921	tRNA	84				tRNA-Leu(aag)
+Prad.g_01922	gene	1287	lpxB_2			
+Prad.g_01922	CDS	1287	lpxB_2	2.4.1.182		Lipid-A-disaccharide synthase
+Prad.g_01923	gene	1056				
+Prad.g_01923	CDS	1056				hypothetical protein
+Prad.g_01924	gene	3591	smc			
+Prad.g_01924	CDS	3591	smc		COG1196	Chromosome partition protein Smc
+Prad.g_01925	gene	363				
+Prad.g_01925	CDS	363				hypothetical protein
+Prad.g_01926	gene	138				
+Prad.g_01926	CDS	138				hypothetical protein
+Prad.g_01927	gene	462				
+Prad.g_01927	CDS	462				hypothetical protein
+Prad.g_01928	gene	387				
+Prad.g_01928	CDS	387				hypothetical protein
+Prad.g_01929	gene	1125	rlmL			
+Prad.g_01929	CDS	1125	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+Prad.g_01930	gene	310	ssrA			
+Prad.g_01930	tmRNA	310	ssrA			transfer-messenger RNA, SsrA
+Prad.g_01931	gene	138				
+Prad.g_01931	CDS	138				hypothetical protein
+Prad.g_01932	gene	963	yhdN			
+Prad.g_01932	CDS	963	yhdN	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+Prad.g_01933	gene	672				
+Prad.g_01933	CDS	672				hypothetical protein
+Prad.g_01934	gene	1239	argJ			
+Prad.g_01934	CDS	1239	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+Prad.g_01935	gene	618	coaE			
+Prad.g_01935	CDS	618	coaE	2.7.1.24		Dephospho-CoA kinase
+Prad.g_01936	gene	1473	gatB			
+Prad.g_01936	CDS	1473	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Prad.g_01937	gene	1110	hcnC			
+Prad.g_01937	CDS	1110	hcnC	1.4.99.5	COG0665	Hydrogen cyanide synthase subunit HcnC
+Prad.g_01938	gene	459	ndk			
+Prad.g_01938	CDS	459	ndk	2.7.4.6		Nucleoside diphosphate kinase
+Prad.g_01939	gene	1947	speA_2			
+Prad.g_01939	CDS	1947	speA_2	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+Prad.g_01940	gene	2661	alaS			
+Prad.g_01940	CDS	2661	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Prad.g_01941	gene	1776	dfa1			
+Prad.g_01941	CDS	1776	dfa1	1.-.-.-		Diflavin flavoprotein A 1
+Prad.g_01942	gene	717				
+Prad.g_01942	CDS	717				hypothetical protein
+Prad.g_01943	gene	1803	dfa5			
+Prad.g_01943	CDS	1803	dfa5	1.-.-.-	COG0426	Putative diflavin flavoprotein A 5
+Prad.g_01944	gene	525				
+Prad.g_01944	CDS	525				hypothetical protein
+Prad.g_01945	gene	1791	mrdA			
+Prad.g_01945	CDS	1791	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Prad.g_01946	gene	144				
+Prad.g_01946	CDS	144				hypothetical protein
+Prad.g_01947	gene	609				
+Prad.g_01947	CDS	609				hypothetical protein
+Prad.g_01948	gene	714				
+Prad.g_01948	CDS	714				hypothetical protein
+Prad.g_01949	gene	1587	guaA			
+Prad.g_01949	CDS	1587	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Prad.g_01950	gene	1137	cbiD			
+Prad.g_01950	CDS	1137	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+Prad.g_01951	gene	1131				
+Prad.g_01951	CDS	1131		1.12.-.-		Soluble hydrogenase 42 kDa subunit
+Prad.g_01952	gene	198				
+Prad.g_01952	CDS	198				hypothetical protein
+Prad.g_01953	gene	513				
+Prad.g_01953	CDS	513				hypothetical protein
+Prad.g_01954	gene	453				
+Prad.g_01954	CDS	453				hypothetical protein
+Prad.g_01955	gene	402				
+Prad.g_01955	CDS	402				hypothetical protein
+Prad.g_01956	gene	228				
+Prad.g_01956	CDS	228				hypothetical protein
+Prad.g_01957	gene	879				
+Prad.g_01957	CDS	879				hypothetical protein
+Prad.g_01958	gene	1035	pdxA2			
+Prad.g_01958	CDS	1035	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+Prad.g_01959	gene	507	accB			
+Prad.g_01959	CDS	507	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Prad.g_01960	gene	597	efp			
+Prad.g_01960	CDS	597	efp		COG0231	Elongation factor P
+Prad.g_01961	gene	1092				
+Prad.g_01961	CDS	1092				hypothetical protein
+Prad.g_01962	gene	987	thiL			
+Prad.g_01962	CDS	987	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+Prad.g_01963	gene	1023	gap2			
+Prad.g_01963	CDS	1023	gap2	1.2.1.59	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 2
+Prad.g_01964	gene	1407	murC			
+Prad.g_01964	CDS	1407	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+Prad.g_01965	gene	894	murB			
+Prad.g_01965	CDS	894	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Prad.g_01966	gene	351	ybaB			
+Prad.g_01966	CDS	351	ybaB		COG0718	Nucleoid-associated protein YbaB
+Prad.g_01967	gene	918	rsgA			
+Prad.g_01967	CDS	918	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+Prad.g_01968	gene	231				
+Prad.g_01968	CDS	231				hypothetical protein
+Prad.g_01969	gene	1125	dnaJ_3			
+Prad.g_01969	CDS	1125	dnaJ_3		COG0484	Chaperone protein DnaJ
+Prad.g_01970	gene	735	grpE			
+Prad.g_01970	CDS	735	grpE			Protein GrpE
+Prad.g_01971	gene	495	msrB			
+Prad.g_01971	CDS	495	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+Prad.g_01972	gene	1005	dusA			
+Prad.g_01972	CDS	1005	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+Prad.g_01973	gene	750				
+Prad.g_01973	CDS	750				hypothetical protein
+Prad.g_01974	gene	1380	argH			
+Prad.g_01974	CDS	1380	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+Prad.g_01975	gene	1344				
+Prad.g_01975	CDS	1344				hypothetical protein
+Prad.g_01976	gene	1290	ftsY			
+Prad.g_01976	CDS	1290	ftsY			Signal recognition particle receptor FtsY
+Prad.g_01977	gene	1164				
+Prad.g_01977	CDS	1164				hypothetical protein
+Prad.g_01978	gene	2955	btuD_3			
+Prad.g_01978	CDS	2955	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Prad.g_01979	gene	792				
+Prad.g_01979	CDS	792				hypothetical protein
+Prad.g_01980	gene	219				
+Prad.g_01980	CDS	219				hypothetical protein
+Prad.g_01981	gene	315				
+Prad.g_01981	CDS	315				hypothetical protein
+Prad.g_01982	gene	144				
+Prad.g_01982	CDS	144				hypothetical protein
+Prad.g_01983	gene	117				
+Prad.g_01983	CDS	117				hypothetical protein
+Prad.g_01984	gene	102				
+Prad.g_01984	CDS	102				hypothetical protein
+Prad.g_01985	gene	216				
+Prad.g_01985	CDS	216				hypothetical protein
+Prad.g_01986	gene	162				
+Prad.g_01986	CDS	162				hypothetical protein
+Prad.g_01987	gene	771	mntB_3			
+Prad.g_01987	CDS	771	mntB_3		COG1121	Manganese transport system ATP-binding protein MntB
+Prad.g_01988	gene	435				
+Prad.g_01988	CDS	435				hypothetical protein
+Prad.g_01989	gene	786	mntB_4			
+Prad.g_01989	CDS	786	mntB_4			Manganese transport system membrane protein MntB
+Prad.g_01990	gene	147				
+Prad.g_01990	CDS	147				hypothetical protein
+Prad.g_01991	gene	249				
+Prad.g_01991	CDS	249				hypothetical protein
+Prad.g_01992	gene	135				
+Prad.g_01992	CDS	135				hypothetical protein
+Prad.g_01993	gene	384				
+Prad.g_01993	CDS	384				hypothetical protein
+Prad.g_01994	gene	171				
+Prad.g_01994	CDS	171				hypothetical protein
+Prad.g_01995	gene	1878				
+Prad.g_01995	CDS	1878				hypothetical protein
+Prad.g_01996	gene	150				
+Prad.g_01996	CDS	150				hypothetical protein

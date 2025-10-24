@@ -1,0 +1,1100 @@
+Orthogroup	Species Tree Node	Gene Tree Node	Support	Type	Genes 1	Genes 2
+OG0000000	N0	n0	0.95	Non-Terminal	Praf.g_01631, Prah.g_00562, Prbl.g_01582, Prbj.g_02517, Prbk.g_02574, Prbf.g_01182, Prbg.g_01222, Prbe.g_01285, Prap.g_00720, Prak.g_00908, Prbn.g_01483, Pram.g_00873, Prbh.g_01016, Pral.g_01549, Prat.g_00977, Prbc.g_01920, Praj.g_00832, Prbb.g_00844, Prbm.g_00874, Prak.g_00913, Prap.g_00715, Prbn.g_01478, Prbg.g_01227, Prbf.g_01177, Prbe.g_01290, Prbh.g_01022, Pram.g_00879, Pral.g_01554, Pray.g_01836, Prbd.g_01771, Prau.g_01402, Pras.g_00243, Prbi.g_01432, Praz.g_01146, Prba.g_00203, Prao.g_01246, Prae.g_01361, Praa.g_01359, Prax.g_01870, Prad.g_00601, Prai.g_01363, Prar.g_00918, Praq.g_00168, Prac.g_00210, Praw.g_01009, Prag.g_01382, Prav.g_01466	Prbl.g_01092, Prbk.g_01649, Prbj.g_00030, Praf.g_00948, Prah.g_01226, Praa.g_00678, Prbi.g_00681, Prae.g_00652, Prax.g_00964, Prau.g_00718, Pras.g_01554, Prar.g_01508, Praq.g_00807, Prac.g_00693, Prad.g_01252, Pray.g_01085, Prbd.g_00566, Prba.g_01639, Praz.g_01652, Prao.g_00116, Prab.g_00683, Pran.g_01500, Prai.g_00707, Prag.g_00656, Praw.g_01844, Prav.g_01276, Pral.g_01764, Prap.g_00823, Prbf.g_01285, Prak.g_00805, Prbn.g_01586, Prbe.g_00452, Prbg.g_01119, Prbh.g_00912, Pram.g_00768, Prat.g_00751, Prbm.g_00712, Prbc.g_01759, Prbb.g_00683, Praj.g_00670, Praj.g_01492, Prbb.g_01549, Prbc.g_01478, Prbm.g_01581, Prbh.g_00199, Pram.g_01278, Pral.g_01052, Prat.g_01462, Prbe.g_00208, Prbf.g_00260, Prbg.g_00694, Prak.g_01494, Prbn.g_00879, Prap.g_00224, Prbe.g_01579, Prbg.g_01516, Prbf.g_00888, Prbn.g_01159, Prak.g_01202, Prap.g_00486, Prbh.g_01313, Pram.g_01170, Prat.g_01184, Pral.g_01340, Prbb.g_01546, Prbm.g_01578, Prbc.g_01475, Praj.g_01489, Prbm.g_01577, Prbb.g_01545, Praj.g_01488, Prbc.g_01474, Pral.g_00430, Prat.g_01487, Pram.g_01471, Prbh.g_00006, Prbe.g_00379, Prak.g_01323, Prbn.g_01234, Prbg.g_00523, Prbf.g_00089, Prap.g_01946, Prbe.g_01577, Prbg.g_01514, Prbn.g_01161, Prap.g_00484, Prbf.g_00890, Prak.g_01200, Prbh.g_01311, Pram.g_01168, Pral.g_01342, Prat.g_01182, Prap.g_00491, Prbf.g_00883, Prak.g_01207, Prbn.g_01154, Prbg.g_01521, Prbe.g_01584, Pram.g_01174, Prbh.g_01317, Prat.g_01187, Pral.g_01337, Prbc.g_01479, Prbb.g_01550, Prbm.g_01582, Praj.g_01493, Prbb.g_01544, Prbm.g_01576, Prbc.g_01473, Praj.g_01487
+OG0000000	N6	n7	0.47368421052631576	Non-Terminal	Prbf.g_01182, Prbg.g_01222, Prbe.g_01285, Prap.g_00720, Prak.g_00908, Prbn.g_01483, Pram.g_00873, Prbh.g_01016, Pral.g_01549, Prat.g_00977, Prbc.g_01920, Praj.g_00832, Prbb.g_00844, Prbm.g_00874	Prak.g_00913, Prap.g_00715, Prbn.g_01478, Prbg.g_01227, Prbf.g_01177, Prbe.g_01290, Prbh.g_01022, Pram.g_00879, Pral.g_01554
+OG0000000	N6	n73	0.7368421052631579	Non-Terminal	Pral.g_01764, Prap.g_00823, Prbf.g_01285, Prak.g_00805, Prbn.g_01586, Prbe.g_00452, Prbg.g_01119, Prbh.g_00912, Pram.g_00768, Prat.g_00751, Prbm.g_00712, Prbc.g_01759, Prbb.g_00683, Praj.g_00670	Praj.g_01492, Prbb.g_01549, Prbc.g_01478, Prbm.g_01581, Prbh.g_00199, Pram.g_01278, Pral.g_01052, Prat.g_01462, Prbe.g_00208, Prbf.g_00260, Prbg.g_00694, Prak.g_01494, Prbn.g_00879, Prap.g_00224, Prbe.g_01579, Prbg.g_01516, Prbf.g_00888, Prbn.g_01159, Prak.g_01202, Prap.g_00486, Prbh.g_01313, Pram.g_01170, Prat.g_01184, Pral.g_01340, Prbb.g_01546, Prbm.g_01578, Prbc.g_01475, Praj.g_01489, Prbm.g_01577, Prbb.g_01545, Praj.g_01488, Prbc.g_01474, Pral.g_00430, Prat.g_01487, Pram.g_01471, Prbh.g_00006, Prbe.g_00379, Prak.g_01323, Prbn.g_01234, Prbg.g_00523, Prbf.g_00089, Prap.g_01946, Prbe.g_01577, Prbg.g_01514, Prbn.g_01161, Prap.g_00484, Prbf.g_00890, Prak.g_01200, Prbh.g_01311, Pram.g_01168, Pral.g_01342, Prat.g_01182, Prap.g_00491, Prbf.g_00883, Prak.g_01207, Prbn.g_01154, Prbg.g_01521, Prbe.g_01584, Pram.g_01174, Prbh.g_01317, Prat.g_01187, Pral.g_01337, Prbc.g_01479, Prbb.g_01550, Prbm.g_01582, Praj.g_01493, Prbb.g_01544, Prbm.g_01576, Prbc.g_01473, Praj.g_01487
+OG0000000	N6	n87	0.7368421052631579	Non-Terminal	Praj.g_01492, Prbb.g_01549, Prbc.g_01478, Prbm.g_01581, Prbh.g_00199, Pram.g_01278, Pral.g_01052, Prat.g_01462, Prbe.g_00208, Prbf.g_00260, Prbg.g_00694, Prak.g_01494, Prbn.g_00879, Prap.g_00224	Prbe.g_01579, Prbg.g_01516, Prbf.g_00888, Prbn.g_01159, Prak.g_01202, Prap.g_00486, Prbh.g_01313, Pram.g_01170, Prat.g_01184, Pral.g_01340, Prbb.g_01546, Prbm.g_01578, Prbc.g_01475, Praj.g_01489, Prbm.g_01577, Prbb.g_01545, Praj.g_01488, Prbc.g_01474, Pral.g_00430, Prat.g_01487, Pram.g_01471, Prbh.g_00006, Prbe.g_00379, Prak.g_01323, Prbn.g_01234, Prbg.g_00523, Prbf.g_00089, Prap.g_01946, Prbe.g_01577, Prbg.g_01514, Prbn.g_01161, Prap.g_00484, Prbf.g_00890, Prak.g_01200, Prbh.g_01311, Pram.g_01168, Pral.g_01342, Prat.g_01182, Prap.g_00491, Prbf.g_00883, Prak.g_01207, Prbn.g_01154, Prbg.g_01521, Prbe.g_01584, Pram.g_01174, Prbh.g_01317, Prat.g_01187, Pral.g_01337, Prbc.g_01479, Prbb.g_01550, Prbm.g_01582, Praj.g_01493, Prbb.g_01544, Prbm.g_01576, Prbc.g_01473, Praj.g_01487
+OG0000000	N6	n101	0.7368421052631579	Non-Terminal	Prbe.g_01579, Prbg.g_01516, Prbf.g_00888, Prbn.g_01159, Prak.g_01202, Prap.g_00486, Prbh.g_01313, Pram.g_01170, Prat.g_01184, Pral.g_01340, Prbb.g_01546, Prbm.g_01578, Prbc.g_01475, Praj.g_01489, Prbm.g_01577, Prbb.g_01545, Praj.g_01488, Prbc.g_01474, Pral.g_00430, Prat.g_01487, Pram.g_01471, Prbh.g_00006, Prbe.g_00379, Prak.g_01323, Prbn.g_01234, Prbg.g_00523, Prbf.g_00089, Prap.g_01946, Prbe.g_01577, Prbg.g_01514, Prbn.g_01161, Prap.g_00484, Prbf.g_00890, Prak.g_01200, Prbh.g_01311, Pram.g_01168, Pral.g_01342, Prat.g_01182	Prap.g_00491, Prbf.g_00883, Prak.g_01207, Prbn.g_01154, Prbg.g_01521, Prbe.g_01584, Pram.g_01174, Prbh.g_01317, Prat.g_01187, Pral.g_01337, Prbc.g_01479, Prbb.g_01550, Prbm.g_01582, Praj.g_01493, Prbb.g_01544, Prbm.g_01576, Prbc.g_01473, Praj.g_01487
+OG0000000	N6	n102	0.7368421052631579	Non-Terminal	Prbe.g_01579, Prbg.g_01516, Prbf.g_00888, Prbn.g_01159, Prak.g_01202, Prap.g_00486, Prbh.g_01313, Pram.g_01170, Prat.g_01184, Pral.g_01340, Prbb.g_01546, Prbm.g_01578, Prbc.g_01475, Praj.g_01489	Prbm.g_01577, Prbb.g_01545, Praj.g_01488, Prbc.g_01474, Pral.g_00430, Prat.g_01487, Pram.g_01471, Prbh.g_00006, Prbe.g_00379, Prak.g_01323, Prbn.g_01234, Prbg.g_00523, Prbf.g_00089, Prap.g_01946, Prbe.g_01577, Prbg.g_01514, Prbn.g_01161, Prap.g_00484, Prbf.g_00890, Prak.g_01200, Prbh.g_01311, Pram.g_01168, Pral.g_01342, Prat.g_01182
+OG0000000	N18	n120	1.0	Non-Terminal	Pral.g_00430, Prat.g_01487, Pram.g_01471, Prbh.g_00006, Prbe.g_00379, Prak.g_01323, Prbn.g_01234, Prbg.g_00523, Prbf.g_00089, Prap.g_01946	Prbe.g_01577, Prbg.g_01514, Prbn.g_01161, Prap.g_00484, Prbf.g_00890, Prak.g_01200, Prbh.g_01311, Pram.g_01168, Pral.g_01342, Prat.g_01182
+OG0000000	N11	n149	1.0	Non-Terminal	Prbc.g_01479, Prbb.g_01550, Prbm.g_01582, Praj.g_01493	Prbb.g_01544, Prbm.g_01576, Prbc.g_01473, Praj.g_01487
+OG0000001	N0	n0	0.3	Non-Terminal	Praa.g_01597, Prai.g_00908, Prar.g_00730, Prac.g_00293, Prad.g_00393, Prag.g_01607, Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922, Prax.g_00259, Prae.g_01579, Prai.g_01234, Praw.g_01779, Prag.g_00722, Prao.g_01029	Prag.g_01626, Prao.g_01297, Praa.g_01297, Prax.g_01920, Prao.g_01528, Prbd.g_01836, Prae.g_01300, Prbi.g_01370, Prad.g_00372, Prad.g_00349, Prav.g_01730, Prav.g_01715, Praw.g_00472, Prab.g_01606, Pran.g_00593, Prbc.g_00525, Prbb.g_01313, Praj.g_01267, Prbb.g_00103, Praj.g_00087, Prbk.g_00167, Prbl.g_00118, Praf.g_01039, Prah.g_01154, Prah.g_01152, Praf.g_01042, Prbj.g_00166, Praf.g_00815, Prah.g_01346, Prad.g_01297, Prbe.g_01052, Prbf.g_00760, Prbg.g_01583, Prbn.g_01678, Prap.g_01846, Prak.g_01578, Praj.g_01080, Prat.g_01510, Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556, Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547, Prav.g_01738, Prbk.g_00165, Prbl.g_00116, Prbj.g_00164, Praf.g_00813, Prah.g_01348, Prat.g_01549, Prbd.g_01569, Prao.g_01514, Pran.g_00579, Prab.g_01620, Prab.g_00918
+OG0000001	N0	n3	0.05	Non-Terminal	Prai.g_00908, Prar.g_00730, Prac.g_00293, Prad.g_00393, Prag.g_01607, Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922, Prax.g_00259, Prae.g_01579, Prai.g_01234	Praw.g_01779, Prag.g_00722
+OG0000001	N0	n4	0.025	Non-Terminal	Prai.g_00908	Prar.g_00730, Prac.g_00293, Prad.g_00393, Prag.g_01607, Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922, Prax.g_00259, Prae.g_01579, Prai.g_01234
+OG0000001	N0	n5	0.05	Non-Terminal	Prar.g_00730, Prac.g_00293	Prad.g_00393, Prag.g_01607, Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922, Prax.g_00259, Prae.g_01579, Prai.g_01234
+OG0000001	N0	n7	0.025	Non-Terminal	Prad.g_00393	Prag.g_01607, Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922, Prax.g_00259, Prae.g_01579, Prai.g_01234
+OG0000001	N0	n8	0.025	Non-Terminal	Prag.g_01607	Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922, Prax.g_00259, Prae.g_01579, Prai.g_01234
+OG0000001	N0	n9	0.075	Non-Terminal	Prae.g_01222, Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694, Praw.g_00454, Praz.g_00922	Prax.g_00259, Prae.g_01579, Prai.g_01234
+OG0000001	N0	n11	0.05	Non-Terminal	Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266, Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694	Praw.g_00454, Praz.g_00922
+OG0000001	N0	n12	0.1	Non-Terminal	Praw.g_00294, Prab.g_01597, Prai.g_01591, Prba.g_00003, Pran.g_00001, Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266	Prab.g_01278, Prag.g_01650, Praw.g_00496, Prav.g_01694
+OG0000001	N0	n15	0.075	Non-Terminal	Prai.g_01591, Prba.g_00003, Pran.g_00001	Pray.g_00003, Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266
+OG0000001	N0	n18	0.025	Non-Terminal	Pray.g_00003	Prba.g_00270, Pray.g_01604, Pras.g_00117, Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266
+OG0000001	N0	n21	0.025	Non-Terminal	Pras.g_00117	Prac.g_00926, Praq.g_01392, Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266
+OG0000001	N0	n23	0.025	Non-Terminal	Praq.g_01392	Prad.g_01435, Praz.g_00694, Prbi.g_01708, Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266
+OG0000001	N0	n26	0.025	Non-Terminal	Prbi.g_01708	Pras.g_00469, Prbi.g_01268, Praq.g_00025, Pran.g_00602, Prav.g_01821, Prau.g_01647, Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266
+OG0000001	N0	n32	0.025	Non-Terminal	Prau.g_01647	Prax.g_01609, Prai.g_01775, Prar.g_01204, Prag.g_01213, Prbd.g_00528, Prau.g_01266
+OG0000001	N0	n45	0.275	Non-Terminal	Prag.g_01626, Prao.g_01297, Praa.g_01297, Prax.g_01920, Prao.g_01528, Prbd.g_01836, Prae.g_01300, Prbi.g_01370, Prad.g_00372, Prad.g_00349, Prav.g_01730, Prav.g_01715, Praw.g_00472, Prab.g_01606, Pran.g_00593, Prbc.g_00525, Prbb.g_01313, Praj.g_01267, Prbb.g_00103, Praj.g_00087, Prbk.g_00167, Prbl.g_00118, Praf.g_01039, Prah.g_01154, Prah.g_01152, Praf.g_01042, Prbj.g_00166, Praf.g_00815, Prah.g_01346, Prad.g_01297, Prbe.g_01052, Prbf.g_00760, Prbg.g_01583, Prbn.g_01678, Prap.g_01846, Prak.g_01578, Praj.g_01080, Prat.g_01510, Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556, Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547	Prav.g_01738, Prbk.g_00165, Prbl.g_00116, Prbj.g_00164, Praf.g_00813, Prah.g_01348, Prat.g_01549, Prbd.g_01569, Prao.g_01514, Pran.g_00579, Prab.g_01620, Prab.g_00918
+OG0000001	N0	n46	0.1	Non-Terminal	Prag.g_01626, Prao.g_01297, Praa.g_01297, Prax.g_01920, Prao.g_01528, Prbd.g_01836, Prae.g_01300, Prbi.g_01370, Prad.g_00372, Prad.g_00349, Prav.g_01730, Prav.g_01715, Praw.g_00472, Prab.g_01606, Pran.g_00593, Prbc.g_00525, Prbb.g_01313, Praj.g_01267, Prbb.g_00103, Praj.g_00087, Prbk.g_00167, Prbl.g_00118, Praf.g_01039, Prah.g_01154, Prah.g_01152, Praf.g_01042, Prbj.g_00166, Praf.g_00815, Prah.g_01346	Prad.g_01297, Prbe.g_01052, Prbf.g_00760, Prbg.g_01583, Prbn.g_01678, Prap.g_01846, Prak.g_01578, Praj.g_01080, Prat.g_01510, Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556, Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547
+OG0000001	N9	n51	0.08333333333333333	Non-Terminal	Prao.g_01297, Praa.g_01297, Prax.g_01920	Prao.g_01528
+OG0000001	Prad	n58	1.0	Terminal	Prad.g_00372	Prad.g_00349
+OG0000001	Prav	n60	1.0	Terminal	Prav.g_01730	Prav.g_01715
+OG0000001	N21	n64	1.0	Non-Terminal	Prbb.g_01313, Praj.g_01267	Prbb.g_00103, Praj.g_00087
+OG0000001	N17	n69	0.4	Non-Terminal	Praf.g_01039, Prah.g_01154, Prah.g_01152, Praf.g_01042	Prbj.g_00166, Praf.g_00815, Prah.g_01346
+OG0000001	N23	n70	1.0	Non-Terminal: STRIDE	Praf.g_01039, Prah.g_01154	Prah.g_01152, Praf.g_01042
+OG0000001	N6	n76	0.3157894736842105	Non-Terminal	Prbe.g_01052, Prbf.g_00760, Prbg.g_01583, Prbn.g_01678, Prap.g_01846, Prak.g_01578	Praj.g_01080, Prat.g_01510, Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556, Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547
+OG0000001	N6	n82	0.05263157894736842	Non-Terminal	Praj.g_01080	Prat.g_01510, Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556, Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547
+OG0000001	N6	n83	0.05263157894736842	Non-Terminal	Prat.g_01510	Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556, Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547
+OG0000001	N6	n84	0.3684210526315789	Non-Terminal	Prat.g_01189, Prbc.g_00106, Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100, Prbh.g_01858, Pram.g_01556	Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586, Prbc.g_00618, Prap.g_01861, Prat.g_01547
+OG0000001	N11	n87	0.25	Non-Terminal	Prbc.g_00106	Prbb.g_01145, Prbm.g_01141, Prbc.g_00608, Praj.g_01100
+OG0000001	N6	n93	0.10526315789473684	Non-Terminal	Prap.g_00493, Praj.g_01732, Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586	Prbc.g_00618, Prap.g_01861
+OG0000001	N6	n95	0.05263157894736842	Non-Terminal	Praj.g_01732	Pral.g_01333, Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586
+OG0000001	N6	n96	0.05263157894736842	Non-Terminal	Pral.g_01333	Prbm.g_01119, Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586
+OG0000001	N6	n97	0.05263157894736842	Non-Terminal	Prbm.g_01119	Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404, Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586
+OG0000001	N6	n98	0.2631578947368421	Non-Terminal	Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563, Prbb.g_01403, Prbn.g_01152, Prbm.g_01404	Praj.g_01359, Prbc.g_02167, Prbf.g_00775, Pram.g_01512, Prbg.g_01523, Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586
+OG0000001	N6	n99	0.15789473684210525	Non-Terminal	Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810, Prbb.g_01352, Prak.g_01563	Prbb.g_01403, Prbn.g_01152, Prbm.g_01404
+OG0000001	N6	n100	0.10526315789473684	Non-Terminal	Prbn.g_01663, Prak.g_01209, Praj.g_01307, Prbf.g_00881, Prbe.g_01120, Prbb.g_01123, Prbc.g_00808, Prbm.g_01810	Prbb.g_01352, Prak.g_01563
+OG0000001	N6	n115	0.05263157894736842	Non-Terminal	Prbg.g_01523	Prbh.g_01902, Prbb.g_01787, Pral.g_00038, Prbg.g_01568, Prbe.g_01586
+OG0000001	Prab	n131	1.0	Terminal	Prab.g_01620	Prab.g_00918
+OG0000002	N0	n0	0.825	Non-Terminal	Prat.g_01285, Prat.g_01286, Pral.g_01236, Prae.g_01353, Praa.g_01351, Prar.g_00926, Praq.g_00160, Prac.g_00202, Prbd.g_01779, Pray.g_01844, Prba.g_00211, Praz.g_01154, Prai.g_01235, Prai.g_01356, Prad.g_00609, Pras.g_00235, Prau.g_01394, Prav.g_01458, Prag.g_01374, Praw.g_01000, Prao.g_01254, Prbi.g_01424, Prax.g_01878, Prbc.g_00588, Praj.g_01549, Prbm.g_01633, Prbb.g_01611, Pram.g_01953, Pram.g_01954, Prbe.g_00400, Prap.g_01925, Prbf.g_00068, Prbn.g_01213, Prak.g_01302, Prbg.g_00502, Prbl.g_00808, Prbj.g_01549, Prbk.g_00561, Prbk.g_02701, Prbj.g_02662, Prbl.g_02598, Praf.g_02422, Prah.g_02270, Prah.g_00896, Praf.g_01293, Prbl.g_02578, Prbk.g_00630, Prbj.g_02690, Prah.g_01159, Praf.g_01031, Prbk.g_01196, Praf.g_01895, Prbl.g_00725, Prbj.g_00672, Prah.g_00324, Prah.g_01343, Praf.g_00818, Prbj.g_00169, Prbk.g_00170, Prbl.g_00121, Praf.g_01896	Prad.g_01434, Prad.g_01994, Prag.g_01651, Praw.g_00497, Prav.g_01734, Pras.g_00541, Prao.g_01529, Prar.g_01203, Praq.g_01393, Prac.g_00925, Prae.g_01223, Prae.g_01224, Prav.g_01820, Prav.g_02007, Praw.g_01951, Prag.g_01215, Prag.g_01216, Prba.g_01081, Praz.g_01939, Pray.g_00247, Praz.g_01940, Prba.g_01080, Pray.g_00246, Praq.g_01394, Prac.g_00924, Prar.g_01202, Prao.g_01852, Prbi.g_01270, Prai.g_01236, Praa.g_01222, Praa.g_01220, Prab.g_01279, Prab.g_01281, Prae.g_01236, Prav.g_00962, Prag.g_00764, Praw.g_01739, Pran.g_01395, Prab.g_00788, Prax.g_00522, Prau.g_01267, Pras.g_00118, Pras.g_00120, Prau.g_01269, Prbd.g_01930, Prbc.g_00925, Prbm.g_01940, Prbm.g_00496, Praj.g_01861, Prbb.g_01915, Praj.g_00463, Prbb.g_00474, Prbc.g_01530, Praj.g_01112, Prbb.g_01157, Prbm.g_01426, Prbl.g_02599, Prbf.g_00831, Prap.g_00653, Prbe.g_00112, Prbn.g_01923, Prbg.g_01069, Prak.g_00755, Prbh.g_00001, Prbh.g_00863, Pram.g_00719, Prat.g_00851, Pral.g_01296, Pral.g_01671
+OG0000002	Prat	n4	1.0	Terminal	Prat.g_01285	Prat.g_01286
+OG0000002	Prai	n19	1.0	Terminal	Prai.g_01235	Prai.g_01356
+OG0000002	Pram	n30	1.0	Terminal	Pram.g_01953	Pram.g_01954
+OG0000002	N17	n36	1.0	Non-Terminal	Prbl.g_00808, Prbj.g_01549, Prbk.g_00561, Prbk.g_02701, Prbj.g_02662, Prbl.g_02598, Praf.g_02422, Prah.g_02270, Prah.g_00896, Praf.g_01293, Prbl.g_02578, Prbk.g_00630, Prbj.g_02690, Prah.g_01159, Praf.g_01031, Prbk.g_01196, Praf.g_01895, Prbl.g_00725, Prbj.g_00672, Prah.g_00324	Prah.g_01343, Praf.g_00818, Prbj.g_00169, Prbk.g_00170, Prbl.g_00121, Praf.g_01896
+OG0000002	N17	n37	1.0	Non-Terminal	Prbl.g_00808, Prbj.g_01549, Prbk.g_00561, Prbk.g_02701, Prbj.g_02662, Prbl.g_02598, Praf.g_02422, Prah.g_02270, Prah.g_00896, Praf.g_01293, Prbl.g_02578, Prbk.g_00630, Prbj.g_02690, Prah.g_01159, Praf.g_01031	Prbk.g_01196, Praf.g_01895, Prbl.g_00725, Prbj.g_00672, Prah.g_00324
+OG0000002	N17	n38	0.4	Non-Terminal	Prbl.g_00808, Prbj.g_01549, Prbk.g_00561, Prbk.g_02701, Prbj.g_02662, Prbl.g_02598, Praf.g_02422, Prah.g_02270, Prah.g_00896, Praf.g_01293, Prbl.g_02578, Prbk.g_00630, Prbj.g_02690	Prah.g_01159, Praf.g_01031
+OG0000002	N17	n39	1.0	Non-Terminal	Prbl.g_00808, Prbj.g_01549, Prbk.g_00561, Prbk.g_02701, Prbj.g_02662, Prbl.g_02598, Praf.g_02422, Prah.g_02270	Prah.g_00896, Praf.g_01293, Prbl.g_02578, Prbk.g_00630, Prbj.g_02690
+OG0000002	N22	n42	1.0	Non-Terminal	Prbl.g_00808, Prbj.g_01549, Prbk.g_00561	Prbk.g_02701, Prbj.g_02662, Prbl.g_02598
+OG0000002	N17	n56	0.2	Non-Terminal	Prah.g_01343, Praf.g_00818, Prbj.g_00169, Prbk.g_00170, Prbl.g_00121	Praf.g_01896
+OG0000002	Prad	n65	1.0	Terminal	Prad.g_01434	Prad.g_01994
+OG0000002	N0	n66	0.2	Non-Terminal	Prag.g_01651, Praw.g_00497, Prav.g_01734, Pras.g_00541, Prao.g_01529, Prar.g_01203, Praq.g_01393, Prac.g_00925	Prae.g_01223, Prae.g_01224, Prav.g_01820, Prav.g_02007, Praw.g_01951, Prag.g_01215, Prag.g_01216, Prba.g_01081, Praz.g_01939, Pray.g_00247, Praz.g_01940, Prba.g_01080, Pray.g_00246, Praq.g_01394, Prac.g_00924, Prar.g_01202, Prao.g_01852, Prbi.g_01270, Prai.g_01236, Praa.g_01222, Praa.g_01220, Prab.g_01279, Prab.g_01281, Prae.g_01236, Prav.g_00962, Prag.g_00764, Praw.g_01739, Pran.g_01395, Prab.g_00788, Prax.g_00522, Prau.g_01267, Pras.g_00118, Pras.g_00120, Prau.g_01269, Prbd.g_01930
+OG0000002	N0	n76	0.1	Non-Terminal	Prae.g_01223, Prae.g_01224, Prav.g_01820, Prav.g_02007, Praw.g_01951, Prag.g_01215, Prag.g_01216, Prba.g_01081, Praz.g_01939, Pray.g_00247, Praz.g_01940, Prba.g_01080, Pray.g_00246, Praq.g_01394, Prac.g_00924, Prar.g_01202, Prao.g_01852, Prbi.g_01270, Prai.g_01236	Praa.g_01222, Praa.g_01220, Prab.g_01279, Prab.g_01281, Prae.g_01236, Prav.g_00962, Prag.g_00764, Praw.g_01739, Pran.g_01395, Prab.g_00788, Prax.g_00522
+OG0000002	Prae	n78	1.0	Terminal	Prae.g_01223	Prae.g_01224
+OG0000002	Prav	n83	1.0	Terminal	Prav.g_01820	Prav.g_02007
+OG0000002	Prag	n85	1.0	Terminal	Prag.g_01215	Prag.g_01216
+OG0000002	N19	n86	1.0	Non-Terminal	Prba.g_01081, Praz.g_01939, Pray.g_00247	Praz.g_01940, Prba.g_01080, Pray.g_00246
+OG0000002	N0	n95	0.025	Non-Terminal	Praa.g_01222, Praa.g_01220, Prab.g_01279, Prab.g_01281	Prae.g_01236, Prav.g_00962, Prag.g_00764, Praw.g_01739, Pran.g_01395, Prab.g_00788, Prax.g_00522
+OG0000002	Praa	n97	1.0	Terminal	Praa.g_01222	Praa.g_01220
+OG0000002	Prab	n98	1.0	Terminal	Prab.g_01279	Prab.g_01281
+OG0000002	N27	n105	1.0	Non-Terminal: STRIDE	Prau.g_01267, Pras.g_00118	Pras.g_00120, Prau.g_01269
+OG0000002	N11	n108	1.0	Non-Terminal	Prbc.g_00925, Prbm.g_01940, Prbm.g_00496, Praj.g_01861, Prbb.g_01915, Praj.g_00463, Prbb.g_00474	Prbc.g_01530, Praj.g_01112, Prbb.g_01157, Prbm.g_01426
+OG0000002	Prbm	n111	1.0	Terminal	Prbm.g_01940	Prbm.g_00496
+OG0000002	N21	n112	1.0	Non-Terminal	Praj.g_01861, Prbb.g_01915	Praj.g_00463, Prbb.g_00474
+OG0000002	N30	n125	0.5	Non-Terminal	Prbh.g_00001	Prbh.g_00863, Pram.g_00719
+OG0000002	Pral	n128	1.0	Terminal	Pral.g_01296	Pral.g_01671
+OG0000003	N11	n3	1.0	Non-Terminal	Prbb.g_01144, Prbm.g_01140, Praj.g_01099, Prbc.g_00609	Prbm.g_01231, Prbm.g_00433, Prbm.g_01384, Prbm.g_01313, Prbb.g_01246, Prbb.g_01356, Praj.g_01204, Praj.g_01311, Praj.g_01274, Prbb.g_01321, Prbb.g_00429, Praj.g_00415, Prbm.g_01814, Prbb.g_01792, Praj.g_01737, Prbc.g_00812
+OG0000003	N11	n8	0.75	Non-Terminal	Prbm.g_01231, Prbm.g_00433, Prbm.g_01384, Prbm.g_01313, Prbb.g_01246, Prbb.g_01356, Praj.g_01204, Praj.g_01311, Praj.g_01274, Prbb.g_01321, Prbb.g_00429, Praj.g_00415	Prbm.g_01814, Prbb.g_01792, Praj.g_01737
+OG0000003	N11	n9	0.25	Non-Terminal	Prbm.g_01231, Prbm.g_00433, Prbm.g_01384, Prbm.g_01313, Prbb.g_01246, Prbb.g_01356, Praj.g_01204, Praj.g_01311, Praj.g_01274, Prbb.g_01321, Prbb.g_00429	Praj.g_00415
+OG0000003	Prbm	n11	1.0	Terminal	Prbm.g_01231, Prbm.g_00433, Prbm.g_01384	Prbm.g_01313
+OG0000003	Prbm	n12	1.0	Terminal	Prbm.g_01231	Prbm.g_00433, Prbm.g_01384
+OG0000003	Prbm	n13	1.0	Terminal	Prbm.g_00433	Prbm.g_01384
+OG0000003	N21	n14	0.5	Non-Terminal	Prbb.g_01246, Prbb.g_01356, Praj.g_01204, Praj.g_01311, Praj.g_01274, Prbb.g_01321	Prbb.g_00429
+OG0000003	N21	n15	0.5	Non-Terminal	Prbb.g_01246	Prbb.g_01356, Praj.g_01204, Praj.g_01311, Praj.g_01274, Prbb.g_01321
+OG0000003	N21	n16	1.0	Non-Terminal	Prbb.g_01356, Praj.g_01204, Praj.g_01311	Praj.g_01274, Prbb.g_01321
+OG0000003	Praj	n18	1.0	Terminal	Praj.g_01204	Praj.g_01311
+OG0000003	N18	n27	0.3	Non-Terminal	Prbh.g_01901, Pram.g_01513, Pral.g_00040	Pral.g_01332, Prap.g_00494, Prbf.g_00880, Prak.g_01210, Prbn.g_01151, Prbg.g_01524, Prbe.g_01587, Pram.g_01176, Prbh.g_01319
+OG0000003	N0	n38	0.25	Non-Terminal	Praq.g_00115, Prar.g_00973, Prac.g_00157, Pray.g_01890, Prba.g_01172, Praz.g_01200, Prav.g_01413, Prae.g_01308, Prad.g_00350, Prau.g_01350, Praa.g_01298, Prax.g_01919, Praw.g_00959, Prag.g_01333, Prao.g_01296, Prbd.g_01835, Prbi.g_01371, Pras.g_00182, Pran.g_00894, Prab.g_01308, Prai.g_01314, Prac.g_00290, Prar.g_00727, Praq.g_00028, Prai.g_01596, Pras.g_00471, Prau.g_01650, Prba.g_00268, Pray.g_01602, Praz.g_00920, Prad.g_00389, Praw.g_00457, Prag.g_01610, Prav.g_01698, Prao.g_01518, Praa.g_01599, Prax.g_01606, Prbi.g_01710, Prbd.g_01567, Prae.g_01581	Praa.g_00413, Prau.g_01300, Pras.g_00136, Prax.g_00494, Prav.g_01019, Prai.g_01774, Prai.g_00907, Pran.g_00580, Prab.g_00917, Prab.g_01619, Praw.g_00495, Prag.g_01649
+OG0000003	N0	n39	0.475	Non-Terminal	Praq.g_00115, Prar.g_00973, Prac.g_00157, Pray.g_01890, Prba.g_01172, Praz.g_01200, Prav.g_01413, Prae.g_01308, Prad.g_00350, Prau.g_01350, Praa.g_01298, Prax.g_01919, Praw.g_00959, Prag.g_01333, Prao.g_01296, Prbd.g_01835, Prbi.g_01371, Pras.g_00182, Pran.g_00894, Prab.g_01308, Prai.g_01314	Prac.g_00290, Prar.g_00727, Praq.g_00028, Prai.g_01596, Pras.g_00471, Prau.g_01650, Prba.g_00268, Pray.g_01602, Praz.g_00920, Prad.g_00389, Praw.g_00457, Prag.g_01610, Prav.g_01698, Prao.g_01518, Praa.g_01599, Prax.g_01606, Prbi.g_01710, Prbd.g_01567, Prae.g_01581
+OG0000003	Prai	n85	1.0	Terminal	Prai.g_01774	Prai.g_00907
+OG0000003	Prab	n87	1.0	Terminal	Prab.g_00917	Prab.g_01619
+OG0000004	N0	n0	0.525	Non-Terminal	Prav.g_00330, Praz.g_01583, Pras.g_01631, Prae.g_00735, Prau.g_00785, Prax.g_00444, Pray.g_00277, Prba.g_01570, Prbd.g_00031, Prac.g_01536, Praq.g_00607, Prar.g_01623, Prbi.g_00775, Prag.g_00726, Praw.g_01775, Praa.g_00735, Prao.g_00673, Prad.g_01075, Prai.g_00441, Pran.g_00576, Prab.g_00921	Prai.g_01313, Prab.g_00747, Pran.g_01436, Prax.g_00437, Prbd.g_00038, Praa.g_00742, Prae.g_00742, Pras.g_01638, Prau.g_00792, Prao.g_00679, Prad.g_01082, Prav.g_00338, Prag.g_00734, Praw.g_01769, Prar.g_01630, Prac.g_01529, Praq.g_00614, Pray.g_00284, Prba.g_01563, Praz.g_01576, Prbi.g_00782, Prbm.g_00081, Prbc.g_01294, Praj.g_01222, Prbb.g_01814, Prbk.g_01701, Prbj.g_00697, Prbl.g_01685, Prah.g_01175, Praf.g_01014, Praf.g_02005, Prbl.g_00628, Prbj.g_01897, Prbk.g_00304, Prbj.g_00073, Prbl.g_00679, Prbk.g_00355, Prah.g_00215, Prbm.g_01988, Prbb.g_00425, Praj.g_00411, Prbc.g_01233, Prbc.g_02193, Praj.g_01121, Prbm.g_01436, Prbg.g_00451, Prak.g_01251, Prap.g_00535, Prbf.g_00052, Prbe.g_01628, Prbn.g_01110, Prbh.g_01350, Pram.g_01207, Prat.g_00824, Pral.g_01898, Prbd.g_01855, Prad.g_00345, Praw.g_00958, Prag.g_01332, Pray.g_01891, Prba.g_01171, Praz.g_01201, Praa.g_01294, Prax.g_01924, Prao.g_01301, Prae.g_01297, Prab.g_01307, Pran.g_00895
+OG0000004	N0	n22	0.325	Non-Terminal	Prab.g_00747, Pran.g_01436, Prax.g_00437, Prbd.g_00038, Praa.g_00742, Prae.g_00742, Pras.g_01638, Prau.g_00792, Prao.g_00679, Prad.g_01082, Prav.g_00338, Prag.g_00734, Praw.g_01769, Prar.g_01630, Prac.g_01529, Praq.g_00614, Pray.g_00284, Prba.g_01563, Praz.g_01576, Prbi.g_00782, Prbm.g_00081, Prbc.g_01294, Praj.g_01222, Prbb.g_01814, Prbk.g_01701, Prbj.g_00697, Prbl.g_01685, Prah.g_01175, Praf.g_01014, Praf.g_02005, Prbl.g_00628, Prbj.g_01897, Prbk.g_00304, Prbj.g_00073, Prbl.g_00679, Prbk.g_00355, Prah.g_00215, Prbm.g_01988, Prbb.g_00425, Praj.g_00411, Prbc.g_01233, Prbc.g_02193, Praj.g_01121, Prbm.g_01436, Prbg.g_00451, Prak.g_01251, Prap.g_00535, Prbf.g_00052, Prbe.g_01628, Prbn.g_01110, Prbh.g_01350, Pram.g_01207, Prat.g_00824, Pral.g_01898	Prbd.g_01855, Prad.g_00345, Praw.g_00958, Prag.g_01332, Pray.g_01891, Prba.g_01171, Praz.g_01201, Praa.g_01294, Prax.g_01924, Prao.g_01301, Prae.g_01297, Prab.g_01307, Pran.g_00895
+OG0000004	N6	n44	0.05263157894736842	Non-Terminal	Prbm.g_00081	Prbc.g_01294, Praj.g_01222, Prbb.g_01814, Prbk.g_01701, Prbj.g_00697, Prbl.g_01685, Prah.g_01175, Praf.g_01014, Praf.g_02005, Prbl.g_00628, Prbj.g_01897, Prbk.g_00304, Prbj.g_00073, Prbl.g_00679, Prbk.g_00355, Prah.g_00215, Prbm.g_01988, Prbb.g_00425, Praj.g_00411, Prbc.g_01233, Prbc.g_02193, Praj.g_01121, Prbm.g_01436
+OG0000004	N6	n45	0.15789473684210525	Non-Terminal	Prbc.g_01294, Praj.g_01222, Prbb.g_01814, Prbk.g_01701, Prbj.g_00697, Prbl.g_01685, Prah.g_01175, Praf.g_01014, Praf.g_02005, Prbl.g_00628, Prbj.g_01897, Prbk.g_00304, Prbj.g_00073, Prbl.g_00679, Prbk.g_00355, Prah.g_00215	Prbm.g_01988, Prbb.g_00425, Praj.g_00411, Prbc.g_01233, Prbc.g_02193, Praj.g_01121, Prbm.g_01436
+OG0000004	N17	n49	1.0	Non-Terminal	Prbk.g_01701, Prbj.g_00697, Prbl.g_01685, Prah.g_01175, Praf.g_01014	Praf.g_02005, Prbl.g_00628, Prbj.g_01897, Prbk.g_00304, Prbj.g_00073, Prbl.g_00679, Prbk.g_00355, Prah.g_00215
+OG0000004	N22	n56	1.0	Non-Terminal	Prbl.g_00628, Prbj.g_01897, Prbk.g_00304	Prbj.g_00073, Prbl.g_00679, Prbk.g_00355
+OG0000004	N11	n61	0.5	Non-Terminal	Prbm.g_01988, Prbb.g_00425, Praj.g_00411, Prbc.g_01233, Prbc.g_02193	Praj.g_01121, Prbm.g_01436
+OG0000004	Prbc	n65	1.0	Terminal	Prbc.g_01233	Prbc.g_02193
+OG0000005	N11	n2	1.0	Non-Terminal	Prbb.g_01785, Prbm.g_01808, Prbc.g_00806, Praj.g_01730, Prbc.g_00104, Prbb.g_01120, Prbb.g_00432, Prbb.g_01401, Prbm.g_01406, Praj.g_00418, Praj.g_01077, Praj.g_01357, Prbm.g_00435, Prbm.g_01116, Prbc.g_02164, Prbb.g_01354	Prbm.g_00436, Praj.g_01202, Prbb.g_01244, Praj.g_01272, Prbm.g_01117, Prbm.g_01229, Prbm.g_01382, Prbc.g_02165, Prbb.g_01319, Prbb.g_00431, Prbb.g_01121, Praj.g_01309, Praj.g_01078, Praj.g_00417, Prbm.g_01407
+OG0000005	N11	n3	0.25	Non-Terminal	Prbb.g_01785, Prbm.g_01808, Prbc.g_00806, Praj.g_01730, Prbc.g_00104, Prbb.g_01120, Prbb.g_00432, Prbb.g_01401, Prbm.g_01406, Praj.g_00418, Praj.g_01077, Praj.g_01357, Prbm.g_00435, Prbm.g_01116, Prbc.g_02164	Prbb.g_01354
+OG0000005	N11	n4	1.0	Non-Terminal	Prbb.g_01785, Prbm.g_01808, Prbc.g_00806, Praj.g_01730	Prbc.g_00104, Prbb.g_01120, Prbb.g_00432, Prbb.g_01401, Prbm.g_01406, Praj.g_00418, Praj.g_01077, Praj.g_01357, Prbm.g_00435, Prbm.g_01116, Prbc.g_02164
+OG0000005	N11	n8	0.5	Non-Terminal	Prbc.g_00104, Prbb.g_01120, Prbb.g_00432, Prbb.g_01401, Prbm.g_01406, Praj.g_00418, Praj.g_01077, Praj.g_01357	Prbm.g_00435, Prbm.g_01116, Prbc.g_02164
+OG0000005	Prbb	n12	1.0	Terminal	Prbb.g_01120	Prbb.g_00432, Prbb.g_01401
+OG0000005	Prbb	n13	1.0	Terminal	Prbb.g_00432	Prbb.g_01401
+OG0000005	Praj	n14	1.0	Terminal	Praj.g_00418	Praj.g_01077, Praj.g_01357
+OG0000005	Praj	n15	1.0	Terminal	Praj.g_01077	Praj.g_01357
+OG0000005	Prbm	n17	1.0	Terminal	Prbm.g_00435	Prbm.g_01116
+OG0000005	N11	n18	0.25	Non-Terminal	Prbm.g_00436	Praj.g_01202, Prbb.g_01244, Praj.g_01272, Prbm.g_01117, Prbm.g_01229, Prbm.g_01382, Prbc.g_02165, Prbb.g_01319, Prbb.g_00431, Prbb.g_01121, Praj.g_01309, Praj.g_01078, Praj.g_00417, Prbm.g_01407
+OG0000005	N11	n19	0.5	Non-Terminal	Praj.g_01202, Prbb.g_01244	Praj.g_01272, Prbm.g_01117, Prbm.g_01229, Prbm.g_01382, Prbc.g_02165, Prbb.g_01319, Prbb.g_00431, Prbb.g_01121, Praj.g_01309, Praj.g_01078, Praj.g_00417, Prbm.g_01407
+OG0000005	N11	n21	0.5	Non-Terminal	Praj.g_01272, Prbm.g_01117, Prbm.g_01229, Prbm.g_01382, Prbc.g_02165, Prbb.g_01319, Prbb.g_00431, Prbb.g_01121, Praj.g_01309, Praj.g_01078	Praj.g_00417, Prbm.g_01407
+OG0000005	N11	n22	0.25	Non-Terminal	Praj.g_01272, Prbm.g_01117, Prbm.g_01229, Prbm.g_01382, Prbc.g_02165, Prbb.g_01319, Prbb.g_00431, Prbb.g_01121, Praj.g_01309	Praj.g_01078
+OG0000005	N11	n23	0.5	Non-Terminal	Praj.g_01272, Prbm.g_01117, Prbm.g_01229, Prbm.g_01382, Prbc.g_02165, Prbb.g_01319, Prbb.g_00431	Prbb.g_01121, Praj.g_01309
+OG0000005	Prbm	n27	1.0	Terminal	Prbm.g_01117	Prbm.g_01229, Prbm.g_01382
+OG0000005	Prbm	n28	1.0	Terminal	Prbm.g_01229	Prbm.g_01382
+OG0000005	Prbb	n29	1.0	Terminal	Prbb.g_01319	Prbb.g_00431
+OG0000005	N0	n40	0.3	Non-Terminal	Prao.g_01515, Prav.g_01695, Prag.g_00721, Praw.g_01780, Praq.g_00026, Prar.g_00729, Prac.g_00292, Praw.g_00455, Prag.g_01608, Praa.g_01598, Prai.g_01592, Prax.g_01608, Prau.g_01648, Pras.g_00470, Prae.g_01580, Prbd.g_01568, Prab.g_01598, Pran.g_00601, Prad.g_00392, Prbi.g_01709, Prba.g_00269, Pray.g_01603, Praz.g_00921, Praw.g_00494, Prag.g_01648, Prab.g_01630, Pran.g_00931, Prab.g_00760, Pran.g_01423, Praa.g_01244, Praw.g_00893, Praw.g_00974, Prag.g_01348, Prag.g_01230, Prax.g_00496, Prav.g_00973	Prba.g_00243, Praz.g_00894, Pray.g_01576, Prad.g_01982, Prbd.g_01914, Praa.g_01235, Prai.g_01612, Prau.g_01665, Pras.g_00493, Prar.g_00713, Prac.g_00277, Praq.g_01956
+OG0000005	N0	n41	0.175	Non-Terminal	Prao.g_01515, Prav.g_01695, Prag.g_00721, Praw.g_01780, Praq.g_00026, Prar.g_00729, Prac.g_00292, Praw.g_00455, Prag.g_01608, Praa.g_01598, Prai.g_01592, Prax.g_01608, Prau.g_01648, Pras.g_00470, Prae.g_01580, Prbd.g_01568, Prab.g_01598, Pran.g_00601, Prad.g_00392, Prbi.g_01709, Prba.g_00269, Pray.g_01603, Praz.g_00921	Praw.g_00494, Prag.g_01648, Prab.g_01630, Pran.g_00931, Prab.g_00760, Pran.g_01423, Praa.g_01244, Praw.g_00893, Praw.g_00974, Prag.g_01348, Prag.g_01230, Prax.g_00496, Prav.g_00973
+OG0000005	N0	n44	0.05	Non-Terminal	Prag.g_00721, Praw.g_01780	Praq.g_00026, Prar.g_00729, Prac.g_00292, Praw.g_00455, Prag.g_01608, Praa.g_01598, Prai.g_01592, Prax.g_01608, Prau.g_01648, Pras.g_00470, Prae.g_01580, Prbd.g_01568, Prab.g_01598, Pran.g_00601, Prad.g_00392, Prbi.g_01709, Prba.g_00269, Pray.g_01603, Praz.g_00921
+OG0000005	N0	n64	0.05	Non-Terminal	Praw.g_00494, Prag.g_01648	Prab.g_01630, Pran.g_00931, Prab.g_00760, Pran.g_01423, Praa.g_01244, Praw.g_00893, Praw.g_00974, Prag.g_01348, Prag.g_01230, Prax.g_00496, Prav.g_00973
+OG0000005	N10	n67	1.0	Non-Terminal: STRIDE	Prab.g_01630, Pran.g_00931	Prab.g_00760, Pran.g_01423
+OG0000005	Praw	n73	1.0	Terminal	Praw.g_00893	Praw.g_00974
+OG0000005	Prag	n74	1.0	Terminal	Prag.g_01348	Prag.g_01230
+OG0000006	N0	n0	0.975	Non-Terminal	Prah.g_01546, Prbj.g_01610, Prbl.g_00531, Praf.g_00614, Prap.g_01270, Prbg.g_00216, Prbf.g_01780, Prak.g_00458, Prbn.g_00617, Prbe.g_00636, Prbh.g_00334, Pram.g_00433, Pral.g_00593, Prat.g_00458, Praj.g_00489, Prbc.g_01556, Prbb.g_00501, Prbm.g_00522, Prav.g_01095, Praw.g_00651, Prag.g_00476, Pray.g_00988, Prad.g_00132, Prao.g_00603, Prba.g_00964, Praz.g_01831, Pray.g_00987, Prbi.g_00500, Prbd.g_00745, Praa.g_00497, Prae.g_00471, Praq.g_01105, Prac.g_00874, Prar.g_01328, Prau.g_00538, Pras.g_01375, Prax.g_00704, Prab.g_00501, Pran.g_01681, Prai.g_00527	Prax.g_01559, Prau.g_01732, Pras.g_00550, Prbd.g_01525, Prba.g_00226, Pray.g_01559, Praz.g_00877, Prbi.g_01787, Prae.g_01623, Praa.g_01635, Prad.g_00941, Praw.g_00515, Prag.g_01669, Prav.g_01761, Praq.g_00497, Prar.g_01143, Prac.g_00625, Prao.g_01552, Pran.g_00970, Prab.g_01669, Prai.g_01638, Praf.g_00480, Prah.g_01676, Prbl.g_00394, Prbk.g_00907, Prbj.g_00857, Prbc.g_00832, Prbm.g_01841, Praj.g_01768, Prbb.g_01823, Prat.g_01592, Pral.g_00107, Pram.g_01632, Prbh.g_01782, Prbf.g_00693, Prak.g_01645, Prap.g_01779, Prbg.g_01650, Prbn.g_01745, Prbe.g_00985
+OG0000006	N1	n23	0.05555555555555555	Non-Terminal	Pray.g_00988	Prad.g_00132, Prao.g_00603, Prba.g_00964, Praz.g_01831, Pray.g_00987, Prbi.g_00500, Prbd.g_00745, Praa.g_00497, Prae.g_00471, Praq.g_01105, Prac.g_00874, Prar.g_01328, Prau.g_00538, Pras.g_01375, Prax.g_00704
+OG0000007	N17	n1	1.0	Non-Terminal	Prbk.g_01820, Prbj.g_00928, Prbl.g_01854, Praf.g_01224, Prah.g_00969	Praf.g_01223, Prbl.g_01855, Prbj.g_00929, Prbk.g_01819, Prah.g_00970
+OG0000007	N0	n10	0.65	Non-Terminal	Pral.g_00020, Prbi.g_01536, Praj.g_01829, Prbc.g_00893, Prbb.g_01884, Prbm.g_01907, Prap.g_01888, Prbf.g_00793, Prak.g_01544, Prbe.g_00036, Prbn.g_01645, Prbg.g_00744, Prbh.g_01406, Pram.g_01263, Prat.g_00376, Prag.g_01655, Praw.g_00501, Prav.g_01749, Prbi.g_01764, Praa.g_01241, Praz.g_01241, Prau.g_00781, Praq.g_00071, Prac.g_00904, Prar.g_01185, Prba.g_01131, Pray.g_01931	Prax.g_00970, Prae.g_00646, Praa.g_00672, Pras.g_01548, Prau.g_00712, Prba.g_01645, Pray.g_01091, Praz.g_01658, Prbd.g_00572, Prao.g_00111, Prad.g_01246, Praw.g_01850, Prag.g_00650, Prbi.g_00675, Prar.g_01502, Praq.g_00801, Prac.g_00699, Prab.g_00677, Pran.g_01506, Prai.g_00701, Prav.g_01270, Prak.g_01545, Prbi.g_01540, Prbb.g_01885, Praj.g_01830, Prbm.g_01908, Prbc.g_00894, Prat.g_00377, Prbh.g_01405, Pram.g_01262, Pral.g_00021, Prak.g_01546, Prbe.g_00037, Prbf.g_00792, Prbn.g_01646, Prbg.g_00745, Prap.g_01887, Prag.g_01656, Prav.g_01750, Praw.g_00502, Prbi.g_01539, Prbi.g_01765
+OG0000007	N0	n13	0.025	Non-Terminal	Prbi.g_01536	Praj.g_01829, Prbc.g_00893, Prbb.g_01884, Prbm.g_01907, Prap.g_01888, Prbf.g_00793, Prak.g_01544, Prbe.g_00036, Prbn.g_01645, Prbg.g_00744, Prbh.g_01406, Pram.g_01263, Prat.g_00376, Prag.g_01655, Praw.g_00501, Prav.g_01749, Prbi.g_01764
+OG0000007	N0	n37	0.1	Non-Terminal	Prax.g_00970, Prae.g_00646, Praa.g_00672, Pras.g_01548, Prau.g_00712, Prba.g_01645, Pray.g_01091, Praz.g_01658, Prbd.g_00572, Prao.g_00111, Prad.g_01246, Praw.g_01850, Prag.g_00650, Prbi.g_00675, Prar.g_01502, Praq.g_00801, Prac.g_00699, Prab.g_00677, Pran.g_01506, Prai.g_00701, Prav.g_01270	Prak.g_01545, Prbi.g_01540, Prbb.g_01885, Praj.g_01830, Prbm.g_01908, Prbc.g_00894, Prat.g_00377, Prbh.g_01405, Pram.g_01262, Pral.g_00021, Prak.g_01546, Prbe.g_00037, Prbf.g_00792, Prbn.g_01646, Prbg.g_00745, Prap.g_01887, Prag.g_01656, Prav.g_01750, Praw.g_00502, Prbi.g_01539, Prbi.g_01765
+OG0000007	N0	n58	0.05	Non-Terminal	Prak.g_01545, Prbi.g_01540	Prbb.g_01885, Praj.g_01830, Prbm.g_01908, Prbc.g_00894, Prat.g_00377, Prbh.g_01405, Pram.g_01262, Pral.g_00021, Prak.g_01546, Prbe.g_00037, Prbf.g_00792, Prbn.g_01646, Prbg.g_00745, Prap.g_01887, Prag.g_01656, Prav.g_01750, Praw.g_00502, Prbi.g_01539, Prbi.g_01765
+OG0000007	Prbi	n77	1.0	Terminal	Prbi.g_01539	Prbi.g_01765
+OG0000008	N0	n0	0.1	Non-Terminal	Praq.g_00046, Prac.g_00880, Prar.g_01160, Prbm.g_00463, Prai.g_00433, Prai.g_00437	Prai.g_00394, Pran.g_01811, Prab.g_00372, Praw.g_00750, Prag.g_00376, Prad.g_00726, Praa.g_00382, Prae.g_00383, Prax.g_00791, Prao.g_00517, Prbi.g_00408, Prba.g_00878, Pray.g_00862, Praz.g_00790, Prbd.g_00854, Pras.g_01237, Prau.g_00387, Prav.g_01000, Prar.g_00445, Prac.g_01149, Praq.g_01159, Pran.g_00586, Prab.g_01613, Prar.g_01173, Praq.g_00059, Prac.g_00893, Pray.g_00265, Prba.g_01104, Praz.g_01269, Prai.g_01246, Praw.g_00328, Prag.g_01264, Prai.g_01256, Prad.g_00377, Prae.g_00997, Prbd.g_00297, Prax.g_01162, Praa.g_00997, Prbi.g_01042, Praz.g_01317, Prba.g_01304, Pray.g_00544, Prao.g_01333, Prax.g_01960, Pras.g_01596, Pras.g_00139, Prau.g_01303, Prba.g_01115, Praz.g_01258, Prac.g_01954, Praq.g_00085, Prar.g_01002, Prbi.g_01331, Prbd.g_01894, Praa.g_01256, Prax.g_01958, Pras.g_00151, Prau.g_01319, Prae.g_01264, Prad.g_01215, Pray.g_00885, Prba.g_00901, Praz.g_00767, Praw.g_00928, Prag.g_01300, Prav.g_01016, Pran.g_00526, Prab.g_00971
+OG0000008	Prai	n5	1.0	Terminal	Prai.g_00433	Prai.g_00437
+OG0000008	N0	n6	0.525	Non-Terminal	Prai.g_00394, Pran.g_01811, Prab.g_00372, Praw.g_00750, Prag.g_00376, Prad.g_00726, Praa.g_00382, Prae.g_00383, Prax.g_00791, Prao.g_00517, Prbi.g_00408, Prba.g_00878, Pray.g_00862, Praz.g_00790, Prbd.g_00854, Pras.g_01237, Prau.g_00387, Prav.g_01000, Prar.g_00445, Prac.g_01149, Praq.g_01159, Pran.g_00586, Prab.g_01613, Prar.g_01173, Praq.g_00059, Prac.g_00893, Pray.g_00265, Prba.g_01104, Praz.g_01269, Prai.g_01246, Praw.g_00328, Prag.g_01264	Prai.g_01256, Prad.g_00377, Prae.g_00997, Prbd.g_00297, Prax.g_01162, Praa.g_00997, Prbi.g_01042, Praz.g_01317, Prba.g_01304, Pray.g_00544, Prao.g_01333, Prax.g_01960, Pras.g_01596, Pras.g_00139, Prau.g_01303, Prba.g_01115, Praz.g_01258, Prac.g_01954, Praq.g_00085, Prar.g_01002, Prbi.g_01331, Prbd.g_01894, Praa.g_01256, Prax.g_01958, Pras.g_00151, Prau.g_01319, Prae.g_01264, Prad.g_01215, Pray.g_00885, Prba.g_00901, Praz.g_00767, Praw.g_00928, Prag.g_01300, Prav.g_01016, Pran.g_00526, Prab.g_00971
+OG0000008	N0	n7	0.275	Non-Terminal	Prai.g_00394, Pran.g_01811, Prab.g_00372, Praw.g_00750, Prag.g_00376, Prad.g_00726, Praa.g_00382, Prae.g_00383, Prax.g_00791, Prao.g_00517, Prbi.g_00408, Prba.g_00878, Pray.g_00862, Praz.g_00790, Prbd.g_00854, Pras.g_01237, Prau.g_00387, Prav.g_01000, Prar.g_00445, Prac.g_01149, Praq.g_01159	Pran.g_00586, Prab.g_01613, Prar.g_01173, Praq.g_00059, Prac.g_00893, Pray.g_00265, Prba.g_01104, Praz.g_01269, Prai.g_01246, Praw.g_00328, Prag.g_01264
+OG0000008	N0	n38	0.225	Non-Terminal	Prai.g_01256, Prad.g_00377, Prae.g_00997, Prbd.g_00297, Prax.g_01162, Praa.g_00997, Prbi.g_01042, Praz.g_01317, Prba.g_01304, Pray.g_00544	Prao.g_01333, Prax.g_01960, Pras.g_01596, Pras.g_00139, Prau.g_01303, Prba.g_01115, Praz.g_01258, Prac.g_01954, Praq.g_00085, Prar.g_01002, Prbi.g_01331, Prbd.g_01894, Praa.g_01256, Prax.g_01958, Pras.g_00151, Prau.g_01319, Prae.g_01264, Prad.g_01215, Pray.g_00885, Prba.g_00901, Praz.g_00767, Praw.g_00928, Prag.g_01300, Prav.g_01016, Pran.g_00526, Prab.g_00971
+OG0000008	N1	n50	0.2777777777777778	Non-Terminal	Prax.g_01960, Pras.g_01596, Pras.g_00139, Prau.g_01303, Prba.g_01115, Praz.g_01258	Prac.g_01954, Praq.g_00085, Prar.g_01002, Prbi.g_01331, Prbd.g_01894, Praa.g_01256, Prax.g_01958, Pras.g_00151, Prau.g_01319, Prae.g_01264, Prad.g_01215, Pray.g_00885, Prba.g_00901, Praz.g_00767, Praw.g_00928, Prag.g_01300, Prav.g_01016
+OG0000008	N27	n53	0.5	Non-Terminal	Pras.g_01596	Pras.g_00139, Prau.g_01303
+OG0000009	N0	n5	0.775	Non-Terminal	Praq.g_00649, Prac.g_01496, Prar.g_01663, Pray.g_00328, Prba.g_01519, Praz.g_01532, Pras.g_01681, Prau.g_00834, Prav.g_00375, Prbi.g_00827, Prae.g_00786, Praw.g_01717, Prag.g_00786, Praa.g_00782, Prbd.g_00082, Prax.g_00393, Prao.g_00720, Prad.g_01125, Prai.g_00867, Pran.g_01363, Prab.g_00820, Prbc.g_01836, Prbb.g_00761, Praj.g_00747, Prbm.g_00792, Prbg.g_01510, Prbe.g_01573, Prak.g_01196, Prbn.g_01165, Prap.g_00480, Prbf.g_00894, Prbh.g_01307, Pram.g_01164, Prat.g_01180, Pral.g_01344	Prak.g_00266, Prbe.g_01802, Prbn.g_00015, Prap.g_01462, Prbg.g_01032, Prbf.g_01588, Prbh.g_00530, Pram.g_00237, Prac.g_01681, Prar.g_00078, Praq.g_01753, Pray.g_00730, Praz.g_00609, Prba.g_00468, Prad.g_01742, Prae.g_00252, Prbi.g_00273, Praa.g_00249, Prag.g_00242, Praw.g_00884, Prax.g_00926, Prbd.g_00990, Prao.g_00387, Prav.g_01896, Prau.g_00251, Pras.g_01101, Prab.g_00239, Pran.g_01943, Prai.g_00262, Pral.g_00790, Prat.g_00255
+OG0000010	N30	n10	1.0	Non-Terminal	Pram.g_01505, Prbh.g_01909	Pram.g_00621, Prbh.g_01948
+OG0000010	N0	n16	0.45	Non-Terminal	Prbd.g_01840, Pran.g_00603, Prab.g_01596, Prag.g_01636, Praw.g_00482, Prav.g_01732, Prai.g_01588, Prax.g_00500, Praq.g_00081, Prac.g_01958, Prar.g_01006, Pran.g_00114, Prab.g_01165, Prbi.g_01156, Prad.g_00650, Prbd.g_00409, Prax.g_00141, Prae.g_01110, Prao.g_01142, Pras.g_00004, Praq.g_01283, Prac.g_01035, Prar.g_01313, Prau.g_01156, Praa.g_01110, Praw.g_00184, Prag.g_01103, Praz.g_00045, Prba.g_00734, Pray.g_00117	Prar.g_00991, Prac.g_00139, Praq.g_00097, Pras.g_00163, Prau.g_01331, Prbd.g_01870, Prad.g_00330, Prav.g_01400, Prba.g_01157, Praa.g_01280, Prae.g_01283, Prao.g_01316, Praz.g_01215, Pray.g_01905, Prax.g_01936, Prbi.g_01352, Praw.g_00945, Prag.g_01319
+OG0000010	N0	n17	0.225	Non-Terminal	Prbd.g_01840, Pran.g_00603, Prab.g_01596, Prag.g_01636, Praw.g_00482, Prav.g_01732, Prai.g_01588, Prax.g_00500, Praq.g_00081, Prac.g_01958, Prar.g_01006	Pran.g_00114, Prab.g_01165, Prbi.g_01156, Prad.g_00650, Prbd.g_00409, Prax.g_00141, Prae.g_01110, Prao.g_01142, Pras.g_00004, Praq.g_01283, Prac.g_01035, Prar.g_01313, Prau.g_01156, Praa.g_01110, Praw.g_00184, Prag.g_01103, Praz.g_00045, Prba.g_00734, Pray.g_00117
+OG0000011	N0	n0	0.475	Non-Terminal	Prbj.g_02509, Prbl.g_01574, Prbk.g_02565, Pray.g_00897, Praz.g_01921, Prba.g_00913, Prac.g_01127, Praq.g_01137, Prar.g_00468, Prad.g_00683, Pras.g_01263, Prau.g_00414, Prai.g_00424, Praf.g_01898, Prah.g_00322, Prah.g_00321, Prbc.g_01273, Prbm.g_00428, Praj.g_00408, Prbb.g_00421, Prbh.g_00408, Pram.g_00359, Prat.g_00374, Pral.g_00672, Prbn.g_00690, Prbe.g_01921, Prbg.g_00143, Prap.g_01343, Prak.g_00385, Prbf.g_01707	Praj.g_00370, Prbc.g_01227, Prbm.g_00390, Prbb.g_00386, Prah.g_00353, Praf.g_01864, Prbl.g_00719, Prbk.g_01202, Prbj.g_00666, Prag.g_00321, Praw.g_00804, Prao.g_00466, Prad.g_01661, Prbi.g_00354, Prbd.g_00909, Prau.g_00332, Pras.g_01182, Prar.g_00257, Praq.g_01672, Prac.g_01601, Prba.g_00546, Pray.g_00808, Praz.g_00687, Prax.g_00843, Prav.g_01976, Praa.g_00330, Prae.g_00331, Prab.g_00318, Pran.g_01864, Prai.g_00343
+OG0000011	Prah	n16	1.0	Terminal	Prah.g_00322	Prah.g_00321
+OG0000012	N6	n19	1.0	Non-Terminal	Prap.g_01163, Prak.g_00566, Prbf.g_01887, Prbg.g_00324, Prbn.g_00510, Prbe.g_00529, Pram.g_00542, Prbh.g_00225, Prat.g_00567, Pral.g_00484, Prbk.g_01150, Prbl.g_01755, Prbj.g_01761, Prah.g_01397, Praf.g_00760, Prbb.g_00605, Praj.g_00592, Prbc.g_01681, Prbm.g_00635	Praj.g_00585, Prbb.g_00598, Prbm.g_00628, Prah.g_01405, Prbc.g_01674, Prbg.g_00317, Prbh.g_00232, Prbn.g_00517, Prap.g_01170, Pram.g_00535, Pral.g_00491, Prak.g_00559, Prbf.g_01880, Prbj.g_01769, Prbl.g_01763, Prbk.g_01142, Praf.g_00752, Prat.g_00560, Prbe.g_00536
+OG0000013	N0	n3	0.1	Non-Terminal	Prao.g_00703, Prbd.g_00065, Prae.g_00769, Prbi.g_00810, Praa.g_00765, Prav.g_00363	Prag.g_00765, Praw.g_01738, Prav.g_00961, Prae.g_01235, Prax.g_00523, Prbd.g_00826, Pran.g_01394, Prab.g_00789, Praq.g_00065, Prac.g_00898, Prar.g_01179, Prbi.g_01304, Prai.g_01243, Pras.g_00127, Pray.g_00309, Praz.g_01551, Prba.g_01538, Prau.g_00817
+OG0000013	Prbm	n29	1.0	Terminal	Prbm.g_01427	Prbm.g_01149
+OG0000013	N0	n31	0.2	Non-Terminal	Prbn.g_01684, Prbe.g_01046, Prap.g_01840, Prbg.g_01589, Prak.g_01584, Prbf.g_00754, Prbh.g_01869, Pram.g_01545, Pral.g_01813	Prap.g_01794, Prbe.g_01000, Prbg.g_01635, Prbn.g_01730, Prbf.g_00708, Prak.g_01630, Prbh.g_00840, Pram.g_00696, Praf.g_01030, Prax.g_00410, Praf.g_01033, Prbl.g_01566, Prbk.g_02558, Prbj.g_02502, Praf.g_01618, Prah.g_01155, Prah.g_00576
+OG0000013	N0	n48	0.025	Non-Terminal	Praf.g_01030	Prax.g_00410, Praf.g_01033, Prbl.g_01566, Prbk.g_02558, Prbj.g_02502, Praf.g_01618, Prah.g_01155, Prah.g_00576
+OG0000013	N0	n49	0.025	Non-Terminal	Prax.g_00410, Praf.g_01033	Prbl.g_01566, Prbk.g_02558, Prbj.g_02502, Praf.g_01618, Prah.g_01155, Prah.g_00576
+OG0000013	Prah	n55	1.0	Terminal	Prah.g_01155	Prah.g_00576
+OG0000014	N18	n4	0.8	Non-Terminal	Pral.g_00039, Prbf.g_00774, Prbe.g_01121, Prbn.g_01664, Prbg.g_01569, Prap.g_01860, Prak.g_01564, Prat.g_01548	Prbg.g_00721, Prbn.g_00139, Prap.g_01912, Prbe.g_00012, Prak.g_01521, Prbf.g_00817, Pral.g_01036, Prat.g_01474
+OG0000014	N0	n19	0.3	Non-Terminal	Prai.g_00904, Pran.g_00583, Prab.g_01616, Prab.g_00914, Prbd.g_01832, Prax.g_01916, Praw.g_00962, Prag.g_01336, Prbi.g_01374, Prad.g_00353, Pras.g_00185, Prau.g_01353, Praz.g_01197, Prba.g_01175, Prao.g_01293, Praa.g_01301, Prae.g_01311, Pray.g_01887, Prad.g_01298, Praw.g_00492, Prag.g_01646, Prav.g_01416	Prao.g_00576, Prba.g_00991, Pray.g_00960, Praz.g_01858, Prae.g_00444, Prbi.g_00472, Prbd.g_00772, Praa.g_00470, Pras.g_01348, Praq.g_00521, Prar.g_00520, Prac.g_01074, Prav.g_01068, Prag.g_00449, Praw.g_00677
+OG0000014	Prab	n24	1.0	Terminal	Prab.g_01616	Prab.g_00914
+OG0000014	N4	n25	0.2	Non-Terminal	Prbd.g_01832, Prax.g_01916, Praw.g_00962, Prag.g_01336, Prbi.g_01374, Prad.g_00353, Pras.g_00185, Prau.g_01353, Praz.g_01197, Prba.g_01175, Prao.g_01293, Praa.g_01301, Prae.g_01311, Pray.g_01887	Prad.g_01298, Praw.g_00492, Prag.g_01646
+OG0000015	N1	n4	0.16666666666666666	Non-Terminal	Pras.g_00539, Prad.g_00951, Prau.g_01284	Prac.g_01151, Prar.g_00443, Praq.g_01161, Prad.g_00728, Praz.g_00792, Pray.g_00860, Prba.g_00876, Prau.g_00385, Prae.g_00381, Praa.g_00380, Prbd.g_00856, Pras.g_01235, Prao.g_00515, Prbi.g_00406, Prav.g_00998, Praw.g_00752, Prag.g_00374, Prax.g_00793
+OG0000015	N6	n24	0.10526315789473684	Non-Terminal	Prbh.g_01817, Pram.g_01597	Prbc.g_00125, Praj.g_01148, Prbb.g_01189, Prbm.g_01164, Pral.g_01887, Prat.g_00615, Prbh.g_01945, Pram.g_00618, Prbm.g_01415, Prbc.g_00037, Prbc.g_00013, Pral.g_00062, Prat.g_01580, Prak.g_01573, Prbf.g_00765, Prbn.g_01673, Prbe.g_01130, Prbg.g_01578, Prap.g_01851, Prap.g_01818, Prbe.g_01024, Prak.g_01606, Prbg.g_01611, Prbf.g_00732, Prbn.g_01706, Prat.g_00639, Prbh.g_00806, Pram.g_00662
+OG0000015	N6	n26	0.3157894736842105	Non-Terminal	Prbc.g_00125, Praj.g_01148, Prbb.g_01189, Prbm.g_01164, Pral.g_01887, Prat.g_00615, Prbh.g_01945, Pram.g_00618	Prbm.g_01415, Prbc.g_00037, Prbc.g_00013, Pral.g_00062, Prat.g_01580, Prak.g_01573, Prbf.g_00765, Prbn.g_01673, Prbe.g_01130, Prbg.g_01578, Prap.g_01851, Prap.g_01818, Prbe.g_01024, Prak.g_01606, Prbg.g_01611, Prbf.g_00732, Prbn.g_01706, Prat.g_00639, Prbh.g_00806, Pram.g_00662
+OG0000015	Prbc	n37	1.0	Terminal	Prbc.g_00037	Prbc.g_00013
+OG0000015	N18	n38	0.1	Non-Terminal	Pral.g_00062, Prat.g_01580, Prak.g_01573, Prbf.g_00765, Prbn.g_01673, Prbe.g_01130, Prbg.g_01578, Prap.g_01851, Prap.g_01818, Prbe.g_01024, Prak.g_01606, Prbg.g_01611, Prbf.g_00732, Prbn.g_01706	Prat.g_00639
+OG0000015	N31	n41	1.0	Non-Terminal	Prak.g_01573, Prbf.g_00765, Prbn.g_01673, Prbe.g_01130, Prbg.g_01578, Prap.g_01851	Prap.g_01818, Prbe.g_01024, Prak.g_01606, Prbg.g_01611, Prbf.g_00732, Prbn.g_01706
+OG0000016	N12	n8	0.9333333333333333	Non-Terminal	Prap.g_00510, Prbn.g_01135, Prbe.g_01603, Prbg.g_01540, Prbf.g_00864, Prak.g_01226, Prbh.g_01333, Prbl.g_00007, Prbj.g_00740, Prbk.g_01746, Prah.g_01007, Praf.g_01108, Pral.g_01861, Prat.g_00647	Prbe.g_00214, Prbn.g_00885, Prap.g_00218, Prbf.g_00254, Prak.g_01488, Prbg.g_00688, Prbh.g_00194, Pram.g_01283, Prah.g_01048, Prbk.g_01786, Prbj.g_00778, Prbl.g_00046, Praf.g_01143, Prat.g_01452, Pral.g_01063
+OG0000017	N0	n5	0.125	Non-Terminal	Prax.g_01708, Praa.g_01496, Prbd.g_01669, Prag.g_01510, Praw.g_00357, Praq.g_00314, Prar.g_00827, Prac.g_00391, Prba.g_00693, Pray.g_01702, Praz.g_01021, Prav.g_01598, Pras.g_00370, Prau.g_01551, Prae.g_01479, Prbi.g_01611, Prao.g_01417, Prad.g_00494	Prac.g_01901, Prar.g_00589, Praq.g_01246, Pras.g_00886, Prau.g_00040, Pral.g_01139, Prat.g_01375, Prbn.g_01690, Prbg.g_01595, Prbe.g_01040, Prak.g_01590, Prbf.g_00748, Prap.g_01834, Prbh.g_01834, Pram.g_01580, Pral.g_00066, Prbh.g_00120, Pram.g_01357, Prbe.g_00290, Prbf.g_00178, Prbg.g_00612, Prak.g_01412, Prap.g_00142, Prbn.g_00233, Praf.g_01828, Prbk.g_01230, Prbl.g_00691, Prbj.g_00638, Prah.g_00381
+OG0000017	N18	n29	0.1	Non-Terminal	Pral.g_01139, Prat.g_01375	Prbn.g_01690, Prbg.g_01595, Prbe.g_01040, Prak.g_01590, Prbf.g_00748, Prap.g_01834, Prbh.g_01834, Pram.g_01580, Pral.g_00066, Prbh.g_00120, Pram.g_01357, Prbe.g_00290, Prbf.g_00178, Prbg.g_00612, Prak.g_01412, Prap.g_00142, Prbn.g_00233
+OG0000017	N18	n31	0.8	Non-Terminal	Prbn.g_01690, Prbg.g_01595, Prbe.g_01040, Prak.g_01590, Prbf.g_00748, Prap.g_01834, Prbh.g_01834, Pram.g_01580, Pral.g_00066	Prbh.g_00120, Pram.g_01357, Prbe.g_00290, Prbf.g_00178, Prbg.g_00612, Prak.g_01412, Prap.g_00142, Prbn.g_00233
+OG0000018	Prai	n4	1.0	Terminal	Prai.g_00252	Prai.g_00254
+OG0000018	N11	n8	0.5	Non-Terminal	Prbb.g_01560, Prbb.g_01328, Prbm.g_01588, Prbm.g_01236	Prbm.g_00302, Prbc.g_02202, Praj.g_01505, Praj.g_01281, Praj.g_00282, Prbb.g_00299
+OG0000018	Prbb	n10	1.0	Terminal	Prbb.g_01560	Prbb.g_01328
+OG0000018	Prbm	n11	1.0	Terminal	Prbm.g_01588	Prbm.g_01236
+OG0000018	N21	n14	0.5	Non-Terminal	Praj.g_01505	Praj.g_01281, Praj.g_00282, Prbb.g_00299
+OG0000018	N21	n15	0.5	Non-Terminal	Praj.g_01281	Praj.g_00282, Prbb.g_00299
+OG0000018	Pras	n22	1.0	Terminal	Pras.g_00148	Pras.g_01093
+OG0000018	N9	n23	0.08333333333333333	Non-Terminal	Praa.g_01245	Prax.g_01972, Praz.g_00601, Praa.g_00241, Prae.g_00244, Prbi.g_00265, Prau.g_01316, Prao.g_00379, Prbd.g_00998, Prad.g_01750, Prba.g_00460
+OG0000018	Prag	n34	1.0	Terminal	Prag.g_00234	Prag.g_01231
+OG0000018	Praf	n48	1.0	Terminal	Praf.g_00396	Praf.g_01719
+OG0000018	Prah	n51	1.0	Terminal	Prah.g_00475	Prah.g_01767
+OG0000019	N1	n4	0.7777777777777778	Non-Terminal	Pray.g_01578, Prba.g_00245, Praz.g_00896, Prax.g_01587, Praa.g_01623, Prbd.g_01546, Prae.g_01600, Prau.g_01680, Pras.g_00507, Prbi.g_01742, Praw.g_00479, Prag.g_01633, Prad.g_01981, Prao.g_01346	Prao.g_00500, Praz.g_00810, Pray.g_00842, Prba.g_00858, Praa.g_00364, Prax.g_00808, Prbi.g_00389, Pras.g_01218, Prae.g_00364, Prbd.g_00874, Prar.g_00425, Prac.g_01169, Praq.g_01179, Prau.g_00367, Prad.g_00745, Praw.g_00767, Prag.g_00359, Prav.g_00984
+OG0000020	N0	n2	0.25	Non-Terminal	Prbb.g_00325, Prbc.g_01165, Praj.g_00308, Prbm.g_00329, Pral.g_00768, Prat.g_00278, Prbj.g_01393, Prbk.g_00405, Prbl.g_01465, Praf.g_02267, Prah.g_02122, Pran.g_01772, Prab.g_00411, Prbd.g_00439, Prax.g_00173, Prbe.g_00906, Prap.g_00548, Prbn.g_01097, Prbf.g_00039, Prbg.g_00464, Prak.g_01264	Pras.g_01227, Praz.g_00800, Prba.g_00868, Pray.g_00852, Prau.g_00377, Prax.g_00799, Prbi.g_00398, Praa.g_00373, Prar.g_00435, Praq.g_01169, Prac.g_01159, Prad.g_00735, Prav.g_00993, Praw.g_00758, Prag.g_00368, Prao.g_00509, Prae.g_00374, Prbd.g_00864, Prai.g_00387, Pran.g_01820, Prab.g_00363, Prax.g_00512, Prag.g_01658, Praw.g_00504, Prap.g_01439, Prak.g_00289, Prbe.g_01825, Prbg.g_00050, Prbf.g_01611, Prbn.g_00038
+OG0000020	N0	n24	0.075	Non-Terminal	Pras.g_01227, Praz.g_00800, Prba.g_00868, Pray.g_00852, Prau.g_00377, Prax.g_00799, Prbi.g_00398, Praa.g_00373, Prar.g_00435, Praq.g_01169, Prac.g_01159, Prad.g_00735, Prav.g_00993, Praw.g_00758, Prag.g_00368, Prao.g_00509, Prae.g_00374, Prbd.g_00864, Prai.g_00387, Pran.g_01820, Prab.g_00363	Prax.g_00512, Prag.g_01658, Praw.g_00504
+OG0000021	N6	n20	0.3157894736842105	Non-Terminal	Prbc.g_00543, Pram.g_01544, Prbh.g_01870, Prbb.g_01626, Praj.g_01335, Prbc.g_00075, Prbm.g_01262, Prbb.g_01379, Praj.g_00976, Prbc.g_02065, Prbm.g_01017, Prbb.g_01020, Prbc.g_02064, Prbb.g_01019, Prbm.g_01016, Praj.g_00975	Prbh.g_00788, Pram.g_00644, Prak.g_01627, Prbg.g_01632, Prbe.g_01003, Prbf.g_00711, Prap.g_01797, Prbn.g_01727, Pral.g_00090, Praj.g_01051, Prbm.g_01091, Prbb.g_01096, Prbc.g_02139, Prbb.g_01362, Prbc.g_00059, Praj.g_01316
+OG0000021	N6	n21	0.05263157894736842	Non-Terminal	Prbc.g_00543	Pram.g_01544, Prbh.g_01870, Prbb.g_01626, Praj.g_01335, Prbc.g_00075, Prbm.g_01262, Prbb.g_01379, Praj.g_00976, Prbc.g_02065, Prbm.g_01017, Prbb.g_01020, Prbc.g_02064, Prbb.g_01019, Prbm.g_01016, Praj.g_00975
+OG0000021	N11	n24	0.25	Non-Terminal	Prbb.g_01626	Praj.g_01335, Prbc.g_00075, Prbm.g_01262, Prbb.g_01379, Praj.g_00976, Prbc.g_02065, Prbm.g_01017, Prbb.g_01020, Prbc.g_02064, Prbb.g_01019, Prbm.g_01016, Praj.g_00975
+OG0000021	N11	n25	1.0	Non-Terminal	Praj.g_01335, Prbc.g_00075, Prbm.g_01262, Prbb.g_01379, Praj.g_00976, Prbc.g_02065, Prbm.g_01017, Prbb.g_01020	Prbc.g_02064, Prbb.g_01019, Prbm.g_01016, Praj.g_00975
+OG0000021	N11	n26	1.0	Non-Terminal	Praj.g_01335, Prbc.g_00075, Prbm.g_01262, Prbb.g_01379	Praj.g_00976, Prbc.g_02065, Prbm.g_01017, Prbb.g_01020
+OG0000021	N11	n45	0.75	Non-Terminal	Praj.g_01051, Prbm.g_01091, Prbb.g_01096, Prbc.g_02139	Prbb.g_01362, Prbc.g_00059, Praj.g_01316
+OG0000022	Prab	n3	1.0	Terminal	Prab.g_01617	Prab.g_00915
+OG0000022	N1	n4	0.1111111111111111	Non-Terminal	Prag.g_01647, Praw.g_00493	Prbd.g_01833, Prau.g_01352, Prbi.g_01373, Prae.g_01310, Prax.g_01917, Praa.g_01300, Praz.g_01198, Praq.g_00117, Prac.g_00159, Prar.g_00971, Pray.g_01888, Prba.g_01174, Pras.g_00184, Prao.g_01294, Prav.g_01736, Praw.g_00961, Prag.g_01335, Praw.g_01782, Prag.g_00719, Prav.g_01415, Prad.g_00352
+OG0000022	N8	n21	0.3333333333333333	Non-Terminal	Prav.g_01736	Praw.g_00961, Prag.g_01335, Praw.g_01782, Prag.g_00719, Prav.g_01415
+OG0000022	N8	n22	0.6666666666666666	Non-Terminal	Praw.g_00961, Prag.g_01335	Praw.g_01782, Prag.g_00719, Prav.g_01415
+OG0000022	Prai	n27	1.0	Terminal	Prai.g_00905	Prai.g_01772
+OG0000022	N11	n32	1.0	Non-Terminal	Praj.g_01076, Prbc.g_02163, Prbm.g_01115, Prbb.g_01119	Prbm.g_00437, Prbb.g_01243, Prbm.g_01381, Prbc.g_00103, Praj.g_01308, Praj.g_01201, Prbb.g_01400, Prbm.g_01228, Praj.g_01271, Prbm.g_01312, Prbm.g_01408, Praj.g_01356, Praj.g_00419, Prbb.g_00433, Prbb.g_01353, Prbb.g_01318
+OG0000022	N11	n36	0.75	Non-Terminal	Prbm.g_00437, Prbb.g_01243, Prbm.g_01381, Prbc.g_00103, Praj.g_01308, Praj.g_01201, Prbb.g_01400, Prbm.g_01228, Praj.g_01271, Prbm.g_01312	Prbm.g_01408, Praj.g_01356, Praj.g_00419, Prbb.g_00433, Prbb.g_01353, Prbb.g_01318
+OG0000022	N11	n37	0.5	Non-Terminal	Prbm.g_00437, Prbb.g_01243, Prbm.g_01381, Prbc.g_00103, Praj.g_01308, Praj.g_01201, Prbb.g_01400, Prbm.g_01228	Praj.g_01271, Prbm.g_01312
+OG0000022	N11	n38	0.25	Non-Terminal	Prbm.g_00437	Prbb.g_01243, Prbm.g_01381, Prbc.g_00103, Praj.g_01308, Praj.g_01201, Prbb.g_01400, Prbm.g_01228
+OG0000022	N11	n39	0.75	Non-Terminal	Prbb.g_01243, Prbm.g_01381, Prbc.g_00103, Praj.g_01308	Praj.g_01201, Prbb.g_01400, Prbm.g_01228
+OG0000022	Praj	n48	1.0	Terminal	Praj.g_01356	Praj.g_00419
+OG0000022	Prbb	n49	1.0	Terminal	Prbb.g_00433	Prbb.g_01353, Prbb.g_01318
+OG0000022	Prbb	n50	1.0	Terminal	Prbb.g_01353	Prbb.g_01318
+OG0000023	N0	n0	0.35	Non-Terminal	Prbm.g_01235, Prbm.g_01400, Prbc.g_01344, Pras.g_00157, Praa.g_01264, Pray.g_01920, Praz.g_01230, Prba.g_01142, Prax.g_01950, Prae.g_01270, Prbd.g_01887, Prau.g_01324, Prad.g_00317, Prao.g_01342, Prbi.g_01338, Prbh.g_00377, Pram.g_00390, Prap.g_00216, Prbn.g_00887, Prbg.g_00686, Prak.g_01486, Prbe.g_00216, Prbf.g_00252, Prat.g_01451, Pral.g_01065, Pral.g_01163, Pram.g_01573, Prbh.g_01841	Pram.g_01284, Prbh.g_00193, Prai.g_01578, Prab.g_01584, Pran.g_00615, Prao.g_01507, Praq.g_00017, Prac.g_00301, Prar.g_00737, Prbi.g_01701, Pras.g_00463, Prau.g_01641, Prad.g_00401, Prae.g_01572, Praw.g_00447, Prag.g_01600, Prav.g_01688, Praa.g_01589, Prax.g_01617, Prbd.g_01576, Prba.g_00276, Pray.g_01610, Praz.g_00929
+OG0000023	Prbm	n3	1.0	Terminal	Prbm.g_01235	Prbm.g_01400
+OG0000023	N18	n16	0.3	Non-Terminal	Prbh.g_00377, Pram.g_00390, Prap.g_00216, Prbn.g_00887, Prbg.g_00686, Prak.g_01486, Prbe.g_00216, Prbf.g_00252, Prat.g_01451, Pral.g_01065	Pral.g_01163, Pram.g_01573, Prbh.g_01841
+OG0000024	N0	n7	0.15	Non-Terminal	Prak.g_00325, Prbf.g_01647, Prbe.g_01861, Prap.g_01403, Prbg.g_00086, Prbn.g_00074, Pram.g_00295, Prbh.g_00472, Prat.g_00314, Pral.g_00732, Praj.g_00341, Prbm.g_00362, Prbc.g_01198, Prbb.g_00357, Prbj.g_01442, Prbl.g_01416, Prbk.g_00454, Praf.g_02319, Prah.g_02171	Prbc.g_00680, Pras.g_00304, Prae.g_01401, Prat.g_01267, Praf.g_00112, Prau.g_01470, Pral.g_01261, Prbm.g_02126, Praj.g_01609
+OG0000025	N0	n3	0.175	Non-Terminal	Prae.g_01077, Pras.g_01969, Prbd.g_00375, Prax.g_01240, Prba.g_01229, Praz.g_00101, Pray.g_00619, Prau.g_01123, Prad.g_00985, Prar.g_01940, Prac.g_01220, Praq.g_01654, Prao.g_01012, Prav.g_00247, Prag.g_01071, Praw.g_01432, Praa.g_01075, Prbi.g_01122, Pran.g_00149, Prab.g_01130	Pray.g_00883, Prba.g_00899, Praz.g_00769, Prav.g_01013, Pran.g_00936, Prab.g_01635, Prab.g_00394, Pran.g_01789, Prax.g_00448, Pral.g_01829, Prbf.g_00845, Prak.g_00741, Prbg.g_01055, Prbn.g_01937, Prap.g_00667, Prbe.g_00098, Prbh.g_00850, Pram.g_00706, Prat.g_00685, Praj.g_00099, Prbb.g_00116, Prbc.g_00513, Prbm.g_00118, Prbm.g_01485, Prbc.g_01383, Praj.g_01398, Prbb.g_01452
+OG0000025	N10	n30	1.0	Non-Terminal	Pran.g_00936, Prab.g_01635	Prab.g_00394, Pran.g_01789
+OG0000025	N11	n42	1.0	Non-Terminal	Praj.g_00099, Prbb.g_00116, Prbc.g_00513, Prbm.g_00118	Prbm.g_01485, Prbc.g_01383, Praj.g_01398, Prbb.g_01452
+OG0000026	N0	n5	0.15	Non-Terminal	Pras.g_00875, Prau.g_00032, Prbi.g_00033, Prax.g_00280, Prao.g_00179, Praw.g_01395, Prag.g_00033, Prav.g_00101, Prbd.g_01204, Praa.g_00033, Prae.g_00033, Prac.g_01914, Prar.g_00005, Praq.g_01236, Prac.g_01913, Praq.g_01237, Prar.g_00004, Praz.g_00398, Prba.g_01826, Pray.g_01495, Prad.g_01953, Prai.g_00033, Prab.g_00033, Pran.g_00391	Pral.g_00435, Prbh.g_01401, Pram.g_01258, Prbg.g_00730, Prbn.g_00130, Prbe.g_00021, Prap.g_01903, Prbf.g_00808, Prak.g_01530, Prat.g_01516, Prai.g_01261, Prau.g_01295, Prad.g_00081, Prac.g_00908, Prar.g_01189, Praq.g_00075
+OG0000026	N3	n20	1.0	Non-Terminal	Prac.g_01914, Prar.g_00005, Praq.g_01236	Prac.g_01913, Praq.g_01237, Prar.g_00004
+OG0000027	N0	n2	0.05	Non-Terminal	Prav.g_01309, Prai.g_01266	Prbc.g_02158, Prbm.g_01110, Prbb.g_01114, Praj.g_01070, Prbm.g_01461, Prbm.g_01445, Prbc.g_00045, Prbb.g_01127, Praj.g_01084, Prbm.g_01124, Prbc.g_02171, Prai.g_01549, Prar.g_00761, Prac.g_00325, Praq.g_00381, Prau.g_01618, Pras.g_00440, Prba.g_00301, Prad.g_00427, Prbd.g_01601, Prae.g_01546, Pray.g_01635, Praz.g_00954, Praa.g_01564, Prax.g_01641, Prbi.g_01677, Prao.g_01483, Prbd.g_00034, Praa.g_00738, Prax.g_00441, Pras.g_01634, Prau.g_00788, Prbi.g_00778, Praz.g_01580, Prba.g_01567, Pray.g_00280, Prae.g_00738, Prar.g_01626, Praq.g_00610, Prac.g_01533, Prao.g_00675, Praw.g_01773, Prag.g_00730, Prav.g_00333, Prad.g_01078
+OG0000027	N0	n4	0.375	Non-Terminal	Prbc.g_02158, Prbm.g_01110, Prbb.g_01114, Praj.g_01070, Prbm.g_01461, Prbm.g_01445, Prbc.g_00045, Prbb.g_01127, Praj.g_01084, Prbm.g_01124, Prbc.g_02171, Prai.g_01549, Prar.g_00761, Prac.g_00325, Praq.g_00381, Prau.g_01618, Pras.g_00440, Prba.g_00301, Prad.g_00427, Prbd.g_01601, Prae.g_01546, Pray.g_01635, Praz.g_00954, Praa.g_01564, Prax.g_01641, Prbi.g_01677, Prao.g_01483	Prbd.g_00034, Praa.g_00738, Prax.g_00441, Pras.g_01634, Prau.g_00788, Prbi.g_00778, Praz.g_01580, Prba.g_01567, Pray.g_00280, Prae.g_00738, Prar.g_01626, Praq.g_00610, Prac.g_01533, Prao.g_00675, Praw.g_01773, Prag.g_00730, Prav.g_00333, Prad.g_01078
+OG0000027	N11	n6	1.0	Non-Terminal	Prbc.g_02158, Prbm.g_01110, Prbb.g_01114, Praj.g_01070, Prbm.g_01461, Prbm.g_01445, Prbc.g_00045	Prbb.g_01127, Praj.g_01084, Prbm.g_01124, Prbc.g_02171
+OG0000027	N11	n7	0.5	Non-Terminal	Prbc.g_02158, Prbm.g_01110, Prbb.g_01114, Praj.g_01070	Prbm.g_01461, Prbm.g_01445, Prbc.g_00045
+OG0000027	Prbm	n12	1.0	Terminal	Prbm.g_01461	Prbm.g_01445
+OG0000028	N0	n31	0.225	Non-Terminal	Prbi.g_01589, Prau.g_01528, Prag.g_01488, Praw.g_01083, Prax.g_01733, Prat.g_01352, Pral.g_01165, Prbh.g_00096, Pram.g_01381	Pram.g_01378, Prbh.g_00099, Prat.g_01353, Pral.g_01161, Praw.g_01081, Prag.g_01490, Prau.g_01531, Prax.g_01728, Prbi.g_01591
+OG0000029	N6	n9	0.05263157894736842	Non-Terminal	Prbm.g_00772	Pral.g_01164, Praj.g_01276, Prbb.g_01324, Prbc.g_02181, Prbm.g_01414, Prbm.g_01387, Praj.g_01675, Prbc.g_00752, Prbb.g_01729, Prbm.g_01753, Pral.g_01114, Prat.g_01400
+OG0000029	N6	n10	0.2631578947368421	Non-Terminal	Pral.g_01164, Praj.g_01276, Prbb.g_01324, Prbc.g_02181, Prbm.g_01414, Prbm.g_01387	Praj.g_01675, Prbc.g_00752, Prbb.g_01729, Prbm.g_01753, Pral.g_01114, Prat.g_01400
+OG0000029	Prbm	n15	1.0	Terminal	Prbm.g_01414	Prbm.g_01387
+OG0000029	N0	n21	0.175	Non-Terminal	Prac.g_00300, Praq.g_00018, Prar.g_00736, Prab.g_01585, Pran.g_00614, Prai.g_01579, Prae.g_01573, Prax.g_01616, Praa.g_01590, Prba.g_00275, Pray.g_01609, Praz.g_00928, Prbi.g_01702, Prbd.g_01575, Prao.g_01508, Prav.g_01689, Praw.g_00448, Prag.g_01601, Pras.g_00464, Prau.g_01642, Prad.g_00400	Prad.g_00952, Pras.g_00538, Prau.g_01285, Prav.g_01881, Prac.g_00890, Prar.g_01170, Praq.g_00056
+OG0000030	N0	n3	0.1	Non-Terminal	Praf.g_01757, Prae.g_00039, Prbb.g_01563, Prbb.g_01663, Prbm.g_01289, Prbm.g_01287, Prbm.g_00529, Prbm.g_01982, Prbb.g_01808, Prbm.g_00532, Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595, Prbm.g_01985, Prbb.g_01954, Praj.g_01595	Prad.g_00073, Pray.g_01501, Prat.g_01473, Praz.g_00404, Prba.g_01832, Pray.g_00245, Prae.g_00040, Prar.g_00593, Praq.g_01242, Prac.g_01905, Praw.g_01390, Prag.g_00038, Prbm.g_00528, Pral.g_01006, Prbi.g_01743, Praa.g_00038, Prbm.g_00036, Praj.g_01902, Prbb.g_01562, Prbb.g_01570, Prbb.g_00045, Prbm.g_00530, Prbi.g_00047, Prab.g_01280, Pran.g_01952, Praa.g_01221, Prax.g_01976, Prad.g_01995
+OG0000030	N0	n6	0.025	Non-Terminal	Prae.g_00039, Prbb.g_01563, Prbb.g_01663, Prbm.g_01289, Prbm.g_01287, Prbm.g_00529, Prbm.g_01982, Prbb.g_01808, Prbm.g_00532, Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595, Prbm.g_01985	Prbb.g_01954
+OG0000030	N11	n8	0.25	Non-Terminal	Prbb.g_01563	Prbb.g_01663, Prbm.g_01289, Prbm.g_01287, Prbm.g_00529, Prbm.g_01982, Prbb.g_01808, Prbm.g_00532, Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595, Prbm.g_01985
+OG0000030	N11	n9	0.5	Non-Terminal	Prbb.g_01663, Prbm.g_01289, Prbm.g_01287	Prbm.g_00529, Prbm.g_01982, Prbb.g_01808, Prbm.g_00532, Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595, Prbm.g_01985
+OG0000030	Prbm	n11	1.0	Terminal	Prbm.g_01289	Prbm.g_01287
+OG0000030	N11	n12	0.25	Non-Terminal	Prbm.g_00529, Prbm.g_01982, Prbb.g_01808, Prbm.g_00532, Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595	Prbm.g_01985
+OG0000030	N11	n13	0.25	Non-Terminal	Prbm.g_00529, Prbm.g_01982	Prbb.g_01808, Prbm.g_00532, Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595
+OG0000030	Prbm	n14	1.0	Terminal	Prbm.g_00529	Prbm.g_01982
+OG0000030	N11	n15	0.5	Non-Terminal	Prbb.g_01808, Prbm.g_00532	Prbb.g_01806, Prbb.g_00046, Prbm.g_01828, Prbm.g_01595
+OG0000030	Prbb	n18	1.0	Terminal	Prbb.g_01806	Prbb.g_00046
+OG0000030	Prbm	n19	1.0	Terminal	Prbm.g_01828	Prbm.g_01595
+OG0000030	N0	n20	0.025	Non-Terminal	Prad.g_00073	Pray.g_01501, Prat.g_01473, Praz.g_00404, Prba.g_01832, Pray.g_00245, Prae.g_00040, Prar.g_00593, Praq.g_01242, Prac.g_01905, Praw.g_01390, Prag.g_00038, Prbm.g_00528, Pral.g_01006, Prbi.g_01743, Praa.g_00038, Prbm.g_00036, Praj.g_01902, Prbb.g_01562, Prbb.g_01570, Prbb.g_00045, Prbm.g_00530, Prbi.g_00047, Prab.g_01280, Pran.g_01952, Praa.g_01221, Prax.g_01976, Prad.g_01995
+OG0000030	N0	n21	0.025	Non-Terminal	Pray.g_01501	Prat.g_01473, Praz.g_00404, Prba.g_01832, Pray.g_00245, Prae.g_00040, Prar.g_00593, Praq.g_01242, Prac.g_01905, Praw.g_01390, Prag.g_00038, Prbm.g_00528, Pral.g_01006, Prbi.g_01743, Praa.g_00038, Prbm.g_00036, Praj.g_01902, Prbb.g_01562, Prbb.g_01570, Prbb.g_00045, Prbm.g_00530, Prbi.g_00047, Prab.g_01280, Pran.g_01952, Praa.g_01221, Prax.g_01976, Prad.g_01995
+OG0000030	N0	n22	0.025	Non-Terminal	Prat.g_01473, Praz.g_00404, Prba.g_01832, Pray.g_00245, Prae.g_00040, Prar.g_00593, Praq.g_01242, Prac.g_01905, Praw.g_01390, Prag.g_00038, Prbm.g_00528, Pral.g_01006, Prbi.g_01743, Praa.g_00038, Prbm.g_00036, Praj.g_01902, Prbb.g_01562, Prbb.g_01570, Prbb.g_00045, Prbm.g_00530, Prbi.g_00047	Prab.g_01280, Pran.g_01952, Praa.g_01221, Prax.g_01976, Prad.g_01995
+OG0000030	N0	n33	0.025	Non-Terminal	Prbm.g_00528	Pral.g_01006, Prbi.g_01743, Praa.g_00038, Prbm.g_00036, Praj.g_01902, Prbb.g_01562, Prbb.g_01570, Prbb.g_00045, Prbm.g_00530, Prbi.g_00047
+OG0000030	N0	n34	0.05	Non-Terminal	Pral.g_01006, Prbi.g_01743, Praa.g_00038, Prbm.g_00036, Praj.g_01902, Prbb.g_01562, Prbb.g_01570, Prbb.g_00045	Prbm.g_00530, Prbi.g_00047
+OG0000030	Prbb	n40	1.0	Terminal	Prbb.g_01562, Prbb.g_01570	Prbb.g_00045
+OG0000030	Prbb	n41	1.0	Terminal	Prbb.g_01562	Prbb.g_01570
+OG0000031	N0	n1	0.225	Non-Terminal	Prbi.g_01281, Prai.g_01263, Prau.g_01681, Praw.g_00491, Prag.g_01645, Pras.g_00508, Pral.g_00095, Prbc.g_00095, Prbm.g_01276, Praj.g_01347, Prbb.g_01391, Prbf.g_00340, Prbe.g_00720, Prbn.g_00809, Prbg.g_00408, Prak.g_00667, Prap.g_00611, Prbm.g_01267, Prbc.g_00088, Prbb.g_01383, Praj.g_01339, Praf.g_01022, Prah.g_01166, Prbj.g_00705, Prbl.g_01677, Prbk.g_01709, Prab.g_01643, Pran.g_00944, Prbd.g_01544, Prau.g_01275, Prae.g_01602	Prab.g_01304, Pran.g_00898, Prai.g_00434, Prba.g_01168, Prad.g_00342, Praz.g_01204, Pray.g_01894, Praa.g_01291, Prbi.g_01364, Prax.g_01927, Prae.g_01294, Praw.g_00955, Prag.g_01329, Prav.g_01410, Pras.g_00179, Prau.g_01347
+OG0000031	N0	n3	0.125	Non-Terminal	Prai.g_01263, Prau.g_01681, Praw.g_00491, Prag.g_01645, Pras.g_00508, Pral.g_00095, Prbc.g_00095, Prbm.g_01276, Praj.g_01347, Prbb.g_01391	Prbf.g_00340, Prbe.g_00720, Prbn.g_00809, Prbg.g_00408, Prak.g_00667, Prap.g_00611, Prbm.g_01267, Prbc.g_00088, Prbb.g_01383, Praj.g_01339, Praf.g_01022, Prah.g_01166, Prbj.g_00705, Prbl.g_01677, Prbk.g_01709, Prab.g_01643, Pran.g_00944, Prbd.g_01544, Prau.g_01275, Prae.g_01602
+OG0000032	N0	n7	0.1	Non-Terminal	Prab.g_01446, Pran.g_00753, Prau.g_01431, Prar.g_00879, Prac.g_00249, Praq.g_00209, Prax.g_01831, Pras.g_00331, Prai.g_01444, Prae.g_01391, Pram.g_01413, Prbh.g_00064, Praf.g_02400, Prbl.g_00835, Prbk.g_00534, Prbj.g_01522, Prbl.g_00830, Prbk.g_00539, Prbj.g_01527, Prah.g_02248	Prbm.g_01627, Praj.g_00371, Prbb.g_00387, Prbc.g_01228, Pral.g_01193, Prao.g_01364, Prah.g_00091, Praf.g_00101, Prbi.g_01467, Praw.g_01073, Prag.g_01446, Prao.g_01355, Praf.g_00113, Prat.g_01266, Prau.g_01469, Prae.g_01402, Prbm.g_00391, Prbm.g_00393, Prbm.g_00392
+OG0000032	N22	n22	1.0	Non-Terminal	Prbl.g_00835, Prbk.g_00534, Prbj.g_01522	Prbl.g_00830, Prbk.g_00539, Prbj.g_01527
+OG0000032	N0	n27	0.025	Non-Terminal	Prbm.g_01627, Praj.g_00371, Prbb.g_00387, Prbc.g_01228, Pral.g_01193, Prao.g_01364, Prah.g_00091, Praf.g_00101, Prbi.g_01467, Praw.g_01073, Prag.g_01446, Prao.g_01355, Praf.g_00113, Prat.g_01266, Prau.g_01469, Prae.g_01402, Prbm.g_00391, Prbm.g_00393	Prbm.g_00392
+OG0000032	N0	n34	0.05	Non-Terminal	Prao.g_01364, Prah.g_00091, Praf.g_00101	Prbi.g_01467, Praw.g_01073, Prag.g_01446, Prao.g_01355, Praf.g_00113, Prat.g_01266, Prau.g_01469, Prae.g_01402
+OG0000032	Prbm	n44	1.0	Terminal	Prbm.g_00391	Prbm.g_00393
+OG0000033	N0	n0	0.325	Non-Terminal	Praf.g_00906, Prah.g_01270, Prbe.g_01607, Prbf.g_00860, Prak.g_01230, Prap.g_00514, Prbn.g_01131, Prbg.g_01544, Pram.g_01193, Prbh.g_01336, Prat.g_01219, Prbm.g_01944, Prbb.g_01919, Praj.g_01865, Prbc.g_00929, Praw.g_00484, Prag.g_01638, Prav.g_01385, Prai.g_01573, Prab.g_01579, Pran.g_00620	Prbb.g_00014, Praj.g_00013, Prbc.g_01083, Prbm.g_00013, Prah.g_00015, Praf.g_00014, Prak.g_00013, Prat.g_00014, Prab.g_00013, Prai.g_00013, Praz.g_00378, Prba.g_01806, Pray.g_01475, Prad.g_01973, Prbi.g_00013, Prau.g_00013, Pras.g_00855, Prbd.g_01224, Prae.g_00013, Praa.g_00013, Prao.g_00160, Praw.g_01415, Prag.g_00013, Prav.g_00081, Prac.g_01934, Prar.g_00025
+OG0000034	N0	n4	0.175	Non-Terminal	Pras.g_00285, Praa.g_01447, Prbn.g_00190, Prbg.g_00569, Prap.g_00099, Prak.g_01369, Prbe.g_00333, Prbf.g_00135	Prau.g_01448, Pram.g_01436, Prbh.g_00041, Prah.g_02219, Prbj.g_01487, Prbk.g_00499, Prbl.g_00870, Praf.g_02366, Prbc.g_00518, Prbn.g_00724, Prap.g_00897, Prbg.g_00816, Prak.g_00058, Prbf.g_01380, Prbe.g_00158, Prbh.g_00727, Pram.g_00040, Praj.g_00095, Prbb.g_00112, Prbc.g_00517, Prbm.g_00114, Prat.g_00058, Pral.g_00987, Prad.g_00571, Pras.g_00096
+OG0000034	N0	n14	0.05	Non-Terminal	Pram.g_01436, Prbh.g_00041	Prah.g_02219, Prbj.g_01487, Prbk.g_00499, Prbl.g_00870, Praf.g_02366, Prbc.g_00518, Prbn.g_00724, Prap.g_00897, Prbg.g_00816, Prak.g_00058, Prbf.g_01380, Prbe.g_00158, Prbh.g_00727, Pram.g_00040, Praj.g_00095, Prbb.g_00112, Prbc.g_00517, Prbm.g_00114, Prat.g_00058, Pral.g_00987, Prad.g_00571
+OG0000034	N0	n21	0.025	Non-Terminal	Prbc.g_00518	Prbn.g_00724, Prap.g_00897, Prbg.g_00816, Prak.g_00058, Prbf.g_01380, Prbe.g_00158, Prbh.g_00727, Pram.g_00040, Praj.g_00095, Prbb.g_00112, Prbc.g_00517, Prbm.g_00114, Prat.g_00058, Pral.g_00987, Prad.g_00571
+OG0000035	N0	n2	0.35	Non-Terminal	Prbd.g_00379, Praz.g_00104, Pray.g_00622, Prba.g_01226, Prax.g_01244, Prau.g_01126, Prao.g_01015, Prar.g_01943, Prac.g_01217, Praq.g_01657, Prai.g_01097, Pran.g_00145, Prab.g_01134, Praw.g_01428, Prag.g_01075, Prav.g_00251	Prap.g_00017, Prbe.g_00074, Prbf.g_00299, Prak.g_00709, Prbg.g_00025, Prbn.g_01042, Pram.g_00681, Prbh.g_00825, Prar.g_01761, Praq.g_01475, Prac.g_01399, Pray.g_00438, Praz.g_01422, Prba.g_01409, Prbd.g_00192, Prao.g_00831, Prae.g_00894, Prbi.g_00936, Prad.g_00258, Pran.g_00415, Prab.g_01082, Prai.g_01059, Prbb.g_01449, Praj.g_01395, Prbm.g_01482, Prbc.g_01380, Prag.g_01259, Praw.g_00323, Prav.g_01877
+OG0000036	N6	n17	0.3157894736842105	Non-Terminal	Prak.g_00546, Prap.g_01183, Prbe.g_00549, Prbf.g_01867, Prbn.g_00530, Prbg.g_00304	Pram.g_01559, Prbh.g_01855, Prbg.g_01639, Prbn.g_01734, Prbf.g_00704, Prak.g_01634, Prap.g_01790, Prbe.g_00996, Pral.g_00057, Prbb.g_01882, Praj.g_01827, Prbc.g_00891, Prbm.g_01900
+OG0000037	N6	n4	0.3157894736842105	Non-Terminal	Prap.g_01145, Prbn.g_00492, Prbf.g_01905, Prak.g_00584, Prbg.g_00342, Prbe.g_00511	Prap.g_00236, Prbg.g_00706, Prbn.g_00867, Prbf.g_00272, Prak.g_01506, Prbe.g_00196, Prbc.g_02155, Prbm.g_01106, Prbb.g_01111, Praj.g_01066
+OG0000038	N12	n26	0.4	Non-Terminal	Prah.g_01209, Praf.g_00965, Prbk.g_01667, Prbl.g_01072, Prbj.g_00050, Prat.g_01448, Prbh.g_00190, Pram.g_01287, Prbe.g_00220, Prap.g_00212, Prbf.g_00248, Prak.g_01482, Prbg.g_00682, Prbn.g_00891	Praf.g_00201, Prbl.g_01310, Prbk.g_00212, Prbj.g_01572, Prah.g_00170, Prat.g_01192
+OG0000039	N0	n4	0.125	Non-Terminal	Prab.g_00157, Pran.g_00266, Prai.g_00177, Praj.g_00206, Prbm.g_00225, Prbc.g_00405, Prbb.g_00223, Prbe.g_01714, Prak.g_00178, Prap.g_01004, Prbg.g_00944, Prbn.g_01247, Prbf.g_01500, Pram.g_00151, Prbh.g_00616, Prat.g_00166, Pral.g_00878, Prah.g_02304, Praf.g_02454, Prbl.g_00281, Prbk.g_00773, Prbj.g_00521	Prbk.g_01836, Prbl.g_01838, Prbj.g_00912, Praf.g_01239, Prah.g_00957, Prba.g_00622, Pray.g_00647, Praz.g_00526
+OG0000040	N11	n10	0.75	Non-Terminal	Prbb.g_01373, Praj.g_01329, Prbc.g_00047, Prbc.g_00071	Prbm.g_01284, Prbm.g_01297, Prbc.g_00006, Praj.g_01365, Prbb.g_01411, Prbm.g_01444
+OG0000040	Prbc	n13	1.0	Terminal	Prbc.g_00047	Prbc.g_00071
+OG0000040	N11	n14	0.25	Non-Terminal	Prbm.g_01284	Prbm.g_01297, Prbc.g_00006, Praj.g_01365, Prbb.g_01411, Prbm.g_01444
+OG0000040	N11	n15	0.25	Non-Terminal	Prbm.g_01297, Prbc.g_00006	Praj.g_01365, Prbb.g_01411, Prbm.g_01444
+OG0000041	N0	n3	0.075	Non-Terminal	Pran.g_01758, Prab.g_00425, Praa.g_00417, Prai.g_00448	Pras.g_01285, Prab.g_00405, Pran.g_01778, Prbb.g_01286, Praj.g_01242, Prbc.g_01315, Prbm.g_01351, Prbg.g_01614, Prak.g_01609, Prbf.g_00729, Prbe.g_01021, Prbn.g_01709, Prap.g_01815, Prak.g_01603, Prbg.g_01608, Prbf.g_00735, Prap.g_01821, Prbe.g_01027, Prbn.g_01703, Prat.g_01552, Prbh.g_01827, Pram.g_01587, Prat.g_00613, Prav.g_01022, Praw.g_00730, Prag.g_00396, Prau.g_00458, Praa.g_00399, Prad.g_00697, Prax.g_00772, Prao.g_00532, Prbd.g_00833, Prae.g_00402, Pray.g_00910, Prba.g_01041, Praz.g_01908, Prau.g_00432, Pras.g_01296
+OG0000041	N31	n16	1.0	Non-Terminal	Prbg.g_01614, Prak.g_01609, Prbf.g_00729, Prbe.g_01021, Prbn.g_01709, Prap.g_01815	Prak.g_01603, Prbg.g_01608, Prbf.g_00735, Prap.g_01821, Prbe.g_01027, Prbn.g_01703
+OG0000041	N18	n27	0.1	Non-Terminal	Prat.g_01552	Prbh.g_01827, Pram.g_01587, Prat.g_00613
+OG0000041	N9	n34	0.08333333333333333	Non-Terminal	Prau.g_00458	Praa.g_00399, Prad.g_00697, Prax.g_00772, Prao.g_00532, Prbd.g_00833, Prae.g_00402, Pray.g_00910, Prba.g_01041, Praz.g_01908, Prau.g_00432
+OG0000042	N17	n30	1.0	Non-Terminal: STRIDE	Praf.g_01302, Prah.g_00887, Prbk.g_00619, Prbj.g_02178, Prbl.g_02567	Prbk.g_01835, Prbl.g_01839, Prbj.g_00913, Praf.g_01238, Prah.g_00958
+OG0000043	N17	n23	1.0	Non-Terminal	Prah.g_01233, Praf.g_00941, Prbl.g_01099, Prbj.g_00023, Prbk.g_01642	Prbl.g_01097, Prbk.g_01644, Prbj.g_00025, Praf.g_00943, Prah.g_01231
+OG0000044	N0	n20	0.05	Non-Terminal	Praa.g_01159, Prao.g_01089, Prbi.g_01207, Prbd.g_00468, Prau.g_01206, Pras.g_00056, Prax.g_00200, Prae.g_01163, Pray.g_00064, Praz.g_00755, Prba.g_00064, Prag.g_01153, Praw.g_00234, Praq.g_01333, Prac.g_00985, Prar.g_01263, Prav.g_00065, Prad.g_01496	Praa.g_01415, Pral.g_00639, Prae.g_01422, Prah.g_00104, Prbb.g_00874
+OG0000045	N0	n8	0.1	Non-Terminal	Prbc.g_01928, Prbb.g_00851, Praj.g_00839, Prbm.g_00881, Praq.g_00271, Prar.g_00362, Prac.g_00434, Prai.g_01859, Prae.g_01406, Prau.g_01432, Prau.g_01460	Prae.g_01417, Prbh.g_00030, Pram.g_01447, Prax.g_01823, Prac.g_00258, Praq.g_00218, Prar.g_00870, Prao.g_01191, Prag.g_01428, Praw.g_01055, Prab.g_01393, Pran.g_00807, Prbi.g_01461, Prav.g_01512, Pras.g_00291, Prbd.g_01733
+OG0000045	Prau	n18	1.0	Terminal	Prau.g_01432	Prau.g_01460
+OG0000046	N18	n26	0.6	Non-Terminal	Prbe.g_00007, Prak.g_01516, Prap.g_01917, Prbn.g_00144, Prbf.g_00822, Prbg.g_00716, Pram.g_01265, Prbh.g_01408	Prak.g_01637, Prap.g_01787, Prbf.g_00701, Prbg.g_01642, Prbn.g_01737, Prbe.g_00993, Pral.g_00099
+OG0000047	N1	n4	0.2777777777777778	Non-Terminal	Prar.g_00592, Praq.g_01243, Prac.g_01904, Pras.g_00883, Prau.g_00037	Praw.g_00039, Prae.g_01815, Prag.g_01861, Praa.g_01832, Prbd.g_01335, Prax.g_01394, Prau.g_01925, Pras.g_00743, Prbi.g_01994, Prav.g_00689, Prao.g_01743, Praz.g_00205, Pray.g_01364, Prba.g_00768, Praq.g_00763, Prac.g_00041, Prar.g_00653, Prad.g_01631
+OG0000048	N22	n14	1.0	Non-Terminal	Prbj.g_01808, Prbl.g_01236, Prbk.g_01495	Prbj.g_00001, Prbl.g_01121, Prbk.g_00140
+OG0000048	N23	n19	1.0	Non-Terminal	Prah.g_01256, Praf.g_00920	Praf.g_00164, Prah.g_00135
+OG0000049	N17	n0	1.0	Non-Terminal	Prbk.g_00240, Prbj.g_01037, Prbl.g_00261, Prah.g_00925, Prah.g_00274, Praf.g_02726, Praf.g_01259	Prah.g_01870, Prah.g_00938, Prbk.g_01100, Prbj.g_02147, Prbl.g_00746, Prbk.g_00899, Prbj.g_00849, Prbl.g_00064, Prbj.g_01133, Prbk.g_01285, Praf.g_02480, Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486, Prah.g_02367, Prbl.g_00265, Prbk.g_00789, Prbj.g_00505, Praf.g_02526, Praf.g_01194, Prah.g_00551, Prah.g_01080, Prbk.g_01943, Prbl.g_00740, Prbj.g_01104
+OG0000049	Prah	n5	1.0	Terminal	Prah.g_00925	Prah.g_00274
+OG0000049	Praf	n6	1.0	Terminal	Praf.g_02726	Praf.g_01259
+OG0000049	N17	n7	1.0	Non-Terminal	Prah.g_01870, Prah.g_00938, Prbk.g_01100, Prbj.g_02147, Prbl.g_00746, Prbk.g_00899, Prbj.g_00849, Prbl.g_00064, Prbj.g_01133, Prbk.g_01285, Praf.g_02480, Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486, Prah.g_02367, Prbl.g_00265, Prbk.g_00789, Prbj.g_00505, Praf.g_02526	Praf.g_01194, Prah.g_00551, Prah.g_01080, Prbk.g_01943, Prbl.g_00740, Prbj.g_01104
+OG0000049	N17	n8	0.2	Non-Terminal	Prah.g_01870	Prah.g_00938, Prbk.g_01100, Prbj.g_02147, Prbl.g_00746, Prbk.g_00899, Prbj.g_00849, Prbl.g_00064, Prbj.g_01133, Prbk.g_01285, Praf.g_02480, Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486, Prah.g_02367, Prbl.g_00265, Prbk.g_00789, Prbj.g_00505, Praf.g_02526
+OG0000049	N17	n9	0.8	Non-Terminal	Prah.g_00938, Prbk.g_01100, Prbj.g_02147, Prbl.g_00746, Prbk.g_00899, Prbj.g_00849	Prbl.g_00064, Prbj.g_01133, Prbk.g_01285, Praf.g_02480, Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486, Prah.g_02367, Prbl.g_00265, Prbk.g_00789, Prbj.g_00505, Praf.g_02526
+OG0000049	N22	n11	0.6666666666666666	Non-Terminal	Prbk.g_01100, Prbj.g_02147, Prbl.g_00746	Prbk.g_00899, Prbj.g_00849
+OG0000049	N17	n15	0.6	Non-Terminal	Prbl.g_00064, Prbj.g_01133, Prbk.g_01285	Praf.g_02480, Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486, Prah.g_02367, Prbl.g_00265, Prbk.g_00789, Prbj.g_00505, Praf.g_02526
+OG0000049	N17	n18	1.0	Non-Terminal	Praf.g_02480, Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486	Prah.g_02367, Prbl.g_00265, Prbk.g_00789, Prbj.g_00505, Praf.g_02526
+OG0000049	N17	n19	0.2	Non-Terminal	Praf.g_02480	Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243, Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486
+OG0000049	N17	n20	1.0	Non-Terminal	Praf.g_00332, Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114, Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243	Prah.g_00928, Prbj.g_02016, Prbk.g_02221, Prbl.g_02178, Praf.g_02486
+OG0000049	N17	n22	0.6	Non-Terminal	Prbj.g_00218, Prbk.g_02676, Prbk.g_00040, Prbj.g_01822, Prah.g_01110, Prah.g_01114	Prah.g_00931, Prbj.g_01175, Prbl.g_00106, Prbk.g_01243
+OG0000049	N29	n24	1.0	Non-Terminal: STRIDE	Prbj.g_00218, Prbk.g_02676	Prbk.g_00040, Prbj.g_01822
+OG0000049	Prah	n27	1.0	Terminal	Prah.g_01110	Prah.g_01114
+OG0000049	Prah	n41	1.0	Terminal	Prah.g_00551	Prah.g_01080
+OG0000050	N0	n1	0.1	Non-Terminal	Prao.g_00177, Prav.g_00099, Prba.g_01824, Pray.g_01493, Praz.g_00396, Praw.g_01397, Prag.g_00031, Prbd.g_01206, Prae.g_00031, Prbi.g_00031, Praa.g_00031, Prax.g_00282, Praq.g_01234, Prar.g_00007, Prac.g_01916, Prad.g_01955, Pras.g_00873, Prau.g_00030, Pran.g_00393, Prab.g_00031, Prai.g_00031	Prax.g_00458, Prav.g_01324, Prab.g_01629, Pran.g_00930
+OG0000051	N0	n31	0.1	Non-Terminal	Praq.g_00554, Prar.g_01569, Prac.g_01590, Prai.g_01288	Prau.g_00158, Prac.g_01773, Praq.g_01845, Prar.g_00170, Prad.g_01834, Pran.g_00275, Prab.g_00148, Prai.g_00168, Pras.g_01008
+OG0000052	N6	n35	0.21052631578947367	Non-Terminal	Praj.g_01156, Prbc.g_00134, Prbb.g_01197, Prbm.g_01172	Prbc.g_00641, Prbb.g_01329, Praj.g_01282, Prbm.g_01237, Prat.g_00637
+OG0000053	N12	n25	0.3333333333333333	Non-Terminal	Prbf.g_00781, Prbn.g_01657, Prap.g_01867, Prbe.g_01114, Prak.g_01557, Prbh.g_01856, Pram.g_01558	Prbl.g_00752, Prbj.g_02141, Prbk.g_01094, Praf.g_00672, Prah.g_01485, Pral.g_00551, Prap.g_01230, Prbn.g_00577, Prbe.g_00596, Prak.g_00498, Prbg.g_00256, Prbf.g_01820
+OG0000054	N0	n6	0.1	Non-Terminal	Pran.g_01408, Prab.g_00775, Prar.g_01644, Praq.g_00629, Prac.g_01515, Praw.g_01752, Prag.g_00751, Prae.g_00758, Prav.g_00354, Pras.g_01656, Prau.g_00808, Prbi.g_00799, Prax.g_00421, Pray.g_00299, Prba.g_01548, Praz.g_01561, Prao.g_00693, Prbd.g_00055, Prad.g_01099, Praa.g_00757	Prbm.g_00047, Prbc.g_01116, Praj.g_00042, Prbb.g_00053, Prbn.g_00475, Prak.g_00601, Prbg.g_00359, Prbe.g_00494, Prbf.g_01922, Prap.g_01128, Prbh.g_01897, Pram.g_01517, Pral.g_00043, Prat.g_01503, Pran.g_01379, Prab.g_00803, Prav.g_01325, Prax.g_00457
+OG0000055	N11	n36	1.0	Non-Terminal	Prbm.g_00838, Prbc.g_01882, Praj.g_00793, Prbb.g_00807	Prbc.g_00153, Praj.g_01176, Prbb.g_01218, Prbm.g_01191
+OG0000056	N0	n10	0.1	Non-Terminal	Praw.g_00189, Prag.g_01108, Prav.g_00021, Prau.g_01162, Pras.g_00011, Pran.g_00108, Prab.g_01171, Prai.g_01132, Prac.g_01029, Prar.g_01307, Praq.g_01289, Praz.g_00038, Prba.g_00727, Pray.g_00110, Prbi.g_01163, Prax.g_00148, Praa.g_01117, Prad.g_00657, Prao.g_01135	Prbe.g_01605, Prbg.g_01542, Prap.g_00512, Prbf.g_00862, Prak.g_01228, Prbn.g_01133, Pram.g_01191, Prbh.g_01334, Prat.g_00666, Prat.g_01463, Prav.g_01388, Prae.g_01322, Prau.g_00749, Pran.g_00935, Prab.g_01634
+OG0000056	Prat	n38	1.0	Terminal	Prat.g_00666	Prat.g_01463
+OG0000057	N0	n17	0.15	Non-Terminal	Prae.g_00240, Prax.g_00981, Prbd.g_01002, Prbi.g_00261, Prai.g_00248, Prac.g_01693, Prar.g_00090, Praq.g_01765, Pras.g_01089, Praw.g_01198, Prau.g_00238, Prav.g_00801, Prag.g_00230, Pray.g_00718, Prao.g_00375, Praz.g_00597, Praa.g_00237, Prad.g_01754, Prba.g_00456	Prad.g_00965, Prbd.g_01537, Prau.g_00784, Prbi.g_01748, Prao.g_01537, Prax.g_01581
+OG0000058	N0	n4	0.025	Non-Terminal	Prbb.g_00873, Praa.g_01414, Prah.g_00105	Praq.g_00526, Prac.g_01069, Prar.g_00525, Prbi.g_00478, Pras.g_01353, Prau.g_00516, Prad.g_00032, Praa.g_00475, Prae.g_00449, Prag.g_00454, Praw.g_00672, Pray.g_00965, Prba.g_00986, Praz.g_01853, Prax.g_00727, Prao.g_00581, Prav.g_01073, Prbd.g_00767
+OG0000059	N16	n20	1.0	Non-Terminal	Prbb.g_01359, Praj.g_01313, Prbc.g_00055	Praj.g_00691, Prbb.g_00706, Prbc.g_01780
+OG0000060	N0	n3	0.2	Non-Terminal	Prai.g_00431, Prab.g_01297, Pran.g_00905, Prbd.g_00036, Prao.g_00677, Prav.g_00335, Praq.g_00612, Prar.g_01628, Prac.g_01531, Prau.g_00790, Pras.g_01636, Prae.g_00740, Praa.g_00740, Prax.g_00439, Prag.g_00732, Praw.g_01771, Prad.g_01080, Prbi.g_00780, Praz.g_01578, Prba.g_01565, Pray.g_00282	Prbc.g_00148, Prbm.g_01186, Prbb.g_01212, Praj.g_01170, Prai.g_01258, Pras.g_01594, Prau.g_01703, Pras.g_00529, Prar.g_01558, Prac.g_00636, Praq.g_00857, Prac.g_01597, Praq.g_00548, Prar.g_01562, Prar.g_01004, Praq.g_00083, Prac.g_01956, Prao.g_01340, Prad.g_01300
+OG0000060	N1	n30	0.05555555555555555	Non-Terminal	Pras.g_01594	Prau.g_01703, Pras.g_00529, Prar.g_01558, Prac.g_00636, Praq.g_00857, Prac.g_01597, Praq.g_00548, Prar.g_01562, Prar.g_01004, Praq.g_00083, Prac.g_01956
+OG0000060	N1	n31	0.16666666666666666	Non-Terminal	Prau.g_01703, Pras.g_00529, Prar.g_01558, Prac.g_00636, Praq.g_00857, Prac.g_01597, Praq.g_00548, Prar.g_01562	Prar.g_01004, Praq.g_00083, Prac.g_01956
+OG0000060	N3	n34	1.0	Non-Terminal	Prar.g_01558, Prac.g_00636, Praq.g_00857	Prac.g_01597, Praq.g_00548, Prar.g_01562
+OG0000061	N0	n4	0.45	Non-Terminal	Pray.g_00099, Prba.g_00099, Prac.g_01020, Praw.g_00199, Prag.g_01118, Praz.g_00027, Prar.g_01298, Prbd.g_00425, Prax.g_00159, Praa.g_01125, Praq.g_01298, Prau.g_01172, Pras.g_00021, Prav.g_00031, Prbi.g_01172, Prad.g_01991, Prao.g_01124, Prae.g_01128, Prab.g_01184, Pran.g_00095, Prai.g_01141	Prab.g_00990, Pran.g_00507, Prai.g_00969, Prav.g_00576, Praw.g_01519, Prag.g_00984, Pray.g_00531, Prba.g_01317, Praz.g_01330, Prad.g_00166, Prao.g_00922, Prau.g_01035, Pras.g_01880, Praa.g_00984, Prbd.g_00284, Prax.g_01149, Prae.g_00984, Prbi.g_01029
+OG0000062	N12	n7	0.13333333333333333	Non-Terminal	Pram.g_01546, Prbh.g_01868, Pral.g_00056, Prbl.g_02204, Prbk.g_02195, Prbj.g_01990, Praf.g_01034, Prah.g_02524, Praf.g_02690, Prat.g_01495	Prat.g_01561, Pral.g_00078
+OG0000062	N23	n15	0.5	Non-Terminal	Praf.g_01034	Prah.g_02524, Praf.g_02690
+OG0000063	Pral	n40	1.0	Terminal	Pral.g_01396	Pral.g_01398, Pral.g_01397
+OG0000063	Pral	n41	1.0	Terminal	Pral.g_01398	Pral.g_01397
+OG0000064	N0	n2	0.2	Non-Terminal	Prax.g_01580, Prad.g_00964, Prbd.g_01536, Prao.g_01538, Prau.g_00783, Prbi.g_01749, Pran.g_01783, Prab.g_00400	Pran.g_00519, Prab.g_00978, Prar.g_00997, Prac.g_00133, Praq.g_00091, Prav.g_01396, Prbd.g_01884, Prax.g_01948, Prau.g_01325, Praa.g_01268, Prao.g_01327, Prad.g_00320, Prae.g_01272, Prbi.g_01341, Praz.g_01227, Prba.g_01145, Pray.g_01917, Prab.g_00720, Pran.g_01463, Prbi.g_01740, Praa.g_01620, Prba.g_00249, Pray.g_01583, Praz.g_00901, Prax.g_01589, Pras.g_00504, Prau.g_01677, Prbd.g_01547, Prai.g_01594, Prav.g_01729, Prab.g_01627, Pran.g_00928, Prax.g_00456
+OG0000064	N0	n10	0.05	Non-Terminal	Pran.g_00519, Prab.g_00978	Prar.g_00997, Prac.g_00133, Praq.g_00091, Prav.g_01396, Prbd.g_01884, Prax.g_01948, Prau.g_01325, Praa.g_01268, Prao.g_01327, Prad.g_00320, Prae.g_01272, Prbi.g_01341, Praz.g_01227, Prba.g_01145, Pray.g_01917, Prab.g_00720, Pran.g_01463, Prbi.g_01740, Praa.g_01620, Prba.g_00249, Pray.g_01583, Praz.g_00901, Prax.g_01589, Pras.g_00504, Prau.g_01677, Prbd.g_01547, Prai.g_01594, Prav.g_01729, Prab.g_01627, Pran.g_00928, Prax.g_00456
+OG0000064	N0	n12	0.225	Non-Terminal	Prar.g_00997, Prac.g_00133, Praq.g_00091, Prav.g_01396, Prbd.g_01884, Prax.g_01948, Prau.g_01325, Praa.g_01268, Prao.g_01327, Prad.g_00320, Prae.g_01272, Prbi.g_01341, Praz.g_01227, Prba.g_01145, Pray.g_01917	Prab.g_00720, Pran.g_01463, Prbi.g_01740, Praa.g_01620, Prba.g_00249, Pray.g_01583, Praz.g_00901, Prax.g_01589, Pras.g_00504, Prau.g_01677, Prbd.g_01547, Prai.g_01594, Prav.g_01729, Prab.g_01627, Pran.g_00928, Prax.g_00456
+OG0000064	N0	n27	0.075	Non-Terminal	Prab.g_00720, Pran.g_01463, Prbi.g_01740, Praa.g_01620, Prba.g_00249, Pray.g_01583, Praz.g_00901, Prax.g_01589, Pras.g_00504, Prau.g_01677, Prbd.g_01547, Prai.g_01594, Prav.g_01729	Prab.g_01627, Pran.g_00928, Prax.g_00456
+OG0000065	N10	n20	1.0	Non-Terminal	Prab.g_01637, Pran.g_00938	Prab.g_01326, Pran.g_00876
+OG0000065	Prbm	n41	1.0	Terminal	Prbm.g_00468	Prbm.g_01611
+OG0000066	Pras	n36	1.0	Terminal	Pras.g_00273, Pras.g_00271	Pras.g_00272
+OG0000066	Pras	n37	1.0	Terminal	Pras.g_00273	Pras.g_00271
+OG0000067	N0	n2	0.2	Non-Terminal	Praz.g_00768, Pray.g_00884, Prba.g_00900, Prav.g_01014, Prad.g_01218, Prbn.g_00802, Prbg.g_00415, Prap.g_00619, Prbf.g_00347, Prak.g_00660, Prbe.g_00713, Prbc.g_00616, Prbb.g_01137, Prbb.g_01368, Praj.g_01323, Prbc.g_00066	Prbc.g_00136, Prbb.g_01199, Praj.g_01158, Prbm.g_01174, Prbd.g_01867, Pras.g_00166, Prau.g_01335, Pray.g_01930, Praz.g_01240, Prba.g_01132, Prbd.g_00534, Prad.g_01212, Prau.g_01307, Pras.g_00142, Pran.g_01384, Prab.g_00799, Prax.g_00454, Prae.g_01245, Prav.g_01334, Prac.g_00142, Praq.g_00100, Prar.g_00988
+OG0000067	N16	n14	0.6666666666666666	Non-Terminal	Prbc.g_00616, Prbb.g_01137	Prbb.g_01368, Praj.g_01323, Prbc.g_00066
+OG0000067	N0	n23	0.075	Non-Terminal	Prbd.g_01867, Pras.g_00166, Prau.g_01335	Pray.g_01930, Praz.g_01240, Prba.g_01132, Prbd.g_00534, Prad.g_01212, Prau.g_01307, Pras.g_00142, Pran.g_01384, Prab.g_00799, Prax.g_00454, Prae.g_01245, Prav.g_01334
+OG0000068	N22	n29	1.0	Non-Terminal	Prbk.g_00796, Prbj.g_00415, Prbl.g_01126	Prbk.g_00944, Prbj.g_00981, Prbl.g_01000
+OG0000069	N0	n4	0.15	Non-Terminal	Prad.g_00572, Pral.g_01121, Prat.g_01394, Prah.g_00358, Praf.g_01851, Prbk.g_01209, Prbl.g_00712, Prbj.g_00659, Praj.g_01669, Prbb.g_01723, Prbc.g_00746, Prbm.g_01747, Pram.g_01339, Prbh.g_00138, Prbg.g_00630, Prap.g_00160, Prak.g_01430, Prbn.g_00251, Prbf.g_00196, Prbe.g_00272	Prah.g_02196, Praf.g_02346, Prbl.g_00889, Prbj.g_01468, Prbk.g_00480, Prar.g_00886, Prac.g_00242, Praq.g_00202, Prax.g_01838, Prau.g_01475, Prau.g_01446, Prad.g_00561, Prbd.g_01730, Prbi.g_01497, Prao.g_01201, Praz.g_01092, Pray.g_01782, Prba.g_00149, Prao.g_01362
+OG0000069	N9	n35	0.08333333333333333	Non-Terminal	Prau.g_01475	Prau.g_01446, Prad.g_00561
+OG0000069	N9	n38	0.08333333333333333	Non-Terminal	Prao.g_01201	Praz.g_01092, Pray.g_01782, Prba.g_00149, Prao.g_01362
+OG0000070	N0	n0	0.1	Non-Terminal	Pram.g_00603, Prbh.g_01417, Pram.g_00602, Prbh.g_01418, Prbk.g_00094, Prbj.g_01125	Prbc.g_00532, Prbb.g_00078, Prbm.g_00477, Praf.g_02084, Prah.g_00342, Prah.g_00341, Prah.g_01968, Prbk.g_00841, Prbl.g_01171, Prbj.g_00371, Prah.g_01082, Praf.g_01191, Praf.g_01964, Praf.g_01880, Praf.g_02641, Praf.g_02639, Praf.g_01879, Prah.g_00543, Praf.g_01648, Prbk.g_02591, Prbl.g_01599, Prbj.g_02533, Pray.g_01942, Prba.g_01120, Praz.g_01253, Pram.g_01611, Prbh.g_01803, Prbc.g_01108, Pras.g_00881, Prbi.g_01276, Prar.g_00932, Prav.g_01421, Pral.g_01041, Praf.g_01881, Praf.g_02620, Prbc.g_00011, Pras.g_00191
+OG0000070	N30	n2	1.0	Non-Terminal: STRIDE	Pram.g_00603, Prbh.g_01417	Pram.g_00602, Prbh.g_01418
+OG0000070	N6	n7	0.2631578947368421	Non-Terminal	Prbc.g_00532, Prbb.g_00078, Prbm.g_00477, Praf.g_02084, Prah.g_00342, Prah.g_00341, Prah.g_01968, Prbk.g_00841, Prbl.g_01171, Prbj.g_00371	Prah.g_01082, Praf.g_01191, Praf.g_01964, Praf.g_01880, Praf.g_02641, Praf.g_02639, Praf.g_01879, Prah.g_00543, Praf.g_01648, Prbk.g_02591, Prbl.g_01599, Prbj.g_02533
+OG0000070	Prah	n13	1.0	Terminal	Prah.g_00342, Prah.g_00341	Prah.g_01968
+OG0000070	Prah	n14	1.0	Terminal	Prah.g_00342	Prah.g_00341
+OG0000070	N17	n17	0.4	Non-Terminal	Prah.g_01082, Praf.g_01191, Praf.g_01964, Praf.g_01880, Praf.g_02641, Praf.g_02639, Praf.g_01879	Prah.g_00543, Praf.g_01648, Prbk.g_02591, Prbl.g_01599, Prbj.g_02533
+OG0000070	Praf	n19	1.0	Terminal	Praf.g_01191	Praf.g_01964, Praf.g_01880, Praf.g_02641, Praf.g_02639, Praf.g_01879
+OG0000070	Praf	n20	1.0	Terminal	Praf.g_01964	Praf.g_01880, Praf.g_02641, Praf.g_02639, Praf.g_01879
+OG0000070	Praf	n21	1.0	Terminal	Praf.g_01880, Praf.g_02641, Praf.g_02639	Praf.g_01879
+OG0000070	Praf	n22	1.0	Terminal	Praf.g_01880, Praf.g_02641	Praf.g_02639
+OG0000070	Praf	n23	1.0	Terminal	Praf.g_01880	Praf.g_02641
+OG0000070	N0	n28	0.05	Non-Terminal	Pray.g_01942, Prba.g_01120, Praz.g_01253, Pram.g_01611, Prbh.g_01803, Prbc.g_01108, Pras.g_00881, Prbi.g_01276, Prar.g_00932	Prav.g_01421, Pral.g_01041, Praf.g_01881, Praf.g_02620, Prbc.g_00011, Pras.g_00191
+OG0000070	Praf	n40	1.0	Terminal	Praf.g_01881	Praf.g_02620
+OG0000071	N12	n9	0.06666666666666667	Non-Terminal	Prat.g_00012	Prat.g_00011, Prbl.g_02109, Prbj.g_02085, Prbk.g_02290, Praf.g_00012, Prah.g_00013, Pral.g_00421
+OG0000071	N31	n20	0.16666666666666666	Non-Terminal	Prbn.g_00002	Prbn.g_00003, Prbe.g_01076, Prbg.g_00778, Prap.g_00043
+OG0000072	Prax	n18	1.0	Terminal	Prax.g_00853	Prax.g_00852
+OG0000073	N0	n14	0.05	Non-Terminal	Pras.g_00327, Praf.g_01012	Prai.g_00698, Prab.g_00674, Pran.g_01509, Prao.g_00108, Prac.g_00702, Praq.g_00798, Prar.g_01499, Prav.g_01267, Praw.g_01853, Prag.g_00647, Prbi.g_00672, Praz.g_01661, Prba.g_01648, Pray.g_01094, Prad.g_01243, Prae.g_00643, Pras.g_01545, Prau.g_00709, Prax.g_00973, Prbd.g_00575, Praa.g_00669, Prah.g_00445, Prbj.g_00824, Prbl.g_01395, Prbk.g_00709, Praf.g_01748
+OG0000074	N17	n27	0.2	Non-Terminal	Praf.g_01219	Prah.g_00974, Praf.g_01218, Prbj.g_00933
+OG0000074	N16	n32	0.3333333333333333	Non-Terminal	Prbb.g_00697	Prbb.g_00698, Prbc.g_01773
+OG0000075	N0	n21	0.05	Non-Terminal	Praa.g_00810, Prai.g_00841	Praa.g_00811, Prai.g_00840
+OG0000076	N10	n21	1.0	Non-Terminal	Pran.g_00568, Prab.g_00929	Pran.g_00903, Prab.g_01299
+OG0000077	N11	n12	0.25	Non-Terminal	Prbb.g_01320, Prbm.g_00434, Praj.g_01079, Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118, Prbb.g_00430, Prbm.g_01809, Prbb.g_01245, Praj.g_01358, Prbb.g_01402, Prbm.g_01405	Prbb.g_01355
+OG0000077	N11	n13	0.25	Non-Terminal	Prbb.g_01320	Prbm.g_00434, Praj.g_01079, Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118, Prbb.g_00430, Prbm.g_01809, Prbb.g_01245, Praj.g_01358, Prbb.g_01402, Prbm.g_01405
+OG0000077	N11	n14	0.5	Non-Terminal	Prbm.g_00434, Praj.g_01079, Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118, Prbb.g_00430, Prbm.g_01809, Prbb.g_01245, Praj.g_01358	Prbb.g_01402, Prbm.g_01405
+OG0000077	N11	n15	0.5	Non-Terminal	Prbm.g_00434, Praj.g_01079, Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118, Prbb.g_00430, Prbm.g_01809	Prbb.g_01245, Praj.g_01358
+OG0000077	N11	n16	0.5	Non-Terminal	Prbm.g_00434, Praj.g_01079, Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118	Prbb.g_00430, Prbm.g_01809
+OG0000077	N11	n17	0.25	Non-Terminal	Prbm.g_00434	Praj.g_01079, Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118
+OG0000077	N11	n18	0.25	Non-Terminal	Praj.g_01079	Prbc.g_00105, Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118
+OG0000077	N11	n19	0.25	Non-Terminal	Prbc.g_00105	Prbb.g_01786, Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118
+OG0000077	N11	n20	0.25	Non-Terminal	Prbb.g_01786	Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383, Praj.g_01310, Prbc.g_00807, Prbm.g_01118
+OG0000077	N11	n21	0.75	Non-Terminal	Prbc.g_02166, Prbb.g_01122, Praj.g_01203, Praj.g_01731, Praj.g_01273, Praj.g_00416, Prbm.g_01230, Prbm.g_01383	Praj.g_01310, Prbc.g_00807, Prbm.g_01118
+OG0000077	Praj	n25	1.0	Terminal	Praj.g_01203	Praj.g_01731, Praj.g_01273, Praj.g_00416
+OG0000077	Praj	n26	1.0	Terminal	Praj.g_01731	Praj.g_01273, Praj.g_00416
+OG0000077	Praj	n27	1.0	Terminal	Praj.g_01273	Praj.g_00416
+OG0000077	Prbm	n28	1.0	Terminal	Prbm.g_01230	Prbm.g_01383
+OG0000078	Prau	n15	1.0	Terminal	Prau.g_01435, Prau.g_01434	Prau.g_01491
+OG0000078	Prau	n16	1.0	Terminal	Prau.g_01435	Prau.g_01434
+OG0000079	N1	n4	0.1111111111111111	Non-Terminal	Prbi.g_01482, Prav.g_01551	Prac.g_00333, Praq.g_00372, Prar.g_00769, Praa.g_01555, Prba.g_00310, Praz.g_00963, Pray.g_01644, Prad.g_00436, Prbd.g_01610, Prae.g_01537, Prax.g_01650, Prao.g_01474, Prbi.g_01668, Pras.g_00431, Prau.g_01609, Prag.g_01568, Praw.g_00415, Prav.g_01656
+OG0000080	N10	n3	1.0	Non-Terminal: STRIDE	Prab.g_01290, Pran.g_00912	Prab.g_00922, Pran.g_00575
+OG0000081	Praf	n9	1.0	Terminal	Praf.g_02382	Praf.g_02378, Praf.g_02380
+OG0000081	Praf	n10	1.0	Terminal	Praf.g_02378	Praf.g_02380
+OG0000082	N0	n2	0.05	Non-Terminal	Pras.g_00806, Prau.g_01987, Praa.g_01894, Prav.g_00751, Prax.g_01456, Prae.g_01877, Prag.g_01923, Praw.g_01170, Prbd.g_01272, Prbi.g_02069, Prar.g_00072, Praq.g_00392, Prao.g_01806, Prac.g_00101, Prad.g_01570, Praz.g_00142, Prba.g_00831, Pray.g_01427	Pras.g_00131, Prau.g_01297, Prak.g_00656, Prap.g_00623, Prbn.g_00798, Prbe.g_00709, Prbf.g_00351, Prbg.g_00419, Pram.g_01898, Prbh.g_01516, Prah.g_02533, Praf.g_02699, Prbj.g_01999, Prbl.g_02195, Prbk.g_02204, Praj.g_02103, Prbc.g_01009, Prbb.g_02143, Prbm.g_02188, Prat.g_01853, Pral.g_00370
+OG0000084	N16	n20	0.3333333333333333	Non-Terminal	Prbb.g_00006	Praj.g_00006, Prbc.g_01076, Prbb.g_00007
+OG0000085	N18	n27	0.1	Non-Terminal	Prat.g_01314	Prbg.g_00851, Prbn.g_00759, Prbf.g_01345, Prbe.g_00123, Prap.g_00932, Prak.g_00023, Prbh.g_00757, Pram.g_00010, Pral.g_01021, Prat.g_00024
+OG0000086	Prbm	n6	1.0	Terminal	Prbm.g_00063	Prbm.g_01170
+OG0000086	N0	n9	0.25	Non-Terminal	Prab.g_00038, Pran.g_00386, Prai.g_00046, Prad.g_01948, Prag.g_00039, Praw.g_01389, Prav.g_00110, Pray.g_00244, Prba.g_01833, Praz.g_00405, Praq.g_01254, Prar.g_00581, Prac.g_01893, Prax.g_00274, Prao.g_00185, Prae.g_00041, Prbi.g_00048, Prbd.g_01199, Praa.g_00039, Pras.g_00892, Prau.g_00046	Praw.g_00735, Prag.g_00391, Prau.g_00429, Praa.g_00409, Prad.g_00675, Prau.g_00422, Pras.g_01273, Prba.g_01044, Praz.g_01911, Pray.g_00907, Prai.g_00443
+OG0000086	N0	n32	0.025	Non-Terminal	Prau.g_00429	Praa.g_00409, Prad.g_00675, Prau.g_00422, Pras.g_01273, Prba.g_01044, Praz.g_01911, Pray.g_00907, Prai.g_00443
+OG0000087	Praf	n39	1.0	Terminal	Praf.g_00333	Praf.g_02602
+OG0000089	Prah	n15	1.0	Terminal	Prah.g_00176	Prah.g_00180
+OG0000090	N4	n24	0.06666666666666667	Non-Terminal	Prbd.g_01104	Prao.g_00277, Prax.g_01079, Prae.g_00139, Prba.g_01927, Pray.g_00150, Praz.g_00499, Praa.g_00139, Prau.g_00140, Prbd.g_01103, Pras.g_00990, Prad.g_01854, Prag.g_00132, Praw.g_01296
+OG0000092	N31	n37	0.16666666666666666	Non-Terminal	Prbn.g_00384	Prbf.g_01504, Prbe.g_01718, Prbn.g_01243
+OG0000093	N6	n14	0.05263157894736842	Non-Terminal	Praf.g_02711	Prbl.g_00069, Prbk.g_01280, Prbj.g_01138, Praf.g_02492, Prah.g_02324, Prbm.g_00243, Prbb.g_00240, Prbc.g_00388, Praj.g_00223
+OG0000094	N12	n11	0.06666666666666667	Non-Terminal	Praf.g_02521	Prbh.g_00580, Pram.g_00187, Praf.g_02708
+OG0000095	N1	n28	0.05555555555555555	Non-Terminal	Pras.g_01059	Prao.g_00345, Prad.g_01784, Praq.g_01795, Prar.g_00120, Prac.g_01723, Prav.g_00831, Prae.g_00210, Prbi.g_00231, Prax.g_01011, Pras.g_01058, Prbd.g_01033, Praa.g_00207
+OG0000096	N1	n4	0.05555555555555555	Non-Terminal	Prax.g_00488, Prar.g_00076, Prac.g_01679	Prav.g_01898, Pras.g_01103, Prau.g_00253, Prae.g_00254, Prbi.g_00275, Prbd.g_00988, Prba.g_00470, Pray.g_00732, Praz.g_00611, Prax.g_00924, Prao.g_00389, Praa.g_00251, Prad.g_01740
+OG0000097	N0	n7	0.025	Non-Terminal	Prai.g_00287	Pras.g_01126, Prau.g_00276, Prax.g_00901, Praa.g_00274, Prac.g_01657, Prar.g_00313, Praq.g_01729, Prbi.g_00298, Prbd.g_00965, Prad.g_01717, Pran.g_01920, Prab.g_00262, Prai.g_00286
+OG0000098	N0	n3	0.025	Non-Terminal	Prbj.g_01410, Prbl.g_01448, Prbk.g_00422, Prah.g_02139, Prat.g_00292, Praf.g_02284, Prai.g_00430, Pram.g_00273, Prbh.g_00494, Prbc.g_01177, Prbb.g_00336, Praj.g_00320, Prbm.g_00341, Pral.g_00754, Prbg.g_00064, Prak.g_00303, Prap.g_01425, Prbn.g_00052, Prbe.g_01839, Prbf.g_01625	Pray.g_00763, Prbi.g_00308, Prba.g_00501, Prae.g_00285, Praa.g_00284, Praz.g_00642, Prax.g_00891, Prao.g_00421, Prad.g_01707, Prab.g_00272, Pran.g_01910, Prau.g_00286, Pras.g_01136, Prbd.g_00955, Prai.g_00297, Prav.g_01930
+OG0000099	Prai	n22	1.0	Terminal	Prai.g_00307	Prai.g_00741
+OG0000100	N1	n20	0.05555555555555555	Non-Terminal	Prbd.g_00942, Praa.g_00297, Prao.g_00434, Prbi.g_00321, Prax.g_00878, Prae.g_00298, Pras.g_01148, Prau.g_00299, Prav.g_01943, Prba.g_00513, Praz.g_00654, Pray.g_00775, Prad.g_01694, Prag.g_00288, Praw.g_00837, Prac.g_01634, Prar.g_00290, Praq.g_01705	Prar.g_01154
+OG0000101	N1	n4	0.05555555555555555	Non-Terminal	Prax.g_01573	Prax.g_00816, Prbd.g_00882, Praa.g_00356, Prao.g_00491, Praz.g_00817, Pray.g_00835, Prba.g_00851, Prad.g_00754, Prae.g_00356, Prbi.g_00381, Prar.g_00417, Praq.g_01187, Prac.g_01177, Pras.g_01210, Prau.g_00359, Praw.g_00775, Prag.g_00351, Prav.g_00976
+OG0000102	Praf	n39	1.0	Terminal	Praf.g_02715	Praf.g_02705
+OG0000103	Prah	n15	1.0	Terminal	Prah.g_00313	Prah.g_00314
+OG0000104	N21	n19	0.5	Non-Terminal	Prbb.g_00484	Prbb.g_00485, Praj.g_00473
+OG0000105	N12	n34	0.06666666666666667	Non-Terminal	Praf.g_00143	Prbk.g_01862, Prah.g_01544, Prbj.g_01608, Prbl.g_00533, Praf.g_00616, Prat.g_00462
+OG0000106	Prah	n17	1.0	Terminal	Prah.g_00108	Prah.g_01503
+OG0000107	Pray	n25	1.0	Terminal	Pray.g_01228	Pray.g_01024
+OG0000108	N1	n20	0.05555555555555555	Non-Terminal	Prav.g_01141, Prad.g_01333, Prao.g_01162, Prbi.g_00546, Prae.g_00518, Praa.g_00544, Praz.g_01785, Prba.g_01772, Pray.g_01218, Prbd.g_00699, Prax.g_00004, Pras.g_01420, Prau.g_00583, Praw.g_00605, Prag.g_00522, Praq.g_01059, Prar.g_01373, Prac.g_00829	Prav.g_00954
+OG0000109	Prat	n17	1.0	Terminal	Prat.g_00514	Prat.g_00513
+OG0000111	Praf	n36	1.0	Terminal	Praf.g_01036	Praf.g_01720
+OG0000112	N17	n15	0.2	Non-Terminal	Praf.g_01035	Prbk.g_00739, Prbl.g_01042, Prbj.g_00793, Prah.g_00473, Praf.g_01721
+OG0000113	N6	n23	0.05263157894736842	Non-Terminal	Praf.g_00144	Prbn.g_01351, Prak.g_01040, Prbe.g_01417, Prbg.g_01354, Prap.g_00324, Prbf.g_01050, Prbh.g_01149, Pram.g_01006, Prbb.g_00737, Praj.g_00722, Prbc.g_01811, Prbm.g_00766, Prah.g_00752, Prbl.g_02432, Prbk.g_02370, Prbj.g_02314, Praf.g_01435
+OG0000114	N17	n30	0.2	Non-Terminal	Prah.g_01823	Prbk.g_02466, Prbj.g_02410, Prbl.g_02337, Praf.g_01528, Prah.g_00669
+OG0000115	N16	n20	0.3333333333333333	Non-Terminal	Praj.g_01601	Prbc.g_02036, Praj.g_00946, Prbb.g_00991
+OG0000116	N17	n14	0.2	Non-Terminal	Praf.g_01384	Prbl.g_02486, Prah.g_00805, Praf.g_01383
+OG0000117	N1	n4	0.05555555555555555	Non-Terminal	Praz.g_01279	Pras.g_01931, Prau.g_01086, Prav.g_00930, Prag.g_01033, Praw.g_01470, Prax.g_01201, Prae.g_01037, Praa.g_01036, Prbd.g_00337, Prad.g_01021, Prbi.g_01083, Prar.g_01901, Prac.g_01259, Praq.g_01616, Pray.g_00581, Praz.g_00063, Prba.g_01267, Prao.g_00971
+OG0000118	N1	n20	0.05555555555555555	Non-Terminal	Praw.g_01418, Prag.g_01085, Prav.g_00261, Prbd.g_00389, Praa.g_01089, Prax.g_01254, Prao.g_01025, Prae.g_01090, Prbi.g_01136, Pray.g_00632, Prba.g_01216, Praz.g_00114, Prad.g_00972, Pras.g_01982, Prau.g_01136, Prar.g_01953, Praq.g_01667, Prac.g_01207	Prax.g_01759
+OG0000120	N18	n8	0.1	Non-Terminal	Pral.g_01187	Pral.g_01373, Prat.g_01150, Prbg.g_01480, Prbf.g_00924, Prbn.g_01195, Prbe.g_01543, Prak.g_01166, Prap.g_00450, Prbh.g_01276, Pram.g_01133
+OG0000121	N4	n26	0.06666666666666667	Non-Terminal	Prad.g_01471	Prax.g_00225, Prbd.g_00493, Prbi.g_01232, Prae.g_01188, Praa.g_01184, Pras.g_00081, Prau.g_01231, Prag.g_01178, Praw.g_00259, Prav.g_01856, Prad.g_01470, Prba.g_00038, Praz.g_00729, Pray.g_00038
+OG0000122	N1	n20	0.05555555555555555	Non-Terminal	Prav.g_01837, Prae.g_01207, Prao.g_01045, Praa.g_01203, Prbd.g_00512, Prau.g_01250, Pras.g_00101, Prax.g_00244, Prad.g_01451, Prag.g_01197, Praw.g_00278, Prbi.g_01251, Prba.g_00019, Praz.g_00710, Pray.g_00019, Prar.g_01219, Prac.g_00941, Praq.g_01377	Prav.g_00955
+OG0000123	N17	n29	0.2	Non-Terminal	Prah.g_01237	Prbk.g_00121, Prah.g_01238, Prbj.g_00020
+OG0000125	N1	n24	0.05555555555555555	Non-Terminal	Pras.g_00221	Prae.g_01341, Prbd.g_01789, Prau.g_01383, Prar.g_00943, Prac.g_00187, Praq.g_00145, Prba.g_01204, Praz.g_01168, Pray.g_01858, Pras.g_00222, Prao.g_01264, Prax.g_01887, Praa.g_01330
+OG0000126	Praf	n28	1.0	Terminal	Praf.g_00585	Praf.g_00583
+OG0000127	Praf	n39	1.0	Terminal	Praf.g_01778	Praf.g_01776
+OG0000128	N1	n4	0.05555555555555555	Non-Terminal	Praw.g_01079	Prba.g_00712, Pray.g_01721, Praz.g_01040, Prao.g_01398, Prae.g_01460, Prau.g_01532, Pras.g_00351, Prax.g_01727, Praa.g_01477, Prbd.g_01688, Prac.g_00410, Praq.g_00295, Prar.g_00338, Prag.g_01491, Praw.g_01080, Prav.g_01579, Prad.g_00514, Prbi.g_01592
+OG0000129	Prba	n37	1.0	Terminal	Prba.g_00351	Prba.g_00676
+OG0000130	Praq	n6	1.0	Terminal	Praq.g_01954	Praq.g_00499
+OG0000131	N25	n18	0.5	Non-Terminal	Prat.g_01377	Pral.g_00143, Prat.g_01628
+OG0000132	Prar	n18	1.0	Terminal	Prar.g_00595	Prar.g_01956
+OG0000134	N31	n11	0.16666666666666666	Non-Terminal	Prap.g_01648	Prbn.g_01875, Prap.g_01649
+OG0000135	N11	n19	0.25	Non-Terminal	Prbc.g_01560	Prbm.g_02029, Praj.g_01948, Prbc.g_00288, Prbb.g_01997
+OG0000136	Prad	n19	1.0	Terminal	Prad.g_00766	Prad.g_01294
+OG0000138	N1	n4	0.05555555555555555	Non-Terminal	Prba.g_01089	Prav.g_00741, Praw.g_01180, Prag.g_01913, Prax.g_01447, Pras.g_00797, Prau.g_01978, Prbd.g_01281, Prae.g_01867, Praa.g_01885, Prbi.g_02059, Prba.g_00821, Pray.g_01417, Praz.g_00152, Prao.g_01796, Prad.g_01580, Prac.g_00092, Praq.g_00718, Prar.g_00704
+OG0000139	Prba	n35	1.0	Terminal	Prba.g_01776	Prba.g_00848
+OG0000903	N31	n28	0.16666666666666666	Non-Terminal	Prbf.g_00853	Prbg.g_01551, Prbf.g_00066, Prbe.g_01614, Prbn.g_01124
+OG0001251	N0	n5	0.025	Non-Terminal	Prar.g_00236, Prac.g_01839, Praq.g_01911, Prbi.g_00099, Pras.g_00943, Prau.g_00093, Prav.g_00157, Prax.g_01126, Praz.g_00452, Prba.g_01880, Pray.g_00197, Praa.g_00092, Prbd.g_01152, Prae.g_00092, Prao.g_00231, Prad.g_01901, Praw.g_01342, Prag.g_00086	Praf.g_00261, Prbk.g_00028, Prbj.g_00603, Prbl.g_00569, Prah.g_01880, Prat.g_01269, Prak.g_00096, Prbn.g_01329, Prap.g_01086, Prbg.g_00862, Prbf.g_01418, Prbe.g_01632, Pram.g_00076, Prbh.g_00691, Prbi.g_01522, Pral.g_00955
+OG0001256	N0	n3	0.15	Non-Terminal	Praz.g_01207, Pray.g_01897, Prae.g_01291, Prba.g_01165, Praa.g_01288, Prbi.g_01361, Prao.g_01307, Praw.g_00952, Prag.g_01326, Prad.g_00339, Prav.g_01407, Prax.g_01930, Prbd.g_01859	Prae.g_00398, Prbd.g_00836, Praa.g_00396, Prao.g_00529, Prbi.g_00426, Prax.g_00776, Prai.g_01599, Prbl.g_01822, Prbk.g_01851, Prbj.g_00897, Prah.g_01084, Praf.g_01188, Praf.g_01190, Prac.g_00152, Prar.g_00978, Praq.g_00110, Pras.g_00176, Prbc.g_00164, Praj.g_01187, Prbb.g_01229, Prbm.g_01202, Pras.g_01289, Prax.g_00460
+OG0001256	N0	n16	0.05	Non-Terminal	Prae.g_00398, Prbd.g_00836, Praa.g_00396, Prao.g_00529, Prbi.g_00426, Prax.g_00776, Prai.g_01599, Prbl.g_01822, Prbk.g_01851, Prbj.g_00897, Prah.g_01084, Praf.g_01188, Praf.g_01190, Prac.g_00152, Prar.g_00978, Praq.g_00110, Pras.g_00176, Prbc.g_00164, Praj.g_01187, Prbb.g_01229, Prbm.g_01202	Pras.g_01289, Prax.g_00460
+OG0001256	Praf	n30	1.0	Terminal	Praf.g_01188	Praf.g_01190
+OG0001260	N11	n12	1.0	Non-Terminal	Prbc.g_02071, Prbm.g_01023, Prbb.g_01027, Praj.g_00982	Prbb.g_01446, Prbm.g_01479, Prbc.g_01377, Praj.g_01392
+OG0001263	N11	n13	0.25	Non-Terminal	Prbm.g_01173	Praj.g_00864, Prbc.g_01953, Prbb.g_00909, Prbm.g_00906
+OG0001263	Prax	n36	1.0	Terminal	Prax.g_00301	Prax.g_00501, Prax.g_00530
+OG0001263	Prax	n37	1.0	Terminal	Prax.g_00501	Prax.g_00530
+OG0001266	N6	n23	0.05263157894736842	Non-Terminal	Prak.g_00600, Prbf.g_01921, Prbg.g_00358, Prbe.g_00495, Prbn.g_00476, Prap.g_01129, Pram.g_00577, Prbh.g_01444, Pral.g_00967, Prat.g_00078	Pral.g_01320, Prbm.g_01945
+OG0001269	N6	n30	0.05263157894736842	Non-Terminal	Prbm.g_01631	Prbj.g_00670, Prbk.g_01198, Prbl.g_00723, Prah.g_00326, Praf.g_01893, Prbm.g_01594
+OG0001272	N11	n33	0.5	Non-Terminal	Prbc.g_01940, Prbm.g_00893, Praj.g_00851	Prbb.g_01371, Praj.g_01327, Prbc.g_00069
+OG0001275	N0	n3	0.05	Non-Terminal	Prad.g_00397, Prao.g_01511, Praz.g_00924, Prat.g_00659, Praw.g_00451, Prag.g_01604, Praq.g_00021, Prac.g_00297, Prar.g_00734, Prav.g_01691	Prbd.g_01572, Prat.g_00660, Praz.g_00925, Praa.g_01593, Prax.g_01613, Prae.g_01576, Pray.g_01606, Prba.g_00272, Prbi.g_01705
+OG0001276	N0	n15	0.125	Non-Terminal	Prba.g_00262, Praz.g_00914, Pray.g_01596, Prad.g_00384, Prag.g_01616, Praw.g_00463, Prar.g_00722, Prac.g_00285, Praq.g_00033, Prav.g_01704, Prao.g_01521, Praa.g_01605, Prbi.g_01724, Prau.g_01657	Prac.g_00878, Prar.g_01158, Praq.g_00044, Pras.g_00144, Prau.g_01309, Prav.g_00969, Prai.g_01272
+OG0001277	Prat	n11	1.0	Terminal	Prat.g_01578	Prat.g_01542
+OG0001277	N11	n12	1.0	Non-Terminal	Prbc.g_00811, Prbb.g_01790, Praj.g_01735, Prbm.g_01409, Prbm.g_01813	Prbb.g_01899, Prbc.g_00909, Praj.g_01844, Prbm.g_01923
+OG0001277	Prbm	n16	1.0	Terminal	Prbm.g_01409	Prbm.g_01813
+OG0001287	N3	n5	1.0	Non-Terminal	Prac.g_00875, Prar.g_01007, Prar.g_01155, Praq.g_00041, Praq.g_00080	Praq.g_00547, Prar.g_01561, Prac.g_01598
+OG0001287	Prar	n8	1.0	Terminal	Prar.g_01007	Prar.g_01155
+OG0001287	Praq	n9	1.0	Terminal	Praq.g_00041	Praq.g_00080
+OG0001287	N22	n33	1.0	Non-Terminal	Prbl.g_01026, Prbj.g_00214, Prbk.g_01331	Prbk.g_02697, Prbj.g_02701, Prbl.g_01386
+OG0001289	N11	n1	0.75	Non-Terminal	Prbb.g_02092, Praj.g_02042, Prbm.g_00473	Prbc.g_02192, Prbc.g_00550, Prbb.g_00095, Praj.g_00064, Praj.g_02036, Prbb.g_02084, Prbb.g_00084, Praj.g_01515, Praj.g_01510, Praj.g_01506, Praj.g_01504, Praj.g_00068, Praj.g_00059, Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596, Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280, Prbm.g_00475, Praj.g_01511, Prbm.g_00476, Praj.g_00080, Praj.g_01382, Praj.g_00086, Prbb.g_00102, Prbc.g_02191, Prbm.g_01264
+OG0001289	N11	n4	0.25	Non-Terminal	Prbc.g_02192	Prbc.g_00550, Prbb.g_00095, Praj.g_00064, Praj.g_02036, Prbb.g_02084, Prbb.g_00084, Praj.g_01515, Praj.g_01510, Praj.g_01506, Praj.g_01504, Praj.g_00068, Praj.g_00059, Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596, Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280, Prbm.g_00475, Praj.g_01511, Prbm.g_00476, Praj.g_00080, Praj.g_01382, Praj.g_00086, Prbb.g_00102, Prbc.g_02191, Prbm.g_01264
+OG0001289	N11	n5	1.0	Non-Terminal	Prbc.g_00550, Prbb.g_00095, Praj.g_00064, Praj.g_02036, Prbb.g_02084, Prbb.g_00084, Praj.g_01515, Praj.g_01510, Praj.g_01506, Praj.g_01504, Praj.g_00068, Praj.g_00059, Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596, Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280, Prbm.g_00475, Praj.g_01511, Prbm.g_00476, Praj.g_00080, Praj.g_01382	Praj.g_00086, Prbb.g_00102, Prbc.g_02191, Prbm.g_01264
+OG0001289	N11	n7	0.5	Non-Terminal	Prbb.g_00095, Praj.g_00064, Praj.g_02036, Prbb.g_02084, Prbb.g_00084, Praj.g_01515, Praj.g_01510, Praj.g_01506, Praj.g_01504	Praj.g_00068, Praj.g_00059, Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596, Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280, Prbm.g_00475, Praj.g_01511, Prbm.g_00476, Praj.g_00080, Praj.g_01382
+OG0001289	N21	n8	1.0	Non-Terminal	Prbb.g_00095, Praj.g_00064	Praj.g_02036, Prbb.g_02084, Prbb.g_00084, Praj.g_01515, Praj.g_01510, Praj.g_01506, Praj.g_01504
+OG0001289	N21	n10	1.0	Non-Terminal	Praj.g_02036, Prbb.g_02084	Prbb.g_00084, Praj.g_01515, Praj.g_01510, Praj.g_01506, Praj.g_01504
+OG0001289	Praj	n13	1.0	Terminal	Praj.g_01515, Praj.g_01510	Praj.g_01506, Praj.g_01504
+OG0001289	Praj	n14	1.0	Terminal	Praj.g_01515	Praj.g_01510
+OG0001289	Praj	n15	1.0	Terminal	Praj.g_01506	Praj.g_01504
+OG0001289	N11	n16	0.5	Non-Terminal	Praj.g_00068, Praj.g_00059, Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596, Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280	Prbm.g_00475, Praj.g_01511, Prbm.g_00476, Praj.g_00080, Praj.g_01382
+OG0001289	N11	n17	0.25	Non-Terminal	Praj.g_00068, Praj.g_00059	Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596, Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280
+OG0001289	Praj	n18	1.0	Terminal	Praj.g_00068	Praj.g_00059
+OG0001289	N11	n19	0.75	Non-Terminal	Prbb.g_01564, Praj.g_01514, Praj.g_00058, Prbm.g_01596	Praj.g_01509, Prbb.g_00068, Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280
+OG0001289	Praj	n22	1.0	Terminal	Praj.g_01514	Praj.g_00058
+OG0001289	N11	n24	0.25	Non-Terminal	Prbb.g_00068	Prbm.g_00074, Prbb.g_00083, Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280
+OG0001289	N11	n25	0.5	Non-Terminal	Prbm.g_00074, Prbb.g_00083	Prbb.g_00085, Prbm.g_00474, Prbm.g_00073, Prbm.g_01462, Prbm.g_01280
+OG0001289	Prbm	n28	1.0	Terminal	Prbm.g_00474	Prbm.g_00073, Prbm.g_01462, Prbm.g_01280
+OG0001289	Prbm	n29	1.0	Terminal	Prbm.g_00073, Prbm.g_01462	Prbm.g_01280
+OG0001289	Prbm	n30	1.0	Terminal	Prbm.g_00073	Prbm.g_01462
+OG0001289	N11	n31	0.25	Non-Terminal	Prbm.g_00475, Praj.g_01511, Prbm.g_00476, Praj.g_00080	Praj.g_01382
+OG0001289	N11	n32	0.5	Non-Terminal	Prbm.g_00475, Praj.g_01511	Prbm.g_00476, Praj.g_00080
+OG0001299	N23	n33	1.0	Non-Terminal	Prah.g_01868, Praf.g_02234, Praf.g_02225	Prah.g_02090, Praf.g_02218
+OG0001299	Praf	n35	1.0	Terminal	Praf.g_02234	Praf.g_02225
+OG0001302	N6	n21	0.3157894736842105	Non-Terminal	Prbg.g_00734, Prap.g_01899, Prbn.g_00126, Prak.g_01534, Prbe.g_00025, Prbf.g_00804	Prbn.g_01676, Prap.g_01848, Prak.g_01576, Prbg.g_01581, Prbf.g_00762, Prbe.g_01054, Prbe.g_01133, Prbb.g_01800, Prbm.g_01823, Praj.g_01745
+OG0001302	Prbe	n33	1.0	Terminal	Prbe.g_01054	Prbe.g_01133
+OG0001310	N23	n33	0.5	Non-Terminal	Prah.g_01182, Praf.g_01002	Praf.g_02648
+OG0001317	N23	n3	0.5	Non-Terminal	Prah.g_00930	Prah.g_01119, Praf.g_01162, Praf.g_01088, Prah.g_02446, Prah.g_02451, Prah.g_00275, Prah.g_02447, Praf.g_00383, Praf.g_00343, Prah.g_02436, Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272, Prah.g_00273, Prah.g_02434, Prah.g_00926, Prah.g_00927, Prah.g_00271, Praf.g_02595, Praf.g_02530, Prah.g_02431, Praf.g_01260, Prah.g_00935, Prah.g_01063, Prah.g_00269, Praf.g_00473, Prah.g_02435, Prah.g_00270, Prah.g_00281, Prah.g_02449, Prah.g_02433, Prah.g_01075, Prah.g_01064
+OG0001317	N23	n4	1.0	Non-Terminal	Prah.g_01119, Praf.g_01162, Praf.g_01088, Prah.g_02446, Prah.g_02451	Prah.g_00275, Prah.g_02447, Praf.g_00383, Praf.g_00343, Prah.g_02436, Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272, Prah.g_00273, Prah.g_02434, Prah.g_00926, Prah.g_00927, Prah.g_00271, Praf.g_02595, Praf.g_02530, Prah.g_02431, Praf.g_01260, Prah.g_00935, Prah.g_01063, Prah.g_00269, Praf.g_00473, Prah.g_02435, Prah.g_00270, Prah.g_00281, Prah.g_02449, Prah.g_02433, Prah.g_01075, Prah.g_01064
+OG0001317	N23	n5	0.5	Non-Terminal	Prah.g_01119, Praf.g_01162, Praf.g_01088, Prah.g_02446	Prah.g_02451
+OG0001317	N23	n6	1.0	Non-Terminal	Prah.g_01119, Praf.g_01162	Praf.g_01088, Prah.g_02446
+OG0001317	N23	n9	0.5	Non-Terminal	Prah.g_00275, Prah.g_02447	Praf.g_00383, Praf.g_00343, Prah.g_02436, Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272, Prah.g_00273, Prah.g_02434, Prah.g_00926, Prah.g_00927, Prah.g_00271, Praf.g_02595, Praf.g_02530, Prah.g_02431, Praf.g_01260, Prah.g_00935, Prah.g_01063, Prah.g_00269, Praf.g_00473, Prah.g_02435, Prah.g_00270, Prah.g_00281, Prah.g_02449, Prah.g_02433, Prah.g_01075, Prah.g_01064
+OG0001317	Prah	n10	1.0	Terminal	Prah.g_00275	Prah.g_02447
+OG0001317	N23	n11	1.0	Non-Terminal	Praf.g_00383, Praf.g_00343, Prah.g_02436, Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272, Prah.g_00273, Prah.g_02434, Prah.g_00926, Prah.g_00927, Prah.g_00271, Praf.g_02595	Praf.g_02530, Prah.g_02431, Praf.g_01260, Prah.g_00935, Prah.g_01063, Prah.g_00269, Praf.g_00473, Prah.g_02435, Prah.g_00270, Prah.g_00281, Prah.g_02449, Prah.g_02433, Prah.g_01075, Prah.g_01064
+OG0001317	N23	n12	1.0	Non-Terminal	Praf.g_00383, Praf.g_00343, Prah.g_02436, Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272, Prah.g_00273, Prah.g_02434	Prah.g_00926, Prah.g_00927, Prah.g_00271, Praf.g_02595
+OG0001317	N23	n13	0.5	Non-Terminal	Praf.g_00383, Praf.g_00343, Prah.g_02436, Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272	Prah.g_00273, Prah.g_02434
+OG0001317	N23	n14	1.0	Non-Terminal	Praf.g_00383, Praf.g_00343, Prah.g_02436	Prah.g_02432, Praf.g_00382, Praf.g_00381, Prah.g_00272
+OG0001317	Praf	n16	1.0	Terminal	Praf.g_00383	Praf.g_00343
+OG0001317	N23	n17	1.0	Non-Terminal	Prah.g_02432, Praf.g_00382	Praf.g_00381, Prah.g_00272
+OG0001317	Prah	n20	1.0	Terminal	Prah.g_00273	Prah.g_02434
+OG0001317	Prah	n22	1.0	Terminal	Prah.g_00926, Prah.g_00927	Prah.g_00271
+OG0001317	Prah	n23	1.0	Terminal	Prah.g_00926	Prah.g_00927
+OG0001317	N23	n24	1.0	Non-Terminal	Praf.g_02530, Prah.g_02431, Praf.g_01260, Prah.g_00935, Prah.g_01063, Prah.g_00269	Praf.g_00473, Prah.g_02435, Prah.g_00270, Prah.g_00281, Prah.g_02449, Prah.g_02433, Prah.g_01075, Prah.g_01064
+OG0001317	N23	n25	1.0	Non-Terminal	Praf.g_02530, Prah.g_02431	Praf.g_01260, Prah.g_00935, Prah.g_01063, Prah.g_00269
+OG0001317	Prah	n28	1.0	Terminal	Prah.g_00935, Prah.g_01063	Prah.g_00269
+OG0001317	Prah	n29	1.0	Terminal	Prah.g_00935	Prah.g_01063
+OG0001317	Prah	n31	1.0	Terminal	Prah.g_02435, Prah.g_00270, Prah.g_00281	Prah.g_02449, Prah.g_02433, Prah.g_01075, Prah.g_01064
+OG0001317	Prah	n32	1.0	Terminal	Prah.g_02435	Prah.g_00270, Prah.g_00281
+OG0001317	Prah	n33	1.0	Terminal	Prah.g_00270	Prah.g_00281
+OG0001317	Prah	n34	1.0	Terminal	Prah.g_02449, Prah.g_02433	Prah.g_01075, Prah.g_01064
+OG0001317	Prah	n35	1.0	Terminal	Prah.g_02449	Prah.g_02433
+OG0001317	Prah	n36	1.0	Terminal	Prah.g_01075	Prah.g_01064
+OG0001321	N0	n10	0.15	Non-Terminal	Pran.g_01763, Prab.g_00420, Prav.g_01015, Prbd.g_01923, Prad.g_01207, Prai.g_01293	Pran.g_01405, Prab.g_00778, Praw.g_01749, Prav.g_00357, Prae.g_00761, Prag.g_00754, Prax.g_00418, Prac.g_01513, Prar.g_01646, Prbd.g_00058, Prbi.g_00802, Prao.g_00696, Praz.g_01558, Prau.g_00811, Praa.g_00760, Praq.g_00632, Pray.g_00302, Prba.g_01545, Prad.g_01102, Pras.g_01659, Prai.g_01233
+OG0001325	N11	n23	0.25	Non-Terminal	Prbc.g_01348	Prbc.g_02182, Prbm.g_01388, Praj.g_01277
+OG0001325	Prat	n35	1.0	Terminal	Prat.g_01234	Prat.g_01492
+OG0001338	Prat	n15	1.0	Terminal	Prat.g_00379	Prat.g_00385
+OG0001344	N11	n11	1.0	Non-Terminal	Prbc.g_01483, Prbb.g_01553, Prbm.g_01584, Praj.g_01497	Prbm.g_01649, Praj.g_01564, Prbc.g_00646, Prbb.g_01628
+OG0001348	N18	n11	0.2	Non-Terminal	Prat.g_00467, Pral.g_00586	Pral.g_00016, Prbh.g_00824, Pram.g_00680, Prat.g_01485
+OG0001352	Prat	n15	1.0	Terminal	Prat.g_01577	Prat.g_00755
+OG0001353	N1	n19	0.05555555555555555	Non-Terminal	Prav.g_01308	Prar.g_01533, Praq.g_00832, Prac.g_00668, Prav.g_01311, Prau.g_00743, Prbd.g_00541, Prag.g_00681, Praw.g_01819, Prae.g_00677, Prax.g_00939, Prbi.g_00707, Praa.g_00703, Pras.g_01579
+OG0001354	N1	n11	0.2777777777777778	Non-Terminal	Praq.g_00653, Prar.g_01667, Prac.g_01492, Prbi.g_00831, Prau.g_00838, Pras.g_01685, Prae.g_00790, Prax.g_00389, Prbd.g_00086, Praa.g_00786, Prag.g_00790, Praw.g_01713, Prav.g_00380, Praz.g_01528, Prba.g_01515, Pray.g_00332, Prad.g_01129, Prao.g_00724	Praq.g_01244, Prar.g_00591, Prac.g_01903, Prau.g_00038, Pras.g_00884
+OG0001356	N16	n14	0.3333333333333333	Non-Terminal	Prbc.g_01956	Prbc.g_01957, Praj.g_00867
+OG0001363	N0	n2	0.05	Non-Terminal	Prae.g_01438, Prbh.g_00722, Pram.g_00045, Prbg.g_00809, Prak.g_00065, Prbf.g_01387, Prbn.g_00717, Prap.g_00890, Prbe.g_00165, Prai.g_01321, Pram.g_01438, Prbh.g_00039, Prau.g_01457, Prbb.g_02083, Praj.g_02035, Prbm.g_02115, Pran.g_00808, Prab.g_01392	Prac.g_00257, Prar.g_00871, Praq.g_00217, Prax.g_01824, Prai.g_01390, Praw.g_01054, Prag.g_01427, Praa.g_01396, Praz.g_01095, Prba.g_00152, Pray.g_01785, Prad.g_00563, Prau.g_01433, Prav.g_01506, Prao.g_01219, Prbd.g_01735
+OG0001363	N0	n4	0.05	Non-Terminal	Prbh.g_00722, Pram.g_00045, Prbg.g_00809, Prak.g_00065, Prbf.g_01387, Prbn.g_00717, Prap.g_00890, Prbe.g_00165	Prai.g_01321, Pram.g_01438, Prbh.g_00039, Prau.g_01457, Prbb.g_02083, Praj.g_02035, Prbm.g_02115, Pran.g_00808, Prab.g_01392
+OG0001364	N1	n15	0.05555555555555555	Non-Terminal	Prar.g_00777, Prac.g_00341, Praq.g_00364, Prav.g_01648, Prag.g_01560, Praw.g_00407, Prbd.g_01618, Prae.g_01529, Prbi.g_01660, Prax.g_01658, Pray.g_01652, Praz.g_00971, Prba.g_00318, Praa.g_01547, Prad.g_00444, Prao.g_01466, Prau.g_01601, Pras.g_00423	Prbd.g_01619
+OG0001365	N0	n4	0.025	Non-Terminal	Prae.g_01425	Prba.g_00355, Pray.g_01232, Praz.g_00337, Prao.g_01613, Prae.g_01684, Prax.g_01260, Prar.g_01116, Prac.g_00474, Praq.g_00953, Prau.g_01272, Prbi.g_01278, Prad.g_00376, Prai.g_01699
+OG0001365	Praa	n34	1.0	Terminal	Praa.g_01698	Praa.g_01611
+OG0001367	N0	n7	0.025	Non-Terminal	Prbi.g_00155, Prbi.g_00722	Praz.g_00318, Pray.g_01251, Prba.g_00374, Prbd.g_01446, Prbi.g_01866, Prae.g_01703, Prav.g_00285, Praw.g_01900, Prag.g_01749, Prao.g_01632, Prax.g_01279, Praa.g_01716, Prai.g_01718, Prab.g_01748, Pran.g_01050
+OG0001367	Prbi	n8	1.0	Terminal	Prbi.g_00155	Prbi.g_00722
+OG0001367	N17	n24	0.2	Non-Terminal	Prbl.g_01164, Prbk.g_00834, Prbj.g_00377, Prah.g_01971, Praf.g_02089, Prbk.g_00821, Prbj.g_00390, Prbl.g_01151, Prah.g_00340, Praf.g_02643, Praf.g_01869	Praf.g_02090
+OG0001367	N17	n25	1.0	Non-Terminal	Prbl.g_01164, Prbk.g_00834, Prbj.g_00377, Prah.g_01971, Praf.g_02089	Prbk.g_00821, Prbj.g_00390, Prbl.g_01151, Prah.g_00340, Praf.g_02643, Praf.g_01869
+OG0001367	Praf	n34	1.0	Terminal	Praf.g_02643	Praf.g_01869
+OG0001370	N11	n1	1.0	Non-Terminal	Prbm.g_01187, Praj.g_01171, Prbc.g_00149, Prbb.g_01213	Prbb.g_01193, Prbc.g_00130, Prbm.g_01168, Praj.g_01152
+OG0001370	N18	n8	0.6	Non-Terminal	Prbg.g_00452, Prbf.g_00051, Prbe.g_01629, Prap.g_00536, Prbn.g_01109, Prak.g_01252	Pral.g_01899, Prat.g_00632, Prbf.g_00374, Prap.g_00646, Prbg.g_00441, Prbe.g_00686, Prak.g_00633, Prbn.g_00775, Prbh.g_01410, Pram.g_00610, Prbh.g_00768, Pram.g_00624, Prbh.g_00793, Pram.g_00649, Prat.g_00818, Pral.g_01702, Prbn.g_01052, Prbe.g_00084, Prak.g_00699, Prap.g_00007, Prbg.g_00035, Prbf.g_00309
+OG0001370	N18	n14	0.8	Non-Terminal	Pral.g_01899, Prat.g_00632, Prbf.g_00374, Prap.g_00646, Prbg.g_00441, Prbe.g_00686, Prak.g_00633, Prbn.g_00775, Prbh.g_01410, Pram.g_00610, Prbh.g_00768, Pram.g_00624, Prbh.g_00793, Pram.g_00649	Prat.g_00818, Pral.g_01702, Prbn.g_01052, Prbe.g_00084, Prak.g_00699, Prap.g_00007, Prbg.g_00035, Prbf.g_00309
+OG0001370	N30	n23	1.0	Non-Terminal	Prbh.g_01410, Pram.g_00610, Prbh.g_00768, Pram.g_00624	Prbh.g_00793, Pram.g_00649
+OG0001370	N30	n24	1.0	Non-Terminal: STRIDE	Prbh.g_01410, Pram.g_00610	Prbh.g_00768, Pram.g_00624
+OG0001380	N4	n2	0.26666666666666666	Non-Terminal	Prbi.g_00427, Prae.g_00399, Prax.g_00775, Praa.g_00397, Prbd.g_00835, Prag.g_01272, Praw.g_00336, Prav.g_01383	Prag.g_01640, Praw.g_00486, Prad.g_01980, Prax.g_00507, Prav.g_01879
+OG0001410	Prax	n11	1.0	Terminal	Prax.g_01610	Prax.g_01611
+OG0001411	N0	n0	0.15	Non-Terminal	Prbd.g_01927, Prav.g_01321, Prau.g_00780, Prat.g_01533, Pral.g_00063, Pram.g_01594, Prbh.g_01820, Prbb.g_00885, Prbm.g_00431, Praj.g_00412, Prbc.g_02194, Prbc.g_01365, Prbm.g_01435, Prbb.g_00426, Prbb.g_01166	Praj.g_01199, Prbb.g_01241, Prbc.g_00176, Pras.g_00478, Praa.g_01607, Prau.g_01659, Prbi.g_01726, Prax.g_01599, Prae.g_01590, Pray.g_01593, Prba.g_00259, Praz.g_00911, Praw.g_00465, Prag.g_01618, Prav.g_01707, Prab.g_00755, Pran.g_01428, Prad.g_01187, Prbd.g_01900, Prao.g_00004
+OG0001411	N11	n8	0.25	Non-Terminal	Prbb.g_00885	Prbm.g_00431, Praj.g_00412, Prbc.g_02194, Prbc.g_01365, Prbm.g_01435, Prbb.g_00426, Prbb.g_01166
+OG0001411	N11	n10	0.5	Non-Terminal	Prbm.g_00431, Praj.g_00412, Prbc.g_02194	Prbc.g_01365, Prbm.g_01435
+OG0001411	Prbb	n14	1.0	Terminal	Prbb.g_00426	Prbb.g_01166
+OG0001413	N0	n1	0.05	Non-Terminal	Prat.g_00619, Prbi.g_01760, Prbm.g_01281, Prad.g_01213, Praf.g_00356, Prbj.g_00194, Prbk.g_01351, Prbl.g_01006, Prbl.g_02631, Prbk.g_02675, Prbj.g_02695, Prah.g_00994, Prah.g_00343, Prbl.g_01937, Prbk.g_01462, Prbj.g_01330, Prbk.g_01732, Prbj.g_00726, Prbl.g_02612, Praf.g_01078	Pray.g_00002, Prba.g_00002, Praz.g_00693, Praq.g_00058, Prac.g_00892, Prar.g_01172, Prbi.g_01744, Prab.g_01648, Pran.g_00949, Prbh.g_01794, Pram.g_01620, Prbb.g_00079, Prbm.g_00478, Prbc.g_00533
+OG0001413	N17	n6	0.8	Non-Terminal	Praf.g_00356, Prbj.g_00194, Prbk.g_01351, Prbl.g_01006, Prbl.g_02631, Prbk.g_02675, Prbj.g_02695, Prah.g_00994, Prah.g_00343, Prbl.g_01937, Prbk.g_01462, Prbj.g_01330	Prbk.g_01732, Prbj.g_00726, Prbl.g_02612, Praf.g_01078
+OG0001413	N17	n8	0.6	Non-Terminal	Prbj.g_00194, Prbk.g_01351, Prbl.g_01006	Prbl.g_02631, Prbk.g_02675, Prbj.g_02695, Prah.g_00994, Prah.g_00343, Prbl.g_01937, Prbk.g_01462, Prbj.g_01330
+OG0001413	N17	n11	0.8	Non-Terminal	Prbl.g_02631, Prbk.g_02675, Prbj.g_02695, Prah.g_00994	Prah.g_00343, Prbl.g_01937, Prbk.g_01462, Prbj.g_01330
+OG0001428	N0	n3	0.075	Non-Terminal	Pras.g_00277, Pran.g_00794, Prab.g_01406, Prbg.g_00565, Prak.g_01365, Prbe.g_00337, Prbf.g_00131, Prbn.g_00186, Prap.g_00095, Praa.g_01390, Pran.g_00796, Prab.g_01404, Pras.g_00279, Praa.g_01392, Prbf.g_00129, Prak.g_01363, Prbe.g_00339, Prap.g_00093, Prbg.g_00563, Prbn.g_00184	Prbc.g_00679, Prbi.g_00410, Prai.g_01411, Praa.g_01423, Prbh.g_00069, Pram.g_01408, Praa.g_00385, Pran.g_01806, Prab.g_00377, Prai.g_00399
+OG0001428	N0	n4	0.25	Non-Terminal	Pras.g_00277, Pran.g_00794, Prab.g_01406, Prbg.g_00565, Prak.g_01365, Prbe.g_00337, Prbf.g_00131, Prbn.g_00186, Prap.g_00095, Praa.g_01390	Pran.g_00796, Prab.g_01404, Pras.g_00279, Praa.g_01392, Prbf.g_00129, Prak.g_01363, Prbe.g_00339, Prap.g_00093, Prbg.g_00563, Prbn.g_00184
+OG0001428	N0	n25	0.05	Non-Terminal	Prai.g_01411, Praa.g_01423, Prbh.g_00069, Pram.g_01408	Praa.g_00385, Pran.g_01806, Prab.g_00377, Prai.g_00399
+OG0001433	N1	n3	0.16666666666666666	Non-Terminal	Prac.g_01952, Prar.g_01000, Praq.g_00087, Prag.g_01625, Praw.g_00471, Prbd.g_01890, Prax.g_01954, Praa.g_01260, Prbi.g_01335, Prae.g_01267, Prba.g_01139, Praz.g_01233, Pray.g_01923, Prau.g_01322, Pras.g_00154, Praw.g_00932, Prag.g_01304, Prad.g_00312, Prao.g_01330, Prav.g_01394	Prav.g_00943, Prav.g_00948, Prav.g_00588, Praw.g_00311, Prag.g_01247
+OG0001433	N4	n7	0.13333333333333333	Non-Terminal	Prag.g_01625, Praw.g_00471	Prbd.g_01890, Prax.g_01954, Praa.g_01260, Prbi.g_01335, Prae.g_01267, Prba.g_01139, Praz.g_01233, Pray.g_01923, Prau.g_01322, Pras.g_00154, Praw.g_00932, Prag.g_01304, Prad.g_00312, Prao.g_01330, Prav.g_01394
+OG0001433	Prav	n24	1.0	Terminal	Prav.g_00943	Prav.g_00948, Prav.g_00588
+OG0001433	Prav	n25	1.0	Terminal	Prav.g_00948	Prav.g_00588
+OG0001434	N6	n12	0.21052631578947367	Non-Terminal	Prbb.g_01432, Prbc.g_00040, Prbm.g_01310, Praj.g_01377, Pral.g_00441	Prbb.g_01270, Prbc.g_01300, Praj.g_01228, Pral.g_00060, Prat.g_01579
+OG0001434	N31	n21	1.0	Non-Terminal	Prbf.g_00819, Prbg.g_00719, Prak.g_01519, Prbn.g_00141, Prbe.g_00010, Prap.g_01914	Prbn.g_01705, Prbe.g_01025, Prap.g_01819, Prbg.g_01610, Prbf.g_00733, Prak.g_01605
+OG0001436	N11	n24	0.25	Non-Terminal	Prbb.g_01164, Prbm.g_01433	Prbm.g_01145
+OG0001436	N17	n26	0.4	Non-Terminal	Prah.g_02519, Prbl.g_02208, Prbk.g_02191, Prbj.g_01986, Praf.g_02686	Prah.g_01163, Praf.g_01026
+OG0001437	N4	n5	0.13333333333333333	Non-Terminal	Prau.g_00752, Prav.g_01872, Prav.g_01453, Prav.g_01873, Praw.g_00921, Prag.g_01293, Prae.g_00700, Prav.g_01373, Praw.g_00315, Prag.g_01251, Prav.g_01362, Praw.g_00923, Prag.g_01295, Prav.g_00970, Prav.g_01871, Prae.g_00703, Prae.g_00708	Prae.g_00701, Prav.g_00971
+OG0001437	N4	n7	0.06666666666666667	Non-Terminal	Prav.g_01872, Prav.g_01453, Prav.g_01873	Praw.g_00921, Prag.g_01293, Prae.g_00700, Prav.g_01373, Praw.g_00315, Prag.g_01251, Prav.g_01362, Praw.g_00923, Prag.g_01295, Prav.g_00970, Prav.g_01871, Prae.g_00703, Prae.g_00708
+OG0001437	Prav	n8	1.0	Terminal	Prav.g_01872, Prav.g_01453	Prav.g_01873
+OG0001437	Prav	n9	1.0	Terminal	Prav.g_01872	Prav.g_01453
+OG0001437	N4	n10	0.2	Non-Terminal	Praw.g_00921, Prag.g_01293, Prae.g_00700	Prav.g_01373, Praw.g_00315, Prag.g_01251, Prav.g_01362, Praw.g_00923, Prag.g_01295, Prav.g_00970, Prav.g_01871, Prae.g_00703, Prae.g_00708
+OG0001437	N8	n14	0.3333333333333333	Non-Terminal	Prav.g_01373, Praw.g_00315, Prag.g_01251, Prav.g_01362, Praw.g_00923, Prag.g_01295	Prav.g_00970, Prav.g_01871
+OG0001437	N8	n15	1.0	Non-Terminal	Prav.g_01373, Praw.g_00315, Prag.g_01251	Prav.g_01362, Praw.g_00923, Prag.g_01295
+OG0001437	Prav	n20	1.0	Terminal	Prav.g_00970	Prav.g_01871
+OG0001437	Prae	n21	1.0	Terminal	Prae.g_00703	Prae.g_00708
+OG0001437	N17	n23	1.0	Non-Terminal	Prbl.g_01354, Prbk.g_02099, Prbj.g_00142, Prah.g_00300, Praf.g_01931	Prbl.g_01355, Prbk.g_02097, Prbj.g_00143, Prah.g_00299, Praf.g_01933
+OG0001439	Praf	n16	1.0	Terminal	Praf.g_01588	Praf.g_01589
+OG0001442	Prba	n15	1.0	Terminal	Prba.g_00721	Prba.g_00104
+OG0001445	N15	n9	0.1	Non-Terminal	Prbi.g_01770	Praz.g_01248, Prba.g_01124, Pray.g_01937, Prbi.g_01317, Praa.g_01246
+OG0001446	N4	n5	0.06666666666666667	Non-Terminal	Prbi.g_01768, Praw.g_00334, Prag.g_01270	Prau.g_01338, Prad.g_01204, Pras.g_00169, Praa.g_01248, Prbd.g_01864, Prao.g_01348, Prbi.g_01319, Praz.g_01246, Pray.g_01935, Prba.g_01126
+OG0001447	N4	n25	0.06666666666666667	Non-Terminal	Prbi.g_01767, Prag.g_01271, Praw.g_00335	Prba.g_01127, Praz.g_01245, Pray.g_01934, Prbi.g_01320
+OG0001449	N0	n2	0.05	Non-Terminal	Pray.g_01741, Prba.g_00116, Praz.g_01060, Prbh.g_00076, Pram.g_01401, Prav.g_01558, Prad.g_00536, Prai.g_01407, Prao.g_01360, Prbd.g_01719, Pran.g_00792, Prab.g_01408, Prar.g_00867, Praq.g_00221, Prac.g_00261, Prax.g_01820	Prbe.g_00349, Prap.g_00083, Prak.g_01353, Prbf.g_00119, Prbg.g_00553, Prbn.g_00174, Pran.g_00805, Prab.g_01395
+OG0001449	Praa	n30	1.0	Terminal	Praa.g_01624	Praa.g_01794
+OG0001450	N0	n0	0.15	Non-Terminal	Praj.g_01831, Prbb.g_01886, Prbc.g_00895, Prbm.g_01909, Praw.g_00499, Prag.g_01653, Prbi.g_01543, Prbi.g_01762, Prav.g_01747	Praa.g_01625, Praw.g_00308, Prag.g_01244, Prak.g_01569, Prap.g_01855, Prbn.g_01669, Prbe.g_01126, Prbf.g_00769, Prbg.g_01574, Prab.g_01607, Pran.g_00592, Prbb.g_00883, Prbb.g_00881, Prbf.g_00739, Prbe.g_01031, Prak.g_01599, Prbn.g_01699, Prap.g_01825, Prbg.g_01604, Prbc.g_01486, Prbb.g_01556, Praj.g_01500, Prbm.g_01587
+OG0001450	Prbi	n8	1.0	Terminal	Prbi.g_01543	Prbi.g_01762
+OG0001450	N2	n12	0.3181818181818182	Non-Terminal	Prak.g_01569, Prap.g_01855, Prbn.g_01669, Prbe.g_01126, Prbf.g_00769, Prbg.g_01574, Prab.g_01607, Pran.g_00592, Prbb.g_00883, Prbb.g_00881	Prbf.g_00739, Prbe.g_01031, Prak.g_01599, Prbn.g_01699, Prap.g_01825, Prbg.g_01604, Prbc.g_01486, Prbb.g_01556, Praj.g_01500, Prbm.g_01587
+OG0001450	Prbb	n21	1.0	Terminal	Prbb.g_00883	Prbb.g_00881
+OG0001451	N22	n7	1.0	Non-Terminal	Prbl.g_00738, Prbk.g_01945, Prbj.g_01102	Prbl.g_02629, Prbj.g_02711, Prbk.g_02679
+OG0001451	Prbb	n21	1.0	Terminal	Prbb.g_01665	Prbb.g_01664
+OG0001451	Prbi	n28	1.0	Terminal	Prbi.g_02024	Prbi.g_01567
+OG0001451	Pras	n30	1.0	Terminal	Pras.g_01276	Pras.g_01277
+OG0001453	N0	n2	0.075	Non-Terminal	Prac.g_00282, Prar.g_00718, Praq.g_00037, Prav.g_01710, Praw.g_00469, Prag.g_01623, Prao.g_01526, Prba.g_00254, Praz.g_00906, Pray.g_01588	Prac.g_00881, Prar.g_01161, Praq.g_00047, Prai.g_00438, Prac.g_00913, Prar.g_01194, Praq.g_01406, Praq.g_00055, Prar.g_01169, Prac.g_00889
+OG0001453	N0	n12	0.075	Non-Terminal	Prac.g_00881, Prar.g_01161, Praq.g_00047, Prai.g_00438, Prac.g_00913, Prar.g_01194, Praq.g_01406	Praq.g_00055, Prar.g_01169, Prac.g_00889
+OG0001453	N0	n13	0.075	Non-Terminal	Prac.g_00881, Prar.g_01161, Praq.g_00047, Prai.g_00438	Prac.g_00913, Prar.g_01194, Praq.g_01406
+OG0001455	Prba	n7	1.0	Terminal	Prba.g_00921	Prba.g_01046
+OG0001455	N22	n17	1.0	Non-Terminal	Prbj.g_00045, Prbk.g_01663, Prbl.g_01077	Prbk.g_01668, Prbl.g_01071, Prbj.g_00051
+OG0001456	N0	n1	0.05	Non-Terminal	Praw.g_01936, Prag.g_00567, Praa.g_00589, Prbi.g_00591, Prae.g_00563, Prac.g_00784, Praq.g_01014, Prar.g_01418, Prad.g_01378, Prab.g_00593, Pran.g_01589, Prai.g_00617	Prai.g_01275, Prac.g_01965, Prau.g_01674
+OG0001458	N11	n8	0.25	Non-Terminal	Prbc.g_00048	Prbm.g_01339, Praj.g_01230, Prbc.g_01302, Prbb.g_01272
+OG0001464	N11	n22	1.0	Non-Terminal	Prbm.g_01481, Praj.g_01394, Prbb.g_01448, Prbc.g_01379	Praj.g_00977, Prbb.g_01021, Prbc.g_02066, Prbm.g_01018
+OG0001471	N15	n22	0.1	Non-Terminal	Prau.g_00431	Pray.g_00909, Praz.g_01909, Prba.g_01042, Prau.g_00457
+OG0001474	N1	n10	0.05555555555555555	Non-Terminal	Prax.g_00531, Prbi.g_00919, Prae.g_00877, Prao.g_00813, Prav.g_00468, Pray.g_00421, Prba.g_01426, Praz.g_01439, Praa.g_00877, Praq.g_00850, Prar.g_01551, Prac.g_00643, Praw.g_01626, Prag.g_00877, Pras.g_01773, Prau.g_00927, Prad.g_00275, Prbd.g_00175	Pras.g_00311
+OG0001482	N0	n14	0.125	Non-Terminal	Prac.g_00275, Prar.g_00711, Prai.g_01618, Prad.g_01985, Prau.g_01667, Pras.g_00495	Prau.g_01683, Prad.g_01318, Prac.g_01577, Prar.g_01582, Praq.g_00566, Pras.g_00510
+OG0001484	N0	n3	0.025	Non-Terminal	Prav.g_01507, Prab.g_01391, Pran.g_00809, Praa.g_01397, Prai.g_01422, Pral.g_01264	Prai.g_01391
+OG0001489	Praf	n12	1.0	Terminal	Praf.g_02647	Praf.g_02091
+OG0001491	N0	n1	0.05	Non-Terminal	Prbc.g_01567, Prau.g_01719	Pran.g_01367, Prab.g_00816, Prai.g_00871, Prav.g_00371, Prad.g_01121, Prao.g_00716, Prau.g_00830, Pras.g_01677, Prax.g_00397, Prbd.g_00078, Prbi.g_00823, Praq.g_00645, Prac.g_01500, Prar.g_01659, Praw.g_01721, Prag.g_00782, Praa.g_00778, Prae.g_00782, Prba.g_01523, Praz.g_01536, Pray.g_00324, Prbm.g_01100, Prbc.g_02149, Prbb.g_01105, Praj.g_01061, Prat.g_00643
+OG0001505	Prbc	n22	1.0	Terminal	Prbc.g_00527	Prbc.g_01311
+OG0001508	Praj	n14	1.0	Terminal	Praj.g_00060	Praj.g_01760
+OG0001511	N0	n0	0.125	Non-Terminal	Prax.g_01571, Prao.g_01535, Prad.g_00950, Prbd.g_01540, Praz.g_00887, Prba.g_00236, Pray.g_01569, Prbb.g_01333, Praj.g_01287	Pran.g_01769, Prab.g_00414, Prad.g_00955, Prbi.g_01325, Prax.g_01965, Prac.g_00912, Praq.g_00079, Prar.g_01193, Prai.g_00435, Prbc.g_00027, Praj.g_01374, Prbb.g_01418, Prbm.g_01307, Prbc.g_00637, Prbm.g_01244, Prax.g_00447, Prbd.g_00004, Prbi.g_00157, Prbb.g_01416, Praj.g_01372
+OG0001511	N0	n9	0.075	Non-Terminal	Pran.g_01769, Prab.g_00414, Prad.g_00955, Prbi.g_01325, Prax.g_01965, Prac.g_00912, Praq.g_00079, Prar.g_01193, Prai.g_00435, Prbc.g_00027, Praj.g_01374, Prbb.g_01418, Prbm.g_01307, Prbc.g_00637, Prbm.g_01244, Prax.g_00447	Prbd.g_00004, Prbi.g_00157, Prbb.g_01416, Praj.g_01372
+OG0001511	N0	n12	0.025	Non-Terminal	Prad.g_00955, Prbi.g_01325, Prax.g_01965, Prac.g_00912, Praq.g_00079, Prar.g_01193, Prai.g_00435, Prbc.g_00027, Praj.g_01374, Prbb.g_01418, Prbm.g_01307, Prbc.g_00637, Prbm.g_01244	Prax.g_00447
+OG0001511	N2	n19	0.09090909090909091	Non-Terminal	Prai.g_00435, Prbc.g_00027, Praj.g_01374, Prbb.g_01418, Prbm.g_01307	Prbc.g_00637, Prbm.g_01244
+OG0001512	N0	n5	0.05	Non-Terminal	Prbm.g_01292, Prbm.g_01460, Prbc.g_01352, Praf.g_01168, Prbk.g_01335, Prbl.g_01022, Prbj.g_00210, Praf.g_01187, Praf.g_02627, Prbb.g_01346, Prbc.g_00621, Prbk.g_01101, Prbj.g_02148, Prah.g_01085, Prbl.g_00745, Prav.g_00965, Prbi.g_01300, Prbi.g_01549, Prbm.g_01293, Prbc.g_00016, Prbc.g_00002, Praf.g_00342	Prah.g_01083, Prbc.g_01367
+OG0001512	N0	n6	0.075	Non-Terminal	Prbm.g_01292, Prbm.g_01460, Prbc.g_01352, Praf.g_01168, Prbk.g_01335, Prbl.g_01022, Prbj.g_00210, Praf.g_01187, Praf.g_02627, Prbb.g_01346, Prbc.g_00621, Prbk.g_01101, Prbj.g_02148, Prah.g_01085, Prbl.g_00745	Prav.g_00965, Prbi.g_01300, Prbi.g_01549, Prbm.g_01293, Prbc.g_00016, Prbc.g_00002, Praf.g_00342
+OG0001512	N6	n7	0.05263157894736842	Non-Terminal	Prbm.g_01292	Prbm.g_01460, Prbc.g_01352, Praf.g_01168, Prbk.g_01335, Prbl.g_01022, Prbj.g_00210, Praf.g_01187, Praf.g_02627, Prbb.g_01346, Prbc.g_00621, Prbk.g_01101, Prbj.g_02148, Prah.g_01085, Prbl.g_00745
+OG0001512	N6	n8	0.2631578947368421	Non-Terminal	Prbm.g_01460, Prbc.g_01352, Praf.g_01168, Prbk.g_01335, Prbl.g_01022, Prbj.g_00210	Praf.g_01187, Praf.g_02627, Prbb.g_01346, Prbc.g_00621, Prbk.g_01101, Prbj.g_02148, Prah.g_01085, Prbl.g_00745
+OG0001512	Praf	n16	1.0	Terminal	Praf.g_01187	Praf.g_02627
+OG0001512	Prbi	n24	1.0	Terminal	Prbi.g_01300	Prbi.g_01549
+OG0001512	Prbc	n26	1.0	Terminal	Prbc.g_00016	Prbc.g_00002
+OG0001513	N17	n18	1.0	Non-Terminal: STRIDE	Prah.g_01895, Praf.g_00246, Prbl.g_00554, Prbk.g_00013, Prbj.g_00618	Praf.g_01768, Prah.g_00432, Prbl.g_00155, Prbj.g_01300, Prbk.g_01932
+OG0001514	Prai	n2	1.0	Terminal	Prai.g_01773	Prai.g_00906
+OG0001514	Prab	n4	1.0	Terminal	Prab.g_01618	Prab.g_00916
+OG0001514	N4	n9	0.3333333333333333	Non-Terminal	Prau.g_01301, Pras.g_00137, Praa.g_00412, Prax.g_00493, Prav.g_01018	Prag.g_01334, Praw.g_00960, Prav.g_01414, Prad.g_00351, Prax.g_01918, Prbi.g_01372, Prba.g_01173, Pray.g_01889, Prao.g_01295, Prau.g_01351, Pras.g_00183, Praa.g_01299, Prbd.g_01834, Praz.g_01199
+OG0001515	N16	n4	0.6666666666666666	Non-Terminal	Praj.g_01733, Prbb.g_01788, Prbc.g_00809	Prbc.g_00526, Praj.g_01295
+OG0001517	N1	n5	0.16666666666666666	Non-Terminal	Praq.g_01645, Prac.g_01229, Prar.g_01931, Prag.g_01063, Praw.g_01440, Prav.g_00239, Prao.g_01005, Prad.g_00992, Pray.g_00611, Prba.g_01237, Praz.g_00093, Prax.g_01232, Prbd.g_00367, Prae.g_01069, Praa.g_01067, Prau.g_01115, Pras.g_01961, Prbi.g_01114	Prac.g_01228, Prar.g_01932, Praq.g_01646
+OG0001518	N11	n16	1.0	Non-Terminal	Prbc.g_01347, Prbc.g_01330, Prbb.g_01301, Praj.g_01256, Prbm.g_01367, Praj.g_01258, Prbb.g_01303, Prbc.g_01332	Prbm.g_01362, Prbb.g_01297, Prbc.g_01326, Praj.g_01252
+OG0001518	N11	n17	0.25	Non-Terminal	Prbc.g_01347	Prbc.g_01330, Prbb.g_01301, Praj.g_01256, Prbm.g_01367, Praj.g_01258, Prbb.g_01303, Prbc.g_01332
+OG0001518	N11	n18	0.75	Non-Terminal	Prbc.g_01330, Prbb.g_01301, Praj.g_01256	Prbm.g_01367, Praj.g_01258, Prbb.g_01303, Prbc.g_01332
+OG0001520	Prbm	n24	1.0	Terminal	Prbm.g_01432	Prbm.g_01146
+OG0001521	N0	n9	0.025	Non-Terminal	Prax.g_01261, Prae.g_01685, Praw.g_01918, Prag.g_01731, Prav.g_00267, Praq.g_00952, Prac.g_00475, Prar.g_01115, Prba.g_00356, Pray.g_01233, Praz.g_00336, Prai.g_01700, Pran.g_01031, Prab.g_01730, Prad.g_00375, Prbi.g_01279, Prau.g_01273	Pras.g_00612, Prau.g_01793
+OG0001522	N18	n5	0.8	Non-Terminal	Prbn.g_01665, Prap.g_01859, Prak.g_01565, Prbg.g_01570, Prbf.g_00773, Prbe.g_01122, Prat.g_00656, Pral.g_01854, Prbh.g_01852, Pram.g_01562	Prbg.g_00024, Prbf.g_00298, Prap.g_00018, Prbe.g_00073, Prbn.g_01041, Prak.g_00710, Pram.g_00682, Prbh.g_00826
+OG0001522	Prad	n26	1.0	Terminal	Prad.g_00075	Prad.g_00962
+OG0001528	N0	n3	0.025	Non-Terminal	Prav.g_01020	Praq.g_00086, Prar.g_01001, Prac.g_01953, Praw.g_00931, Prag.g_01303, Prai.g_01607, Prab.g_00972, Pran.g_00525, Praz.g_01235, Prba.g_01137, Pray.g_01925, Praa.g_01258, Prbd.g_01892, Prae.g_01266, Prav.g_01393, Prao.g_01334, Prbi.g_01333
+OG0001529	N6	n4	0.05263157894736842	Non-Terminal	Prbm.g_01370, Praj.g_01260, Prbb.g_01306	Praf.g_01193, Prah.g_01081, Prbm.g_01458
+OG0001530	N11	n22	0.25	Non-Terminal	Prbm.g_01147	Prbm.g_01431, Prbb.g_01162
+OG0001531	N22	n7	0.6666666666666666	Non-Terminal	Prbj.g_02170, Prbj.g_00673, Prbk.g_01677	Prbl.g_01709, Prbl.g_02597, Prbj.g_00315, Prbk.g_00171
+OG0001531	N29	n8	0.5	Non-Terminal	Prbj.g_02170	Prbj.g_00673, Prbk.g_01677
+OG0001531	N22	n10	0.3333333333333333	Non-Terminal	Prbl.g_01709	Prbl.g_02597, Prbj.g_00315, Prbk.g_00171
+OG0001531	N31	n14	1.0	Non-Terminal	Prbn.g_00799, Prak.g_00657, Prbg.g_00418, Prbf.g_00350, Prap.g_00622, Prbe.g_00710	Prbg.g_00392, Prap.g_00595, Prbn.g_00825, Prak.g_00683, Prbe.g_00736, Prbf.g_00324
+OG0001533	N0	n2	0.075	Non-Terminal	Prav.g_01323, Pran.g_00929, Prab.g_01628	Prbc.g_01280, Prbb.g_01250, Prbm.g_01317, Praj.g_01208, Prab.g_00393, Pran.g_01790, Praq.g_00851, Prac.g_00642, Prar.g_01552, Pray.g_00882, Prba.g_00898, Praz.g_00770, Prbi.g_02019, Prav.g_01012, Prbi.g_00423, Prbd.g_00839, Praa.g_00395, Prad.g_00700, Prax.g_00777, Pras.g_01256, Prau.g_00407
+OG0001533	N4	n17	0.06666666666666667	Non-Terminal	Prbi.g_02019	Prav.g_01012, Prbi.g_00423, Prbd.g_00839, Praa.g_00395, Prad.g_00700, Prax.g_00777, Pras.g_01256, Prau.g_00407
+OG0001534	N0	n2	0.1	Non-Terminal	Prai.g_01771, Prag.g_00718, Praw.g_01783, Pras.g_00138, Prau.g_01302, Prav.g_01017, Praa.g_00411, Prax.g_00492	Prae.g_01568, Praz.g_00932, Pray.g_01613, Prao.g_01503, Prbi.g_01697, Praa.g_01585, Praw.g_00443, Prag.g_01597, Praq.g_00014, Prar.g_00740, Prac.g_00304, Prad.g_00405, Prax.g_01620, Prba.g_00279, Prbd.g_01580
+OG0001537	N4	n7	0.3333333333333333	Non-Terminal	Prax.g_01951, Praa.g_01263, Prbi.g_01337, Prbd.g_01888, Praz.g_01231, Prba.g_01141, Pray.g_01921, Pras.g_01630, Pras.g_00156	Praz.g_01276, Pray.g_00258, Prba.g_01097, Prad.g_01198, Prav.g_00947, Prao.g_01337, Praa.g_01231, Prbd.g_01918, Prav.g_00889, Prad.g_00541
+OG0001537	Pras	n15	1.0	Terminal	Pras.g_01630	Pras.g_00156
+OG0001537	N4	n16	0.13333333333333333	Non-Terminal	Praz.g_01276, Pray.g_00258, Prba.g_01097, Prad.g_01198, Prav.g_00947	Prao.g_01337, Praa.g_01231, Prbd.g_01918, Prav.g_00889, Prad.g_00541
+OG0001540	N0	n6	0.05	Non-Terminal	Praq.g_00121, Pray.g_01883, Prba.g_01179, Praz.g_01193, Pras.g_00189, Prbd.g_01828, Prau.g_01357, Prac.g_00163, Prag.g_01340, Prae.g_01315, Prar.g_00967, Praw.g_00966, Pran.g_01432, Prab.g_00751	Prab.g_01313, Pran.g_00889, Prbm.g_01201, Prbc.g_00163, Prbb.g_01228, Praj.g_01186
+OG0001541	N0	n16	0.025	Non-Terminal	Prai.g_01394, Pras.g_00307, Prav.g_01503, Praj.g_02050, Pral.g_00638, Prbi.g_01509, Prav.g_01548, Prah.g_00100	Pras.g_00298
+OG0001541	N0	n19	0.025	Non-Terminal	Prav.g_01503	Praj.g_02050, Pral.g_00638, Prbi.g_01509, Prav.g_01548, Prah.g_00100
+OG0001543	Prbm	n24	1.0	Terminal	Prbm.g_01028	Prbm.g_01323
+OG0001546	N6	n9	0.05263157894736842	Non-Terminal	Prbm.g_00851, Prbb.g_00820, Praj.g_00807, Prbc.g_01896, Prbh.g_00990, Pram.g_00846, Prbg.g_01197, Prak.g_00883, Prbe.g_01260, Prap.g_00745, Prbn.g_01508, Prbf.g_01207	Prbm.g_01225
+OG0001547	N24	n10	1.0	Non-Terminal: STRIDE	Prbg.g_00034, Prbn.g_01051, Prap.g_00008, Prbe.g_00083, Prak.g_00700, Prbf.g_00308, Pram.g_00623, Prbh.g_00767	Pram.g_00646, Prbh.g_00790, Prbe.g_00687, Prap.g_00645, Prbn.g_00776, Prbf.g_00373, Prbg.g_00440, Prak.g_00634
+OG0001548	N24	n6	1.0	Non-Terminal	Prbn.g_01130, Prbf.g_00859, Prbg.g_01545, Prak.g_01231, Prap.g_00515, Prbe.g_01608, Pram.g_01194, Prbh.g_01337	Prbh.g_00801, Pram.g_00657, Prbf.g_00334, Prak.g_00673, Prap.g_00605, Prbn.g_00815, Prbe.g_00726, Prbg.g_00402
+OG0001551	Prbc	n6	1.0	Terminal	Prbc.g_01115	Prbc.g_00528
+OG0001558	N4	n4	0.26666666666666666	Non-Terminal	Prbi.g_01328, Prav.g_01381, Prbd.g_01896, Prad.g_01073, Prax.g_01961, Praa.g_01254	Prbd.g_00041, Praa.g_00744, Prae.g_00744, Prax.g_00435, Prad.g_01084, Pras.g_01642
+OG0001574	Prbc	n13	1.0	Terminal	Prbc.g_00019	Prbc.g_00096
+OG0001581	N0	n12	0.05	Non-Terminal	Praz.g_01082, Prba.g_00138, Pray.g_01772, Pram.g_01421, Prbh.g_00056, Prag.g_01461, Praw.g_01110	Prag.g_01449, Praw.g_01122, Prbi.g_01471
+OG0001589	N1	n2	0.6111111111111112	Non-Terminal	Prar.g_01199, Praq.g_01397, Prac.g_00921, Prba.g_01083, Pray.g_00249, Praz.g_01937, Prav.g_02004, Prbd.g_01920, Prag.g_01218, Praw.g_00905, Prad.g_00077	Praw.g_01814, Prag.g_00686, Pray.g_01055, Prba.g_01609, Praz.g_01622, Prav.g_01315, Prao.g_00057, Prad.g_00387, Praq.g_00031, Prac.g_00287, Prar.g_00724, Prbd.g_00002
+OG0001592	Pras	n15	1.0	Terminal	Pras.g_01254	Pras.g_01253
+OG0001607	N0	n0	0.25	Non-Terminal	Prav.g_01367, Prar.g_01167, Prac.g_00887, Praq.g_00053, Prad.g_00087, Prbg.g_00525, Prbf.g_00091, Prap.g_01948, Prbn.g_01236, Prbe.g_00377, Prak.g_01325, Praw.g_00338, Prag.g_01274	Prau.g_01278, Prad.g_00310, Prav.g_00950, Prbe.g_00376, Prbn.g_01237, Prak.g_01326, Prap.g_01949, Prbf.g_00092, Prbg.g_00526, Prag.g_01221, Praw.g_00902
+OG0001608	N17	n15	0.4	Non-Terminal	Prbl.g_01167, Prbk.g_00837	Prbl.g_01168, Prbk.g_00838, Prbj.g_00374, Prah.g_01969
+OG0001611	N10	n19	1.0	Non-Terminal	Prab.g_00748, Pran.g_01435	Pran.g_00577, Prab.g_00920
+OG0001615	N0	n3	0.05	Non-Terminal	Prbd.g_01879, Praz.g_01222, Pray.g_01912, Prba.g_01150, Praw.g_00939, Prag.g_01312, Prao.g_01323, Prax.g_01943, Prad.g_00323, Prbi.g_01344, Prab.g_01653, Pran.g_00954, Praa.g_01273, Prae.g_01277	Pran.g_00642, Prab.g_01557, Prai.g_01552, Prav.g_01377
+OG0001616	N1	n1	0.1111111111111111	Non-Terminal	Prax.g_01939, Prbi.g_01349, Praz.g_01217, Pray.g_01907, Prba.g_01155, Prbd.g_01874, Prad.g_00328, Praa.g_01278, Praq.g_00095, Prac.g_00137, Prar.g_00993, Prag.g_01317, Prav.g_01332, Prae.g_01243	Prbi.g_02016, Prav.g_01751
+OG0001620	N0	n2	0.075	Non-Terminal	Prbh.g_01912, Pram.g_01502, Prag.g_01460, Praw.g_01111, Prbk.g_00095, Prbj.g_01124, Prbi.g_01480, Prar.g_00381, Prac.g_00453, Praq.g_00252	Praa.g_01422, Prbh.g_00068, Pram.g_01409, Pral.g_01255, Prbb.g_00870, Prah.g_00111, Prbi.g_01512, Pral.g_01252
+OG0001620	N0	n12	0.025	Non-Terminal	Praa.g_01422, Prbh.g_00068, Pram.g_01409, Pral.g_01255	Prbb.g_00870, Prah.g_00111, Prbi.g_01512, Pral.g_01252
+OG0001621	Prah	n8	1.0	Terminal	Prah.g_00339	Prah.g_01973
+OG0001622	Prah	n21	1.0	Terminal	Prah.g_01826	Prah.g_01015
+OG0001626	N0	n6	0.05	Non-Terminal	Praa.g_01274, Prae.g_01278, Prao.g_01322, Prbd.g_01878, Prax.g_01942, Prbi.g_01345, Pray.g_01911, Prba.g_01151, Praz.g_01221, Prad.g_00324, Prag.g_01313, Praw.g_00940	Pran.g_00953, Prab.g_01652, Praw.g_00485, Prag.g_01639
+OG0001627	N4	n10	0.06666666666666667	Non-Terminal	Prbi.g_01306	Prba.g_01210, Pray.g_01852, Praz.g_01162, Prae.g_01347, Prbi.g_00153, Praa.g_01343, Pras.g_00229, Prbi.g_01409, Prad.g_01192, Prag.g_00725, Praw.g_01776
+OG0001627	N4	n15	0.06666666666666667	Non-Terminal	Prbi.g_00153	Praa.g_01343, Pras.g_00229, Prbi.g_01409, Prad.g_01192, Prag.g_00725, Praw.g_01776
+OG0001629	Prbm	n3	1.0	Terminal	Prbm.g_00089, Prbm.g_00077	Prbm.g_00066
+OG0001629	Prbm	n4	1.0	Terminal	Prbm.g_00089	Prbm.g_00077
+OG0001629	N0	n5	0.025	Non-Terminal	Prai.g_00145, Prbi.g_01885, Pray.g_01851, Praz.g_01161, Prba.g_01211, Prae.g_01348, Prab.g_01344, Pran.g_00857, Prav.g_00942, Prbi.g_01410, Prbi.g_00152, Pras.g_00230, Prar.g_01072, Prar.g_00614, Prac.g_00002, Praq.g_00724	Prar.g_00931
+OG0001629	N0	n10	0.025	Non-Terminal	Prbi.g_01885	Pray.g_01851, Praz.g_01161, Prba.g_01211, Prae.g_01348, Prab.g_01344, Pran.g_00857, Prav.g_00942, Prbi.g_01410, Prbi.g_00152
+OG0001629	Prbi	n18	1.0	Terminal	Prbi.g_01410	Prbi.g_00152
+OG0001630	N0	n2	0.05	Non-Terminal	Prat.g_01498, Praf.g_01861, Pral.g_01045, Prav.g_01425, Prbm.g_01288, Prbm.g_00531	Pral.g_01248, Praf.g_01470
+OG0001630	Prbm	n7	1.0	Terminal	Prbm.g_01288	Prbm.g_00531
+OG0001630	N0	n9	0.05	Non-Terminal	Prbi.g_00739, Praw.g_00799, Prag.g_00326, Pras.g_00323, Pran.g_00763, Prab.g_01436, Prai.g_01732, Prau.g_01825, Pram.g_01497, Prbh.g_01917, Prau.g_00426	Prab.g_01431, Pran.g_00769
+OG0001630	N0	n11	0.025	Non-Terminal	Praw.g_00799, Prag.g_00326, Pras.g_00323, Pran.g_00763, Prab.g_01436, Prai.g_01732, Prau.g_01825, Pram.g_01497, Prbh.g_01917	Prau.g_00426
+OG0001633	Praf	n18	1.0	Terminal	Praf.g_00946	Praf.g_01089
+OG0001633	Prah	n19	1.0	Terminal	Prah.g_01108	Prah.g_01112, Prah.g_01117
+OG0001633	Prah	n20	1.0	Terminal	Prah.g_01112	Prah.g_01117
+OG0001637	N4	n2	0.06666666666666667	Non-Terminal	Prbi.g_00723	Praz.g_01575, Pray.g_00285, Prba.g_01562, Prbi.g_00783, Prbd.g_00039, Pras.g_01639, Praw.g_01768, Prag.g_00735
+OG0001637	N30	n13	1.0	Non-Terminal: STRIDE	Pram.g_00622, Prbh.g_01949	Prbh.g_00791, Pram.g_00647
+OG0001638	N0	n0	0.1	Non-Terminal	Prbc.g_01131, Prar.g_00562, Praq.g_01948, Prac.g_01875, Pray.g_00229, Prba.g_01848, Praz.g_00420, Pras.g_00910, Praa.g_00060, Praa.g_01225, Pras.g_00906, Prac.g_01878, Praq.g_01269, Praq.g_01270, Prac.g_01876, Prar.g_00566	Prba.g_01847, Praz.g_00419, Pray.g_00230, Prbc.g_01369, Prbi.g_02023
+OG0001638	N1	n2	0.2777777777777778	Non-Terminal	Prar.g_00562, Praq.g_01948, Prac.g_01875, Pray.g_00229, Prba.g_01848, Praz.g_00420, Pras.g_00910, Praa.g_00060	Praa.g_01225, Pras.g_00906, Prac.g_01878, Praq.g_01269, Praq.g_01270, Prac.g_01876, Prar.g_00566
+OG0001638	N7	n13	0.5	Non-Terminal	Prac.g_01878	Praq.g_01269, Praq.g_01270, Prac.g_01876
+OG0001638	N7	n14	0.5	Non-Terminal	Praq.g_01269	Praq.g_01270, Prac.g_01876
+OG0001646	N11	n13	0.75	Non-Terminal	Prbb.g_01167, Prbm.g_01440, Praj.g_01125	Prbb.g_01275, Praj.g_01233, Prbc.g_01305, Prbm.g_01342
+OG0001683	N0	n3	0.125	Non-Terminal	Praj.g_02039, Prbm.g_02118, Prbb.g_02088, Prbc.g_00181, Prah.g_00082, Praf.g_00085, Prbj.g_01278, Prbk.g_01542, Prbl.g_02051	Prah.g_00098, Prbl.g_01002, Prbj.g_00979, Prbk.g_00942, Praf.g_00130, Prav.g_00299, Prag.g_01276, Praw.g_00340, Praa.g_01429
+OG0001696	N6	n0	0.3684210526315789	Non-Terminal	Praj.g_01597, Prbb.g_00047, Prbb.g_01955, Praj.g_00037, Prbc.g_01237, Prbc.g_01109, Prbm.g_01684, Prbm.g_00039, Prbk.g_02671, Prbj.g_02691, Praf.g_00292, Praf.g_00278	Prbl.g_01335, Prbk.g_02118, Prbj.g_00123, Praf.g_01900, Prah.g_00319, Prbm.g_01650, Prbc.g_00647, Praj.g_01565, Prbb.g_01629
+OG0001696	N16	n3	0.6666666666666666	Non-Terminal	Praj.g_01597, Prbb.g_00047	Prbb.g_01955, Praj.g_00037, Prbc.g_01237, Prbc.g_01109
+OG0001696	Prbc	n7	1.0	Terminal	Prbc.g_01237	Prbc.g_01109
+OG0001696	Prbm	n8	1.0	Terminal	Prbm.g_01684	Prbm.g_00039
+OG0001696	Praf	n11	1.0	Terminal	Praf.g_00292	Praf.g_00278
+OG0001697	N18	n7	0.6	Non-Terminal	Prbe.g_01018, Prap.g_01812, Prbg.g_01617, Prbn.g_01712, Prak.g_01612, Prbf.g_00726	Prbg.g_01049, Prbf.g_00851, Prbn.g_01943, Prak.g_00735, Prbe.g_00092, Prap.g_00673, Pral.g_01836
+OG0001705	N0	n3	0.025	Non-Terminal	Prad.g_01295, Prai.g_01255	Prbd.g_00405, Prax.g_00137, Praa.g_01106, Prbi.g_01152, Prae.g_01106, Prba.g_00738, Pray.g_00121, Praz.g_00049, Prao.g_01146, Prad.g_00646, Prau.g_01152
+OG0001705	Prbm	n18	1.0	Terminal	Prbm.g_01241	Prbm.g_01240
+OG0001709	N17	n9	0.8	Non-Terminal	Prbk.g_02058, Prbj.g_01633, Prbl.g_00508, Prah.g_01569, Praf.g_00592	Prbl.g_00063, Prbj.g_01132, Prbk.g_01286, Prah.g_01156
+OG0001711	Prbd	n7	1.0	Terminal	Prbd.g_01712	Prbd.g_01711
+OG0001711	N31	n8	1.0	Non-Terminal	Prbg.g_01592, Prak.g_01587, Prbe.g_01043, Prap.g_01837, Prbn.g_01687, Prbf.g_00751	Prap.g_00579, Prbg.g_00495, Prbf.g_00008, Prbe.g_00875, Prak.g_01295, Prbn.g_01066
+OG0001712	N0	n1	0.2	Non-Terminal	Pram.g_01439, Prbh.g_00038, Prax.g_01763, Prbi.g_01502, Prar.g_00861, Praq.g_00227, Prac.g_00267, Prax.g_01814, Prai.g_01421, Pran.g_00812	Prar.g_00845, Praq.g_00243, Prac.g_00462, Prax.g_01799, Pram.g_01429, Prbh.g_00048, Prai.g_00774, Prab.g_01389, Pran.g_00811
+OG0001715	N31	n7	0.16666666666666666	Non-Terminal	Prbf.g_00490	Prbe.g_00768, Prbf.g_00489, Prbn.g_00990, Prak.g_01848
+OG0001717	Pral	n18	1.0	Terminal	Pral.g_01310	Pral.g_01827
+OG0001718	N12	n13	0.06666666666666667	Non-Terminal	Prat.g_01581	Prat.g_00677, Prah.g_01216, Praf.g_00957, Prbk.g_01658, Prbj.g_00040, Prbl.g_01082
+OG0001719	N12	n12	0.06666666666666667	Non-Terminal	Prat.g_00349	Prah.g_01939, Praf.g_02053, Prbj.g_00340, Prbk.g_00872, Prbl.g_01202, Prat.g_01328
+OG0001720	N0	n10	0.05	Non-Terminal	Prau.g_01501, Prbm.g_02124, Prba.g_00133, Pray.g_01767, Praz.g_01077, Prbi.g_01485, Pras.g_00320	Prax.g_00489, Prau.g_01505, Pras.g_00300
+OG0001721	N31	n7	1.0	Non-Terminal	Prbe.g_00684, Prbg.g_00443, Prap.g_00648, Prbn.g_00773, Prak.g_00631, Prbf.g_00376	Prap.g_01920, Prbn.g_00147, Prbe.g_00004, Prak.g_01513, Prbg.g_00713, Prbf.g_00825
+OG0001723	N4	n5	0.06666666666666667	Non-Terminal	Prbi.g_01323	Prad.g_01083, Prao.g_00680, Prbd.g_00040, Prbi.g_00784, Praa.g_00743, Prae.g_00743, Prax.g_00436, Pray.g_00286, Prba.g_01561, Praz.g_01574, Prag.g_00736, Praw.g_01767
+OG0001727	N9	n8	0.16666666666666666	Non-Terminal	Prba.g_01129, Praz.g_01243	Prad.g_00321, Prbi.g_01342, Prbd.g_01883, Praa.g_01269, Prax.g_01947, Prae.g_01273, Praz.g_01226, Prba.g_01146, Pray.g_01916
+OG0001729	N0	n0	0.05	Non-Terminal	Pral.g_01254, Prav.g_01523, Prav.g_01549, Pras.g_00313, Praa.g_01336, Prau.g_01484	Pral.g_01260, Prbi.g_01464, Prae.g_01404, Prau.g_01467, Praf.g_00115, Prae.g_01412, Prbb.g_00872, Prat.g_01315, Prat.g_01268, Prag.g_01463, Praw.g_01108, Prbh.g_01913, Pram.g_01501
+OG0001729	Prav	n5	1.0	Terminal	Prav.g_01523	Prav.g_01549
+OG0001729	N0	n9	0.025	Non-Terminal	Prae.g_01404, Prau.g_01467, Praf.g_00115	Prae.g_01412, Prbb.g_00872, Prat.g_01315, Prat.g_01268
+OG0001729	Prat	n14	1.0	Terminal	Prat.g_01315	Prat.g_01268
+OG0001730	N0	n0	0.05	Non-Terminal	Prbm.g_02128, Praa.g_01404, Prai.g_01433, Prau.g_01463	Prau.g_01472, Prbc.g_00187, Praj.g_02057, Prbb.g_00853, Prbk.g_01566, Prbj.g_01255, Prbl.g_02028, Praf.g_00094, Prah.g_00119, Prbm.g_02138, Prav.g_01509, Prax.g_01841, Praq.g_00199, Prar.g_00889, Prac.g_00239
+OG0001735	N18	n3	0.1	Non-Terminal	Pram.g_01578, Prat.g_01551, Prbn.g_01708, Prap.g_01816, Prak.g_01608, Prbg.g_01613, Prbf.g_00730, Prbe.g_01022, Prat.g_01564, Prbe.g_01050, Prbn.g_01680, Prbf.g_00758, Prbg.g_01585, Prap.g_01844, Prak.g_01580	Prat.g_01535
+OG0001735	N18	n5	0.7	Non-Terminal	Prat.g_01551, Prbn.g_01708, Prap.g_01816, Prak.g_01608, Prbg.g_01613, Prbf.g_00730, Prbe.g_01022	Prat.g_01564, Prbe.g_01050, Prbn.g_01680, Prbf.g_00758, Prbg.g_01585, Prap.g_01844, Prak.g_01580
+OG0001788	N4	n10	0.06666666666666667	Non-Terminal	Prbi.g_01318, Pray.g_01936, Prao.g_01349, Praz.g_01247, Prba.g_01125	Prbi.g_01769, Praw.g_00333, Prag.g_01269
+OG0001792	N0	n5	0.1	Non-Terminal	Prao.g_01190, Prbd.g_01816, Prbc.g_00182, Praf.g_00086, Prah.g_00083, Prbk.g_01541, Prbl.g_02052, Prbj.g_01279	Prbk.g_01574, Praa.g_01428, Prbj.g_01247, Prbl.g_02020, Praf.g_00131
+OG0001793	N0	n2	0.05	Non-Terminal	Prbd.g_01814, Prao.g_01188, Prah.g_00081, Praf.g_00084, Prbk.g_01543, Prbl.g_02050, Prbj.g_01277, Prad.g_01977	Prah.g_00099, Praw.g_00341, Prag.g_01277, Prav.g_00300, Praf.g_00132
+OG0001794	N15	n10	0.1	Non-Terminal	Prax.g_01583	Pray.g_01590, Praz.g_00908, Prba.g_00256, Prax.g_01595
+OG0001797	N1	n11	0.05555555555555555	Non-Terminal	Prar.g_00559, Praq.g_01945, Prac.g_01872, Prbi.g_00166, Pras.g_00880	Prbi.g_01525
+OG0001800	N23	n5	1.0	Non-Terminal	Praf.g_01976, Prah.g_00243	Prah.g_01194, Praf.g_00988
+OG0001804	Praf	n1	1.0	Terminal	Praf.g_02623, Praf.g_02642, Praf.g_02640, Praf.g_02638	Praf.g_02634
+OG0001804	Praf	n2	1.0	Terminal	Praf.g_02623, Praf.g_02642, Praf.g_02640	Praf.g_02638
+OG0001804	Praf	n3	1.0	Terminal	Praf.g_02623, Praf.g_02642	Praf.g_02640
+OG0001804	Praf	n4	1.0	Terminal	Praf.g_02623	Praf.g_02642
+OG0001804	N22	n5	1.0	Non-Terminal	Prbk.g_01337, Prbj.g_00208, Prbl.g_01020	Prbj.g_00789, Prbj.g_02698, Prbl.g_02634, Prbk.g_02672, Prbl.g_02600, Prbk.g_02680, Prbj.g_00790, Prbj.g_00201, Prbl.g_01013, Prbk.g_01344
+OG0001804	N22	n8	0.3333333333333333	Non-Terminal	Prbj.g_00789	Prbj.g_02698, Prbl.g_02634, Prbk.g_02672, Prbl.g_02600, Prbk.g_02680, Prbj.g_00790, Prbj.g_00201, Prbl.g_01013, Prbk.g_01344
+OG0001804	N22	n9	1.0	Non-Terminal	Prbj.g_02698, Prbl.g_02634, Prbk.g_02672, Prbl.g_02600, Prbk.g_02680, Prbj.g_00790	Prbj.g_00201, Prbl.g_01013, Prbk.g_01344
+OG0001804	N22	n10	1.0	Non-Terminal	Prbj.g_02698, Prbl.g_02634, Prbk.g_02672	Prbl.g_02600, Prbk.g_02680, Prbj.g_00790
+OG0001805	N11	n1	1.0	Non-Terminal	Prbm.g_00107, Prbb.g_00104, Praj.g_00088, Prbc.g_00524	Prbm.g_01069, Prbb.g_01075, Prbc.g_02118, Praj.g_01029
+OG0001815	N0	n0	0.125	Non-Terminal	Prau.g_01049, Pras.g_01894, Prav.g_00893, Praa.g_01000, Prax.g_01165, Pran.g_01474, Prab.g_00709, Prbi.g_01046, Prbd.g_00300, Prai.g_01278	Praw.g_00481, Prag.g_01635, Prav.g_01379, Prbi.g_01324, Prai.g_01265, Pran.g_00523, Prab.g_00974
+OG0001820	N9	n11	0.08333333333333333	Non-Terminal	Pras.g_01593	Prau.g_01342, Pras.g_00173, Prad.g_00336, Praa.g_01285, Prae.g_01288
+OG0001823	N12	n13	0.06666666666666667	Non-Terminal	Prat.g_01321	Praf.g_00117, Prat.g_01265
+OG0001830	Prau	n15	1.0	Terminal	Prau.g_01473	Prau.g_01464
+OG0001833	N17	n0	0.8	Non-Terminal	Prbl.g_02602, Prbj.g_00716, Prbk.g_01722, Prah.g_01002, Praf.g_01084, Prah.g_01127, Praf.g_01069	Praf.g_01180, Prbl.g_00001, Prbk.g_01740, Prbj.g_00734, Prbk.g_01708, Prbj.g_00704, Prbl.g_01678, Prbj.g_00216, Prbl.g_01028, Prbk.g_01329
+OG0001833	N23	n4	1.0	Non-Terminal	Prah.g_01002, Praf.g_01084	Prah.g_01127, Praf.g_01069
+OG0001833	N22	n8	1.0	Non-Terminal	Prbl.g_00001, Prbk.g_01740, Prbj.g_00734	Prbk.g_01708, Prbj.g_00704, Prbl.g_01678, Prbj.g_00216, Prbl.g_01028, Prbk.g_01329
+OG0001833	N22	n11	1.0	Non-Terminal	Prbk.g_01708, Prbj.g_00704, Prbl.g_01678	Prbj.g_00216, Prbl.g_01028, Prbk.g_01329
+OG0001835	N11	n10	0.75	Non-Terminal	Praj.g_01364, Prbb.g_01410, Prbc.g_00053	Prbc.g_01328, Praj.g_01254, Prbm.g_01364, Prbb.g_01299
+OG0001836	Prbi	n15	1.0	Terminal	Prbi.g_01766	Prbi.g_01321
+OG0001839	N1	n5	0.05555555555555555	Non-Terminal	Prad.g_00318	Praq.g_01134, Prar.g_00471, Prac.g_01124, Prad.g_00680, Pras.g_01266, Praz.g_01918, Pray.g_00900, Prba.g_00916
+OG0001851	N0	n0	0.05	Non-Terminal	Prbm.g_01282, Pral.g_00667, Prae.g_00690, Praw.g_00911, Prag.g_01283, Prav.g_01353, Prbl.g_01960, Prbj.g_01187, Prbk.g_01634, Praf.g_00020, Prah.g_00021	Prbm.g_01221, Prao.g_00638, Prad.g_01042, Pral.g_01676, Prat.g_00846
+OG0001853	Prbc	n14	1.0	Terminal	Prbc.g_00552	Prbc.g_00020
+OG0001854	N17	n0	1.0	Non-Terminal	Prbj.g_01356, Prbk.g_02681, Prbl.g_01502, Prah.g_01056, Prah.g_01005, Prah.g_00936, Prah.g_01869, Praf.g_01103	Praf.g_02463, Praf.g_01102, Praf.g_02219, Praf.g_02523, Prbj.g_01354, Prbk.g_00999, Prbl.g_01504, Prah.g_02448
+OG0001854	Prah	n5	1.0	Terminal	Prah.g_01056, Prah.g_01005	Prah.g_00936, Prah.g_01869
+OG0001854	Prah	n6	1.0	Terminal	Prah.g_01056	Prah.g_01005
+OG0001854	Prah	n7	1.0	Terminal	Prah.g_00936	Prah.g_01869
+OG0001854	Praf	n9	1.0	Terminal	Praf.g_02463, Praf.g_01102, Praf.g_02219	Praf.g_02523
+OG0001854	Praf	n10	1.0	Terminal	Praf.g_02463	Praf.g_01102, Praf.g_02219
+OG0001854	Praf	n11	1.0	Terminal	Praf.g_01102	Praf.g_02219
+OG0001855	N6	n5	0.05263157894736842	Non-Terminal	Prbm.g_02142, Prbm.g_00527, Prbm.g_02141, Praf.g_01873	Praj.g_02048, Praj.g_02047, Prbb.g_00077, Prbm.g_01984, Prbm.g_01626, Praj.g_01607
+OG0001855	Prbm	n7	1.0	Terminal	Prbm.g_02142	Prbm.g_00527, Prbm.g_02141
+OG0001855	Prbm	n8	1.0	Terminal	Prbm.g_00527	Prbm.g_02141
+OG0001855	N11	n9	0.5	Non-Terminal	Praj.g_02048, Praj.g_02047, Prbb.g_00077, Prbm.g_01984	Prbm.g_01626, Praj.g_01607
+OG0001855	Praj	n12	1.0	Terminal	Praj.g_02048	Praj.g_02047
+OG0001856	N11	n2	1.0	Non-Terminal	Prbm.g_01133, Prbb.g_01136, Prbc.g_00617, Praj.g_01093	Prbb.g_01263, Praj.g_01221, Prbc.g_01293, Prbm.g_01329, Prbb.g_00093, Prbc.g_00548, Prbm.g_00100, Praj.g_00078
+OG0001856	N11	n6	1.0	Non-Terminal	Prbb.g_01263, Praj.g_01221, Prbc.g_01293, Prbm.g_01329	Prbb.g_00093, Prbc.g_00548, Prbm.g_00100, Praj.g_00078
+OG0001857	N18	n2	0.6	Non-Terminal	Pral.g_01341, Prap.g_00485, Prbe.g_01578, Prbn.g_01160, Prak.g_01201, Prbg.g_01515, Prbf.g_00889	Prap.g_00223, Prak.g_01493, Prbn.g_00880, Prbf.g_00259, Prbe.g_00209, Prbg.g_00693
+OG0001858	N6	n3	0.05263157894736842	Non-Terminal	Pral.g_00001, Prbn.g_01660, Prap.g_01864, Prbf.g_00778, Prak.g_01560, Prbg.g_01565, Prbe.g_01117	Pral.g_00027, Pral.g_00028, Prbc.g_01364, Prbc.g_00021
+OG0001858	Pral	n11	1.0	Terminal	Pral.g_00027	Pral.g_00028
+OG0001858	Prbc	n12	1.0	Terminal	Prbc.g_01364	Prbc.g_00021
+OG0001860	N4	n3	0.2	Non-Terminal	Pras.g_01306, Prag.g_00407, Praw.g_00719, Praa.g_00428, Prau.g_00469, Prba.g_01033, Praz.g_01900, Pray.g_00918	Pray.g_00917, Praz.g_01901, Prba.g_01034, Prav.g_01027
+OG0001868	N4	n4	0.06666666666666667	Non-Terminal	Praz.g_01219, Pray.g_01909, Prba.g_01153, Prau.g_01305, Prae.g_01280, Prbi.g_01347, Prbd.g_01876, Praa.g_01276	Pras.g_00159, Prau.g_01327, Praw.g_00942
+OG0001869	N0	n7	0.025	Non-Terminal	Prai.g_01430, Praa.g_01448, Pras.g_00284	Pras.g_00287
+OG0001870	N0	n7	0.025	Non-Terminal	Prai.g_00147	Prai.g_00040, Prav.g_00210
+OG0001873	Prav	n8	1.0	Terminal	Prav.g_00949	Prav.g_01366
+OG0001879	N0	n1	0.05	Non-Terminal	Prbm.g_01599, Prad.g_00084	Prbm.g_01223, Prat.g_01545, Prat.g_01565, Pral.g_00669, Prbm.g_01290, Prbm.g_01391, Prbm.g_01291, Prbm.g_01471, Prbm.g_01299, Prbm.g_01470, Prad.g_00085, Prat.g_01566
+OG0001879	N0	n3	0.05	Non-Terminal	Prbm.g_01223, Prat.g_01545, Prat.g_01565, Pral.g_00669	Prbm.g_01290, Prbm.g_01391, Prbm.g_01291, Prbm.g_01471, Prbm.g_01299, Prbm.g_01470, Prad.g_00085, Prat.g_01566
+OG0001879	Prat	n6	1.0	Terminal	Prat.g_01545	Prat.g_01565
+OG0001879	Prbm	n8	1.0	Terminal	Prbm.g_01290, Prbm.g_01391, Prbm.g_01291, Prbm.g_01471, Prbm.g_01299	Prbm.g_01470
+OG0001879	Prbm	n9	1.0	Terminal	Prbm.g_01290	Prbm.g_01391, Prbm.g_01291, Prbm.g_01471, Prbm.g_01299
+OG0001879	Prbm	n10	1.0	Terminal	Prbm.g_01391, Prbm.g_01291	Prbm.g_01471, Prbm.g_01299
+OG0001879	Prbm	n11	1.0	Terminal	Prbm.g_01391	Prbm.g_01291
+OG0001879	Prbm	n12	1.0	Terminal	Prbm.g_01471	Prbm.g_01299
+OG0001880	N0	n9	0.025	Non-Terminal	Prai.g_01402	Prbd.g_01722, Prai.g_01399, Prai.g_01410, Prai.g_01404, Prau.g_01480
+OG0001880	N0	n10	0.025	Non-Terminal	Prbd.g_01722, Prai.g_01399, Prai.g_01410	Prai.g_01404, Prau.g_01480
+OG0001880	Prai	n12	1.0	Terminal	Prai.g_01399	Prai.g_01410
+OG0001881	N0	n3	0.025	Non-Terminal	Prav.g_01874	Prat.g_01205, Pral.g_01319, Praf.g_01202, Prbm.g_00082, Prav.g_01723, Prae.g_01260
+OG0001882	Prah	n4	1.0	Terminal	Prah.g_01421	Prah.g_01206
+OG0001903	Prat	n12	1.0	Terminal	Prat.g_01506	Prat.g_01562
+OG0001904	Pral	n6	1.0	Terminal	Pral.g_00041	Pral.g_01318
+OG0001905	N31	n1	1.0	Non-Terminal	Prbe.g_01017, Prbn.g_01713, Prap.g_01811, Prbf.g_00725, Prbg.g_01618, Prak.g_01613	Prbe.g_01035, Prbn.g_01695, Prap.g_01829, Prbg.g_01600, Prak.g_01595, Prbf.g_00743
+OG0001907	N9	n6	0.08333333333333333	Non-Terminal	Prbd.g_01925	Prbd.g_01916, Praa.g_01233, Prad.g_01197
+OG0001908	N1	n7	0.05555555555555555	Non-Terminal	Praa.g_01440	Prac.g_00271, Praq.g_00231, Prar.g_00857, Prax.g_01810, Praa.g_01417
+OG0001911	N10	n2	1.0	Non-Terminal	Pran.g_01770, Prab.g_00413, Pran.g_00933, Prab.g_01632	Prab.g_01296, Pran.g_00906
+OG0001911	N10	n3	1.0	Non-Terminal: STRIDE	Pran.g_01770, Prab.g_00413	Pran.g_00933, Prab.g_01632
+OG0001913	Prah	n6	1.0	Terminal	Prah.g_01157	Prah.g_01158
+OG0001914	Prav	n4	1.0	Terminal	Prav.g_00888	Prav.g_00945
+OG0001919	N11	n1	1.0	Non-Terminal: STRIDE	Prbm.g_01211, Prbb.g_01240, Prbc.g_00175, Praj.g_01198	Prbm.g_01206, Prbb.g_01233, Prbc.g_00168, Praj.g_01191
+OG0001919	Prah	n12	1.0	Terminal	Prah.g_01794	Prah.g_01795
+OG0001922	Praf	n12	1.0	Terminal	Praf.g_01870	Praf.g_02644
+OG0001940	N11	n0	1.0	Non-Terminal	Prbm.g_01396, Praj.g_01324, Prbb.g_01369, Prbc.g_00067	Prbm.g_01298, Praj.g_01325, Praj.g_01294, Prbc.g_00628, Prbb.g_01339, Prbm.g_01251, Praj.g_01289, Prbb.g_01335, Prbc.g_00634, Prbm.g_01247
+OG0001940	N11	n4	0.25	Non-Terminal	Prbm.g_01298	Praj.g_01325, Praj.g_01294, Prbc.g_00628, Prbb.g_01339, Prbm.g_01251, Praj.g_01289, Prbb.g_01335, Prbc.g_00634, Prbm.g_01247
+OG0001940	N11	n5	0.25	Non-Terminal	Praj.g_01325	Praj.g_01294, Prbc.g_00628, Prbb.g_01339, Prbm.g_01251, Praj.g_01289, Prbb.g_01335, Prbc.g_00634, Prbm.g_01247
+OG0001940	N11	n6	1.0	Non-Terminal	Praj.g_01294, Prbc.g_00628, Prbb.g_01339, Prbm.g_01251	Praj.g_01289, Prbb.g_01335, Prbc.g_00634, Prbm.g_01247
+OG0001949	N4	n1	0.26666666666666666	Non-Terminal	Prba.g_01117, Praz.g_01256, Praw.g_00896, Prag.g_01227, Prao.g_01371	Praa.g_00415, Prag.g_00394, Praw.g_00732, Prau.g_00456, Prba.g_01043, Praz.g_01910, Pray.g_00908
+OG0001957	Prbm	n6	1.0	Terminal	Prbm.g_01148	Prbm.g_01428
+OG0001960	Prbc	n11	1.0	Terminal	Prbc.g_01110	Prbc.g_00263
+OG0001961	N7	n10	0.5	Non-Terminal	Prac.g_00193, Praq.g_00151	Prac.g_00658
+OG0001966	N4	n6	0.06666666666666667	Non-Terminal	Prbi.g_00064	Prag.g_01266, Praw.g_00330, Prad.g_01196, Prad.g_01848, Prau.g_01311, Prbi.g_01882
+OG0001966	Prad	n10	1.0	Terminal	Prad.g_01196	Prad.g_01848
+OG0001969	N6	n3	0.21052631578947367	Non-Terminal	Prbj.g_00053, Prbk.g_01670, Prbl.g_01069, Praf.g_02038	Praf.g_00850, Prbj.g_00302, Prbk.g_00108, Prbl.g_00176, Prbb.g_01810, Prat.g_01568
+OG0001974	N18	n8	0.1	Non-Terminal	Pral.g_01230	Prbh.g_01404, Pram.g_01261, Pral.g_01226, Pral.g_01301
+OG0001974	Pral	n11	1.0	Terminal	Pral.g_01226	Pral.g_01301
+OG0001981	N19	n7	0.6666666666666666	Non-Terminal	Prba.g_00119, Pray.g_01744, Praz.g_01063	Praz.g_01090, Pray.g_01780
+OG0001987	Praf	n4	1.0	Terminal	Praf.g_00092, Praf.g_02707	Praf.g_00098
+OG0001987	Praf	n5	1.0	Terminal	Praf.g_00092	Praf.g_02707
+OG0001993	N4	n3	0.06666666666666667	Non-Terminal	Prau.g_01824	Prau.g_00427, Prbi.g_00738, Prax.g_01730, Praw.g_00800, Prag.g_00325
+OG0001996	N6	n2	0.10526315789473684	Non-Terminal	Prbc.g_00191, Prbb.g_02081, Prbm.g_02113, Praj.g_02033	Prbm.g_02132, Praj.g_01516, Prah.g_00113, Prah.g_00095
+OG0001996	Prah	n8	1.0	Terminal	Prah.g_00113	Prah.g_00095
+OG0002000	Praf	n2	1.0	Terminal	Praf.g_00982	Praf.g_00981
+OG0002000	Prbb	n10	1.0	Terminal	Prbb.g_01567	Prbb.g_01308
+OG0002001	N17	n2	1.0	Non-Terminal: STRIDE	Prbk.g_00356, Prbl.g_00680, Prbj.g_00072, Praf.g_02006, Prah.g_00214	Prbl.g_00136, Prbk.g_00692, Prbj.g_00229, Prah.g_02423, Praf.g_02586
+OG0002003	Praf	n1	1.0	Terminal	Praf.g_02339	Praf.g_02340
+OG0002005	Prbi	n10	1.0	Terminal	Prbi.g_01550	Prbi.g_01299
+OG0002006	Prbi	n10	1.0	Terminal	Prbi.g_01551	Prbi.g_01298
+OG0002029	N1	n1	0.1111111111111111	Non-Terminal	Pras.g_00485, Prbd.g_01554, Praq.g_00036, Prar.g_00719, Prac.g_00885, Prar.g_01165, Praq.g_00051, Pras.g_00526	Prar.g_01565, Prac.g_01594
+OG0002029	N1	n2	0.16666666666666666	Non-Terminal	Pras.g_00485, Prbd.g_01554, Praq.g_00036, Prar.g_00719	Prac.g_00885, Prar.g_01165, Praq.g_00051, Pras.g_00526
+OG0002032	Prbd	n3	1.0	Terminal	Prbd.g_01817	Prbd.g_01098, Prbd.g_01826, Prbd.g_01813, Prbd.g_00821, Prbd.g_01903, Prbd.g_01904, Prbd.g_01314
+OG0002032	Prbd	n4	1.0	Terminal	Prbd.g_01098, Prbd.g_01826	Prbd.g_01813, Prbd.g_00821, Prbd.g_01903, Prbd.g_01904, Prbd.g_01314
+OG0002032	Prbd	n5	1.0	Terminal	Prbd.g_01098	Prbd.g_01826
+OG0002032	Prbd	n6	1.0	Terminal	Prbd.g_01813, Prbd.g_00821	Prbd.g_01903, Prbd.g_01904, Prbd.g_01314
+OG0002032	Prbd	n7	1.0	Terminal	Prbd.g_01813	Prbd.g_00821
+OG0002032	Prbd	n8	1.0	Terminal	Prbd.g_01903, Prbd.g_01904	Prbd.g_01314
+OG0002032	Prbd	n9	1.0	Terminal	Prbd.g_01903	Prbd.g_01904
+OG0002033	Prbm	n3	1.0	Terminal	Prbm.g_01416	Prbm.g_01304
+OG0002033	N9	n4	0.16666666666666666	Non-Terminal	Prau.g_01286, Prbd.g_00533, Prad.g_00953	Prad.g_01211, Prau.g_01715, Prau.g_01713, Prau.g_00442
+OG0002033	Prau	n8	1.0	Terminal	Prau.g_01715	Prau.g_01713, Prau.g_00442
+OG0002033	Prau	n9	1.0	Terminal	Prau.g_01713	Prau.g_00442
+OG0002034	N11	n4	0.75	Non-Terminal	Praj.g_01127, Prbb.g_01168, Prbm.g_01442	Prbm.g_01355, Prbb.g_01290, Prbc.g_01319, Praj.g_01245
+OG0002035	N30	n7	1.0	Non-Terminal: STRIDE	Prbh.g_01420, Pram.g_00600	Prbh.g_01422, Pram.g_00598
+OG0002037	N17	n0	1.0	Non-Terminal	Prah.g_01755, Prbk.g_01388, Prbl.g_00321, Prbj.g_00432, Praf.g_00409	Praf.g_01847, Praf.g_00408, Prah.g_01756, Prbj.g_00431, Prbk.g_01387, Prbl.g_00320
+OG0002037	N17	n5	0.2	Non-Terminal	Praf.g_01847	Praf.g_00408, Prah.g_01756, Prbj.g_00431, Prbk.g_01387, Prbl.g_00320
+OG0002039	N17	n0	1.0	Non-Terminal	Prbk.g_00089, Prbj.g_02672, Prbl.g_02651, Prah.g_01086, Praf.g_01186	Praf.g_01058, Praf.g_01096, Prah.g_01099, Prbk.g_01330, Prbj.g_00215, Prbl.g_01027
+OG0002039	N17	n5	0.2	Non-Terminal	Praf.g_01058	Praf.g_01096, Prah.g_01099, Prbk.g_01330, Prbj.g_00215, Prbl.g_01027
+OG0002042	N17	n0	1.0	Non-Terminal	Prbk.g_00496, Prbl.g_00873, Prbj.g_01484, Praf.g_02363, Prah.g_02210	Praf.g_02364, Prbj.g_01485, Prbk.g_00497, Prbl.g_00872, Prah.g_00092, Prah.g_02217
+OG0002042	Prah	n9	1.0	Terminal	Prah.g_00092	Prah.g_02217
+OG0002045	Prav	n9	1.0	Terminal	Prav.g_01739	Prav.g_01875
+OG0002046	N16	n8	0.3333333333333333	Non-Terminal	Prbc.g_02199	Prbb.g_00087, Prbc.g_00540
+OG0002047	N11	n0	0.75	Non-Terminal	Prbb.g_01384, Praj.g_01291, Praj.g_01340, Prbc.g_00632, Prbm.g_01403	Prbm.g_01385, Prbm.g_01232, Praj.g_01312, Praj.g_01275, Prbb.g_01322, Prbb.g_01357
+OG0002047	Praj	n4	1.0	Terminal	Praj.g_01291	Praj.g_01340
+OG0002047	Prbm	n6	1.0	Terminal	Prbm.g_01385	Prbm.g_01232
+OG0002047	Praj	n8	1.0	Terminal	Praj.g_01312	Praj.g_01275
+OG0002047	Prbb	n9	1.0	Terminal	Prbb.g_01322	Prbb.g_01357
+OG0002054	N19	n4	1.0	Non-Terminal	Prba.g_01130, Praz.g_01242, Pray.g_01932	Prba.g_01143, Praz.g_01229, Pray.g_01919
+OG0002058	Pral	n3	1.0	Terminal	Pral.g_00092	Pral.g_00059
+OG0002059	N3	n4	1.0	Non-Terminal	Praq.g_00858, Prar.g_01559, Prac.g_00635	Prar.g_01563, Prac.g_01596, Praq.g_00549
+OG0002060	N3	n3	1.0	Non-Terminal	Prac.g_00883, Praq.g_00049, Prar.g_01163	Prac.g_01593, Praq.g_00551, Prar.g_01566
+OG0002060	Prad	n8	1.0	Terminal	Prad.g_01200	Prad.g_01303
+OG0002061	Pral	n8	1.0	Terminal	Pral.g_00443	Pral.g_01883
+OG0002066	Prad	n0	1.0	Terminal	Prad.g_00010	Prad.g_00001, Prad.g_00002, Prad.g_00006, Prad.g_00004, Prad.g_00008, Prad.g_00003, Prad.g_00009, Prad.g_00007, Prad.g_00005
+OG0002066	Prad	n1	1.0	Terminal	Prad.g_00001	Prad.g_00002, Prad.g_00006, Prad.g_00004, Prad.g_00008, Prad.g_00003, Prad.g_00009, Prad.g_00007, Prad.g_00005
+OG0002066	Prad	n2	1.0	Terminal	Prad.g_00002, Prad.g_00006, Prad.g_00004, Prad.g_00008	Prad.g_00003, Prad.g_00009, Prad.g_00007, Prad.g_00005
+OG0002066	Prad	n3	1.0	Terminal	Prad.g_00002	Prad.g_00006, Prad.g_00004, Prad.g_00008
+OG0002066	Prad	n4	1.0	Terminal	Prad.g_00006	Prad.g_00004, Prad.g_00008
+OG0002066	Prad	n5	1.0	Terminal	Prad.g_00004	Prad.g_00008
+OG0002066	Prad	n6	1.0	Terminal	Prad.g_00003	Prad.g_00009, Prad.g_00007, Prad.g_00005
+OG0002066	Prad	n7	1.0	Terminal	Prad.g_00009	Prad.g_00007, Prad.g_00005
+OG0002066	Prad	n8	1.0	Terminal	Prad.g_00007	Prad.g_00005
+OG0002068	N17	n0	1.0	Non-Terminal	Prbk.g_00033, Prbl.g_00574, Prbj.g_00598, Prah.g_01875, Praf.g_00266	Prah.g_00137, Praf.g_00166, Prbl.g_01234, Prbj.g_01810, Prbk.g_01493
+OG0002069	N17	n0	0.8	Non-Terminal	Prbk.g_00448, Prbl.g_01422, Prbj.g_01436, Prah.g_02165	Prah.g_00425, Praf.g_01993, Praf.g_00210, Prbl.g_00163, Prbk.g_01940, Prbj.g_01291
+OG0002069	Praf	n6	1.0	Terminal	Praf.g_01993	Praf.g_00210
+OG0002070	N17	n0	1.0	Non-Terminal	Prbj.g_00429, Prbk.g_01385, Prbl.g_00318, Prah.g_01758, Praf.g_00406	Prbj.g_00278, Prbk.g_00642, Prbl.g_01272, Praf.g_02541, Prah.g_02382
+OG0002076	N17	n0	0.8	Non-Terminal	Prbk.g_00482, Prbj.g_01470, Prbl.g_00887, Praf.g_02348	Prbj.g_00345, Prbl.g_01197, Prbk.g_00867, Prah.g_01944, Praf.g_02060, Praf.g_02058
+OG0002076	Praf	n8	1.0	Terminal	Praf.g_02060	Praf.g_02058
+OG0002077	N11	n1	0.25	Non-Terminal	Praj.g_01508	Praj.g_01901, Praj.g_00421, Prbm.g_01337, Prbm.g_01979, Praj.g_01754, Praj.g_01898, Praj.g_00375, Praj.g_00039
+OG0002077	N11	n2	0.25	Non-Terminal	Praj.g_01901, Praj.g_00421, Prbm.g_01337, Prbm.g_01979, Praj.g_01754	Praj.g_01898, Praj.g_00375, Praj.g_00039
+OG0002077	N11	n3	0.25	Non-Terminal	Praj.g_01901	Praj.g_00421, Prbm.g_01337, Prbm.g_01979, Praj.g_01754
+OG0002077	N11	n4	0.5	Non-Terminal	Praj.g_00421, Prbm.g_01337	Prbm.g_01979, Praj.g_01754
+OG0002077	Praj	n7	1.0	Terminal	Praj.g_01898	Praj.g_00375, Praj.g_00039
+OG0002077	Praj	n8	1.0	Terminal	Praj.g_00375	Praj.g_00039
+OG0002078	Prah	n5	1.0	Terminal	Prah.g_02333	Prah.g_02326
+OG0002081	Prbi	n4	1.0	Terminal	Prbi.g_01763	Prbi.g_01542
+OG0002081	N11	n7	0.25	Non-Terminal	Prbm.g_01905	Praj.g_01828, Prbm.g_01906
+OG0002082	Prah	n1	1.0	Terminal	Prah.g_01089	Prah.g_01062, Prah.g_01723, Prah.g_01069, Prah.g_01060, Prah.g_02430, Prah.g_00279
+OG0002082	Prah	n2	1.0	Terminal	Prah.g_01062	Prah.g_01723, Prah.g_01069, Prah.g_01060, Prah.g_02430, Prah.g_00279
+OG0002082	Prah	n3	1.0	Terminal	Prah.g_01723, Prah.g_01069, Prah.g_01060, Prah.g_02430	Prah.g_00279
+OG0002082	Prah	n4	1.0	Terminal	Prah.g_01723	Prah.g_01069, Prah.g_01060, Prah.g_02430
+OG0002082	Prah	n5	1.0	Terminal	Prah.g_01069, Prah.g_01060	Prah.g_02430
+OG0002082	Prah	n6	1.0	Terminal	Prah.g_01069	Prah.g_01060
+OG0002083	Prah	n1	1.0	Terminal	Prah.g_02329	Prah.g_02328
+OG0002090	Prbc	n8	1.0	Terminal	Prbc.g_00060	Prbc.g_00061
+OG0002091	N11	n4	0.25	Non-Terminal	Prbm.g_01455	Prbm.g_01394, Prbc.g_00017, Prbc.g_00101, Prbm.g_01418, Prbc.g_01350
+OG0002091	N11	n5	0.25	Non-Terminal	Prbm.g_01394	Prbc.g_00017, Prbc.g_00101, Prbm.g_01418, Prbc.g_01350
+OG0002091	N11	n6	0.25	Non-Terminal	Prbc.g_00017	Prbc.g_00101, Prbm.g_01418, Prbc.g_01350
+OG0002091	N11	n7	0.25	Non-Terminal	Prbc.g_00101	Prbm.g_01418, Prbc.g_01350
+OG0002100	Prbc	n1	1.0	Terminal	Prbc.g_00635	Prbc.g_01564
+OG0002108	N18	n0	0.2	Non-Terminal	Prbe.g_00199, Prbg.g_00703, Prbf.g_00269, Prap.g_00233, Prak.g_01503, Prbn.g_00870, Pral.g_00018	Pral.g_00031, Prat.g_01493, Prak.g_01509
+OG0002110	Prbm	n1	1.0	Terminal	Prbm.g_00470	Prbm.g_00090
+OG0002115	N4	n1	0.2	Non-Terminal	Praw.g_00295, Prax.g_00934, Prav.g_01888	Prax.g_01971, Praw.g_00892, Prav.g_01870
+OG0002115	Prbj	n8	1.0	Terminal	Prbj.g_00791	Prbj.g_00420
+OG0002116	Prbj	n0	1.0	Terminal	Prbj.g_02670	Prbj.g_01382, Prbj.g_01099, Prbj.g_01675, Prbj.g_01105, Prbj.g_01106, Prbj.g_02686, Prbj.g_00504, Prbj.g_01134, Prbj.g_00412
+OG0002116	Prbj	n1	1.0	Terminal	Prbj.g_01382, Prbj.g_01099, Prbj.g_01675, Prbj.g_01105, Prbj.g_01106, Prbj.g_02686, Prbj.g_00504, Prbj.g_01134	Prbj.g_00412
+OG0002116	Prbj	n2	1.0	Terminal	Prbj.g_01382, Prbj.g_01099, Prbj.g_01675, Prbj.g_01105	Prbj.g_01106, Prbj.g_02686, Prbj.g_00504, Prbj.g_01134
+OG0002116	Prbj	n3	1.0	Terminal	Prbj.g_01382, Prbj.g_01099, Prbj.g_01675	Prbj.g_01105
+OG0002116	Prbj	n4	1.0	Terminal	Prbj.g_01382, Prbj.g_01099	Prbj.g_01675
+OG0002116	Prbj	n5	1.0	Terminal	Prbj.g_01382	Prbj.g_01099
+OG0002116	Prbj	n6	1.0	Terminal	Prbj.g_01106, Prbj.g_02686, Prbj.g_00504	Prbj.g_01134
+OG0002116	Prbj	n7	1.0	Terminal	Prbj.g_01106	Prbj.g_02686, Prbj.g_00504
+OG0002116	Prbj	n8	1.0	Terminal	Prbj.g_02686	Prbj.g_00504
+OG0002117	Prbk	n1	1.0	Terminal	Prbk.g_01040	Prbk.g_01284, Prbk.g_00799, Prbk.g_01948, Prbk.g_00394, Prbk.g_02015, Prbk.g_01942, Prbk.g_00075, Prbk.g_00790
+OG0002117	Prbk	n2	1.0	Terminal	Prbk.g_01284, Prbk.g_00799, Prbk.g_01948, Prbk.g_00394, Prbk.g_02015, Prbk.g_01942, Prbk.g_00075	Prbk.g_00790
+OG0002117	Prbk	n3	1.0	Terminal	Prbk.g_01284, Prbk.g_00799, Prbk.g_01948, Prbk.g_00394, Prbk.g_02015, Prbk.g_01942	Prbk.g_00075
+OG0002117	Prbk	n4	1.0	Terminal	Prbk.g_01284	Prbk.g_00799, Prbk.g_01948, Prbk.g_00394, Prbk.g_02015, Prbk.g_01942
+OG0002117	Prbk	n5	1.0	Terminal	Prbk.g_00799	Prbk.g_01948, Prbk.g_00394, Prbk.g_02015, Prbk.g_01942
+OG0002117	Prbk	n6	1.0	Terminal	Prbk.g_01948, Prbk.g_00394, Prbk.g_02015	Prbk.g_01942
+OG0002117	Prbk	n7	1.0	Terminal	Prbk.g_01948, Prbk.g_00394	Prbk.g_02015
+OG0002117	Prbk	n8	1.0	Terminal	Prbk.g_01948	Prbk.g_00394
+OG0002118	Prbl	n0	1.0	Terminal	Prbl.g_00065	Prbl.g_00264, Prbl.g_02665, Prbl.g_01129, Prbl.g_02649, Prbl.g_00807, Prbl.g_00741, Prbl.g_00465, Prbl.g_01476, Prbl.g_00735
+OG0002118	Prbl	n1	1.0	Terminal	Prbl.g_00264, Prbl.g_02665, Prbl.g_01129, Prbl.g_02649, Prbl.g_00807	Prbl.g_00741, Prbl.g_00465, Prbl.g_01476, Prbl.g_00735
+OG0002118	Prbl	n2	1.0	Terminal	Prbl.g_00264, Prbl.g_02665	Prbl.g_01129, Prbl.g_02649, Prbl.g_00807
+OG0002118	Prbl	n3	1.0	Terminal	Prbl.g_00264	Prbl.g_02665
+OG0002118	Prbl	n4	1.0	Terminal	Prbl.g_01129	Prbl.g_02649, Prbl.g_00807
+OG0002118	Prbl	n5	1.0	Terminal	Prbl.g_02649	Prbl.g_00807
+OG0002118	Prbl	n6	1.0	Terminal	Prbl.g_00741	Prbl.g_00465, Prbl.g_01476, Prbl.g_00735
+OG0002118	Prbl	n7	1.0	Terminal	Prbl.g_00465	Prbl.g_01476, Prbl.g_00735
+OG0002118	Prbl	n8	1.0	Terminal	Prbl.g_01476	Prbl.g_00735
+OG0002122	N10	n2	1.0	Non-Terminal	Pran.g_01388, Prab.g_00795	Prab.g_01640, Pran.g_00941
+OG0002139	N15	n4	0.1	Non-Terminal	Praz.g_00898, Pray.g_01580, Prae.g_01598, Prbi.g_01741	Prbi.g_01547
+OG0002144	N0	n0	0.05	Non-Terminal	Prbb.g_00869, Prat.g_01527, Praf.g_00108	Prat.g_01531, Pral.g_00640, Prao.g_01206, Prah.g_00103, Praf.g_01858, Prae.g_01424
+OG0002150	Prbi	n2	1.0	Terminal	Prbi.g_00163, Prbi.g_00717	Prbi.g_01880
+OG0002150	Prbi	n3	1.0	Terminal	Prbi.g_00163	Prbi.g_00717
+OG0002150	Praf	n5	1.0	Terminal	Praf.g_02621, Praf.g_01876	Praf.g_01882, Praf.g_01877
+OG0002150	Praf	n6	1.0	Terminal	Praf.g_02621	Praf.g_01876
+OG0002150	Praf	n7	1.0	Terminal	Praf.g_01882	Praf.g_01877
+OG0002151	Prah	n5	1.0	Terminal	Prah.g_02422	Prah.g_02442
+OG0002151	Prbm	n6	1.0	Terminal	Prbm.g_00084, Prbm.g_00085	Prbm.g_00083
+OG0002151	Prbm	n7	1.0	Terminal	Prbm.g_00084	Prbm.g_00085
+OG0002152	Praf	n7	1.0	Terminal	Praf.g_02032	Praf.g_02458
+OG0002157	N11	n0	0.75	Non-Terminal	Prbm.g_01227, Prbb.g_01242, Praj.g_01200, Prbc.g_00177	Prbm.g_00093, Prbb.g_01172, Praj.g_01131, Praj.g_00073, Prbb.g_00089
+OG0002157	N21	n5	1.0	Non-Terminal	Prbb.g_01172, Praj.g_01131	Praj.g_00073, Prbb.g_00089
+OG0002171	N22	n0	1.0	Non-Terminal	Prbk.g_02705, Prbl.g_02639, Prbj.g_02694	Prbk.g_01675, Prbj.g_00058, Prbl.g_01064, Prbk.g_02704, Prbl.g_02640, Prbj.g_02693
+OG0002171	N22	n3	1.0	Non-Terminal	Prbk.g_01675, Prbj.g_00058, Prbl.g_01064	Prbk.g_02704, Prbl.g_02640, Prbj.g_02693
+OG0002173	N22	n2	1.0	Non-Terminal	Prbj.g_02378, Prbk.g_02434, Prbl.g_02369	Prbl.g_00425, Prbk.g_01975, Prbj.g_01715
+OG0002176	Praa	n1	1.0	Terminal	Praa.g_01455	Praa.g_01420
+OG0002185	N32	n4	0.25	Non-Terminal	Prax.g_00515, Prae.g_01240	Prax.g_00510, Prbd.g_01548
+OG0002188	N0	n3	0.025	Non-Terminal	Prbd.g_00441, Prbi.g_01544, Prbc.g_01356	Prae.g_01229, Prbd.g_00822
+OG0002193	Prad	n6	1.0	Terminal	Prad.g_01293	Prad.g_00707
+OG0002196	Prav	n6	1.0	Terminal	Prav.g_01718	Prav.g_01696
+OG0002200	Prah	n5	1.0	Terminal	Prah.g_02437, Prah.g_01493	Prah.g_00093
+OG0002200	Prah	n6	1.0	Terminal	Prah.g_02437	Prah.g_01493
+OG0002201	N22	n2	1.0	Non-Terminal	Prbk.g_02382, Prbl.g_02421, Prbj.g_02326	Prbl.g_01862, Prbj.g_00936, Prbk.g_01812
+OG0002204	Praf	n1	1.0	Terminal	Praf.g_01871	Praf.g_02645
+OG0002204	Prbm	n5	1.0	Terminal	Prbm.g_00065	Prbm.g_00076
+OG0002204	Prbc	n6	1.0	Terminal	Prbc.g_01132	Prbc.g_00530
+OG0002205	N22	n2	1.0	Non-Terminal: STRIDE	Prbl.g_00061, Prbj.g_01130, Prbk.g_01288	Prbk.g_02104, Prbj.g_00137, Prbl.g_01349
+OG0002208	N22	n2	1.0	Non-Terminal	Prbl.g_00862, Prbk.g_00507, Prbj.g_01495	Prbl.g_00861, Prbj.g_01496, Prbk.g_00508
+OG0002212	Prah	n0	1.0	Terminal	Prah.g_02440	Prah.g_00277, Prah.g_00268, Prah.g_01205, Prah.g_02438, Prah.g_01066, Prah.g_01057, Prah.g_02439
+OG0002212	Prah	n1	1.0	Terminal	Prah.g_00277	Prah.g_00268, Prah.g_01205, Prah.g_02438, Prah.g_01066, Prah.g_01057, Prah.g_02439
+OG0002212	Prah	n2	1.0	Terminal	Prah.g_00268, Prah.g_01205	Prah.g_02438, Prah.g_01066, Prah.g_01057, Prah.g_02439
+OG0002212	Prah	n3	1.0	Terminal	Prah.g_00268	Prah.g_01205
+OG0002212	Prah	n4	1.0	Terminal	Prah.g_02438	Prah.g_01066, Prah.g_01057, Prah.g_02439
+OG0002212	Prah	n5	1.0	Terminal	Prah.g_01066, Prah.g_01057	Prah.g_02439
+OG0002212	Prah	n6	1.0	Terminal	Prah.g_01066	Prah.g_01057
+OG0002219	Prbi	n1	1.0	Terminal	Prbi.g_01886	Prbi.g_00721
+OG0002235	N30	n2	1.0	Non-Terminal: STRIDE	Prbh.g_01929, Pram.g_01484	Prbh.g_01932, Pram.g_01481
+OG0002235	Prat	n6	1.0	Terminal	Prat.g_01273	Prat.g_01274
+OG0002236	N31	n0	0.3333333333333333	Non-Terminal	Prbn.g_01636, Prbe.g_00402, Prap.g_00873, Prbf.g_00001, Prbe.g_00868, Prbf.g_01335	Prbn.g_01059, Prap.g_00586
+OG0002236	N36	n2	0.5	Non-Terminal	Prbe.g_00402, Prap.g_00873, Prbf.g_00001	Prbe.g_00868, Prbf.g_01335
+OG0002237	N31	n0	0.5	Non-Terminal	Prbe.g_00401, Prap.g_01924, Prbn.g_01212, Prbf.g_00830, Prbf.g_00067	Prbe.g_00113, Prap.g_00652, Prbn.g_01922
+OG0002237	Prbf	n4	1.0	Terminal	Prbf.g_00830	Prbf.g_00067
+OG0002238	N11	n2	0.25	Non-Terminal	Prbm.g_01463	Prbm.g_01300, Prbc.g_01571, Prbc.g_01357, Prbc.g_00076
+OG0002238	Prbc	n4	1.0	Terminal	Prbc.g_01571	Prbc.g_01357, Prbc.g_00076
+OG0002238	Prbc	n5	1.0	Terminal	Prbc.g_01357	Prbc.g_00076
+OG0002238	Prbi	n6	1.0	Terminal	Prbi.g_01285	Prbi.g_01564
+OG0002248	Prax	n3	1.0	Terminal	Prax.g_00450	Prax.g_00449
+OG0002252	N20	n3	0.14285714285714285	Non-Terminal	Prbi.g_01484	Prbi.g_00740, Prau.g_00425
+OG0002254	N1	n3	0.05555555555555555	Non-Terminal	Prac.g_00657, Prad.g_01287	Prar.g_00936, Prac.g_00194
+OG0002258	Prau	n5	1.0	Terminal	Prau.g_01466	Prau.g_01499
+OG0002260	Prbi	n5	1.0	Terminal	Prbi.g_01771	Prbi.g_01272
+OG0002273	Prbi	n5	1.0	Terminal	Prbi.g_01414	Prbi.g_00040
+OG0002274	Prad	n4	1.0	Terminal	Prad.g_01193	Prad.g_00693
+OG0002280	N0	n1	0.05	Non-Terminal	Prai.g_00044, Prbi.g_00042	Prbi.g_00065, Pras.g_00882, Prai.g_01593, Prav.g_01752
+OG0002284	N17	n0	0.4	Non-Terminal	Prbk.g_02692, Praf.g_02020, Prah.g_01909	Praf.g_00229, Prbl.g_02625, Prah.g_00200, Prbj.g_02708
+OG0002286	Prah	n4	1.0	Terminal	Prah.g_01065, Prah.g_02369	Prah.g_01684
+OG0002286	Prah	n5	1.0	Terminal	Prah.g_01065	Prah.g_02369
+OG0002289	Prah	n4	1.0	Terminal	Prah.g_02445	Prah.g_00267, Prah.g_01724
+OG0002289	Prah	n5	1.0	Terminal	Prah.g_00267	Prah.g_01724
+OG0002291	Prah	n5	1.0	Terminal	Prah.g_00939	Prah.g_01150
+OG0002292	Praf	n0	1.0	Terminal	Praf.g_02235	Praf.g_02238, Praf.g_02232, Praf.g_01189, Praf.g_02220, Praf.g_02226, Praf.g_02229
+OG0002292	Praf	n1	1.0	Terminal	Praf.g_02238, Praf.g_02232, Praf.g_01189, Praf.g_02220, Praf.g_02226	Praf.g_02229
+OG0002292	Praf	n2	1.0	Terminal	Praf.g_02238, Praf.g_02232, Praf.g_01189, Praf.g_02220	Praf.g_02226
+OG0002292	Praf	n3	1.0	Terminal	Praf.g_02238, Praf.g_02232, Praf.g_01189	Praf.g_02220
+OG0002292	Praf	n4	1.0	Terminal	Praf.g_02238	Praf.g_02232, Praf.g_01189
+OG0002292	Praf	n5	1.0	Terminal	Praf.g_02232	Praf.g_01189
+OG0002296	N22	n1	1.0	Non-Terminal	Prbl.g_02398, Prbk.g_02405, Prbj.g_02349	Prbk.g_02406, Prbj.g_02350, Prbl.g_02397
+OG0002298	Praf	n4	1.0	Terminal	Praf.g_01865	Praf.g_01867
+OG0002299	Prah	n4	1.0	Terminal	Prah.g_00993, Prah.g_00344	Prah.g_00318
+OG0002299	Prah	n5	1.0	Terminal	Prah.g_00993	Prah.g_00344
+OG0002301	N17	n0	0.6	Non-Terminal	Prbl.g_00201, Prbj.g_02606, Praf.g_02033	Prbj.g_00291, Prbk.g_00119, Prbl.g_00165, Praf.g_02462
+OG0002302	N22	n1	1.0	Non-Terminal	Prbl.g_01068, Prbk.g_01671, Prbj.g_00054	Prbj.g_00299, Prbl.g_00173, Prbk.g_00111
+OG0002303	Prah	n4	1.0	Terminal	Prah.g_02213, Prah.g_02214	Prah.g_02204
+OG0002303	Prah	n5	1.0	Terminal	Prah.g_02213	Prah.g_02214
+OG0002306	Praf	n4	1.0	Terminal	Praf.g_02619, Praf.g_02622	Praf.g_02467
+OG0002306	Praf	n5	1.0	Terminal	Praf.g_02619	Praf.g_02622
+OG0002312	N15	n2	0.1	Non-Terminal	Prba.g_00159, Praz.g_01102, Pray.g_01792, Prbi.g_01475	Prbi.g_01508
+OG0002313	Prah	n3	1.0	Terminal	Prah.g_00264	Prah.g_00263, Prah.g_00265, Prah.g_02443
+OG0002313	Prah	n4	1.0	Terminal	Prah.g_00263, Prah.g_00265	Prah.g_02443
+OG0002313	Prah	n5	1.0	Terminal	Prah.g_00263	Prah.g_00265
+OG0002315	N22	n1	1.0	Non-Terminal	Prbk.g_00696, Prbl.g_00140, Prbj.g_00225	Prbl.g_02417, Prbj.g_02330, Prbk.g_02386
+OG0002316	Prbi	n5	1.0	Terminal	Prbi.g_00043	Prbi.g_00044
+OG0002320	Prbm	n5	1.0	Terminal	Prbm.g_01457	Prbm.g_00774
+OG0002323	N11	n0	0.5	Non-Terminal	Prbm.g_01260, Prbc.g_00074	Praj.g_01305, Prbm.g_01411, Prbb.g_01377, Prbb.g_01350, Prbc.g_00619
+OG0002323	Prbb	n5	1.0	Terminal	Prbb.g_01377	Prbb.g_01350
+OG0002324	N11	n0	0.5	Non-Terminal	Prbb.g_01380, Praj.g_01336, Prbm.g_01263	Prbc.g_00015, Prbm.g_01301, Prbm.g_01410, Praj.g_01366
+OG0002324	Prbm	n5	1.0	Terminal	Prbm.g_01301	Prbm.g_01410
+OG0002338	Pral	n5	1.0	Terminal	Pral.g_00097	Pral.g_00002
+OG0002341	N28	n3	0.2	Non-Terminal	Prbi.g_00045	Prbi.g_01412, Prae.g_00055
+OG0002342	Prai	n1	1.0	Terminal	Prai.g_00452	Prai.g_00458
+OG0002348	Prbi	n4	1.0	Terminal	Prbi.g_01505	Prbi.g_01506
+OG0002350	Prau	n3	1.0	Terminal	Prau.g_00443	Prau.g_01716
+OG0002352	N10	n2	1.0	Non-Terminal	Pran.g_01382, Prab.g_00800	Pran.g_00940, Prab.g_01639
+OG0002357	N3	n2	0.3333333333333333	Non-Terminal	Prac.g_00659	Praq.g_00150, Prar.g_00938, Prac.g_00192
+OG0002377	N14	n2	0.5	Non-Terminal	Prad.g_00072, Prao.g_00017, Prao.g_01351	Prad.g_01996
+OG0002377	Prao	n4	1.0	Terminal	Prao.g_00017	Prao.g_01351
+OG0002384	Praf	n3	1.0	Terminal	Praf.g_00137	Praf.g_00136, Praf.g_00134
+OG0002384	Praf	n4	1.0	Terminal	Praf.g_00136	Praf.g_00134
+OG0002385	Praf	n4	1.0	Terminal	Praf.g_00277	Praf.g_00270
+OG0002386	N17	n2	0.2	Non-Terminal	Prbk.g_01074, Praf.g_00653	Prah.g_01507, Praf.g_00275
+OG0002387	N17	n2	0.2	Non-Terminal	Prbj.g_02120, Praf.g_00276	Praf.g_00652, Prah.g_01508
+OG0002388	Praf	n1	1.0	Terminal	Praf.g_00286, Praf.g_00293	Praf.g_00295
+OG0002388	Praf	n2	1.0	Terminal	Praf.g_00286	Praf.g_00293
+OG0002390	Praf	n4	1.0	Terminal	Praf.g_00364	Praf.g_01755
+OG0002391	Praf	n2	1.0	Terminal	Praf.g_01157	Praf.g_00393
+OG0002395	Praf	n4	1.0	Terminal	Praf.g_00748	Praf.g_00747
+OG0002396	Praf	n4	1.0	Terminal	Praf.g_00848	Praf.g_02536
+OG0002397	Prah	n4	1.0	Terminal	Prah.g_00716	Prah.g_01153
+OG0002398	Prah	n1	1.0	Terminal	Prah.g_01118, Prah.g_01113, Prah.g_01109	Prah.g_01141
+OG0002398	Prah	n2	1.0	Terminal	Prah.g_01118	Prah.g_01113, Prah.g_01109
+OG0002398	Prah	n3	1.0	Terminal	Prah.g_01113	Prah.g_01109
+OG0002398	Praf	n4	1.0	Terminal	Praf.g_01099	Praf.g_01060
+OG0002400	N23	n0	1.0	Non-Terminal	Praf.g_01097, Praf.g_01262, Prah.g_00941	Praf.g_01258, Prah.g_00932, Prah.g_00929
+OG0002400	Praf	n2	1.0	Terminal	Praf.g_01097	Praf.g_01262
+OG0002400	Prah	n4	1.0	Terminal	Prah.g_00932	Prah.g_00929
+OG0002403	Prah	n4	1.0	Terminal	Prah.g_02461	Prah.g_02460
+OG0002404	Prah	n4	1.0	Terminal	Prah.g_02463	Prah.g_01135
+OG0002406	Praf	n4	1.0	Terminal	Praf.g_01826	Praf.g_01646
+OG0002408	Prbk	n4	1.0	Terminal	Prbk.g_00703	Prbk.g_02700
+OG0002409	Praf	n1	1.0	Terminal	Praf.g_02508	Praf.g_01971, Praf.g_01970, Praf.g_02377, Praf.g_02379
+OG0002409	Praf	n2	1.0	Terminal	Praf.g_01971, Praf.g_01970	Praf.g_02377, Praf.g_02379
+OG0002409	Praf	n3	1.0	Terminal	Praf.g_01971	Praf.g_01970
+OG0002409	Praf	n4	1.0	Terminal	Praf.g_02377	Praf.g_02379
+OG0002411	Praf	n0	1.0	Terminal	Praf.g_02459	Praf.g_02529, Praf.g_02481, Praf.g_02527, Praf.g_02488, Praf.g_02116
+OG0002411	Praf	n1	1.0	Terminal	Praf.g_02529, Praf.g_02481	Praf.g_02527, Praf.g_02488, Praf.g_02116
+OG0002411	Praf	n2	1.0	Terminal	Praf.g_02529	Praf.g_02481
+OG0002411	Praf	n3	1.0	Terminal	Praf.g_02527	Praf.g_02488, Praf.g_02116
+OG0002411	Praf	n4	1.0	Terminal	Praf.g_02488	Praf.g_02116
+OG0002415	Prah	n4	1.0	Terminal	Prah.g_02477	Prah.g_02476
+OG0002420	Prah	n1	1.0	Terminal	Prah.g_01111	Prah.g_01116, Prah.g_01115
+OG0002420	Prah	n2	1.0	Terminal	Prah.g_01116	Prah.g_01115
+OG0002422	Prau	n3	1.0	Terminal	Prau.g_00444, Prau.g_00434	Prau.g_00445
+OG0002422	Prau	n4	1.0	Terminal	Prau.g_00444	Prau.g_00434
+OG0002430	Prbm	n1	1.0	Terminal	Prbm.g_00479, Prbm.g_00469	Prbm.g_01379
+OG0002430	Prbm	n2	1.0	Terminal	Prbm.g_00479	Prbm.g_00469
+OG0002431	N16	n2	0.6666666666666666	Non-Terminal	Prbb.g_01419, Prbc.g_00028	Prbc.g_00623, Prbb.g_01344
+OG0002432	N16	n2	0.6666666666666666	Non-Terminal	Prbc.g_00029, Prbb.g_01420	Prbb.g_01345, Prbc.g_00622
+OG0002507	N30	n2	1.0	Non-Terminal	Prbh.g_01414, Pram.g_00606	Pram.g_01605, Prbh.g_01809
+OG0002508	Prau	n2	1.0	Terminal	Prau.g_00430	Prau.g_01288
+OG0002509	N22	n0	1.0	Non-Terminal	Prbk.g_02703, Prbj.g_02692, Prbl.g_02641	Prbl.g_00743, Prbj.g_02150, Prbk.g_01103
+OG0002547	Prao	n2	1.0	Terminal	Prao.g_01534	Prao.g_00003
+OG0002555	Prav	n2	1.0	Terminal	Prav.g_01359	Prav.g_01349
+OG0002583	N23	n1	1.0	Non-Terminal	Prah.g_01910, Praf.g_00228	Prah.g_00199, Praf.g_02021
+OG0002593	Prbk	n3	1.0	Terminal	Prbk.g_02690	Prbk.g_00038
+OG0002875	Praf	n0	1.0	Terminal	Praf.g_01775	Praf.g_01777, Praf.g_02307, Praf.g_02310, Praf.g_02313
+OG0002875	Praf	n1	1.0	Terminal	Praf.g_01777	Praf.g_02307, Praf.g_02310, Praf.g_02313
+OG0002875	Praf	n2	1.0	Terminal	Praf.g_02307, Praf.g_02310	Praf.g_02313
+OG0002875	Praf	n3	1.0	Terminal	Praf.g_02307	Praf.g_02310
+OG0003011	Praf	n3	1.0	Terminal	Praf.g_02745	Praf.g_02746
+OG0003015	Prah	n3	1.0	Terminal	Prah.g_02444	Prah.g_00266
+OG0003016	Prah	n0	1.0	Terminal	Prah.g_01478	Prah.g_01133, Prah.g_00393, Prah.g_01061, Prah.g_01606
+OG0003016	Prah	n1	1.0	Terminal	Prah.g_01133	Prah.g_00393, Prah.g_01061, Prah.g_01606
+OG0003016	Prah	n2	1.0	Terminal	Prah.g_00393, Prah.g_01061	Prah.g_01606
+OG0003016	Prah	n3	1.0	Terminal	Prah.g_00393	Prah.g_01061
+OG0003017	Prbm	n2	1.0	Terminal	Prbm.g_00067	Prbm.g_00088, Prbm.g_00078
+OG0003017	Prbm	n3	1.0	Terminal	Prbm.g_00088	Prbm.g_00078
+OG0003023	Praj	n1	1.0	Terminal	Praj.g_00376	Praj.g_01507
+OG0003024	Prbc	n3	1.0	Terminal	Prbc.g_01345	Prbc.g_02196
+OG0003025	Prbc	n2	1.0	Terminal	Prbc.g_00179	Prbc.g_01950
+OG0003028	Prbb	n3	1.0	Terminal	Prbb.g_00082	Prbb.g_01292
+OG0003029	Praj	n2	1.0	Terminal	Praj.g_01334	Praj.g_01306
+OG0003029	Prbb	n3	1.0	Terminal	Prbb.g_01351	Prbb.g_01378
+OG0003031	Prbc	n3	1.0	Terminal	Prbc.g_00042	Prbc.g_01349
+OG0003034	Prbm	n1	1.0	Terminal	Prbm.g_01417	Prbm.g_01393
+OG0003039	Prbc	n1	1.0	Terminal	Prbc.g_01235, Prbc.g_01136	Prbc.g_00264
+OG0003039	Prbc	n2	1.0	Terminal	Prbc.g_01235	Prbc.g_01136
+OG0003041	Prbj	n3	1.0	Terminal	Prbj.g_00975	Prbj.g_01824
+OG0003042	Prbb	n1	1.0	Terminal	Prbb.g_01323	Prbb.g_01358
+OG0003042	Prbm	n2	1.0	Terminal	Prbm.g_01386	Prbm.g_01402, Prbm.g_01233
+OG0003042	Prbm	n3	1.0	Terminal	Prbm.g_01402	Prbm.g_01233
+OG0003043	Prbc	n1	1.0	Terminal	Prbc.g_01358	Prbc.g_00001
+OG0003044	Prbc	n1	1.0	Terminal	Prbc.g_00252	Prbc.g_01232
+OG0003045	N29	n1	1.0	Non-Terminal	Prbj.g_00850, Prbk.g_00900	Prbk.g_01480, Prbj.g_01312
+OG0003046	Praa	n1	1.0	Terminal	Praa.g_00055	Praa.g_00058, Praa.g_00057
+OG0003046	Praa	n2	1.0	Terminal	Praa.g_00058	Praa.g_00057
+OG0003057	Prad	n2	1.0	Terminal	Prad.g_00674	Prad.g_01190
+OG0003063	N10	n0	1.0	Non-Terminal	Pran.g_00926, Prab.g_01625	Pran.g_01767, Prab.g_00416
+OG0003066	N10	n0	1.0	Non-Terminal	Prab.g_01382, Pran.g_00819	Pran.g_00810, Prab.g_01390
+OG0003067	Pran	n2	1.0	Terminal	Pran.g_00767	Pran.g_00768
+OG0003094	Prbi	n2	1.0	Terminal	Prbi.g_00041	Prbi.g_01413
+OG0003109	Prat	n2	1.0	Terminal	Prat.g_01316	Prat.g_01326
+OG0003110	Prax	n2	1.0	Terminal	Prax.g_01786	Prax.g_01787
+OG0003111	Praf	n1	1.0	Terminal	Praf.g_00121, Praf.g_00123	Praf.g_00124
+OG0003111	Praf	n2	1.0	Terminal	Praf.g_00121	Praf.g_00123
+OG0003117	Praf	n2	1.0	Terminal	Praf.g_01165	Praf.g_00341
+OG0003134	Praf	n1	1.0	Terminal	Praf.g_01098	Praf.g_01059
+OG0003134	Prah	n2	1.0	Terminal	Prah.g_01142	Prah.g_01098
+OG0003137	Praf	n2	1.0	Terminal	Praf.g_01163	Praf.g_01150
+OG0003138	Praf	n1	1.0	Terminal	Praf.g_01164, Praf.g_01151	Praf.g_01185
+OG0003138	Praf	n2	1.0	Terminal	Praf.g_01164	Praf.g_01151
+OG0003187	N13	n0	1.0	Non-Terminal	Prag.g_01443, Praw.g_01070	Praw.g_01117, Prag.g_01454
+OG0003189	Prbi	n2	1.0	Terminal	Prbi.g_01465	Prbi.g_01466
+OG0003190	Prah	n2	1.0	Terminal	Prah.g_00122	Prah.g_00090
+OG0003192	Prah	n0	1.0	Terminal	Prah.g_00278	Prah.g_01067, Prah.g_01058, Prah.g_00713
+OG0003192	Prah	n1	1.0	Terminal	Prah.g_01067, Prah.g_01058	Prah.g_00713
+OG0003192	Prah	n2	1.0	Terminal	Prah.g_01067	Prah.g_01058
+OG0003237	Praj	n2	1.0	Terminal	Praj.g_01752	Praj.g_00422
+OG0003311	Praj	n2	1.0	Terminal	Praj.g_01328	Praj.g_01286
+OG0003315	Praj	n2	1.0	Terminal	Praj.g_01333	Praj.g_01304
+OG0003353	Prbi	n2	1.0	Terminal	Prbi.g_00733	Prbi.g_01532
+OG0003354	N31	n0	0.3333333333333333	Non-Terminal	Prap.g_01101, Prbn.g_00701	Prbn.g_01344, Prap.g_00874
+OG0003355	Pras	n1	1.0	Terminal	Pras.g_01589, Pras.g_00383	Pras.g_00125
+OG0003355	Pras	n2	1.0	Terminal	Pras.g_01589	Pras.g_00383
+OG0003358	Prbc	n1	1.0	Terminal	Prbc.g_00084	Prbc.g_01558, Prbc.g_01578
+OG0003358	Prbc	n2	1.0	Terminal	Prbc.g_01558	Prbc.g_01578
+OG0003361	Prbc	n2	1.0	Terminal	Prbc.g_01139	Prbc.g_01275
+OG0003366	Prbi	n2	1.0	Terminal	Prbi.g_01552	Prbi.g_01297
+OG0003367	Prbi	n2	1.0	Terminal	Prbi.g_01296	Prbi.g_01553
+OG0003368	Prbi	n2	1.0	Terminal	Prbi.g_01295	Prbi.g_01554
+OG0003369	Prbi	n2	1.0	Terminal	Prbi.g_01294	Prbi.g_01555
+OG0003370	Prbi	n2	1.0	Terminal	Prbi.g_01293	Prbi.g_01556
+OG0003371	Prbi	n2	1.0	Terminal	Prbi.g_01292	Prbi.g_01557
+OG0003372	Prbi	n2	1.0	Terminal	Prbi.g_01289	Prbi.g_01560
+OG0003373	Prbi	n2	1.0	Terminal	Prbi.g_01288	Prbi.g_01561
+OG0003374	Prbi	n2	1.0	Terminal	Prbi.g_01287	Prbi.g_01562
+OG0003375	Prbi	n2	1.0	Terminal	Prbi.g_01286	Prbi.g_01563
+OG0003376	Prbi	n2	1.0	Terminal	Prbi.g_01559	Prbi.g_01290
+OG0003377	Prbi	n2	1.0	Terminal	Prbi.g_01558	Prbi.g_01291
+OG0003380	Prbj	n2	1.0	Terminal	Prbj.g_02634	Prbj.g_00290
+OG0003381	Prbk	n2	1.0	Terminal	Prbk.g_01239	Prbk.g_02702
+OG0003382	Prbj	n2	1.0	Terminal	Prbj.g_01310	Prbj.g_02712

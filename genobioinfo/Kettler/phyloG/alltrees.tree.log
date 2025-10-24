@@ -1,0 +1,15 @@
+IQ-TREE multicore version 2.2.2.6 COVID-edition for Linux 64-bit built May 27 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    n006 (AVX2, FMA3, 2015 GB RAM)
+Command: iqtree -net -t /home/fmt073/work/Kettler/phyloG/alltrees.tree -nt 1
+Seed:    57123 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 21 17:23:19 2025
+Kernel:  AVX+FMA - 1 threads (1 CPU cores detected)
+
+Reading tree(s) file /home/fmt073/work/Kettler/phyloG/alltrees.tree ...
+32 tree(s) loaded (0 rooted and 32 unrooted)
+0 split(s) discarded because frequency <= 0.000
+Consensus network printed to /home/fmt073/work/Kettler/phyloG/alltrees.tree.nex
+Date and Time: Tue Oct 21 17:23:19 2025

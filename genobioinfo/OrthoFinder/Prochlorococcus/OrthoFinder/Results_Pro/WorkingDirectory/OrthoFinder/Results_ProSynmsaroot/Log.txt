@@ -1,0 +1,71 @@
+2025-10-20 08:21:37 : Started OrthoFinder version 2.5.5
+Command Line: /usr/local/bioinfo/src/Miniconda/Miniconda3/envs/OrthoFinder-v2.5.5_env/bin/orthofinder -t 5 -a 5 -X -ft /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa -s /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa/Species_Tree/SpeciesTree_rerooted.txt -n ProSynmsaroot -M msa
+
+WorkingDirectory_Base: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa/WorkingDirectory/
+FN_Orthogroups: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+Species Tree: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa/Species_Tree/SpeciesTree_rerooted.txt
+WorkingDirectory_Trees: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa/WorkingDirectory/
+
+Species used: 
+0: Praa.faa
+1: Prab.faa
+2: Prac.faa
+3: Prad.faa
+4: Prae.faa
+5: Praf.faa
+6: Prag.faa
+7: Prah.faa
+8: Prai.faa
+9: Praj.faa
+10: Prak.faa
+11: Pral.faa
+12: Pram.faa
+13: Pran.faa
+14: Prao.faa
+15: Prap.faa
+16: Praq.faa
+17: Prar.faa
+18: Pras.faa
+19: Prat.faa
+20: Prau.faa
+21: Prav.faa
+22: Praw.faa
+23: Prax.faa
+24: Pray.faa
+25: Praz.faa
+26: Prba.faa
+27: Prbb.faa
+28: Prbc.faa
+29: Prbd.faa
+30: Prbe.faa
+31: Prbf.faa
+32: Prbg.faa
+33: Prbh.faa
+34: Prbi.faa
+35: Prbj.faa
+36: Prbk.faa
+37: Prbl.faa
+38: Prbm.faa
+39: Prbn.faa
+40: Syaa.faa
+41: Syab.faa
+42: Syac.faa
+43: Syad.faa
+44: Syae.faa
+45: Syaf.faa
+46: Syag.faa
+47: Syah.faa
+48: Syai.faa
+49: Syaj.faa
+50: Syak.faa
+51: Syal.faa
+52: Syam.faa
+53: Syan.faa
+54: Syao.faa
+55: Syap.faa
+56: Syaq.faa
+57: Syar.faa
+58: Syas.faa
+59: Syat.faa
+
+2025-10-20 08:22:02 : OrthoFinder run completed

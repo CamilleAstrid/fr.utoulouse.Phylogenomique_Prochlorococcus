@@ -1,0 +1,5 @@
+## Thu Oct 16 16:46:35 2025
+## emapper-2.1.13
+## /usr/local/bioinfo/src/eggNOG-mapper/eggnog-mapper-2.1.13/eggnog-mapper-2.1.13_venv/bin/emapper.py -i /home/fmt073/work/Zhang/Prokka/Prat/Prat.faa --cpu 4 --output /home/fmt073/work/Zhang/EggNOG/Prat -m diamond
+##
+#query	seed_ortholog	evalue	score	eggNOG_OGs	max_annot_lvl	COG_category	Description	Preferred_name	GOs	EC	KEGG_ko	KEGG_Pathway	KEGG_Module	KEGG_Reaction	KEGG_rclass	BRITE	KEGG_TC	CAZy	BiGG_Reaction	PFAMs

@@ -1,0 +1,211 @@
+IQ-TREE 2.2.2.6 COVID-edition built May 27 2023
+
+Input file name: /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000221.ffn.fas
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 133089
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 12 sequences with 346 amino-acid sites
+Number of constant sites: 142 (= 41.0405% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 142 (= 41.0405% of all sites)
+Number of parsimony informative sites: 156
+Number of distinct site patterns: 223
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG4X
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG4X              -3613.245    7280.490 +    0.965    7285.245 +    0.999    7384.344 +    0.843
+LG4M              -3630.037    7304.075 -  7.3e-06    7307.208 -  1.7e-05    7388.696 +   0.0957
+LG+G4             -3630.557    7305.113 - 4.34e-06    7308.247 - 1.01e-05    7389.735 +   0.0569
+LG+I+G4           -3630.314    7306.628 - 2.04e-06    7310.057 - 4.09e-06    7395.096 -   0.0039
+LG+R2             -3632.929    7311.858 - 1.49e-07    7315.287 - 2.99e-07    7400.326 - 0.000285
+LG+R3             -3630.295    7310.591 - 2.81e-07    7314.653 - 4.11e-07    7406.751 - 1.15e-05
+WAG+G4            -3642.078    7328.156 - 4.31e-11    7331.289 -    1e-10    7412.778 - 5.65e-07
+WAG+I+G4          -3641.194    7328.387 - 3.84e-11    7331.816 -  7.7e-11    7416.855 - 7.35e-08
+WAG+R2            -3643.045    7332.089 - 6.03e-12    7335.518 - 1.21e-11    7420.557 - 1.15e-08
+WAG+R3            -3641.287    7332.574 - 4.73e-12    7336.636 - 6.92e-12    7428.735 - 1.93e-10
+LG+F+G4           -3603.199    7288.398 -   0.0185    7299.727 - 0.000716    7446.102 - 3.28e-14
+JTT+G4            -3659.113    7362.226 - 1.72e-18    7365.359 - 4.01e-18    7446.847 - 2.26e-14
+LG+F+I+G4         -3602.701    7289.402 -   0.0112    7301.323 - 0.000322    7450.952 -  2.9e-15
+WAG+F+G4          -3605.749    7293.497 -  0.00145    7304.826 - 5.59e-05    7451.201 - 2.56e-15
+JTT+I+G4          -3658.615    7363.229 - 1.04e-18    7366.658 - 2.09e-18    7451.697 -    2e-15
+WAG+I             -3663.042    7370.083 - 3.39e-20    7373.216 - 7.88e-20    7454.705 - 4.44e-16
+WAG+F+I+G4        -3604.899    7293.798 -  0.00124    7305.719 - 3.58e-05    7455.349 - 3.22e-16
+LG+I              -3663.479    7370.958 - 2.19e-20    7374.091 - 5.09e-20    7455.579 - 2.87e-16
+LG+F+R2           -3605.684    7295.368 - 0.000568    7307.288 - 1.63e-05    7456.918 - 1.47e-16
+JTT+R2            -3661.278    7368.556 - 7.27e-20    7371.984 - 1.46e-19    7457.024 - 1.39e-16
+WAG+F+R2          -3606.773    7297.545 - 0.000191    7309.466 -  5.5e-06    7459.096 - 4.94e-17
+LG+F+R3           -3602.890    7293.780 -  0.00126    7306.937 - 1.95e-05    7463.024 - 6.93e-18
+JTT+R3            -3658.633    7367.266 - 1.39e-19    7371.328 - 2.03e-19    7463.427 - 5.67e-18
+WAG+F+R3          -3605.054    7298.108 - 0.000144    7311.264 - 2.24e-06    7467.351 - 7.97e-19
+JTT+F+G4          -3623.226    7328.451 - 3.72e-11    7339.780 - 1.44e-12    7486.155 - 6.58e-23
+JTT+F+I+G4        -3622.609    7329.217 - 2.53e-11    7341.138 - 7.29e-13    7490.768 - 6.55e-24
+WAG+F+I           -3628.324    7338.649 - 2.27e-13    7349.978 - 8.77e-15    7496.353 - 4.01e-25
+JTT+F+R2          -3625.591    7335.182 - 1.28e-12    7347.103 - 3.69e-14    7496.732 - 3.32e-25
+JTT+F+R3          -3622.769    7333.539 - 2.92e-12    7346.695 - 4.53e-14    7502.782 - 1.61e-26
+JTT+I             -3688.673    7421.346 -  2.5e-31    7424.479 - 5.82e-31    7505.968 - 3.28e-27
+LG+F+I            -3636.486    7354.972 - 6.48e-17    7366.301 -  2.5e-18    7512.676 - 1.15e-28
+JTT+F+I           -3654.479    7390.958 - 9.93e-25    7402.287 - 3.84e-26    7548.662 - 1.76e-36
+WAG               -3752.532    7547.064 - 1.26e-58    7549.916 - 3.37e-58    7627.839 - 1.13e-53
+LG                -3764.044    7570.089 - 1.26e-63    7572.941 - 3.37e-63    7650.864 - 1.13e-58
+WAG+F             -3720.041    7520.083 - 9.08e-53    7530.837 - 4.68e-54    7673.941 -  1.1e-63
+JTT               -3794.836    7631.671 - 5.33e-77    7634.523 - 1.43e-76    7712.446 - 4.78e-72
+LG+F              -3741.681    7563.361 - 3.63e-62    7574.115 - 1.87e-63    7717.219 -  4.4e-73
+JTT+F             -3764.483    7608.966 - 4.54e-72    7619.720 - 2.34e-73    7762.823 -  5.5e-83
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Mixture model of substitution: LG4X*R4
+
+  No  Component      Rate    Weight   Parameters
+   1  LG4X1         1.0000   1.0000   LG4X1
+   2  LG4X2         1.0000   1.0000   LG4X2
+   3  LG4X3         1.0000   1.0000   LG4X3
+   4  LG4X4         1.0000   1.0000   LG4X4
+
+Model of rate heterogeneity: FreeRate with 4 categories
+Site proportion and rates:  (0.2869,0.2230) (0.2880,0.3470) (0.2750,1.4669) (0.1502,2.8816)
+
+ Category  Relative_rate  Proportion
+  1         0.2230         0.2869
+  2         0.3470         0.2880
+  3         1.4669         0.2750
+  4         2.8816         0.1502
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -3613.2425 (s.e. 137.6346)
+Unconstrained log-likelihood (without tree): -1725.1005
+Number of free parameters (#branches + #model parameters): 27
+Akaike information criterion (AIC) score: 7280.4850
+Corrected Akaike information criterion (AICc) score: 7285.2397
+Bayesian information criterion (BIC) score: 7384.3388
+
+Total tree length (sum of branch lengths): 2.3085
+Sum of internal branch lengths: 1.1118 (48.1584% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Prai' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++---Prai
+|
+|     +--Praa
+|  +--| (80.8/63)
+|  |  |  +---Prae
+|  |  +--| (36.3/51)
+|  |     +--Prau
++--| (90.7/82)
+|  +---Prag
+|
+|                                                        +--Prah
+|                             +--------------------------| (100/100)
+|                             |                          +--Praf
+|                         +---| (84.7/75)
+|                         |   +----------Prak
+|                      +--| (71.3/63)
+|                      |  +----------------Prat
+|  +-------------------| (100/100)
+|  |                   |           +--Prbb
+|  |                   +-----------| (99.7/100)
+|  |                               +--Praj
++--| (79.9/72)
+   +-------------------------------Prab
+
+Tree in newick format:
+
+(Prai:0.0641640234,((Praa:0.0411740001,(Prae:0.0603538073,Prau:0.0384706124)36.3/51:0.0139948034)80.8/63:0.0327801258,Prag:0.0642371439)90.7/82:0.0374357646,(((((Prah:0.0040103503,Praf:0.0165252238)100/100:0.3938871454,Prak:0.1718214643)84.7/75:0.0617034924,Prat:0.2454186161)71.3/63:0.0455893517,(Prbb:0.0167661018,Praj:0.0065042357)99.7/100:0.1834323860)100/100:0.2998434672,Prab:0.4673389657)79.9/72:0.0430913042);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -3613.242562
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++---Prai
+|
+|     +--Praa
+|  +--| (63)
+|  |  |  +---Prae
+|  |  +--| (51)
+|  |     +--Prau
++--| (82)
+|  +---Prag
+|
+|                                                        +--Prah
+|                             +--------------------------| (100)
+|                             |                          +--Praf
+|                         +---| (75)
+|                         |   +----------Prak
+|                      +--| (63)
+|                      |  +----------------Prat
+|  +-------------------| (100)
+|  |                   |           +--Prbb
+|  |                   +-----------| (100)
+|  |                               +--Praj
++--| (72)
+   +-------------------------------Prab
+
+
+Consensus tree in newick format: 
+
+(Prai:0.0641284344,((Praa:0.0411634286,(Prae:0.0603395019,Prau:0.0384615366)51:0.0139937045)63:0.0327734427,Prag:0.0642175847)82:0.0374351503,(((((Prah:0.0040308059,Praf:0.0164926120)100:0.3934829207,Prak:0.1717662118)75:0.0617007175,Prat:0.2452558520)63:0.0456507420,(Prbb:0.0167522318,Praj:0.0065017700)100:0.1833065062)100:0.2994342145,Prab:0.4670017381)72:0.0431608302);
+
+ALISIM COMMAND
+--------------
+Currently, we only support exporting AliSim commands automatically from the analysis for common models of DNA, Protein, Binary, and Morphological data. To simulate data from other models (mixture, lie-markov, etc), please refer to the User Manual of AliSim. Thanks!
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Thu Oct  9 19:00:05 2025
+Total CPU time used: 5.42353 seconds (0h:0m:5s)
+Total wall-clock time used: 5.607668877 seconds (0h:0m:5s)
+

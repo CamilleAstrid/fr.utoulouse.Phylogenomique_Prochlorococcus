@@ -1,0 +1,223 @@
+IQ-TREE 2.2.2.6 COVID-edition built May 27 2023
+
+Input file name: /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000162.ffn.fas
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 207864
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 12 sequences with 94 amino-acid sites
+Number of constant sites: 27 (= 28.7234% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 27 (= 28.7234% of all sites)
+Number of parsimony informative sites: 64
+Number of distinct site patterns: 85
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+G4             -1172.354    2388.707 -  0.00065    2402.961 +    0.295    2444.660 +    0.446
+LG+I+G4           -1170.560    2387.120 -  0.00144    2402.891 +    0.306    2445.615 +    0.277
+JTT+G4            -1173.988    2391.976 - 0.000127    2406.230 +   0.0576    2447.929 +    0.087
+LG+R3             -1167.314    2384.628 -    0.005    2403.745 +    0.199    2448.210 +   0.0756
+JTT+I+G4          -1172.121    2390.242 - 0.000302    2406.013 +   0.0642    2448.737 +   0.0581
+WAG+G4            -1175.875    2395.750 - 1.92e-05    2410.004 -  0.00873    2451.703 -   0.0132
+LG+R2             -1173.634    2393.268 - 6.64e-05    2409.039 -   0.0141    2451.764 -   0.0128
+JTT+R3            -1169.320    2388.640 - 0.000672    2407.757 -   0.0268    2452.222 -   0.0102
+JTT+R2            -1174.076    2394.153 - 4.27e-05    2409.924 -  0.00908    2452.649 -  0.00821
+WAG+I+G4          -1174.193    2394.387 -  3.8e-05    2410.158 -  0.00808    2452.883 -  0.00731
+WAG+R2            -1175.674    2397.349 - 8.64e-06    2413.120 -  0.00184    2455.845 -  0.00166
+WAG+R3            -1171.426    2392.851 - 8.18e-05    2411.969 -  0.00327    2456.434 -  0.00124
+LG+R4             -1167.280    2388.561 - 0.000699    2411.470 -  0.00419    2457.230 - 0.000831
+LG+I              -1179.069    2402.138 - 7.87e-07    2416.392 - 0.000358    2458.091 - 0.000541
+JTT+I             -1179.244    2402.489 - 6.61e-07    2416.743 -   0.0003    2458.441 - 0.000454
+WAG+I             -1180.201    2404.401 - 2.54e-07    2418.655 - 0.000115    2460.354 - 0.000174
+JTT+R4            -1169.261    2392.521 - 9.65e-05    2415.431 - 0.000579    2461.190 - 0.000115
+LG4M              -1191.654    2427.309 -  2.7e-12    2441.562 - 1.23e-09    2483.261 - 1.85e-09
+JTT+F+G4          -1149.198    2380.397 -   0.0414    2446.627 - 9.73e-11    2484.672 - 9.14e-10
+LG4X              -1181.334    2416.668 - 5.51e-10    2439.577 - 3.31e-09    2485.337 - 6.55e-10
+JTT+F+I+G4        -1147.344    2378.688 +   0.0974    2449.512 -  2.3e-11    2485.507 - 6.02e-10
+LG+F+G4           -1149.985    2381.970 -   0.0189    2448.201 - 4.43e-11    2486.245 - 4.16e-10
+WAG+F+G4          -1150.274    2382.548 -   0.0141    2448.779 - 3.32e-11    2486.824 - 3.12e-10
+LG+F+I+G4         -1148.131    2380.262 -   0.0443    2451.086 - 1.05e-11    2487.080 - 2.74e-10
+WAG+F+I+G4        -1148.619    2381.238 -   0.0272    2452.062 - 6.43e-12    2488.057 - 1.68e-10
+JTT+F+R3          -1144.198    2376.396 +    0.306    2457.212 -  4.9e-13    2488.301 - 1.49e-10
+LG+F+R3           -1144.464    2376.928 +    0.235    2457.744 - 3.75e-13    2488.833 - 1.14e-10
+JTT+F+R2          -1149.045    2382.090 -   0.0178    2452.914 -  4.2e-12    2488.908 -  1.1e-10
+WAG+F+R3          -1145.409    2378.818 +   0.0913    2459.634 - 1.46e-13    2490.723 - 4.43e-11
+WAG+F+R2          -1150.021    2384.042 -   0.0067    2454.865 - 1.58e-12    2490.860 - 4.14e-11
+LG+F+R2           -1151.163    2386.326 -  0.00214    2457.150 - 5.05e-13    2493.145 - 1.32e-11
+JTT+F+I           -1154.315    2390.629 - 0.000249    2456.860 - 5.84e-13    2494.904 - 5.48e-12
+WAG+F+I           -1154.989    2391.978 - 0.000127    2458.209 - 2.97e-13    2496.253 - 2.79e-12
+JTT+F+R4          -1144.225    2380.450 -   0.0404    2472.450 -  2.4e-16    2497.441 - 1.54e-12
+LG+F+R4           -1144.382    2380.764 -   0.0345    2472.764 - 2.05e-16    2497.756 - 1.32e-12
+LG+F+I            -1156.328    2394.657 - 3.32e-05    2460.887 - 7.79e-14    2498.932 - 7.32e-13
+WAG+F+R4          -1145.341    2382.682 -   0.0132    2474.682 - 7.88e-17    2499.674 - 5.05e-13
+WAG               -1206.057    2454.114 - 4.07e-18    2466.947 - 3.77e-15    2507.523 - 9.97e-15
+JTT               -1209.304    2460.608 - 1.58e-19    2473.441 - 1.46e-16    2514.017 - 3.88e-16
+LG                -1212.264    2466.527 - 8.21e-21    2479.360 - 7.59e-18    2519.936 - 2.01e-17
+WAG+F             -1182.264    2444.529 - 4.91e-16    2506.415 - 1.01e-23    2546.260 - 3.86e-23
+JTT+F             -1184.743    2449.485 - 4.12e-17    2511.372 - 8.49e-25    2551.217 - 3.24e-24
+LG+F              -1190.493    2460.985 - 1.31e-19    2522.872 -  2.7e-27    2562.717 - 1.03e-26
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.6892
+
+ Category  Relative_rate  Proportion
+  1         0.0719         0.2500
+  2         0.3584         0.2500
+  3         0.9208         0.2500
+  4         2.6489         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1171.1621 (s.e. 72.7564)
+Unconstrained log-likelihood (without tree): -411.5678
+Number of free parameters (#branches + #model parameters): 22
+Akaike information criterion (AIC) score: 2386.3241
+Corrected Akaike information criterion (AICc) score: 2400.5776
+Bayesian information criterion (BIC) score: 2442.2766
+
+Total tree length (sum of branch lengths): 4.9294
+Sum of internal branch lengths: 3.8896 (78.9058% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Prbb' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++**Prbb
+|
+|              +-----Prak
+|         +----| (82.3/45)
+|         |    |                                              +--Prae
+|         |    |                                           +--| (48/71)
+|         |    |                                           |  +--Praa
+|         |    |                                        +--| (90.2/87)
+|         |    |                                        |  +--Prau
+|         |    |                                     +--| (97.8/89)
+|         |    |                                     |  +--Prag
+|         |    |                                  +--| (41/37)
+|         |    |                                  |  +--Prai
+|         |    |     +----------------------------| (100/100)
+|         |    |     |                            +**Prab
+|         |    +-----| (82.7/40)
+|         |          +------Prat
++---------| (99.1/99)
+|         |            +--Prah
+|         +------------| (98.8/94)
+|                      +**Praf
+|
++--Praj
+
+Tree in newick format:
+
+(Prbb:0.0000020332,((Prak:0.3321321090,((((((Prae:0.0183341593,Praa:0.0394803993)48/71:0.0393605980,Prau:0.0908474714)90.2/87:0.0691683098,Prag:0.0686883698)97.8/89:0.1801822396,Prai:0.0591480011)41/37:0.0875665460,Prab:0.0000025193)100/100:1.5735622790,Prat:0.3835979055)82.7/40:0.3575414670)82.3/45:0.2687610393,(Prah:0.0363334430,Praf:0.0000010000)98.8/94:0.7329085609)99.1/99:0.5805115026,Praj:0.0112468873);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -1172.073325
+Robinson-Foulds distance between ML tree and consensus tree: 6
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Prbb
+|
+|              +------Prak
+|           +--| (27)
+|           |  +-------------Prat
++-----------| (99)
+|           |                                                  +--Prae
+|           |                                               +--| (71)
+|           |                                               |  +--Praa
+|           |                                            +--| (87)
+|           |                                            |  +--Prau
+|           |                                         +--| (89)
+|           |                                         |  +--Prag
+|           |                                      +--| (43)
+|           |                                      |  +--Prab
+|           |      +-------------------------------| (100)
+|           |      |                               +--Prai
+|           +------| (47)
+|                  |      +--Prah
+|                  +------| (94)
+|                         +--Praf
+|
++--Praj
+
+
+Consensus tree in newick format: 
+
+(Prbb:0.0000023167,((Prak:0.3593513619,Prat:0.7067759219)27:0.1933342892,((((((Prae:0.0181124599,Praa:0.0388713174)71:0.0391235826,Prau:0.0894142610)87:0.0678387114,Prag:0.0687244242)89:0.1763466277,Prab:0.0853411738)43:0.0615819815,Prai:0.0000023195)100:1.6147185854,(Prah:0.0359594355,Praf:0.0000023167)94:0.3999507969)47:0.3842767267)99:0.6089405349,Praj:0.0111189897);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000162.ffn.fas.treefile -m "LG+G4{0.689198}" --length 94
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000162.ffn.fas --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /home/yquentin/work/Kettler/phyloG/PEP/ali_pep_N0.HOG0000162.ffn.fas --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Thu Oct  9 19:00:03 2025
+Total CPU time used: 2.656802 seconds (0h:0m:2s)
+Total wall-clock time used: 2.798761129 seconds (0h:0m:2s)
+

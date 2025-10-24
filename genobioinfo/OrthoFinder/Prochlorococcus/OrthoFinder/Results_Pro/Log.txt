@@ -1,0 +1,50 @@
+2025-10-17 11:08:13 : Started OrthoFinder version 2.5.5
+Command Line: /usr/local/bioinfo/src/Miniconda/Miniconda3/envs/OrthoFinder-v2.5.5_env/bin/orthofinder -t 16 -a 16 -f /home/fmt073/work/OrthoFinder/Prochlorococcus -X -n Pro
+
+WorkingDirectory_Base: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/
+
+Species used: 
+0: Praa.faa
+1: Prab.faa
+2: Prac.faa
+3: Prad.faa
+4: Prae.faa
+5: Praf.faa
+6: Prag.faa
+7: Prah.faa
+8: Prai.faa
+9: Praj.faa
+10: Prak.faa
+11: Pral.faa
+12: Pram.faa
+13: Pran.faa
+14: Prao.faa
+15: Prap.faa
+16: Praq.faa
+17: Prar.faa
+18: Pras.faa
+19: Prat.faa
+20: Prau.faa
+21: Prav.faa
+22: Praw.faa
+23: Prax.faa
+24: Pray.faa
+25: Praz.faa
+26: Prba.faa
+27: Prbb.faa
+28: Prbc.faa
+29: Prbd.faa
+30: Prbe.faa
+31: Prbf.faa
+32: Prbg.faa
+33: Prbh.faa
+34: Prbi.faa
+35: Prbj.faa
+36: Prbk.faa
+37: Prbl.faa
+38: Prbm.faa
+39: Prbn.faa
+
+FN_Orthogroups: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/
+2025-10-17 11:18:22 : OrthoFinder run completed

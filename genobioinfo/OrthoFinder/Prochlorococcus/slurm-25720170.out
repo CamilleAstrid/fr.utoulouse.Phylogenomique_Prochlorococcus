@@ -1,0 +1,381 @@
+
+OrthoFinder version 2.5.5 Copyright (C) 2014 David Emms
+
+2025-10-17 16:53:35 : Starting OrthoFinder 2.5.5
+16 thread(s) for highly parallel tasks (BLAST searches etc.)
+16 thread(s) for OrthoFinder algorithm
+
+Checking required programs are installed
+----------------------------------------
+Test can run "mcl -h" - ok
+Test can run "mafft" - ok
+Test can run "fasttree" - ok
+
+Adding new species in /home/fmt073/work/OrthoFinder/Synechococcus/ to existing analysis in /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/
+
+Dividing up work for BLAST for parallel processing
+--------------------------------------------------
+2025-10-17 16:53:37 : Creating diamond database 1 of 60
+2025-10-17 16:53:37 : Creating diamond database 2 of 60
+2025-10-17 16:53:38 : Creating diamond database 3 of 60
+2025-10-17 16:53:38 : Creating diamond database 4 of 60
+2025-10-17 16:53:38 : Creating diamond database 5 of 60
+2025-10-17 16:53:38 : Creating diamond database 6 of 60
+2025-10-17 16:53:38 : Creating diamond database 7 of 60
+2025-10-17 16:53:38 : Creating diamond database 8 of 60
+2025-10-17 16:53:38 : Creating diamond database 9 of 60
+2025-10-17 16:53:38 : Creating diamond database 10 of 60
+2025-10-17 16:53:38 : Creating diamond database 11 of 60
+2025-10-17 16:53:38 : Creating diamond database 12 of 60
+2025-10-17 16:53:38 : Creating diamond database 13 of 60
+2025-10-17 16:53:38 : Creating diamond database 14 of 60
+2025-10-17 16:53:38 : Creating diamond database 15 of 60
+2025-10-17 16:53:38 : Creating diamond database 16 of 60
+2025-10-17 16:53:38 : Creating diamond database 17 of 60
+2025-10-17 16:53:38 : Creating diamond database 18 of 60
+2025-10-17 16:53:38 : Creating diamond database 19 of 60
+2025-10-17 16:53:38 : Creating diamond database 20 of 60
+2025-10-17 16:53:38 : Creating diamond database 21 of 60
+2025-10-17 16:53:38 : Creating diamond database 22 of 60
+2025-10-17 16:53:38 : Creating diamond database 23 of 60
+2025-10-17 16:53:38 : Creating diamond database 24 of 60
+2025-10-17 16:53:38 : Creating diamond database 25 of 60
+2025-10-17 16:53:38 : Creating diamond database 26 of 60
+2025-10-17 16:53:38 : Creating diamond database 27 of 60
+2025-10-17 16:53:38 : Creating diamond database 28 of 60
+2025-10-17 16:53:38 : Creating diamond database 29 of 60
+2025-10-17 16:53:38 : Creating diamond database 30 of 60
+2025-10-17 16:53:38 : Creating diamond database 31 of 60
+2025-10-17 16:53:39 : Creating diamond database 32 of 60
+2025-10-17 16:53:39 : Creating diamond database 33 of 60
+2025-10-17 16:53:39 : Creating diamond database 34 of 60
+2025-10-17 16:53:39 : Creating diamond database 35 of 60
+2025-10-17 16:53:39 : Creating diamond database 36 of 60
+2025-10-17 16:53:39 : Creating diamond database 37 of 60
+2025-10-17 16:53:39 : Creating diamond database 38 of 60
+2025-10-17 16:53:39 : Creating diamond database 39 of 60
+2025-10-17 16:53:39 : Creating diamond database 40 of 60
+2025-10-17 16:53:39 : Creating diamond database 41 of 60
+2025-10-17 16:53:39 : Creating diamond database 42 of 60
+2025-10-17 16:53:39 : Creating diamond database 43 of 60
+2025-10-17 16:53:39 : Creating diamond database 44 of 60
+2025-10-17 16:53:39 : Creating diamond database 45 of 60
+2025-10-17 16:53:39 : Creating diamond database 46 of 60
+2025-10-17 16:53:39 : Creating diamond database 47 of 60
+2025-10-17 16:53:39 : Creating diamond database 48 of 60
+2025-10-17 16:53:39 : Creating diamond database 49 of 60
+2025-10-17 16:53:39 : Creating diamond database 50 of 60
+2025-10-17 16:53:39 : Creating diamond database 51 of 60
+2025-10-17 16:53:39 : Creating diamond database 52 of 60
+2025-10-17 16:53:39 : Creating diamond database 53 of 60
+2025-10-17 16:53:39 : Creating diamond database 54 of 60
+2025-10-17 16:53:39 : Creating diamond database 55 of 60
+2025-10-17 16:53:39 : Creating diamond database 56 of 60
+2025-10-17 16:53:39 : Creating diamond database 57 of 60
+2025-10-17 16:53:40 : Creating diamond database 58 of 60
+2025-10-17 16:53:40 : Creating diamond database 59 of 60
+2025-10-17 16:53:40 : Creating diamond database 60 of 60
+
+Running diamond all-versus-all
+------------------------------
+Using 16 thread(s)
+2025-10-17 16:53:40 : This may take some time....
+2025-10-17 16:53:40 : Done 0 of 2000
+2025-10-17 16:54:19 : Done 100 of 2000
+2025-10-17 16:54:55 : Done 200 of 2000
+2025-10-17 16:55:28 : Done 300 of 2000
+2025-10-17 16:56:01 : Done 400 of 2000
+2025-10-17 16:56:32 : Done 500 of 2000
+2025-10-17 16:57:01 : Done 600 of 2000
+2025-10-17 16:57:27 : Done 700 of 2000
+2025-10-17 16:57:51 : Done 800 of 2000
+2025-10-17 16:58:15 : Done 900 of 2000
+2025-10-17 16:58:41 : Done 1000 of 2000
+2025-10-17 16:59:12 : Done 1100 of 2000
+2025-10-17 16:59:53 : Done 1200 of 2000
+2025-10-17 17:00:50 : Done 1300 of 2000
+2025-10-17 17:01:15 : Done 1400 of 2000
+2025-10-17 17:02:05 : Done 1500 of 2000
+2025-10-17 17:03:01 : Done 1600 of 2000
+2025-10-17 17:03:57 : Done 1700 of 2000
+2025-10-17 17:05:00 : Done 1800 of 2000
+2025-10-17 17:06:00 : Done 1900 of 2000
+2025-10-17 17:06:52 : Done all-versus-all sequence search
+
+Running OrthoFinder algorithm
+-----------------------------
+2025-10-17 17:06:52 : Initial processing of each species
+2025-10-17 17:06:55 : Initial processing of species 11 complete
+2025-10-17 17:06:55 : Initial processing of species 14 complete
+2025-10-17 17:06:55 : Initial processing of species 2 complete
+2025-10-17 17:06:55 : Initial processing of species 0 complete
+2025-10-17 17:06:55 : Initial processing of species 1 complete
+2025-10-17 17:06:55 : Initial processing of species 10 complete
+2025-10-17 17:06:55 : Initial processing of species 12 complete
+2025-10-17 17:06:55 : Initial processing of species 4 complete
+2025-10-17 17:06:55 : Initial processing of species 8 complete
+2025-10-17 17:06:55 : Initial processing of species 15 complete
+2025-10-17 17:06:55 : Initial processing of species 13 complete
+2025-10-17 17:06:55 : Initial processing of species 3 complete
+2025-10-17 17:06:55 : Initial processing of species 6 complete
+2025-10-17 17:06:55 : Initial processing of species 9 complete
+2025-10-17 17:06:56 : Initial processing of species 7 complete
+2025-10-17 17:06:56 : Initial processing of species 5 complete
+2025-10-17 17:06:58 : Initial processing of species 16 complete
+2025-10-17 17:06:58 : Initial processing of species 17 complete
+2025-10-17 17:06:58 : Initial processing of species 19 complete
+2025-10-17 17:06:58 : Initial processing of species 18 complete
+2025-10-17 17:06:58 : Initial processing of species 20 complete
+2025-10-17 17:06:58 : Initial processing of species 21 complete
+2025-10-17 17:06:58 : Initial processing of species 25 complete
+2025-10-17 17:06:59 : Initial processing of species 24 complete
+2025-10-17 17:06:59 : Initial processing of species 22 complete
+2025-10-17 17:06:59 : Initial processing of species 23 complete
+2025-10-17 17:06:59 : Initial processing of species 26 complete
+2025-10-17 17:06:59 : Initial processing of species 29 complete
+2025-10-17 17:06:59 : Initial processing of species 27 complete
+2025-10-17 17:06:59 : Initial processing of species 30 complete
+2025-10-17 17:06:59 : Initial processing of species 28 complete
+2025-10-17 17:06:59 : Initial processing of species 31 complete
+2025-10-17 17:07:01 : Initial processing of species 32 complete
+2025-10-17 17:07:01 : Initial processing of species 33 complete
+2025-10-17 17:07:02 : Initial processing of species 34 complete
+2025-10-17 17:07:02 : Initial processing of species 39 complete
+2025-10-17 17:07:02 : Initial processing of species 38 complete
+2025-10-17 17:07:02 : Initial processing of species 36 complete
+2025-10-17 17:07:02 : Initial processing of species 42 complete
+2025-10-17 17:07:03 : Initial processing of species 40 complete
+2025-10-17 17:07:03 : Initial processing of species 41 complete
+2025-10-17 17:07:03 : Initial processing of species 43 complete
+2025-10-17 17:07:03 : Initial processing of species 44 complete
+2025-10-17 17:07:03 : Initial processing of species 45 complete
+2025-10-17 17:07:03 : Initial processing of species 47 complete
+2025-10-17 17:07:03 : Initial processing of species 35 complete
+2025-10-17 17:07:03 : Initial processing of species 46 complete
+2025-10-17 17:07:03 : Initial processing of species 37 complete
+2025-10-17 17:07:05 : Initial processing of species 48 complete
+2025-10-17 17:07:05 : Initial processing of species 49 complete
+2025-10-17 17:07:06 : Initial processing of species 52 complete
+2025-10-17 17:07:06 : Initial processing of species 50 complete
+2025-10-17 17:07:06 : Initial processing of species 51 complete
+2025-10-17 17:07:06 : Initial processing of species 54 complete
+2025-10-17 17:07:07 : Initial processing of species 55 complete
+2025-10-17 17:07:07 : Initial processing of species 53 complete
+2025-10-17 17:07:07 : Initial processing of species 56 complete
+2025-10-17 17:07:07 : Initial processing of species 58 complete
+2025-10-17 17:07:08 : Initial processing of species 57 complete
+2025-10-17 17:07:08 : Initial processing of species 59 complete
+2025-10-17 17:07:13 : Connected putative homologues
+2025-10-17 17:07:14 : Written final scores for species 14 to graph file
+2025-10-17 17:07:15 : Written final scores for species 11 to graph file
+2025-10-17 17:07:15 : Written final scores for species 12 to graph file
+2025-10-17 17:07:15 : Written final scores for species 13 to graph file
+2025-10-17 17:07:15 : Written final scores for species 1 to graph file
+2025-10-17 17:07:15 : Written final scores for species 6 to graph file
+2025-10-17 17:07:15 : Written final scores for species 3 to graph file
+2025-10-17 17:07:15 : Written final scores for species 4 to graph file
+2025-10-17 17:07:15 : Written final scores for species 8 to graph file
+2025-10-17 17:07:15 : Written final scores for species 0 to graph file
+2025-10-17 17:07:15 : Written final scores for species 2 to graph file
+2025-10-17 17:07:15 : Written final scores for species 15 to graph file
+2025-10-17 17:07:15 : Written final scores for species 10 to graph file
+2025-10-17 17:07:15 : Written final scores for species 9 to graph file
+2025-10-17 17:07:15 : Written final scores for species 7 to graph file
+2025-10-17 17:07:15 : Written final scores for species 5 to graph file
+2025-10-17 17:07:16 : Written final scores for species 16 to graph file
+2025-10-17 17:07:16 : Written final scores for species 19 to graph file
+2025-10-17 17:07:16 : Written final scores for species 18 to graph file
+2025-10-17 17:07:16 : Written final scores for species 17 to graph file
+2025-10-17 17:07:16 : Written final scores for species 22 to graph file
+2025-10-17 17:07:16 : Written final scores for species 20 to graph file
+2025-10-17 17:07:16 : Written final scores for species 24 to graph file
+2025-10-17 17:07:16 : Written final scores for species 23 to graph file
+2025-10-17 17:07:16 : Written final scores for species 21 to graph file
+2025-10-17 17:07:16 : Written final scores for species 26 to graph file
+2025-10-17 17:07:16 : Written final scores for species 25 to graph file
+2025-10-17 17:07:16 : Written final scores for species 27 to graph file
+2025-10-17 17:07:16 : Written final scores for species 29 to graph file
+2025-10-17 17:07:16 : Written final scores for species 28 to graph file
+2025-10-17 17:07:16 : Written final scores for species 30 to graph file
+2025-10-17 17:07:16 : Written final scores for species 31 to graph file
+2025-10-17 17:07:17 : Written final scores for species 32 to graph file
+2025-10-17 17:07:17 : Written final scores for species 33 to graph file
+2025-10-17 17:07:17 : Written final scores for species 34 to graph file
+2025-10-17 17:07:17 : Written final scores for species 39 to graph file
+2025-10-17 17:07:17 : Written final scores for species 38 to graph file
+2025-10-17 17:07:17 : Written final scores for species 42 to graph file
+2025-10-17 17:07:17 : Written final scores for species 37 to graph file
+2025-10-17 17:07:17 : Written final scores for species 35 to graph file
+2025-10-17 17:07:17 : Written final scores for species 36 to graph file
+2025-10-17 17:07:17 : Written final scores for species 40 to graph file
+2025-10-17 17:07:18 : Written final scores for species 44 to graph file
+2025-10-17 17:07:18 : Written final scores for species 41 to graph file
+2025-10-17 17:07:18 : Written final scores for species 45 to graph file
+2025-10-17 17:07:18 : Written final scores for species 47 to graph file
+2025-10-17 17:07:18 : Written final scores for species 43 to graph file
+2025-10-17 17:07:18 : Written final scores for species 46 to graph file
+2025-10-17 17:07:19 : Written final scores for species 48 to graph file
+2025-10-17 17:07:19 : Written final scores for species 50 to graph file
+2025-10-17 17:07:19 : Written final scores for species 49 to graph file
+2025-10-17 17:07:19 : Written final scores for species 52 to graph file
+2025-10-17 17:07:19 : Written final scores for species 51 to graph file
+2025-10-17 17:07:19 : Written final scores for species 54 to graph file
+2025-10-17 17:07:19 : Written final scores for species 55 to graph file
+2025-10-17 17:07:19 : Written final scores for species 56 to graph file
+2025-10-17 17:07:19 : Written final scores for species 53 to graph file
+2025-10-17 17:07:19 : Written final scores for species 58 to graph file
+2025-10-17 17:07:19 : Written final scores for species 57 to graph file
+2025-10-17 17:07:20 : Written final scores for species 59 to graph file
+2025-10-17 17:07:53 : Ran MCL
+
+Writing orthogroups to file
+---------------------------
+OrthoFinder assigned 132606 genes (96.4% of total) to 6547 orthogroups. Fifty percent of all genes were in orthogroups with 59 or more genes (G50 was 59) and were contained in the largest 1101 orthogroups (O50 was 1101). There were 898 orthogroups with all species present and 622 of these consisted entirely of single-copy genes.
+
+2025-10-17 17:07:59 : Done orthogroups
+
+Analysing Orthogroups
+=====================
+2025-10-17 17:07:59 : Starting MSA/Trees
+Species tree: Using 1047 orthogroups with minimum of 96.7% of species having single-copy genes in any orthogroup
+
+Inferring multiple sequence alignments for species tree
+-------------------------------------------------------
+2025-10-17 17:08:05 : Done 0 of 1047
+2025-10-17 17:09:05 : Done 100 of 1047
+2025-10-17 17:09:55 : Done 200 of 1047
+2025-10-17 17:10:33 : Done 300 of 1047
+2025-10-17 17:11:13 : Done 400 of 1047
+2025-10-17 17:11:56 : Done 500 of 1047
+2025-10-17 17:12:46 : Done 600 of 1047
+2025-10-17 17:13:27 : Done 700 of 1047
+2025-10-17 17:14:17 : Done 800 of 1047
+2025-10-17 17:14:59 : Done 900 of 1047
+2025-10-17 17:15:34 : Done 1000 of 1047
+
+Inferring remaining multiple sequence alignments and gene trees
+---------------------------------------------------------------
+2025-10-17 17:16:05 : Done 0 of 5501
+2025-10-17 17:21:30 : Done 1000 of 5501
+2025-10-17 17:24:46 : Done 2000 of 5501
+2025-10-17 17:28:19 : Done 3000 of 5501
+2025-10-17 17:29:19 : Done 4000 of 5501
+2025-10-17 17:33:24 : Done 5000 of 5501
+2025-10-17 17:43:19 : Done MSA/Trees
+
+Best outgroup(s) for species tree
+---------------------------------
+2025-10-17 17:43:19 : Starting STRIDE
+2025-10-17 17:43:21 : Done STRIDE
+Observed 22 well-supported, non-terminal duplications. 22 support the best roots and 0 contradict them.
+Best outgroups for species tree:
+  Praw, Pras, Praz, Prad, Praq, Prag, Prbd, Prbi, Prax, Prau, Prae, Prar, Pran, Prab, Prao, Pray, Prai, Prav, Praa, Prba, Prac
+  Praq, Prar
+  Syac, Syah, Syam, Syai, Syaf
+  Syap
+  Prbk, Prbj
+  Pray
+  Prax, Prau, Prae, Praa, Prao, Prba, Pray, Pras, Prbd, Praz, Prad, Prbi
+  Syac, Syap, Syab, Syag, Syat, Syan, Syas, Syaa, Syar, Syaf, Syaj, Syao, Syad, Syaq, Syah, Syam, Syak, Syae, Syai, Syal
+  Prbd, Prax, Praa
+  Prax, Praw, Prau, Prae, Praa, Prao, Prba, Pray, Pras, Prag, Prbd, Praz, Prad, Prbi, Prav
+  Syas
+  Prax
+  Prbm
+  Prbg, Prap, Prbn, Prbe, Prak, Pram, Prbf, Prbh
+  Syam, Syaf, Syai
+  Syap, Syat, Syas, Syar
+  Prad
+  Syab, Syag, Syak, Syal, Syaq
+  Prar
+  Prax, Prau, Prae, Praa, Pras, Prbd, Prbi
+  Syag, Syaq
+  Syag
+  Prai, Pran, Prab
+  Syap, Syas
+  Prbm, Praj, Prbb, Prbc
+  Prau, Pras
+  Syaq
+  Syac, Syap, Syab, Praf, Syag, Prbk, Syat, Syan, Syas, Prah, Syaa, Syar, Syaf, Prbj, Syaj, Syao, Syad, Syaq, Syah, Syam, Syak, Syae, Syai, Syal, Prbl
+  Prbb, Praj, Prbc
+  Prbd, Prax, Praa, Prae
+  Prbl
+  Prar, Praq, Prac
+  Prat, Pral
+  Syan, Syao
+  Syaj, Syad
+  Syac, Syah
+  Pran, Prab
+  Syac, Syah, Syam, Syai, Syaa, Syaf
+  Syam, Syai
+  Pras
+  Prau
+  Syat, Syar
+  Prag, Praw
+  Syaa
+  Praw, Pras, Praz, Prad, Praq, Prag, Prbd, Prbi, Prax, Prau, Prae, Prar, Prbm, Pran, Prbc, Prao, Praj, Prab, Pray, Prai, Prav, Praa, Prbb, Prba, Prac
+  Prah, Praf
+  Prax, Prbd
+  Syac
+  Prao
+  Praz, Prba
+  Praa
+  Prba
+  Prag, Praw, Prav
+  Prbg, Pral, Prap, Prbn, Prbe, Prat, Prak, Pram, Prbf, Prbh
+  Syak
+  Syab, Syal
+  Prae
+  Prbc
+  Prax, Prae, Praa, Prbd, Prbi
+  Syae
+  Praz
+  Syab, Syak, Syal
+  Prbi
+  Prav
+  Prai
+  Syac, Syah, Syam, Syae, Syai, Syaa, Syaf
+  Prbl, Prbk, Prbj
+  Praz, Prba, Pray
+  Syac, Syab, Syah, Syam, Syag, Syaj, Syak, Syae, Syai, Syal, Syaa, Syad, Syaf, Syaq
+  Syah
+  Syap, Syat, Syan, Syas, Syao, Syar
+  Prax, Prau, Prae, Praa, Prba, Pray, Pras, Prbd, Praz, Prad, Prbi
+  Praf, Prbj, Prah, Prbk, Prbl
+  Prax, Praw, Prau, Prae, Prar, Praa, Prao, Prba, Pray, Pras, Prac, Prag, Prbd, Praz, Prad, Prbi, Praq, Prav
+  Praq
+  Prbb, Praj
+  Prax, Prau, Prae, Praa, Prba, Pray, Pras, Prbd, Praz, Prbi
+  Syaf
+  Prac
+  Syac, Syah, Syam, Syaj, Syae, Syai, Syaa, Syad, Syaf
+  Prbd
+
+WARNING: Multiple potential species tree roots were identified, only one will be analyed.
+
+Reconciling gene trees and species tree
+---------------------------------------
+Outgroup: Praw, Pras, Praz, Prad, Praq, Prag, Prbd, Prbi, Prax, Prau, Prae, Prar, Pran, Prab, Prao, Pray, Prai, Prav, Praa, Prba, Prac
+2025-10-17 17:43:21 : Starting Recon and orthologues
+2025-10-17 17:43:21 : Starting OF Orthologues
+2025-10-17 17:43:21 : Done 0 of 4509
+2025-10-17 17:43:23 : Done 1000 of 4509
+2025-10-17 17:43:24 : Done 2000 of 4509
+2025-10-17 17:43:24 : Done 3000 of 4509
+2025-10-17 17:43:24 : Done 4000 of 4509
+2025-10-17 17:43:26 : Done OF Orthologues
+
+Writing results files
+=====================
+2025-10-17 17:43:26 : Done orthologues
+
+Results:
+    /home/fmt073/work/OrthoFinder/Prochlorococcus/OrthoFinder/Results_Pro/WorkingDirectory/OrthoFinder/Results_ProSynmsa_1/
+
+CITATION:
+ When publishing work that uses OrthoFinder please cite:
+ Emms D.M. & Kelly S. (2019), Genome Biology 20:238
+
+ If you use the species tree in your work then please also cite:
+ Emms D.M. & Kelly S. (2017), MBE 34(12): 3267-3278
+ Emms D.M. & Kelly S. (2018), bioRxiv https://doi.org/10.1101/267914
